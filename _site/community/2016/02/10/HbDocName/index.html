@@ -1,0 +1,1508 @@
+
+<!doctype html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<html class="theme-next pisces use-motion" lang="en">
+<head>
+  <meta charset="UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Cache-Control" content="no-transform" />
+<meta http-equiv="Cache-Control" content="no-siteapp" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <link href="/assets/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
+
+
+
+
+  
+  
+  
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    
+    
+    <link href="//fonts.googleapis.com/css?family=Lato:300,300italic,400,400italic,700,700italic&subset=latin,latin-ext" rel="stylesheet" type="text/css">
+  
+
+
+
+
+
+
+<link href="/assets/lib/font-awesome/css/font-awesome.min.css?v=4.6.2" rel="stylesheet" type="text/css" />
+
+<link href="/assets/css/main.css?v=5.1.1" rel="stylesheet" type="text/css" />
+
+
+  <meta name="keywords" content="" />
+
+
+
+
+
+  <link rel="alternate" href="/atom.xml" title="ishanshan's blog" type="application/atom+xml" />
+
+
+
+
+  <link rel="shortcut icon" type="image/x-icon" href="/assets/favicon.ico?v=5.1.1" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<meta name="description" content="文档命名看似简单，但其实体现你对你的对象在当前体系中的关系/作用的理解，往大了说，命名还直接反映你对整个资源结构的理解。">
+<meta name="keywords" content="ishanshan's blog">
+<meta property="og:type" content="article">
+<meta property="og:title" content="命名用英文，烦恼少大半 | 团队文档命名指南">
+<meta property="og:url" content="http://localhost:4000/community/2016/02/10/HbDocName/">
+<meta property="og:site_name" content="ishanshan's blog">
+<meta property="og:description" content="文档命名看似简单，但其实体现你对你的对象在当前体系中的关系/作用的理解，往大了说，命名还直接反映你对整个资源结构的理解。">
+<meta property="og:locale" content="en">
+<meta property="og:image" content="http://ishanshan.qiniudn.com/share/sampledocname.jpeg">
+<meta property="og:image" content="http://ishanshan.qiniudn.com/share/sampledocname2.jpeg">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="命名用英文，烦恼少大半 | 团队文档命名指南">
+<meta name="twitter:description" content="文档命名看似简单，但其实体现你对你的对象在当前体系中的关系/作用的理解，往大了说，命名还直接反映你对整个资源结构的理解。">
+<meta name="twitter:image" content="http://ishanshan.qiniudn.com/share/sampledocname.jpeg">
+
+
+<script type="text/javascript" id="hexo.configurations">
+  var NexT = window.NexT || {};
+  var CONFIG = {
+    root: '',
+    scheme: 'Pisces',
+    sidebar: {"position":"left","display":"post","offset":12,"offset_float":0,"b2t":false,"scrollpercent":false},
+    fancybox: true,
+    motion: true,
+    duoshuo: {
+      userId: '0',
+      author: 'Author'
+    },
+    algolia: {
+      applicationID: '',
+      apiKey: '',
+      indexName: '',
+      hits: {"per_page":10},
+      labels: {"input_placeholder":"Search for Posts","hits_empty":"We didn't find any results for the search: ${query}","hits_stats":"${hits} results found in ${time} ms"}
+    }
+  };
+</script>
+
+
+
+  <link rel="canonical" href="http://localhost:4000/"/>
+
+
+
+
+
+  <title>命名用英文，烦恼少大半 | 团队文档命名指南 | ishanshan's blog</title>
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body itemscope itemtype="http://schema.org/WebPage" lang="en">
+
+  
+  
+
+  <div class="container sidebar-position-left page-post-detail ">
+    <div class="headband"></div>
+
+    <header id="header" class="header" itemscope itemtype="http://schema.org/WPHeader">
+      <div class="header-inner"> <div class="site-brand-wrapper">
+  <div class="site-meta ">
+    
+
+    <div class="custom-logo-site-title">
+      <a href="/"  class="brand" rel="start">
+        <span class="logo-line-before"><i></i></span>
+        <span class="site-title">ishanshan's blog</span>
+        <span class="logo-line-after"><i></i></span>
+      </a>
+    </div>
+      
+        <p class="site-subtitle"></p>
+      
+  </div>
+
+  <div class="site-nav-toggle">
+    <button>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+      <span class="btn-bar"></span>
+    </button>
+  </div>
+</div>
+
+<nav class="site-nav">
+  
+
+  
+    <ul id="menu" class="menu">
+      
+        
+        
+        
+        <li class="menu-item menu-item-home">
+          <a href="/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-home"></i> <br />
+            
+            Home
+          </a>
+        </li>
+      
+        
+        
+        
+        <li class="menu-item menu-item-categories">
+          <a href="/categories/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-th"></i> <br />
+            
+            Categories
+          </a>
+        </li>
+      
+        
+        
+        
+        <li class="menu-item menu-item-archives">
+          <a href="/archives/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-archive"></i> <br />
+            
+            Archives
+          </a>
+        </li>
+      
+        
+        
+        
+        <li class="menu-item menu-item-about">
+          <a href="/about/" rel="section">
+            
+              <i class="menu-item-icon fa fa-fw fa-user"></i> <br />
+            
+            About
+          </a>
+        </li>
+      
+
+      
+        <li class="menu-item menu-item-search">
+          
+            <a href="javascript:;" class="popup-trigger">
+          
+            
+              <i class="menu-item-icon fa fa-search fa-fw"></i> <br />
+            
+            Search
+          </a>
+        </li>
+      
+    </ul>
+  
+
+  
+    <div class="site-search">
+      
+  <div class="popup search-popup local-search-popup">
+  <div class="local-search-header clearfix">
+    <span class="search-icon">
+      <i class="fa fa-search"></i>
+    </span>
+    <span class="popup-btn-close">
+      <i class="fa fa-times-circle"></i>
+    </span>
+    <div class="local-search-input-wrapper">
+      <input autocomplete="off"
+             placeholder="Searching..." spellcheck="false"
+             type="text" id="local-search-input">
+    </div>
+  </div>
+  <div id="local-search-result"></div>
+</div>
+
+
+
+    </div>
+  
+</nav>
+
+
+
+ </div>
+    </header>
+
+    <main id="main" class="main">
+      <div class="main-inner">
+        <div class="content-wrap">
+          <div id="content" class="content">
+            
+
+<div id="posts" class="posts-expand">
+  
+  
+
+  
+
+  
+  
+  
+
+  <article class="post post-type- " itemscope itemtype="http://schema.org/Article">
+    <link itemprop="mainEntityOfPage" href="http://localhost:4000/community/2016/02/10/HbDocName/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="ishanshan">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="\http://ishanshan.qiniudn.com/share/ishanshan1409-1.png">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="ishanshan's blog">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+          
+          
+            命名用英文，烦恼少大半 | 团队文档命名指南
+          
+        </h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">Posted on</span>
+              
+              <time title="Post created" itemprop="dateCreated datePublished" datetime="2016-02-10T00:00:00+08:00">
+                2016-02-10
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">In</span>
+              
+              
+                
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/category/#/community" itemprop="url" rel="index">
+                    <span itemprop="name">community</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+              <span class="post-comments-count">
+                <span class="post-meta-divider">|</span>
+                <span class="post-meta-item-icon">
+                  <i class="fa fa-comment-o"></i>
+                </span>
+                <a href="/community/2016/02/10/HbDocName/#comments" itemprop="discussionUrl">
+                  <span class="post-comments-count disqus-comment-count"
+                        data-disqus-identifier="/community/2016/02/10/HbDocName/" itemprop="commentCount"></span>
+                </a>
+              </span>
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+            
+                <div class="post-description">
+                    文档命名看似简单，但其实体现你对你的对象在当前体系中的关系/作用的理解，往大了说，命名还直接反映你对整个资源结构的理解。
+                </div>
+            
+          
+
+        </div>
+      </header>
+    
+
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+  <p>文件命名看似简单，但其实体现<strong>你对你的对象在当前体系中的关系/作用的理解</strong>，往大了说，命名还直接反映<strong>你对整个资源结构的理解</strong>。</p>
+
+<p>统一的命名规约，对团队，尤其对团队知识管理和异步协作来说，非常重要。否则创建一文件，队友难以识别所含内容，他他他他他都要多花一点时间来查找、确认，这不是找事么？</p>
+
+<p>为减少此类不必要的团队协作成本，特整理一份团队文档命名规约，文件命名也可参考。</p>
+
+<h2 id="命名原则">命名原则</h2>
+
+<p>以下原则规则较多，协作新人可先通览心中有数，具体操作时，多问自己一个问题即可：</p>
+
+<blockquote>
+  <p>这样命名，我队友能快速调取他要的文件吗，一年/三年/五年后还能吗？</p>
+</blockquote>
+
+<h3 id="1-用-ascii-码命名">1. 用 ASCII 码命名</h3>
+
+<p><strong><a href="https://en.wikipedia.org/wiki/ASCII">ASCII</a></strong> 是 American Standard Code for Information Interchange 的简写，即美国信息互换标准代码。这套编码字符在大部分环境下都可以正常显示，不会乱码。</p>
+
+<p>于国人，只要记住不用中文命名就好，尤其在取 WikiName 时。这不仅可以叫生成的 URL 干净清晰，还方便文件在同一目录下顺次呈现。且脱离了最熟悉的中文，大家在命名时会更慎重，更易遵守命名规则。</p>
+
+<p>要而言之，用 ASCII 码命名，既叫机器可读，人的观感也好不少，一举多得何乐不为？当然，别用汉语拼音。</p>
+
+<h3 id="2-尽量简明">2. 尽量简明</h3>
+
+<p>简明的命名，能省不少识别取用的时间。命名时尽量注意：</p>
+
+<ul>
+  <li><a href="https://zh.wikipedia.org/wiki/%E9%A7%9D%E5%B3%B0%E5%BC%8F%E5%A4%A7%E5%B0%8F%E5%AF%AB">采用大驼峰式命名法</a>，比如 <code class="highlighter-rouge">HbDocName</code>；尽量不要混用多种命名法，错误例子比如 <code class="highlighter-rouge">HbDoc_Name</code></li>
+  <li>日期使用 6 位数字标注，默认忽略年份前两位以减少字符，比如 <code class="highlighter-rouge">151203</code>（2015年 12 月 3 日）</li>
+  <li>避免语意重复，比如面对用户的 wiki 里 <code class="highlighter-rouge">HbAppUserGuide</code> 文档，命名简写为 <code class="highlighter-rouge">HbApp</code> 也并不会影响理解，加上 <code class="highlighter-rouge">UserGuide</code> 反倒叫人多反应一会儿，还让这个 wiki 链接长了不少，大可放心去掉</li>
+</ul>
+
+<h3 id="3-追求不必改动">3. 追求不必改动</h3>
+
+<p>文件一旦释放到团队界面，就默认进入了团队记忆，命名每次更新，都意味着需要团队成员重新识别、知会。不轻易更改命名，便能减少这类不必要的认知负荷。 GitHub wiki 更是如此——版本记录以文件为单位，一旦更改文件名，便再难比对版本。</p>
+
+<p>想叫文件名在大时间周期内不必变更，摸索一年，发现要点有三：</p>
+
+<p>其一，<strong>命名尽量选用<a href="https://en.wikipedia.org/wiki/Prototype_theory#Basic_level_categories">基本层次范畴(Basic level categories)</a>词汇</strong>，而非下位层次范畴(subordinate categories)词汇。</p>
+
+<p>这个理解起来较简单，看几个例子你就明白了：</p>
+
+<ul>
+  <li>
+    <p>HbStuGroup VS InfoPy103WeChatGroupRule</p>
+
+    <p>之前有同事主动把建 Py103 学员群的一些固定动作、常用话术整理成了指南，命名 <code class="highlighter-rouge">InfoPy103WeChatGroupRule </code>，我问下期课程咋办，再建一个 <code class="highlighter-rouge">InfoPy104WeChatGroupRule </code>？且这文档里不止含群规吧？她把文档名改为<code class="highlighter-rouge">HbWeChatGroup</code> 。不久，我们 App 里有了自己的群组，即将不再用 微信 作学员群，这个指南就不得不改文件名或者新建一个文档（但公共界面有内容重复的文档更后患无穷，使不得使不得，新建同类文档为下策）。</p>
+
+    <p>如果一开始就以 <code class="highlighter-rouge">HbStuGroup</code> 甚至 <code class="highlighter-rouge">HbUserGroup</code> 这类 基本层次范畴 的词汇命名，更换啥群组平台也无妨啦。</p>
+  </li>
+  <li>
+    <p>HbUserService VS HbYixiu</p>
+
+    <p>我们有个用户服务助理角色叫「一休」，这是个直接面对用户的角色，处理起来要点良多。同事很尽责，主动整理这个角色的工作指南，起名 <code class="highlighter-rouge">HbYixiu</code> ……文档整理得很好，命名如果看长远点就更出彩了——半年之后如果我们的用户服务角色多起来，比如有「阿西莫夫」等，这个文档命名还妥当吗？一年两年之后，新加入的同事，如果没人和他介绍，他能否快速找到这个角色的工作指南？</p>
+
+    <p>如果进一步思考这个角色/指南的定位，用  <code class="highlighter-rouge">HbUserService</code>  这类 基本层次范畴 词汇命名，纵团队更迭再多亦无碍。</p>
+  </li>
+  <li>
+    <p>HbAdminSystemOMCApp VS HbAdminSystem</p>
+
+    <p>命名偏上位层次范畴(superordinate categories)时，建议修正一下标注更明确。比如今年团队只上线了一个产品的管理后台，看到团队 wiki 中 <code class="highlighter-rouge">HbAdminSystem</code> 文档，谁都知道是这个产品的管理后台使用指南。但如果明年又上线一款产品的管理后台，这个文档就不得不改名让大家更易识别。</p>
+
+    <p>不如一开始就直接清晰命名 <code class="highlighter-rouge">HbOMCAppAdminSystem</code>，或 <code class="highlighter-rouge">HbAdminSystemOMCApp</code> 。</p>
+  </li>
+</ul>
+
+<p>其二， <strong>直接创建可交付的文件，以最终要交付的状态来命名</strong>，不必拿过程文档来交流。</p>
+
+<p>这个不仅是命名更是协作习惯，比较反常识，多数新人甚至有些职场老手也不习惯。我也用了近一年才慢慢习得。</p>
+
+<p>比如当时我们做用户回访，想出些稿件聊聊某门课程这一年对学员有什么影响，决定发邮件给学员，邀请他们回答一些问题。按照惯例，在 GitHub 协作；A 同事先起草了学员七问，并通过一个名为 <code class="highlighter-rouge">ContentPyStudentsSevenquestion</code> 的 wiki page 给出；B 同事基于这个版本，又增补了自己的版本； C 同事根据自己的理解一合并，再起草一个面对学员的邮件 <code class="highlighter-rouge">MlStuReviewInvitaiton</code> ，大家基于这个邮件继续修订措辞；最后发现 <code class="highlighter-rouge">ContentPyStudentsSevenquestion</code>  这个过程文档没什么再用的价值，删去。</p>
+
+<p>回顾下来，你会发现很多交互和迭代没必要，完全可以更高效干脆——一上来就以最终要交付的结果 <code class="highlighter-rouge">MlStuReviewInvitaiton</code> 命名，并以面对用户的口吻起草内容，哪怕只是加上邮件标题、称呼、结尾，完成封邮件的 MVP ，也能让团队省去大半一来二去确认意思、转换表达的麻烦，留出更多时间打磨交付用户的结果。</p>
+
+<p>再如，日常开产品优化讨论会，新人多会每次会议创建一个纪要文档。但同主题的频繁讨论，尤其形成的决议，直接增补到行动指南比如 <code class="highlighter-rouge">Hb</code> 或 <code class="highlighter-rouge">Plan</code> 开头的文档更省力。毕竟反复讨论，其实是为形成更明确的行动共识；未来会频繁调用的，也是这类文档，而非 <code class="highlighter-rouge">Log</code> 开头的会议纪要文档。</p>
+
+<p>其三， <strong>同一主题内容持续积累到同一指定文档</strong>。</p>
+
+<p>协作越久文档越多，不想信息过载，最好一个场景只保留唯一可用文档，大家都只更新这唯一可用文档。否则内部必会混乱，或维护者不知还有其它版本需要更新，或使用者所用并非新版，烦恼不断。</p>
+
+<p>此时，提前长远考虑你创建的文件/文档解决什么问题、怎么命名更为重要。</p>
+
+<p>比如你想通过一个页面告诉用户你家 App 怎么使，那这个 HbApp 页面会包含哪些内容，用户常见问题自检解决方案，是放在这个页面，还是另起一个 InfoAppFAQ 的页面？</p>
+
+<p>再如，用户界面已经有了 HbApp 页面告诉用户怎么使用，常见问题如何自检，那内部协作界面，是否还需要一个文档说明内部同事如何处理收到的 App 使用问题？这个文档应该怎么写，怎么命名，才更方便同事长期调用、维护？</p>
+
+<p>还如，如果已有供内部同事参考的用户常见问题解决指南，内容越积越多，各类问题是否需要拆分单独文档，如何命名方便长期调用、维护？</p>
+
+<p>这一切都在锻炼和体现 你对你的对象 在当前体系中的关系/作用的理解。这一切又有点像软件工程中的架构设计，你需要考虑如何拆分模块，接口怎么设计更合理简洁。</p>
+
+<h2 id="命名规则">命名规则</h2>
+
+<p>在同一路径下，文件一般可以根据文件名自动排序，进而呈现出树状结构，方便其他伙伴查找。知晓这点，命名方法要点很简单——<strong>按你想要呈现的树状结构来命名</strong>。</p>
+
+<p>具体方式如下：</p>
+
+<h3 id="约定遵循一组常用缩写">约定、遵循一组常用缩写</h3>
+
+<p>既然以英文命名，缩写不可避免，特此约定一组 <a href="https://github.com/OpenMindClub/Share/wiki/HbShortRule">团队常用缩写</a>，以建立共识方便协作。</p>
+
+<h3 id="常规命名结构文件属性-类别项目使用者">常规命名结构：文件属性-类别/项目/使用者</h3>
+
+<p><strong>起名或起草文档前，先明确文档属性</strong>，比如是 <code class="highlighter-rouge">Idx</code> <code class="highlighter-rouge">info</code> <code class="highlighter-rouge">Hb</code> 还是 <code class="highlighter-rouge">Log</code>（这其实在思考所建内容的整体结构和关联）：</p>
+
+<ul>
+  <li><code class="highlighter-rouge">Hb</code> 里一般会链接到 <code class="highlighter-rouge">Idx</code> <code class="highlighter-rouge">Info</code> 等以便进一步参考调用的内容</li>
+  <li><code class="highlighter-rouge">Idx</code> ，注意这是<strong>索引索引索引！</strong>里面一般会有较多链接，尤其是 <code class="highlighter-rouge">info</code> 文档链接</li>
+  <li><code class="highlighter-rouge">Info</code> 一般里头是可直接复制使用或者不需再进一步点击的内容</li>
+  <li><code class="highlighter-rouge">Log</code> 沟通纪要、会议备忘等</li>
+</ul>
+
+<p>如此，在一个目录下浏览时，文档按类似树状的结构展开，比如 <code class="highlighter-rouge">Hb</code> ：</p>
+
+<ul>
+  <li>HbDoc ~ 文档创建规约</li>
+  <li>HbDocName ~ 文档命名规约</li>
+  <li>HbMentor ~ 教练手册</li>
+  <li>HbPM ~ 项目经理手册</li>
+</ul>
+
+<p>一些系列文档不前缀文档属性代号也 OK 。比如我们课程每周都有微信群答疑，答疑记录文档，新手一般会延续中文文档命名习惯（ <code class="highlighter-rouge">0w 微信群答疑纪要</code> ）以 <code class="highlighter-rouge">Log0wQA</code>命名，但更合适的应该是<code class="highlighter-rouge">LogQAw0</code>。若此，在同一个目录下，可以快速定位这个系列文档下的所有内容。若目录下，并无其它 QA 系列文档的需求，根据简明原则，还可直接命名为 <code class="highlighter-rouge">QAw0</code>。</p>
+
+<p>文档属性确定，便可<strong>根据具体情境和想达成的效果确定单词的先后顺序</strong>。</p>
+
+<p>那如果单词不同先后次序都能叫人知晓这是什么文档，比如<code class="highlighter-rouge">HbBrandOM</code> VS <code class="highlighter-rouge">HbOMBrand</code>两种命名方式，都可以让人一眼识别这是 OM 品牌使用手册，如何确定单词先后顺序？</p>
+
+<p>此时哪个命名更优雅，就取决于这个文档出现在什么情境下，及自己想干嘛：比如这个 OM 品牌使用手册，如果在集团的 wiki 下，希望兄弟公司在同一个事务上有更多的借鉴，就以前者命名；如果各公司相对独立，希望每个子公司的同事更方便找到本公司的内容，则后者命名更妥当。</p>
+
+<h3 id="版本号标注规则">版本号标注规则</h3>
+
+<p>手册等反复修改使用的文档，版本号采用<a href="http://semver.org/lang/zh-CN/">语义化版本控制</a>的命名方式。但其实基于 git 进行文档管理后，不标注版本号也无妨。</p>
+
+<p>会议纪要等基于时间的文档，以日期进行命名，比如：</p>
+
+<ul>
+  <li>LM2015Q3 ~ 2015年第3季度季会纪要</li>
+  <li>LMApp151203 ~ 2015年12月3日产品会议纪要
+    <ul>
+      <li>如果经常开产品会或其它某个主题的会，就把主题放日期前形成一个单独序列</li>
+      <li>如果是临时的主题，就放在日期后面，一目了然以便日后查找，比如 LM151205Community ~ 2015年12月5日社群运营讨论纪要</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="请勿出现等符号">请勿出现「@」「#」等符号</h3>
+
+<p>咱们经常通过链接传递 GitHub 里的内容。而在 GitHub 机制里，文档名直接体现在文档链接中，比如仓库 <a href="https://github.com/OpenMindClub/Share">OpenMindClub/Share</a> wiki 下的 <code class="highlighter-rouge">InfoJob.md</code> 文件，地址是 https://github.com/OpenMindClub/Share/wiki/InfoJob 。</p>
+
+<p>而传递链接的微信/企业微信等 IM 对话窗口比较特殊，无法将 <code class="highlighter-rouge">@</code> 符号后头的内容自动识别为链接。所以，为了不给别人添麻烦 —— 比如把链接复制到浏览器中才能打开，<strong>请你命名文件时尽量不带 <code class="highlighter-rouge">@</code>、<code class="highlighter-rouge">#</code> 等特殊字符</strong>。</p>
+
+<p><strong>如果想突出标记人名，在人名前加下划线</strong>即可，比如  <code class="highlighter-rouge">ReviewPy101_yixiu</code> 。其它特殊分隔也可用下划线。但如果你在用非下划线命名法的项目团队，比如用 <a href="https://zh.wikipedia.org/wiki/%E9%A7%9D%E5%B3%B0%E5%BC%8F%E5%A4%A7%E5%B0%8F%E5%AF%AB">大驼峰式命名法（upper camel case） - 维基百科，自由的百科全书</a> 的开智，请注意：若非特殊情况，请勿在命名中使用下划线（敲黑板！）—— <strong>一个系统中最好不要混用两种命名法则</strong>。</p>
+
+<p><strong>更不建议命名中同时出现 <code class="highlighter-rouge">@</code> 和<code class="highlighter-rouge"> .</code></strong> ，比如 <code class="highlighter-rouge">Ml2017@con.openmind</code> ，这样把文档地址（比如 https://github.com/AILearners/con.openmindclub.com/wiki/MI2017@con.openmind ） 发在 IM 对话窗口里可能被识别为邮箱，无法直接点击访问得复制到浏览器就罢了，点击还会触发启动邮箱遭人嫌……</p>
+
+<h2 id="命名示例">命名示例</h2>
+
+<p>若刚接触这样的命名规约，难免不知所措。不必担心，多看别人怎么命名,根据命名猜测文档内容并验证，慢慢就轻车熟路啦，比如可以看看看这些示例：</p>
+
+<ul>
+  <li>
+    <p><a href="https://github.com/OpenMindClub/Share/wiki">Home · OpenMindClub/Share Wiki</a> 右侧 pages ：</p>
+
+    <p><img src="http://ishanshan.qiniudn.com/share/sampledocname.jpeg" alt="sampledocname.jpeg" /></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/ishanshan/CollaborationGuide4Shaper/tree/master/CONTENT">CollaborationGuide4Shaper/CONTENT at master · ishanshan/CollaborationGuide4Shaper</a> 所含文件：</p>
+
+    <p><img src="http://ishanshan.qiniudn.com/share/sampledocname2.jpeg" alt="sampledocname2.jpeg" /></p>
+  </li>
+  <li>
+    <p><a href="https://github.com/OpenMindClub/Share/wiki/HbCollaborateWikiandCode">HbCollaborateWikiandCode · OpenMindClub/Share Wiki</a> 所举案例：</p>
+
+    <div class="highlighter-rouge"><div class="highlight"><table style="margin: 0px"><tbody><tr><td class="gutter"><pre>1<br/>2<br/>3<br/>4<br/>5</pre></td><td class="code"><pre class="highlight"><code>  HbCollaborate.md                  InfoShow.md                       LogMeeting171226PrepareforShow.md
+  Home.md                           InfoShowQA.md                     ReviewFinalProject_Serena333.md
+  IndexReference.md                 InfoVedio.md                      ReviewFinalProject_ishanshan.md
+  InfoLost.md                       LogMeeting171205BrandName.md      ReviewFinalProject_yixiu.md
+  InfoProjectIdea.md                LogMeeting171213VedioIdea.md      _Sidebar.md
+</code></pre></td></tr></tbody></table></div>
+    </div>
+  </li>
+</ul>
+
+<p>怎样，是不是十分优雅干净？（不是？来人呐拖出去胖揍一顿~）</p>
+
+<p>–</p>
+
+<p>不管怎样，文档命名规则没有对错之分。如果单看某个文件名，队友现在和未来能明白其中所含内容，协作需要时能即时调取，这就是好规则。</p>
+
+<p>祝你远离「各人用词、命名习惯不一样，难以形成共识，徒增团队协作成本」的烦恼（比如俺在<a href="http://ishanshan.top/community/HbGitHubCooperate.html">《GitHub 协作五大业余姿势》</a> 提到的现象）！</p>
+
+<h2 id="changelog">CHANGELOG</h2>
+
+<ul>
+  <li>180327 更新命名示例</li>
+  <li>170826 增补 <code class="highlighter-rouge">请勿出现「@」「#」符号</code> 组块</li>
+  <li>170318 删减细节修订措辞</li>
+  <li>170201 增补原则及示例</li>
+  <li>160210 增补完善后在 Blog 发布</li>
+  <li>151220 在团队仓库创建</li>
+</ul>
+
+
+
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+
+    <div>
+      
+        
+
+      
+    </div>
+
+    <div>
+      
+        
+  <ul class="post-copyright">
+    <li class="post-copyright-author">
+      <strong>Post author:</strong>
+      ishanshan
+    </li>
+    <li class="post-copyright-link">
+      <strong>Post link:</strong>
+      <a href="http://localhost:4000/community/2016/02/10/HbDocName/" title="命名用英文，烦恼少大半 | 团队文档命名指南">http://localhost:4000/community/2016/02/10/HbDocName/</a>
+    </li>
+    <li class="post-copyright-license">
+      <strong>Copyright Notice: </strong>
+      All articles in this blog are licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" rel="external nofollow" target="_blank">CC BY-NC-SA 4.0</a> unless stating additionally.
+    </li>
+  </ul>
+
+
+      
+    </div>
+
+    <footer class="post-footer">
+      
+
+      
+      
+      
+      
+      
+
+      
+      
+        <div class="post-nav" id="post-nav-id">
+          <div class="post-nav-next post-nav-item">
+            
+              <a href="/community/2016/02/12/HbGitHubCooperate/" rel="next" title="GitHub 协作五大业余姿势">
+                <i class="fa fa-chevron-left"></i> GitHub 协作五大业余姿势
+              </a>
+            
+          </div>
+
+          <span class="post-nav-divider"></span>
+
+          <div class="post-nav-prev post-nav-item">
+            
+              <a href="/community/2016/02/07/IdxActivity/" rel="prev" title="改变我玩耍习惯的 10 场活动">
+                改变我玩耍习惯的 10 场活动 <i class="fa fa-chevron-right"></i>
+              </a>
+            
+          </div>
+        </div>
+      
+      
+
+      
+    </footer>
+  </article>
+
+  <div class="post-spread">
+    
+  </div>
+</div>
+
+
+          </div>
+          
+
+
+          
+  <div class="comments" id="comments">
+    
+      <div id="disqus_thread">
+        <noscript>
+          Please enable JavaScript to view the
+          <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+        </noscript>
+      </div>
+    
+  </div>
+
+
+        </div>
+        
+          
+
+  <div class="sidebar-toggle">
+    <div class="sidebar-toggle-line-wrap">
+      <span class="sidebar-toggle-line sidebar-toggle-line-first"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-middle"></span>
+      <span class="sidebar-toggle-line sidebar-toggle-line-last"></span>
+    </div>
+  </div>
+
+  <aside id="sidebar" class="sidebar">
+    <div class="sidebar-inner">
+
+      
+        
+        
+        
+
+
+
+
+
+
+
+      
+
+      
+        <ul class="sidebar-nav motion-element">
+          <li class="sidebar-nav-toc sidebar-nav-active" data-target="post-toc-wrap" >
+            Table of Contents
+          </li>
+          <li class="sidebar-nav-overview" data-target="site-overview">
+            Overview
+          </li>
+        </ul>
+      
+
+      <section class="site-overview sidebar-panel">
+        <div class="site-author motion-element" itemprop="author" itemscope itemtype="http://schema.org/Person">
+          <img class="site-author-image" itemprop="image"
+               src="/%5Chttp://ishanshan.qiniudn.com/share/ishanshan1409-1.png"
+               alt="ishanshan" />
+          <p class="site-author-name" itemprop="name">ishanshan</p>
+           
+              <p class="site-description motion-element" itemprop="description">Be a shaper.</p>
+          
+        </div>
+        <nav class="site-state motion-element">
+
+          
+            <div class="site-state-item site-state-posts">
+              <a href="/archives/">
+                <span class="site-state-item-count">16</span>
+                <span class="site-state-item-name">posts</span>
+              </a>
+            </div>
+          
+
+          
+            
+            
+            <div class="site-state-item site-state-categories">
+              <a href="/categories/">
+                <span class="site-state-item-count">3</span>
+                <span class="site-state-item-name">categories</span>
+              </a>
+            </div>
+          
+
+          
+
+        </nav>
+
+        
+        
+        
+          <div class="feed-link motion-element">
+            <a href="/atom.xml" rel="alternate">
+              <i class="fa fa-rss"></i>
+              RSS
+            </a>
+          </div>
+        
+
+        <div class="links-of-author motion-element">
+          
+            
+              
+              
+              <span class="links-of-author-item">
+                <a href="https://github.com/ishanshan" target="_blank" title="GitHub">
+                  
+                    <i class="fa fa-fw fa-github"></i>
+                  
+                  GitHub
+                </a>
+              </span>
+            
+              
+              
+              <span class="links-of-author-item">
+                <a href="https://weibo.com/1696816107/profile" target="_blank" title="Weibo">
+                  
+                    <i class="fa fa-fw fa-weibo"></i>
+                  
+                  Weibo
+                </a>
+              </span>
+            
+              
+              
+              <span class="links-of-author-item">
+                <a href="https://www.slideshare.net/ssusere6acd7/presentations" target="_blank" title="Slideshare">
+                  
+                    <i class="fa fa-fw fa-slideshare"></i>
+                  
+                  Slideshare
+                </a>
+              </span>
+            
+              
+              
+              <span class="links-of-author-item">
+                <a href="mailto:ishanshan.huang@gmail.com" target="_blank" title="Email">
+                  
+                    <i class="fa fa-fw fa-envelope"></i>
+                  
+                  Email
+                </a>
+              </span>
+            
+          
+        </div>
+
+        
+        
+          <div class="cc-license motion-element" itemprop="license">
+            <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" class="cc-opacity" target="_blank">
+              <img src="/assets/images/cc-by-nc-sa.svg" alt="Creative Commons" />
+            </a>
+          </div>
+        
+
+        
+        
+
+        
+
+
+      </section>
+
+      
+      <!--noindex-->
+        <section class="post-toc-wrap motion-element sidebar-panel sidebar-panel-active">
+          <div class="post-toc">
+
+            
+            
+            
+            
+
+
+
+
+
+
+
+
+            
+              <div class="post-toc-content">
+    <ol class=nav>
+      <li class="nav-item nav-level-2"> <a class="nav-link" href="#命名原则"> <span class="nav-number">1</span> <span class="nav-text">命名原则</span> </a> <ol class="nav-child"> <li class="nav-item nav-level-3"> <a class="nav-link" href="#1-用-ascii-码命名"> <span class="nav-number">1.1</span> <span class="nav-text">1. 用 ASCII 码命名</span> </a> </li> <li class="nav-item nav-level-3"> <a class="nav-link" href="#2-尽量简明"> <span class="nav-number">1.2</span> <span class="nav-text">2. 尽量简明</span> </a> </li> <li class="nav-item nav-level-3"> <a class="nav-link" href="#3-追求不必改动"> <span class="nav-number">1.3</span> <span class="nav-text">3. 追求不必改动</span> </a> </li> </ol> </li> <li class="nav-item nav-level-2"> <a class="nav-link" href="#命名规则"> <span class="nav-number">2</span> <span class="nav-text">命名规则</span> </a> <ol class="nav-child"> <li class="nav-item nav-level-3"> <a class="nav-link" href="#约定遵循一组常用缩写"> <span class="nav-number">2.1</span> <span class="nav-text">约定、遵循一组常用缩写</span> </a> </li> <li class="nav-item nav-level-3"> <a class="nav-link" href="#常规命名结构文件属性-类别项目使用者"> <span class="nav-number">2.2</span> <span class="nav-text">常规命名结构：文件属性-类别/项目/使用者</span> </a> </li> <li class="nav-item nav-level-3"> <a class="nav-link" href="#版本号标注规则"> <span class="nav-number">2.3</span> <span class="nav-text">版本号标注规则</span> </a> </li> <li class="nav-item nav-level-3"> <a class="nav-link" href="#请勿出现等符号"> <span class="nav-number">2.4</span> <span class="nav-text">请勿出现「@」「#」等符号</span> </a> </li> </ol> </li> <li class="nav-item nav-level-2"> <a class="nav-link" href="#命名示例"> <span class="nav-number">3</span> <span class="nav-text">命名示例</span> </a> </li> <li class="nav-item nav-level-2"> <a class="nav-link" href="#changelog"> <span class="nav-number">4</span> <span class="nav-text">CHANGELOG</span> </a> </li>
+    </ol>
+  </div>
+            
+
+          </div>
+        </section>
+      <!--/noindex-->
+      
+
+      
+
+    </div>
+  </aside>
+
+        
+      </div>
+    </main>
+
+    <footer id="footer" class="footer">
+      <div class="footer-inner">
+        <div class="copyright" >
+  
+  
+  &copy; 
+  <span itemprop="copyrightYear">2018</span>
+  <span class="with-love">
+    <i class="fa fa-heart"></i>
+  </span>
+  <span class="author" itemprop="copyrightHolder">ishanshan</span>
+</div>
+
+
+<div class="powered-by">
+  Powered by <a class="theme-link" href="https://jekyllrb.com">Jekyll</a>
+</div>
+
+<div class="theme-info">
+  Theme -
+  <a class="theme-link" href="https://github.com/simpleyyt/jekyll-theme-next">
+    NexT.Pisces
+  </a>
+</div>
+
+
+        
+
+        
+      </div>
+    </footer>
+
+    
+      <div class="back-to-top">
+        <i class="fa fa-arrow-up"></i>
+        
+      </div>
+    
+
+  </div>
+
+  
+
+<script type="text/javascript">
+  if (Object.prototype.toString.call(window.Promise) !== '[object Function]') {
+    window.Promise = null;
+  }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+   
+  
+  
+  
+  
+  
+  <script type="text/javascript" src="/assets/lib/jquery/index.js?v=2.1.3"></script>
+
+  
+  
+  
+  
+  
+  <script type="text/javascript" src="/assets/lib/fastclick/lib/fastclick.min.js?v=1.0.6"></script>
+
+  
+  
+  
+  
+  
+  <script type="text/javascript" src="/assets/lib/jquery_lazyload/jquery.lazyload.js?v=1.9.7"></script>
+
+  
+  
+  
+  
+  
+  <script type="text/javascript" src="/assets/lib/velocity/velocity.min.js?v=1.2.1"></script>
+
+  
+  
+  
+  
+  
+  <script type="text/javascript" src="/assets/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
+
+  
+  
+  
+  
+  
+  <script type="text/javascript" src="/assets/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
+
+
+  
+
+
+  <script type="text/javascript" src="/assets/js/src/utils.js?v=5.1.1"></script>
+
+  <script type="text/javascript" src="/assets/js/src/motion.js?v=5.1.1"></script>
+
+
+
+  
+  
+
+
+  <script type="text/javascript" src="/assets/js/src/affix.js?v=5.1.1"></script>
+
+  <script type="text/javascript" src="/assets/js/src/schemes/pisces.js?v=5.1.1"></script>
+
+
+
+  <script type="text/javascript" src="/assets/js/src/scrollspy.js?v=5.1.1"></script>
+<script type="text/javascript" src="/assets/js/src/post-details.js?v=5.1.1"></script>
+
+
+  
+
+
+  <script type="text/javascript" src="/assets/js/src/bootstrap.js?v=5.1.1"></script>
+
+
+
+  
+
+
+  
+
+    
+      <script id="dsq-count-scr" src="https://ishanshanblog.disqus.com/count.js" async></script>
+    
+
+    
+      
+      <script type="text/javascript">
+          var disqus_config = function () {
+              this.page.url = 'http://localhost:4000/community/2016/02/10/HbDocName/';
+              this.page.identifier = '/community/2016/02/10/HbDocName/';
+              this.page.title = '命名用英文，烦恼少大半 | 团队文档命名指南';
+          };
+          var d = document, s = d.createElement('script');
+          s.src = 'https://ishanshanblog.disqus.com/embed.js';
+          s.setAttribute('data-timestamp', '' + +new Date());
+          (d.head || d.body).appendChild(s);
+      </script>
+      
+    
+
+  
+
+
+
+
+	
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+  <script type="text/javascript">
+    // Popup Window;
+    var isfetched = false;
+    var isXml = true;
+    // Search DB path;
+    var search_path = "";
+    if (search_path.length === 0) {
+      search_path = "search.xml";
+    } else if (/json$/i.test(search_path)) {
+      isXml = false;
+    }
+    var path = "/" + search_path;
+    // monitor main search box;
+
+    var onPopupClose = function (e) {
+      $('.popup').hide();
+      $('#local-search-input').val('');
+      $('.search-result-list').remove();
+      $('#no-result').remove();
+      $(".local-search-pop-overlay").remove();
+      $('body').css('overflow', '');
+    }
+
+    function proceedsearch() {
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay"></div>')
+        .css('overflow', 'hidden');
+      $('.search-popup-overlay').click(onPopupClose);
+      $('.popup').toggle();
+      var $localSearchInput = $('#local-search-input');
+      $localSearchInput.attr("autocapitalize", "none");
+      $localSearchInput.attr("autocorrect", "off");
+      $localSearchInput.focus();
+    }
+
+    // search function;
+    var searchFunc = function(path, search_id, content_id) {
+      'use strict';
+
+      // start loading animation
+      $("body")
+        .append('<div class="search-popup-overlay local-search-pop-overlay">' +
+          '<div id="search-loading-icon">' +
+          '<i class="fa fa-spinner fa-pulse fa-5x fa-fw"></i>' +
+          '</div>' +
+          '</div>')
+        .css('overflow', 'hidden');
+      $("#search-loading-icon").css('margin', '20% auto 0 auto').css('text-align', 'center');
+
+      $.ajax({
+        url: path,
+        dataType: isXml ? "xml" : "json",
+        async: true,
+        success: function(res) {
+          // get the contents from search data
+          isfetched = true;
+          $('.popup').detach().appendTo('.header-inner');
+          var datas = isXml ? $("entry", res).map(function() {
+            return {
+              title: $("title", this).text(),
+              content: $("content",this).text(),
+              url: $("url" , this).text()
+            };
+          }).get() : res;
+          var input = document.getElementById(search_id);
+          var resultContent = document.getElementById(content_id);
+          var inputEventFunction = function() {
+            var searchText = input.value.trim().toLowerCase();
+            var keywords = searchText.split(/[\s\-]+/);
+            if (keywords.length > 1) {
+              keywords.push(searchText);
+            }
+            var resultItems = [];
+            if (searchText.length > 0) {
+              // perform local searching
+              datas.forEach(function(data) {
+                var isMatch = false;
+                var hitCount = 0;
+                var searchTextCount = 0;
+                var title = data.title.trim();
+                var titleInLowerCase = title.toLowerCase();
+                var content = data.content.trim().replace(/<[^>]+>/g,"");
+                var contentInLowerCase = content.toLowerCase();
+                var articleUrl = decodeURIComponent(data.url);
+                var indexOfTitle = [];
+                var indexOfContent = [];
+                // only match articles with not empty titles
+                if(title != '') {
+                  keywords.forEach(function(keyword) {
+                    function getIndexByWord(word, text, caseSensitive) {
+                      var wordLen = word.length;
+                      if (wordLen === 0) {
+                        return [];
+                      }
+                      var startPosition = 0, position = [], index = [];
+                      if (!caseSensitive) {
+                        text = text.toLowerCase();
+                        word = word.toLowerCase();
+                      }
+                      while ((position = text.indexOf(word, startPosition)) > -1) {
+                        index.push({position: position, word: word});
+                        startPosition = position + wordLen;
+                      }
+                      return index;
+                    }
+
+                    indexOfTitle = indexOfTitle.concat(getIndexByWord(keyword, titleInLowerCase, false));
+                    indexOfContent = indexOfContent.concat(getIndexByWord(keyword, contentInLowerCase, false));
+                  });
+                  if (indexOfTitle.length > 0 || indexOfContent.length > 0) {
+                    isMatch = true;
+                    hitCount = indexOfTitle.length + indexOfContent.length;
+                  }
+                }
+
+                // show search results
+
+                if (isMatch) {
+                  // sort index by position of keyword
+
+                  [indexOfTitle, indexOfContent].forEach(function (index) {
+                    index.sort(function (itemLeft, itemRight) {
+                      if (itemRight.position !== itemLeft.position) {
+                        return itemRight.position - itemLeft.position;
+                      } else {
+                        return itemLeft.word.length - itemRight.word.length;
+                      }
+                    });
+                  });
+
+                  // merge hits into slices
+
+                  function mergeIntoSlice(text, start, end, index) {
+                    var item = index[index.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    var hits = [];
+                    var searchTextCountInSlice = 0;
+                    while (position + word.length <= end && index.length != 0) {
+                      if (word === searchText) {
+                        searchTextCountInSlice++;
+                      }
+                      hits.push({position: position, length: word.length});
+                      var wordEnd = position + word.length;
+
+                      // move to next position of hit
+
+                      index.pop();
+                      while (index.length != 0) {
+                        item = index[index.length - 1];
+                        position = item.position;
+                        word = item.word;
+                        if (wordEnd > position) {
+                          index.pop();
+                        } else {
+                          break;
+                        }
+                      }
+                    }
+                    searchTextCount += searchTextCountInSlice;
+                    return {
+                      hits: hits,
+                      start: start,
+                      end: end,
+                      searchTextCount: searchTextCountInSlice
+                    };
+                  }
+
+                  var slicesOfTitle = [];
+                  if (indexOfTitle.length != 0) {
+                    slicesOfTitle.push(mergeIntoSlice(title, 0, title.length, indexOfTitle));
+                  }
+
+                  var slicesOfContent = [];
+                  while (indexOfContent.length != 0) {
+                    var item = indexOfContent[indexOfContent.length - 1];
+                    var position = item.position;
+                    var word = item.word;
+                    // cut out 100 characters
+                    var start = position - 20;
+                    var end = position + 80;
+                    if(start < 0){
+                      start = 0;
+                    }
+                    if (end < position + word.length) {
+                      end = position + word.length;
+                    }
+                    if(end > content.length){
+                      end = content.length;
+                    }
+                    slicesOfContent.push(mergeIntoSlice(content, start, end, indexOfContent));
+                  }
+
+                  // sort slices in content by search text's count and hits' count
+
+                  slicesOfContent.sort(function (sliceLeft, sliceRight) {
+                    if (sliceLeft.searchTextCount !== sliceRight.searchTextCount) {
+                      return sliceRight.searchTextCount - sliceLeft.searchTextCount;
+                    } else if (sliceLeft.hits.length !== sliceRight.hits.length) {
+                      return sliceRight.hits.length - sliceLeft.hits.length;
+                    } else {
+                      return sliceLeft.start - sliceRight.start;
+                    }
+                  });
+
+                  // select top N slices in content
+
+                  var upperBound = parseInt('1');
+                  if (upperBound >= 0) {
+                    slicesOfContent = slicesOfContent.slice(0, upperBound);
+                  }
+
+                  // highlight title and content
+
+                  function highlightKeyword(text, slice) {
+                    var result = '';
+                    var prevEnd = slice.start;
+                    slice.hits.forEach(function (hit) {
+                      result += text.substring(prevEnd, hit.position);
+                      var end = hit.position + hit.length;
+                      result += '<b class="search-keyword">' + text.substring(hit.position, end) + '</b>';
+                      prevEnd = end;
+                    });
+                    result += text.substring(prevEnd, slice.end);
+                    return result;
+                  }
+
+                  var resultItem = '';
+
+                  if (slicesOfTitle.length != 0) {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + highlightKeyword(title, slicesOfTitle[0]) + "</a>";
+                  } else {
+                    resultItem += "<li><a href='" + articleUrl + "' class='search-result-title'>" + title + "</a>";
+                  }
+
+                  slicesOfContent.forEach(function (slice) {
+                    resultItem += "<a href='" + articleUrl + "'>" +
+                      "<p class=\"search-result\">" + highlightKeyword(content, slice) +
+                      "...</p>" + "</a>";
+                  });
+
+                  resultItem += "</li>";
+                  resultItems.push({
+                    item: resultItem,
+                    searchTextCount: searchTextCount,
+                    hitCount: hitCount,
+                    id: resultItems.length
+                  });
+                }
+              })
+            };
+            if (keywords.length === 1 && keywords[0] === "") {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-search fa-5x" /></div>'
+            } else if (resultItems.length === 0) {
+              resultContent.innerHTML = '<div id="no-result"><i class="fa fa-frown-o fa-5x" /></div>'
+            } else {
+              resultItems.sort(function (resultLeft, resultRight) {
+                if (resultLeft.searchTextCount !== resultRight.searchTextCount) {
+                  return resultRight.searchTextCount - resultLeft.searchTextCount;
+                } else if (resultLeft.hitCount !== resultRight.hitCount) {
+                  return resultRight.hitCount - resultLeft.hitCount;
+                } else {
+                  return resultRight.id - resultLeft.id;
+                }
+              });
+              var searchResultList = '<ul class=\"search-result-list\">';
+              resultItems.forEach(function (result) {
+                searchResultList += result.item;
+              })
+              searchResultList += "</ul>";
+              resultContent.innerHTML = searchResultList;
+            }
+          }
+
+          if ('auto' === 'auto') {
+            input.addEventListener('input', inputEventFunction);
+          } else {
+            $('.search-icon').click(inputEventFunction);
+            input.addEventListener('keypress', function (event) {
+              if (event.keyCode === 13) {
+                inputEventFunction();
+              }
+            });
+          }
+
+          // remove loading animation
+          $(".local-search-pop-overlay").remove();
+          $('body').css('overflow', '');
+
+          proceedsearch();
+        }
+      });
+    }
+
+    // handle and trigger popup window;
+    $('.popup-trigger').click(function(e) {
+      e.stopPropagation();
+      if (isfetched === false) {
+        searchFunc(path, 'local-search-input', 'local-search-result');
+      } else {
+        proceedsearch();
+      };
+    });
+
+    $('.popup-btn-close').click(onPopupClose);
+    $('.popup').click(function(e){
+      e.stopPropagation();
+    });
+    $(document).on('keyup', function (event) {
+      var shouldDismissSearchPopup = event.which === 27 &&
+        $('.search-popup').is(':visible');
+      if (shouldDismissSearchPopup) {
+        onPopupClose();
+      }
+    });
+  </script>
+
+
+
+
+
+  
+
+  
+<script>
+(function(){
+    var bp = document.createElement('script');
+    var curProtocol = window.location.protocol.split(':')[0];
+    if (curProtocol === 'https') {
+        bp.src = 'https://zz.bdstatic.com/linksubmit/push.js';
+    }
+    else {
+        bp.src = 'http://push.zhanzhang.baidu.com/push.js';
+    }
+    var s = document.getElementsByTagName("script")[0];
+    s.parentNode.insertBefore(bp, s);
+})();
+</script>
+
+
+  
+  
+
+
+  
+
+  
+
+  
+
+</body>
+</html>
+

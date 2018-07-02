@@ -521,7 +521,7 @@ pre .k, pre .kd, pre .kn, pre .kp, pre .kr, pre .kt, pre .javascript .function {
 
 #rewardButton { cursor: pointer; border: 0; outline: 0; border-radius: 100%; padding: 0; margin: 0; letter-spacing: normal; text-transform: none; text-indent: 0px; text-shadow: none; }
 
-#rewardButton span { display: inline-block; width: 80px; height: 35px; border-radius: 5px; color: #fff; font-weight: 400; font-style: normal; font-variant: normal; font-stretch: normal; font-size: 18px; font-family: "Microsoft Yahei"; background: #F44336; }
+#rewardButton span { display: inline-block; width: 80px; height: 28px; border-radius: 5px; color: #fff; font-weight: 400; font-style: normal; font-variant: normal; font-stretch: normal; font-size: 14px; font-family: "Microsoft Yahei"; background: #fc6423; }
 
 #rewardButton span:hover { background: #F7877F; }
 
@@ -585,7 +585,7 @@ pre .k, pre .kd, pre .kn, pre .kp, pre .kr, pre .kt, pre .javascript .function {
 .links-of-author { margin-top: 20px; }
 
 .links-of-author a { display: inline-block; vertical-align: middle; margin-right: 10px; margin-bottom: 10px; border-bottom-color: #555; font-size: 13px; }
-.links-of-author a:before { display: inline-block; vertical-align: middle; margin-right: 3px; content: " "; width: 4px; height: 4px; border-radius: 50%; background: #ff8fbd; }
+.links-of-author a:before { display: inline-block; vertical-align: middle; margin-right: 3px; content: " "; width: 4px; height: 4px; border-radius: 50%; background: #8fffff; }
 
 .links-of-blogroll { font-size: 13px; }
 

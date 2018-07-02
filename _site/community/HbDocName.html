@@ -45,10 +45,6 @@
 
 
 
-  
-  
-  <link href="/assets/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
-
 
 
 
@@ -132,8 +128,8 @@
   var CONFIG = {
     root: '',
     scheme: 'Pisces',
-    sidebar: {"position":"left","display":"post","offset":12,"offset_float":0,"b2t":true,"scrollpercent":false},
-    fancybox: true,
+    sidebar: {"position":"left","display":"post","offset":12,"offset_float":0,"b2t":true,"scrollpercent":true},
+    fancybox: false,
     motion: true,
     duoshuo: {
       userId: '0',
@@ -715,19 +711,19 @@
   <div style="padding: 10px 0; margin: 20px auto; width: 90%; text-align: center;">
     <div>如果内容对你有帮助，那就来杯酸奶助我继续写吧 (＾－＾)V</div>
     <button id="rewardButton" disable="enable" onclick="var qr = document.getElementById('QR'); if (qr.style.display === 'none') {qr.style.display='block';} else {qr.style.display='none'}">
-      <span>赏</span>
+      <span>赞 赏~</span>
     </button>
     <div id="QR" style="display: none;">
       
         <div id="wechat" style="display: inline-block">
           <img id="wechat_qr" src="http://ishanshan.qiniudn.com/share/rewardblogwechatpay.jpeg?imageView2/2/w/280" alt="ishanshan WeChat Pay"/>
-          <p>微信打赏</p>
+          <p>WeChat Pay</p>
         </div>
       
       
         <div id="alipay" style="display: inline-block">
           <img id="alipay_qr" src="http://ishanshan.qiniudn.com/share/rewardblogalipay.jpeg?imageView2/2/w/300" alt="ishanshan Alipay"/>
-          <p>支付宝打赏</p>
+          <p>AliPay</p>
         </div>
       
     </div>
@@ -1034,6 +1030,8 @@
         <div class="back-to-top">
           <i class="fa fa-arrow-up"></i>
           
+            <span id="scrollpercent"><span>0</span>%</span>
+          
         </div>
       
 
@@ -1144,13 +1142,6 @@
   
   
   <script type="text/javascript" src="/assets/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
-
-  
-  
-  
-  
-  
-  <script type="text/javascript" src="/assets/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
 
 
   
@@ -1592,6 +1583,9 @@
   
 
   
+  <script type="text/javascript" src="/assets/js/src/js.cookie.js?v=5.1.1"></script>
+  <script type="text/javascript" src="/assets/js/src/scroll-cookie.js?v=5.1.1"></script>
+
 
   
 

@@ -45,10 +45,6 @@
 
 
 
-  
-  
-  <link href="/assets/lib/fancybox/source/jquery.fancybox.css?v=2.1.5" rel="stylesheet" type="text/css" />
-
 
 
 
@@ -111,17 +107,17 @@
 
 
 
-<meta name="description" content="Building...">
+<meta name="description" content="黄姗（[@闪闪-ishanshan](http://weibo.com/u/1696816107)），成长中的 shaper ，关注个体如何实现自我教育。对要去何方、路在哪里这些人生大问题的思索见 [你丁酉年的故事](http://ishanshan.top/selfedu/Review2017LunarCalendar.html) 。 若想一起玩耍共创，可移步👇🏻 ishanshan/collaborate_ishanshancollaborate_ishanshan - help you enjoy collaborating with ishanshan ⚙️ Email: ishanshan.huang#gmail.com 欢迎指教;-)">
 <meta name="keywords" content="ishanshan's blog">
 <meta property="og:type" content="website">
-<meta property="og:title" content="ishanshan's blog">
+<meta property="og:title" content="About Me">
 <meta property="og:url" content="http://localhost:4000/about/">
 <meta property="og:site_name" content="ishanshan's blog">
-<meta property="og:description" content="Building...">
+<meta property="og:description" content="黄姗（[@闪闪-ishanshan](http://weibo.com/u/1696816107)），成长中的 shaper ，关注个体如何实现自我教育。对要去何方、路在哪里这些人生大问题的思索见 [你丁酉年的故事](http://ishanshan.top/selfedu/Review2017LunarCalendar.html) 。 若想一起玩耍共创，可移步👇🏻 ishanshan/collaborate_ishanshancollaborate_ishanshan - help you enjoy collaborating with ishanshan ⚙️ Email: ishanshan.huang#gmail.com 欢迎指教;-)">
 <meta property="og:locale" content="en">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:title" content="ishanshan's blog">
-<meta name="twitter:description" content="Building...">
+<meta name="twitter:title" content="About Me">
+<meta name="twitter:description" content="黄姗（[@闪闪-ishanshan](http://weibo.com/u/1696816107)），成长中的 shaper ，关注个体如何实现自我教育。对要去何方、路在哪里这些人生大问题的思索见 [你丁酉年的故事](http://ishanshan.top/selfedu/Review2017LunarCalendar.html) 。 若想一起玩耍共创，可移步👇🏻 ishanshan/collaborate_ishanshancollaborate_ishanshan - help you enjoy collaborating with ishanshan ⚙️ Email: ishanshan.huang#gmail.com 欢迎指教;-)">
 
 
 <script type="text/javascript" id="hexo.configurations">
@@ -129,8 +125,8 @@
   var CONFIG = {
     root: '',
     scheme: 'Pisces',
-    sidebar: {"position":"left","display":"post","offset":12,"offset_float":0,"b2t":true,"scrollpercent":false},
-    fancybox: true,
+    sidebar: {"position":"left","display":"post","offset":12,"offset_float":0,"b2t":true,"scrollpercent":true},
+    fancybox: false,
     motion: true,
     duoshuo: {
       userId: '0',
@@ -154,7 +150,7 @@
 
 
 
-  <title>              About | ishanshan's blog      </title>
+  <title>              About Me | ishanshan's blog      </title>
   
 
 
@@ -319,7 +315,7 @@
 
 	<h1 class="post-title" itemprop="name headline">
     
-      About
+      About Me
     
   </h1>
 
@@ -329,7 +325,16 @@
 
   
   
-    <p>Building…</p>
+    <p>黄姗（<a href="http://weibo.com/u/1696816107">@闪闪-ishanshan</a>），成长中的 shaper ，关注个体如何实现自我教育。对要去何方、路在哪里这些人生大问题的思索见 <a href="http://ishanshan.top/selfedu/Review2017LunarCalendar.html">你丁酉年的故事</a> 。</p>
+
+<p>若想一起玩耍共创，可移步👇🏻</p>
+
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/ishanshan/collaborate_ishanshan">ishanshan/collaborate_ishanshan</a></h4><p>collaborate_ishanshan - help you enjoy collaborating with ishanshan ⚙️</p></blockquote>
+<script async="" src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+
+<p>Email: ishanshan.huang#gmail.com</p>
+
+<p>欢迎指教;-)</p>
 
   
 </div>
@@ -340,6 +345,17 @@
 
 
           
+  <div class="comments" id="comments">
+    
+      <div id="disqus_thread">
+        <noscript>
+          Please enable JavaScript to view the
+          <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a>
+        </noscript>
+      </div>
+    
+  </div>
+
 
         </div>
         
@@ -508,6 +524,8 @@
         <div class="back-to-top">
           <i class="fa fa-arrow-up"></i>
           
+            <span id="scrollpercent"><span>0</span>%</span>
+          
         </div>
       
 
@@ -619,13 +637,6 @@
   
   <script type="text/javascript" src="/assets/lib/velocity/velocity.ui.min.js?v=1.2.1"></script>
 
-  
-  
-  
-  
-  
-  <script type="text/javascript" src="/assets/lib/fancybox/source/jquery.fancybox.pack.js?v=2.1.5"></script>
-
 
   
 
@@ -666,6 +677,20 @@
       <script id="dsq-count-scr" src="https://ishanshanblog.disqus.com/count.js" async></script>
     
 
+    
+      
+      <script type="text/javascript">
+          var disqus_config = function () {
+              this.page.url = 'http://localhost:4000/about/';
+              this.page.identifier = '/about/';
+              this.page.title = 'About Me';
+          };
+          var d = document, s = d.createElement('script');
+          s.src = 'https://ishanshanblog.disqus.com/embed.js';
+          s.setAttribute('data-timestamp', '' + +new Date());
+          (d.head || d.body).appendChild(s);
+      </script>
+      
     
 
   
@@ -1052,6 +1077,9 @@
   
 
   
+  <script type="text/javascript" src="/assets/js/src/js.cookie.js?v=5.1.1"></script>
+  <script type="text/javascript" src="/assets/js/src/scroll-cookie.js?v=5.1.1"></script>
+
 
   
 

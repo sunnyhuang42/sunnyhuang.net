@@ -2,11 +2,16 @@
 layout: post
 title: 和大 Boss 协同，你有什么秘诀？邮件先行。
 category: selfedu
-description: 你思量说尽，他悉你忧，知你知与不知，这时候再当面沟通，必顺畅不少。
-permalink: /:categories/:title:output_ext 
+permalink: /:categories/:title:output_ext
+photos:
+-  http://ishanshan.qiniudn.com/share/letter3.png
 ---
 
-![letter3.png](http://ishanshan.qiniudn.com/share/letter3.png)
+<blockquote class="blockquote-center">你思量说尽，他悉你忧，知你知与不知，这时候再当面沟通，必顺畅不少。</blockquote>
+
+<!-- more --> 
+
+<br>
 
 >你和老板相处有什么秘诀？为什么你可以 hold 住他？
 

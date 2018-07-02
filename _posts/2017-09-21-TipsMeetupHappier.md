@@ -2,14 +2,16 @@
 layout: post
 title: 友聚如何更有趣？· 杂记
 category: selfedu
-description: Great minds discuss ideas. Average minds discuss events. Small minds discuss people.
+link: https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/InfoQ4Icebreaking.md
 ---
 
 三人上回相聚也在京城，两年未见，亦无隔阂。只是大家关注领域不同，易八卦闲扯。此时我心常游离——
 
->Great minds discuss ideas. Average minds discuss events. Small minds discuss people.
+> Great minds discuss ideas. Average minds discuss events. Small minds discuss people.
 
 如何避免？备几枚常用问题，形势不妙就抛出：
+
+<!-- more -->
 
 <blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/InfoQ4Icebreaking.md">ishanshan/CollaborationGuide4Shaper</a></h4><p>CollaborationGuide4Shaper - For shaper, by shaper, help you be a shaper 🌱</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
@@ -26,5 +28,3 @@ description: Great minds discuss ideas. Average minds discuss events. Small mind
 - 180104 增加一个问题
 - 171129 修订发布至 blog 0.5h
 - 170921 晚 快写 0.5h
-
-

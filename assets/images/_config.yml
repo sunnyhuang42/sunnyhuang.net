@@ -5,7 +5,7 @@
 
 # Site
 title: ishanshan's blog
-subtitle:
+# subtitle: Be a shaper.
 description: Be a shaper.
 author: ishanshan
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
@@ -14,7 +14,7 @@ date_format: '%Y-%m-%d'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url:
+url: http://ishanshan.top
 baseurl:
 permalink: /:categories/:title
 
@@ -105,7 +105,7 @@ copyright: true
 canonical: true
 
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
-seo: false
+seo: true
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
@@ -188,6 +188,7 @@ font:
     external: true
     family:
 
+
   # Font settings for Logo
   # Fallback to `global` font settings.
   # The `size` option use `px` as unit
@@ -218,6 +219,7 @@ social:
   SlideShare: https://www.slideshare.net/ssusere6acd7/presentations
   Weibo: https://weibo.com/1696816107/profile
   Email: mailto:ishanshan.huang@gmail.com
+
 
 # Social Links Icons
 # Icon Mapping:
@@ -316,14 +318,14 @@ auto_excerpt:
 post_meta:
   item_text: true
   created_at: true
-  updated_at: true
+  updated_at: false
   categories: true
 
 # Post wordcount display settings
 post_wordcount:
   item_text: true
-  wordcount: true
-  min2read: true
+  wordcount: false
+  min2read: false
   separated_meta: true
 
 # Wechat Subscriber
@@ -334,7 +336,7 @@ post_wordcount:
 
 # Declare license on posts
 post_copyright:
-  enable: true
+  enable: false
   license: CC BY-NC-SA 4.0
   license_url: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
@@ -392,9 +394,12 @@ disqus:
   # count need to be false when hide is true
   hide: false
 
+
 reward_comment: 如果内容对你有帮助，那就来杯酸奶助我继续写吧 (＾－＾)V
 wechatpay: http://ishanshan.qiniudn.com/share/rewardblogwechatpay.jpeg?imageView2/2/w/280
 alipay: http://ishanshan.qiniudn.com/share/rewardblogalipay.jpeg?imageView2/2/w/300
+
+
 
 
 # Hypercomments

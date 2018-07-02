@@ -7,7 +7,7 @@ categories: selfedu
 
 <blockquote class="blockquote-center">你要记住，你在心灵自由的路上，踌躇、挣扎、崩溃、慢跑、狂奔的样子。<br>那会是你，最美的回忆。</blockquote>
 
-
+<!-- more -->
 
 丁酉年钟声刚响，你便沿钟声抬头望我，眨着大眼睛，想知道这崭新的一年你会经历什么，有怎样的变化。
 
@@ -360,3 +360,5 @@ PS.
 
 
 [^5-1]: The social clock is a concept proposed by the social psychologist Bernice Neugarten, which means a timetable determined by a culture or social structure, that specifies a proper time for certain events, like marriage, graduation, employment or social status. [[study](https://study.com/academy/lesson/the-social-clock-definition-theory.html)]
+
+

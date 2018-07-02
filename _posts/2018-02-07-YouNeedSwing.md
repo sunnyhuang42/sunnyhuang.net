@@ -3,6 +3,8 @@ layout: post
 title: Swing 吧！你的苦乐，swing 知道
 category: selfedu
 permalink: /selfedu/:title:output_ext
+photos:
+- http://ishanshan.qiniudn.com/share/stb2017-1.jpg
 ---
 
 <blockquote class="blockquote-center"> 愿知识工作者如你，也欣闻归属。 </blockquote>

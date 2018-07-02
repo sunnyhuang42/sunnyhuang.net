@@ -3,10 +3,11 @@ layout: post
 title: 入职第一天，我失眠了
 description: 彷徨多发的毕业季，没经历千军万马的校招，我再一次因看似偶然的因缘际会，跳上了能给自己足够成长空间的平台，思绪万千辗转反侧。
 category: murmur
+permalink: /:categories/:title:output_ext
 ---
 
 ![se150602.jpg](http://ishanshan.qiniudn.com/share/se150602.jpg?imageMogr2/size-limit/100k!)
-<center>2013 年秋摄于奥林匹克森林公园</center> 
+<center>2013 年秋摄于奥林匹克森林公园</center>
 
 
 >黄姗，你不会是去传销公司了吧？
@@ -80,5 +81,3 @@ category: murmur
 --
 
 2015.6.2清晨于北京
-
-

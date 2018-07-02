@@ -1,8 +1,9 @@
 ---
 layout: post
 title: GitHub 协作五大业余姿势
-description: 姿势业余虽不至酿成大错，但着实让人浑身不自在。本文复盘俺过往踩坑经历（其实就是被 @ZoomQuiet 大妈咆哮调教的血泪史）助你规避几大常见业余姿势，少走弯路，更快体会 GitHub 协作的舒爽乐趣。
+description: 协作姿势业余虽不至酿成大错，但着实让人浑身不自在。本文复盘俺过往踩坑经历（其实就是被 @ZoomQuiet 大妈咆哮调教的血泪史），助你规避几大常见业余姿势、少走弯路，更快体会 GitHub 协作的舒爽乐趣。
 category: community
+permalink: /:categories/:title:output_ext
 ---
 
 
@@ -46,11 +47,11 @@ category: community
 	- wiki title 为 「Test」 的页面：`https://github.com/ishanshan/example/wiki/Test`
 	- wiki title 为 「测试」 的页面：`https://github.com/ishanshan/example/wiki/%E6%B5%8B%E8%AF%95`
 	- 你觉得哪个 URL 更干净易懂简明专业？
-  
+
 - 再看一下目录，用中文真是不忍直视……
 
 	![hbgh006.jpg](http://ishanshan.qiniudn.com/share/hbgh006.jpg)
-  
+
 总之，若你不想徒增烦恼，也不想被队友嫌弃，**在 GitHub 命名中请别出现中文**。
 
 不仅 GitHub ，在其它团队系统中，也都建议你用非中文。毕竟中文同一个意思可以有多种表达，而各人用词、命名习惯不一样，难以形成共识，真是团队知识管理的一大灾难。比如这个：
@@ -94,27 +95,27 @@ category: community
 
 **完成以上动作后，关联驱动这个 wiki 完成的 Issue**  ：
 ![](http://ishanshan.qiniudn.com/share/hbgh001.jpg)
-<center>除了放在 sidebar 中、和 Issue 关联，还和配套使用的文档关联以便取用</center> 
+<center>除了放在 sidebar 中、和 Issue 关联，还和配套使用的文档关联以便取用</center>
 
 这就完了吗？当然不！还需**在协作界面知晓相关人员，比如在 IM 群或任务看板中抛出链接（注意运用 GitHub 锚点特性）并艾特相关伙伴，请其查看后进入下一环**：
 ![](http://ishanshan.qiniudn.com/share/hbgh007.jpg)
-<center>通知对方看某个 wiki</center> 
+<center>通知对方看某个 wiki</center>
 
 ![](http://ishanshan.qiniudn.com/share/hbgh012.jpg)
-<center>通知对方看某个 Issue 的某个 comment</center> 
+<center>通知对方看某个 Issue 的某个 comment</center>
 
 ![](http://ishanshan.qiniudn.com/share/hbgh013.png?imageView2/2/w/335)
-<center>通知对方看自己修订了哪些内容</center> 
+<center>通知对方看自己修订了哪些内容</center>
 
-![](http://ishanshan.qiniudn.com/share/hbgh014.png?imageView2/2/w/335)<center>通知对方看自己新增了哪些内容，内容不止一条时可用 commit 锚点快速定位所有新增内容</center> 
+![](http://ishanshan.qiniudn.com/share/hbgh014.png?imageView2/2/w/335)<center>通知对方看自己新增了哪些内容，内容不止一条时可用 commit 锚点快速定位所有新增内容</center>
 
 
 ## 写文案真的只有「文案」
 
 
-> A：小王，你知道这些产品介绍是用于什么场合的吗？哪些是给用户直接看的，哪些给我们的合作伙伴看，哪些是给同事们看后给用户、合作伙伴介绍产品的？ 
+> A：小王，你知道这些产品介绍是用于什么场合的吗？哪些是给用户直接看的，哪些给我们的合作伙伴看，哪些是给同事们看后给用户、合作伙伴介绍产品的？
 >
-> B：我看看……呃，我也分不清楚……也没注明是谁编制的，想直接找他问都难！ 
+> B：我看看……呃，我也分不清楚……也没注明是谁编制的，想直接找他问都难！
 >
 > A：……
 
@@ -125,7 +126,7 @@ category: community
 **在公共目录创建文档，请在开头加上头部说明，以 `5W1H` 简要说明文档背景、使用情境**（比如官网/微信/邮件/宣传册etc.）等信息，以便同伴快速理解调用。比如：
     ![](http://ishanshan.qiniudn.com/share/hbgh015.jpg)
 
-<center>标题比正文更重要，别漏了！</center> 
+<center>标题比正文更重要，别漏了！</center>
 
 更多创建文档的建议，可以参考这个 [协作文档撰写指南](https://github.com/OpenMindClub/Share/wiki/HbDoc) 。
 
@@ -152,18 +153,18 @@ category: community
   - 对要讨论的内容，延续 [mailing-list 的礼仪](https://zh.opensuse.org/index.php?title=openSUSE:%E9%83%B5%E4%BB%B6%E5%88%97%E8%A1%A8%E7%B6%B2%E8%B7%AF%E7%A6%AE%E5%84%80&variant=zh-cn#.E4.BD.BF.E7.94.A8.E5.BA.95.E9.83.A8.E5.BC.B5.E8.B2.BC.E6.88.96.E4.BA.A4.E9.8C.AF.E6.A0.BC.E5.BC.8F.E4.BE.86.E5.9B.9E.E7.AD.94) ，采用 [inline reply](https://en.wikipedia.org/wiki/Posting_style#Interleaved_style) 或 [Bottom-posting](https://en.wikipedia.org/wiki/Posting_style#Bottom-posting) 的格式逐一回复观点，比如
 
   ![](http://ishanshan.qiniudn.com/share/hbgh010.jpg)
-  
+
   - 除了 assignee，其他人也自觉维护 Issue ，把已形成的共识及时更新到首个 comment 中，**以便其他打开这个 Issue 的伙伴可以快速知晓进展**
   - 若 Issue 完成，及时 close ，让人进入 Issues 主界面即可及时知晓目前正在进行的 Issue。为啥？谨记大妈督导：
-  
-	>Issue 是过程讨论，尽量消灭 Issue 
+
+	>Issue 是过程讨论，尽量消灭 Issue
 	>   
 	>长期复用的一切文案,要用 维基/仓库 收集
 	>
 	>Issue 永远只是暂时性任务的追踪/提醒/讨论!
 
 
-    
+
 当然，close Issue 不能点击 close 就完事儿，请在 comment 中附上相关链接，以便继续追踪这个议题
 
  - 比如 Issue 成果的链接（通常是 wiki/code 等成品页面）
@@ -172,8 +173,8 @@ category: community
 
 
  ![](http://ishanshan.qiniudn.com/share/hbgh003.jpg)
- <center>把共识更新在首个 comment ，close 前更新该 Issue 的进展或结果</center> 
- 
+ <center>把共识更新在首个 comment ，close 前更新该 Issue 的进展或结果</center>
+
 多提一句，Issue close 后，若再需开启，还是可以 reopen 的。当然 reopen 时最好说明原因，以便看到 Issue 的同伴迅速进入状态，开始共创。
 
 ## 发 Issue 不加 labels/milestone/assignee
@@ -201,9 +202,9 @@ category: community
 - 一般按项目发展阶段的「时间节点」来设置 miletone，比如课程运营中的`课程设计` `招生` `入学` `正式教学` `复盘`等阶段
 - 也可以设置没有时间节点的里程碑比如 `Chaos` 来承载没有明确截止时间的讨论 Issue
 - 当然还可以有其他分类，欢迎根据自己项目的特点大胆尝试;-)
-     
-   
-   
+
+
+
 ### assignee
 
 在团队协作中，
@@ -215,16 +216,16 @@ category: community
 
 - 目前没有 close 的 Issue 都主要是谁在推进
 - 也可根据 assignee 筛选查看，便可对某人负责的 issue 情况一目了然，比如有多少没 close，close 了哪些，结果如何。
-  
+
 ---
 
 明了这些，现在你应该能意识到，团队协作发 Issue 而不设 labels/milestone/assignee ，简直十恶不赦 ——
-  
+
 什么都不设定，就相当于切断了这个 Issue 大部分搜索接口。 Issue 越积越多，团队更迭，虽有全文检索，但不知道有哪些关键词的新人，如何快速了解/获取自己想要的信息？难道又回到那个需要什么就在群里吼的局面？
 
 
 这也是我不满一些项目管理平台话题板块的原因：
- 
+
  - 不可设标签
  - 不能分配给某人
  - 不能关闭
@@ -234,7 +235,7 @@ category: community
 总之，GitHub Issues 可供性强大，团队养成默契的使用礼仪，用对 GitHub ，用对 Issue s，幸福感会大幅提升！
 
 ![logogithub2.gif](http://ishanshan.qiniudn.com/share/logogithub2.gif)
-  
+
 
 ## 小结
 
@@ -262,10 +263,9 @@ Anyway，欢迎看到这篇文章的你也和我分享实践经验，一起探�
 
 也罢也罢，好歹我已自觉修订。自觉羞耻，更是进步：）
 
-## CHANGELOG 
+## CHANGELOG
 
 - 180511 增补自己写的 GitHub 教程链接
 - 171203 更新 GitHub 教程、后记，优化表达 2h
 - 160212 完善配图 Blog 发布
 - 160122 [在 WorkFlowy 起草](https://workflowy.com/s/ipYERU9UbH)
-

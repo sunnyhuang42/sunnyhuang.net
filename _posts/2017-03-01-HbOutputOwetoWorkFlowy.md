@@ -2,9 +2,12 @@
 layout: post
 title: 卡片助力输入输出，工具我选 WorkFlowy
 category: selfedu
-description: 工具是辅助，输出作品才是目的。
+permalink: /:categories/:title:output_ext
 ---
- 
+
+<blockquote class="blockquote-center">工具是辅助，输出作品才是目的。 </blockquote>
+
+<!-- more -->
 
 到今年二月，我用 WorkFlowy 便满三年。
 
@@ -19,7 +22,7 @@ description: 工具是辅助，输出作品才是目的。
 **知识创造，可以分成三个层级：卡片、文件到项目这三个层级。**
 
 ![知识创造层次的图](http://openmindclub.zoomquiet.top/ishanshan/blog/InfoKonwledgeCreate.png)
-<center> 知识创造各层级的区别 </center> 
+<center> 知识创造各层级的区别 </center>
 
 卡片层级对输出来说有多重要？将作家理解为建筑师，你就明白——每次盖房子，比起从水泥等粗活干起，直接用预制材料来搭房子会更快更稳。普通人每次写作在干粗活，超一流作家如纳博科夫、钱钟书等，则是**拼接卡片**。
 
@@ -54,14 +57,14 @@ description: 工具是辅助，输出作品才是目的。
 
 <iframe  width='670' height='380' frameborder='1' scrolling='no' src="https://workflowy.com/embed/CO_N.vA3vHSrxk2?demo"></iframe>
 
-<center> WorkFlowy 功能简介 </center> 
+<center> WorkFlowy 功能简介 </center>
 
 初见 WorkFlowy ，有人以为这是思维导图软件，有人当作 TODO List，你呢？
 
 不管怎样，WorkFlowy 基础功能虽简，却不失为可供性（[Affordance](https://en.wikipedia.org/wiki/Affordance)）极强的容器，应用场景无数。一如宜人的公园从不划死园区功用，只恰到好处地布上设施，却叫附近居民都能找到乐意停留的角落。
 
 ![](http://openmindclub.zoomquiet.top/ishanshan/blog/InfoWorkflowyUsage.png)
-<center> WorkFlowy 的用户故事 </center> 
+<center> WorkFlowy 的用户故事 </center>
 
 这些功能，如果你使用得当，甚至不会再想它增加什么。这不是玩笑，比如我，三年来从不用插件，也没想过需要它增加什么。刚还特意翻了它的 [Feature Announcement](https://blog.workflowy.com/category/feature-announcement/) ，2014 年 8 月后三年没更新，估计也与想不出必须新增什么有关……
 
@@ -81,7 +84,7 @@ description: 工具是辅助，输出作品才是目的。
 
 <iframe  width='670' height='500' frameborder='1' scrolling='no' src="https://workflowy.com/embed/CO_N.9glcXYoyF4?demo"></iframe>
 
-<center>我的每周工作梳理模板（可用上下键查看）</center> 
+<center>我的每周工作梳理模板（可用上下键查看）</center>
 
 日常临时接到或忽然想起，但又难以立马想到安排在哪天，或实在太零碎不适合写进日报的事情，我则会及时记录在碎片清单的节点下；早晨规划日程或临时空闲，便会查看碎片清单，处理划掉一些事项。
 
@@ -93,13 +96,13 @@ description: 工具是辅助，输出作品才是目的。
 
 
 
-![工作日志动图](http://openmindclub.zoomquiet.top/ishanshan/blog/DemoWorkflowyZoom2.gif) 
+![工作日志动图](http://openmindclub.zoomquiet.top/ishanshan/blog/DemoWorkflowyZoom2.gif)
 
 那些可持续积累调用的内容，则移到工作区之外。比如：
 
-![其它区域动图](http://openmindclub.zoomquiet.top/ishanshan/blog/DemoWorkflowyZoom3.gif) 
+![其它区域动图](http://openmindclub.zoomquiet.top/ishanshan/blog/DemoWorkflowyZoom3.gif)
 
-你也许会喊，一个层级下节点如此多，怎么记得过来！于我，这不是我的工作台，很少长久于此停留，且可检索关键词，就算早超人类大脑最舒适的 4*5 层级，节点再多也无妨。 
+你也许会喊，一个层级下节点如此多，怎么记得过来！于我，这不是我的工作台，很少长久于此停留，且可检索关键词，就算早超人类大脑最舒适的 4*5 层级，节点再多也无妨。
 
 
 
@@ -164,7 +167,7 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 
 
-## 请别这么玩 WorkFlowy 
+## 请别这么玩 WorkFlowy
 
 ### 用网页版而不是 App
 
@@ -188,7 +191,7 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 
 
-时有朋友吐槽，WorkFlowy 这玩意儿写文章体验很糟糕啊，写一段一段的文字时体验很差。甚至国内有团队，改造 WorkFlowy 增加写文章、插图等功能开发了一款应用。 
+时有朋友吐槽，WorkFlowy 这玩意儿写文章体验很糟糕啊，写一段一段的文字时体验很差。甚至国内有团队，改造 WorkFlowy 增加写文章、插图等功能开发了一款应用。
 
 对此我只能笑笑，莫能强求。回到文初，输出可分成卡片、文件、项目三个层级，各层级有各自特点，也有各自匹配的工具，何必用卡片工具输出完整文章？
 
@@ -208,7 +211,7 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 PS.如果你看到这篇文章想注册 WorkFlowy ，欢迎使用我的邀请链接注册，哈哈你懂的：I've been using WorkFlowy to organize my life, and thought you might like it. If you want to check it out, here's an invite link that gets you 2x more free space: <https://workflowy.com/invite/181f4657.emlx>
 
-## CHANGELOG 
+## CHANGELOG
 
 - 180421 把一些示例图片替换为 embed 形式
 - 180331 增补频繁切换多个深层级节点的建议
@@ -217,4 +220,3 @@ PS.如果你看到这篇文章想注册 WorkFlowy ，欢迎使用我的邀请链
 - 170301 初次起草一年后终于发布……
 - 170218 增补图片、修订措辞
 - 170212 完善使用心得部分
-

@@ -2,9 +2,12 @@
 layout: post
 title: 用心写周报的同事，绩效不会太差
 category: selfedu
-description: 写周报，用心写周报，持续用心写周报。
+permalink: /:categories/:title:output_ext
 ---
 
+<blockquote class="blockquote-center">写周报，用心写周报，持续用心写周报。</blockquote>
+
+<!-- more -->
 
 今天和团队同事沟通月度工作，又提到这几个月反复提醒的习惯：写周报，用心写周报，持续用心写周报。时光仿佛倒回一年前，事是人非，感慨良多。
 
@@ -29,7 +32,7 @@ description: 写周报，用心写周报，持续用心写周报。
 
 第一，把日报持续更新在一个 MarkDown 文档中，并借助 GitHub 托管这个 MarkDown 文档，追踪历史版本。这样一来，周末我只需打开 GitHub 客户端切换 commit 记录，就可以方便地浏览日报，摘取周报所需内容：
 
- 
+
 ![infoweeklytep1.png](http://ishanshan.qiniudn.com/share/infoweeklytep1.png?imageView2/2/w/350)
 
 第二，在 WorkFlowy 中定制周报模板。周报结构固定，把常设节点在 WorkFlowy 中固化下来，每周在模板上更新。还能标记用时类别，分析过去一周的时间分配是否吻合个人在团队中的角色期待。详见我在 [卡片助力输入输出，工具我选 WorkFlowy ](http://ishanshan.top/selfedu/HbOutputOwetoWorkFlowy.html) 中的示例。
@@ -38,4 +41,3 @@ description: 写周报，用心写周报，持续用心写周报。
 这么多道工序，时有同事好奇我如何坚持。拆解来看，的确步骤繁多，但于我已成肌肉记忆（[Muscle memory - Wikipedia](https://en.wikipedia.org/wiki/Muscle_memory)），便不再繁琐。
 
 再说了，如果你知道自己想要什么，你知道你每天做的事情，都能使你朝向往的方向迈进一点，有什么比这更叫人鼓舞？
-

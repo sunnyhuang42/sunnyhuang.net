@@ -2,7 +2,7 @@
 layout: post
 title: Swing 吧！你的苦乐，swing 知道
 category: selfedu
-
+permalink: /selfedu/:title:output_ext
 ---
 
 <blockquote class="blockquote-center"> 愿知识工作者如你，也欣闻归属。 </blockquote>
@@ -117,5 +117,3 @@ Swing 是什么？为什么要 Swing ？看再多资源也只能窥豹一斑，�
 [^7-7]: Google Doodle celebrates swing dancer [Frankie Manning](http://www.frankiemanning.com/) on what would have been his 102nd birthday on May 26, 2016. [[GoogleDoodle](https://www.google.com/doodles/frankie-mannings-102nd-birthday?hl=en)]
 [^8]: 我司素来倡导教是更好的学，课程伊始便引导用户写教程给六个月前的自己，已成传统。详见 [如何学习编程——来自认知科学的四个建议 - 阳志平的网志](http://www.yangzhiping.com/psy/learn-coding.html)。
 [^9]: Swingtime Ball 是北京一年一度的摇摆盛典，也是目前国内最大的摇摆年度盛典，活动详情见官方网站 [https://swingtimeball.com/](https://swingtimeball.com/) 。
-
-

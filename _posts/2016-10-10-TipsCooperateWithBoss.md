@@ -3,7 +3,7 @@ layout: post
 title: 和大 Boss 协同，你有什么秘诀？邮件先行。
 category: selfedu
 description: 你思量说尽，他悉你忧，知你知与不知，这时候再当面沟通，必顺畅不少。
-
+permalink: /:categories/:title:output_ext 
 ---
 
 ![letter3.png](http://ishanshan.qiniudn.com/share/letter3.png)
@@ -31,5 +31,3 @@ description: 你思量说尽，他悉你忧，知你知与不知，这时候再�
 
 - 161030 修订为书面语发布
 - 161010 讯飞语音口述
-
-

@@ -1,20 +1,29 @@
 ---
 layout: post
 title: 改变我玩耍习惯的 10 场活动
-description: 城市无论大小亲疏，肯定有认同你玩法、愿意一起玩耍的小伙伴，找到合适的切入点通过恰当的方式吸引他们一起玩耍吧！
 category: community
+photos:
+- http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1410Hangzhou2.jpg
+- http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1410Nanjing.jpg
+- http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1409Qingdao.jpg
+- http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1408Beijing.JPG
+- http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1407Beijing.JPG
+- http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1407Beijing2.JPG
 ---
 
+城市无论大小亲疏，肯定有认同你玩法、愿意一起玩耍的小伙伴，找到合适的切入点通过恰当的方式吸引他们一起玩耍吧！
 
+<!-- more -->
 
+<br>
 
 2015 年夏天的某次聚会上，我分享自己筹备线下活动的心得，
 
-<center>
 
-<iframe src="//www.slideshare.net/slideshow/embed_code/key/8eC2Tf2xt9yxA1" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/ssusere6acd7/201508-56873982" title="201508 闪闪的活动偏执" target="_blank">201508 闪闪的活动偏执</a> </strong> from <strong><a href="//www.slideshare.net/ssusere6acd7" target="_blank">ishanshan Huang</a></strong> </div>
 
-</center>
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/8eC2Tf2xt9yxA1" width="750" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> 
+
+
 
 提到我组织活动的行动方式：
 
@@ -28,7 +37,7 @@ category: community
 
 
 
-## 1410@杭州 学习社群助益个人成长 
+## 1410@杭州 学习社群助益个人成长
 
 ![ ](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1410Hangzhou2.jpg)
 
@@ -46,7 +55,7 @@ category: community
 
 现在想起，心中依然万分惭愧与感激。
 
-## 1410@南京 联网青年在行动 
+## 1410@南京 联网青年在行动
 
 ![ ](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1410Nanjing.jpg)
 
@@ -62,7 +71,7 @@ category: community
 
 Anyway，「动」能玩得爽快，「静」能沉淀下来，对实现活动中动静平衡的追求，我们向前又迈了一步，仍然在路上。
 
-## 1409@青岛 夜幕沙滩话连接 
+## 1409@青岛 夜幕沙滩话连接
 
 ![ ](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1409Qingdao.jpg)
 
@@ -78,7 +87,7 @@ Anyway，「动」能玩得爽快，「静」能沉淀下来，对实现活动�
 
 后半段原计划由 @小勺、[@笑笑](http://weibo.com/u/1909032887?is_hot=1) 和我分享各自分享「连接」经历、大家提问，由于座位形式限制最后变成了大家分享、我主导访谈的形式，这个意外虽有些措手不及，但也刚好给了我机会深挖到场的各位小伙伴，了解他们的经历和青岛青年文化现状，完善对「连接」的理解。
 
-## 1408@北京 社区运营一起聊 
+## 1408@北京 社区运营一起聊
 
 ![ ](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1408Beijing.JPG)
 
@@ -98,7 +107,7 @@ PS.或许是我在这场活动筹备过程的表现给微学英语创始人 @GJ 
 
 
 
-## 1407@北京 Minecraft 中国教育，从中外教育差异说起 
+## 1407@北京 Minecraft 中国教育，从中外教育差异说起
 
 
 
@@ -114,7 +123,7 @@ PS.或许是我在这场活动筹备过程的表现给微学英语创始人 @GJ 
 
 这也是俺第一次组织大伙儿都席地而坐的活动，体验不错：D
 
-## 1407@北京 北京，走你！ 
+## 1407@北京 北京，走你！
 
 ![ ](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1407Beijing2.JPG)
 
@@ -140,7 +149,7 @@ PS.或许是我在这场活动筹备过程的表现给微学英语创始人 @GJ 
 
 PS.印象最深的是这次活动报名帖发出不到 1 天就 150 多位小伙伴报名，人数是参与名额的 5 倍不止，惊喜很快转为焦虑：整个筛选过程变得非常纠结，甚至出现了不愉快，也从此决定以后组织活动报名都按统一的规则筛选，关闭后门以免徒增烦恼。
 
-## 1402@贵港 Push to Pull——做更好的自己 
+## 1402@贵港 Push to Pull——做更好的自己
 
 ![ ](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1402Guigang.jpg)
 
@@ -160,7 +169,7 @@ PS.印象最深的是这次活动报名帖发出不到 1 天就 150 多位小伙
 这次和雯雯、大白相识，也为下半年一起筹划[南京的伙伴饭局](http://mp.weixin.qq.com/s?__biz=MzA4MzE2NTExMA==&mid=200355348&idx=1&sn=d3380066179320ee247c8bfa4e8e6c48&3rd=MzA3MDU4NTYzMw==&scene=6#rd)埋下伏笔。
 
 
-## 1401@南宁 美式知识聚餐 
+## 1401@南宁 美式知识聚餐
 
 ![ ](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1401Nanning.jpg)
 
@@ -179,7 +188,7 @@ PS.印象最深的是这次活动报名帖发出不到 1 天就 150 多位小伙
 
 
 
-## 1310@北京 深度访谈学习小组 
+## 1310@北京 深度访谈学习小组
 
 ![](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1310BJDeepInterviewGroup0.png)
 
@@ -197,7 +206,7 @@ PS.印象最深的是这次活动报名帖发出不到 1 天就 150 多位小伙
 
 而后 2014 年初被纪老拐带自驾南下探访各地学习社群，路过杭州意外得知开智，成了我跃入下一高速轨道的起点。而深访学习小组的发起经历、晨间学习会的运作经历，都成为我在新轨道上顺利前行的助推器。
 
-## 1305@北京 设计你的学习时光 
+## 1305@北京 设计你的学习时光
 
 ![](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1305BJBTYW0.png)
 
@@ -214,7 +223,7 @@ PS.让我意外的是，一年后和初恋男友聊起交集，发现我们原�
 
 
 
-## 1304@北京 Equip Yourself in Web2.0 
+## 1304@北京 Equip Yourself in Web2.0
 
 ![](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1305Beijing.JPG)
 
@@ -228,7 +237,7 @@ PS.让我意外的是，一年后和初恋男友聊起交集，发现我们原�
 
 估计是由于前两年在北京参与了足够多的青年活动，已对怎样的学习活动让人难忘略有了解，虽然这是我和团队成员第一次筹办正式的线下活动，但反馈出奇的好：我们在活动逻辑上费了不少功夫----不是先考虑能找到哪些讲者，让他们挨个上去讲大伙儿在下面听就完事儿，而是先考虑清楚我们希望参与者通过这场活动收获什么，如何能在有限的线下互动时间内让大家自然习得我们希望他们收获的，再根据拆解的子主题设计学习环节----这在彼时「一对多单向输出式」活动泛滥的大环境下很稀缺。
 
-更意外的是，由于活动做得好，我作为申办人，还在这批申办网易乐学汇的团队中获得了【[乐学汇十大优秀校园大使](http://open.163.com/lxh#xiaoyuanxing)】称号XD 团队也备受鼓舞，决定将这个【不同以「网」工作坊】变成系列活动，继续筹办不同的主题，让更多人在开放教育时代受益。 
+更意外的是，由于活动做得好，我作为申办人，还在这批申办网易乐学汇的团队中获得了【[乐学汇十大优秀校园大使](http://open.163.com/lxh#xiaoyuanxing)】称号XD 团队也备受鼓舞，决定将这个【不同以「网」工作坊】变成系列活动，继续筹办不同的主题，让更多人在开放教育时代受益。
 
 
 
@@ -239,4 +248,3 @@ PS.让我意外的是，一年后和初恋男友聊起交集，发现我们原�
 - 160207 Blog 发布
 - 160202 开始增补后记和图片
 - 151223 重新收集整理活动信息
-

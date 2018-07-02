@@ -2,10 +2,11 @@
 layout: post
 title: 体能 不能落 · 杂记
 category: murmur
-description: 初级商业人士拼体能，中级拼技能，高级又回到拼体能。
 ---
 
+<blockquote class="blockquote-center">初级商业人士拼体能，中级拼技能，高级又回到拼体能。 </blockquote>
 
+<!-- more -->
 
 早晨练了 6 组高抬腿（每组 30s 高抬腿+ 30s 静态拉伸），结束后心率就达到教练给的理想水平 —— 160+ BPM 。第一次自行练习就发现心肺功能比预想好不少，开心。
 

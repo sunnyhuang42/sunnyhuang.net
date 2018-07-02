@@ -2,6 +2,7 @@
 layout: post
 title: 跟王烁「老婆推」学记趣和爱 · 杂记
 category: selfedu
+permalink: /:categories/:title:output_ext
 description: 今天一口气刷完财新主编王烁的老婆推，拍案欢喜：可作认知写作学课程案例，示范故事文采；亦是新新夫妻相处典范，当即精选藏之，磨刀霍霍。现摘些片段同你分享 ——
 ---
 
@@ -132,5 +133,3 @@ description: 今天一口气刷完财新主编王烁的老婆推，拍案欢喜�
 - 171129 早 补充各类细节，发布至 blog 0.5h
 - 171128 晚 慢改 3h
 - 171128 早 快写初稿发布于 [[5w] 分享你发现的 ch5 优秀资源／实践 · Issue #174 · AIWriter/Writer005](https://github.com/AIWriter/Writer005/issues/174#issuecomment-347141930) 0.5h
-
-

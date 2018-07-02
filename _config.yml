@@ -288,11 +288,11 @@ links_title: Other Resources
 #links_layout: block
 #links_layout: inline
 links:
-  Guide For Collaborating As A Shaper: https://github.com/ishanshan/CollaborationGuide4Shaper
-  Guide For Swing Dancing: https://github.com/ishanshan/EnjoySwingDancing
-  Memo Of Becoming A Strategy PM: https://github.com/ishanshan/Road2StrategyPM
-  Plan For Parenting: https://github.com/ishanshan/ForFamily/blob/master/HbParenting.md
-  Guide For Collaborating With ishanhan: https://github.com/ishanshan/collaborate_ishanshan/blob/master/usage_ishanshan.md
+  Guide for Collaborating as A Shaper: https://github.com/ishanshan/CollaborationGuide4Shaper
+  Guide for Swing Dancing: https://github.com/ishanshan/EnjoySwingDancing
+  Memo of Becoming A Strategy PM: https://github.com/ishanshan/Road2StrategyPM
+  Plan for Parenting: https://github.com/ishanshan/ForFamily/blob/master/HbParenting.md
+  Usage of ishanhan: https://github.com/ishanshan/collaborate_ishanshan/blob/master/usage_ishanshan.md
 
 
 # ---------------------------------------------------------------
@@ -300,10 +300,10 @@ links:
 # ---------------------------------------------------------------
 
 # Automatically scroll page to section which is under <!-- more --> mark.
-scroll_to_more: true
+scroll_to_more: false
 
 # Automatically saving scroll position on each post/page in cookies.
-save_scroll: true
+save_scroll: false
 
 # Automatically excerpt description in homepage as preamble text.
 excerpt_description: true

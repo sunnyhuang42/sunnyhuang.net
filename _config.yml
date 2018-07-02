@@ -316,7 +316,7 @@ auto_excerpt:
 post_meta:
   item_text: true
   created_at: true
-  updated_at: true
+  updated_at: false
   categories: true
 
 # Post wordcount display settings
@@ -324,7 +324,7 @@ post_wordcount:
   item_text: true
   wordcount: true
   min2read: true
-  separated_meta: true
+  separated_meta: false
 
 # Wechat Subscriber
 #wechat_subscriber:
@@ -592,7 +592,7 @@ exturl: false
 use_motion: true
 
 # Fancybox
-fancybox: false
+fancybox: true
 
 # Progress bar in the top during page loading.
 pace: false

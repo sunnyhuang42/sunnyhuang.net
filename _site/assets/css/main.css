@@ -430,7 +430,7 @@ pre .k, pre .kd, pre .kn, pre .kp, pre .kr, pre .kt, pre .javascript .function {
 .posts-expand .post-body h2 .header-anchor:hover, .posts-expand .post-body h3 .header-anchor:hover, .posts-expand .post-body h4 .header-anchor:hover, .posts-expand .post-body h5 .header-anchor:hover, .posts-expand .post-body h6 .header-anchor:hover { color: inherit; }
 .posts-expand .post-body h2:hover .header-anchor, .posts-expand .post-body h3:hover .header-anchor, .posts-expand .post-body h4:hover .header-anchor, .posts-expand .post-body h5:hover .header-anchor, .posts-expand .post-body h6:hover .header-anchor { visibility: visible; }
 .posts-expand .post-body ul li { list-style: circle; }
-.posts-expand .post-body img { box-sizing: border-box; margin: auto; padding: 3px; border: 1px solid #ddd; }
+.posts-expand .post-body img { box-sizing: border-box; margin: auto; padding: 3px; border: 0px solid #ddd; }
 
 .posts-expand .fancybox img { margin: 0 auto; }
 

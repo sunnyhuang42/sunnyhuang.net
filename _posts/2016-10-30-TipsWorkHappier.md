@@ -2,7 +2,7 @@
 layout: post
 title: 想让生活不再满是工作？试试远距联想
 category: selfedu
-permalink: /:categories/:title:output_ext
+permalink: /murmur/:title:output_ext
 ---
 
 >你会把工作的事情和非工作的事情绝对分开吗？

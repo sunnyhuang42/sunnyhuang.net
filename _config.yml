@@ -290,6 +290,7 @@ links_title: Other Resources
 #links_layout: inline
 links:
   Guide for Collaborating as A Shaper: https://github.com/ishanshan/CollaborationGuide4Shaper
+  Self-learning Tools for Collaborating to Knowledge Workers: https://docs.google.com/spreadsheets/d/1xdfbrkQgvuV0FvD5uGFEQ070GC2Ybi2yenDEQAmRj9o/edit#gid=0
   Guide for Swing Dancing: https://github.com/ishanshan/EnjoySwingDancing
   Memo of Becoming A Strategy PM: https://github.com/ishanshan/Road2StrategyPM
   Plan for Parenting: https://github.com/ishanshan/ForFamily/blob/master/HbParenting.md
@@ -591,7 +592,7 @@ exturl: false
 #! ---------------------------------------------------------------
 
 # Motion
-use_motion: true
+use_motion: false
 
 # Fancybox
 fancybox: true

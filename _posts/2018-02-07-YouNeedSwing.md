@@ -5,7 +5,6 @@ category: selfedu
 permalink: /selfedu/:title:output_ext
 photos:
 - http://ishanshan.qiniudn.com/share/stb2017-1.jpg
-link: https://github.com/ishanshan/EnjoySwingDancing/blob/master/README.md
 ---
 
 <blockquote class="blockquote-center"> 愿知识工作者如你，也欣闻归属。 </blockquote>

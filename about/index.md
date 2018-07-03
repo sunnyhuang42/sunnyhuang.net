@@ -3,6 +3,7 @@ layout: page
 type: about
 title: About
 comments: true
+post-reward: true
 ---
 <br>
 
@@ -31,7 +32,7 @@ comments: true
 
 ## About This Blog
 
-日常习惯「快写慢改」，文章发布后多会持续迭代，力求十年后依然乐意回看。所以，没有新博文不代表我没更新哦，尤其指南类的内容：P
+日常习惯「快写慢改」，文章发布后多会持续迭代，力求十年后依然乐意翻看。所以，没有新博文不代表我没更新哦，尤其指南类的内容：P
 
 我的输出都会托管到 GitHub 上，如果你不想错过这些更新，欢迎到 GitHub watching 对应 repository ，或 follow 我了解动态：https://github.com/ishanshan 。
 

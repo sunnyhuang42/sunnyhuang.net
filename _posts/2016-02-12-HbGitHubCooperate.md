@@ -232,7 +232,8 @@ permalink: /:categories/:title:output_ext
 
 处于一个高速发展却没全员形成良好的知识管理契约的团队，用这样的项目管理平台，简直噩梦：无论该变成文档的还是转换为任务的内容，都发在话题板块里；很快积攒几百条话题不说，更新异常迅速，使用的术语体系还不一样，搜索不便，难以迅速了解当前进展、找到所需内容。
 
-总之，GitHub Issues 可供性强大，团队养成默契的使用礼仪，用对 GitHub ，用对 Issue s，幸福感会大幅提升！
+
+总之，GitHub Issues 可供性强大，团队养成默契的使用礼仪，用对 GitHub ，用对 Issues，幸福感会大幅提升！
 
 ![logogithub2.gif](http://ishanshan.qiniudn.com/share/logogithub2.gif)
 

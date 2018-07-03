@@ -230,10 +230,10 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Weibo: weibo
+  Usage: blind
   SlideShare: slideshare
   Email: at
-  Usage: user-cog
+
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif

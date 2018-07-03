@@ -215,9 +215,9 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/ishanshan
+  Usage: https://github.com/ishanshan/collaborate_ishanshan/blob/master/usage_ishanshan.md
   SlideShare: https://www.slideshare.net/ssusere6acd7/presentations
   Email: mailto:ishanshan.huang@gmail.com
-  Weibo: https://weibo.com/1696816107/profile
 
 
 # Social Links Icons
@@ -231,8 +231,9 @@ social_icons:
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
   Weibo: weibo
-  Slideshare: slideshare
-  Email: envelope
+  SlideShare: slideshare
+  Email: at
+  Usage: user-cog
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
@@ -253,7 +254,7 @@ toc:
 # Creative Commons 4.0 International License.
 # http://creativecommons.org/
 # Available: by | by-nc | by-nc-nd | by-nc-sa | by-nd | by-sa | zero
-creative_commons: by-nc-sa
+creative_commons: by-sa
 #creative_commons:
 
 
@@ -292,7 +293,6 @@ links:
   Guide for Swing Dancing: https://github.com/ishanshan/EnjoySwingDancing
   Memo of Becoming A Strategy PM: https://github.com/ishanshan/Road2StrategyPM
   Plan for Parenting: https://github.com/ishanshan/ForFamily/blob/master/HbParenting.md
-  Usage of ishanhan: https://github.com/ishanshan/collaborate_ishanshan/blob/master/usage_ishanshan.md
 
 
 # ---------------------------------------------------------------

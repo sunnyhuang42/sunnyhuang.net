@@ -48,7 +48,7 @@ permalink: /:categories/:title:output_ext
 
 最后，**能跨平台保存**。个人设备越来越多，若不能跨平台使用，实难趁手。
 
-以上，可用工具不少，比如看板工具 [Trello](https://trello.com/) 、协作工具 [Spark](http://spark.yi-gather.com/home?redirect=http%3A%2F%2Fspark.yi-gather.com%2Fdesk) 等。但个人偏爱 [WorkFlowy](https://workflowy.com/) ，无它，缘分而已。
+以上，可用工具不少，比如看板工具 [Trello](https://trello.com/) 、协作工具 [Spark](http://spark.yi-gather.com/home?redirect=http%3A%2F%2Fspark.yi-gather.com%2Fdesk) 等。但个人偏爱 [WorkFlowy](https://workflowy.com/) ，无它，最优雅趁手而已：**那些能自如缩进、拖动、折叠展开的 `bullet` ，令用户能自由定义所载字段在整个体系中的关系/作用，随时自如调整，不必被文件形态强行划分信息组块。这实在契合信息在脑中的状态**。
 
 
 ## WorkFlowy 助力输入输出
@@ -60,6 +60,7 @@ permalink: /:categories/:title:output_ext
 <center> WorkFlowy 功能简介 </center>
 
 初见 WorkFlowy ，有人以为这是思维导图软件，有人当作 TODO List，你呢？
+
 
 不管怎样，WorkFlowy 基础功能虽简，却不失为可供性（[Affordance](https://en.wikipedia.org/wiki/Affordance)）极强的容器，应用场景无数。一如宜人的公园从不划死园区功用，只恰到好处地布上设施，却叫附近居民都能找到乐意停留的角落。
 
@@ -213,6 +214,7 @@ PS.如果你看到这篇文章想注册 WorkFlowy ，欢迎使用我的邀请链
 
 ## CHANGELOG
 
+- 180703 增补 WorkFlowy 趁手优雅的原因：契合信息在脑中的状态
 - 180421 把一些示例图片替换为 embed 形式
 - 180331 增补频繁切换多个深层级节点的建议
 - 171204 更新 WorkFlowy desktop App 下载链接
@@ -220,3 +222,5 @@ PS.如果你看到这篇文章想注册 WorkFlowy ，欢迎使用我的邀请链
 - 170301 初次起草一年后终于发布……
 - 170218 增补图片、修订措辞
 - 170212 完善使用心得部分
+
+

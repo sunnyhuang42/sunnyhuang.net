@@ -595,7 +595,7 @@ exturl: false
 use_motion: false
 
 # Fancybox
-fancybox: false
+fancybox: true
 
 # Progress bar in the top during page loading.
 pace: false

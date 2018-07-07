@@ -20,9 +20,9 @@ menu:
   schedule: Schedule
   sitemap: Sitemap
   commonweal: Commonweal 404
-  selfedu: $ ../SelfEdu
-  community: $ ../Community
-  murmur: $ ../Murmur
+  selfedu: ../SelfEdu
+  community: ../Community
+  murmur: ../Murmur
 
 sidebar:
   overview: Overview

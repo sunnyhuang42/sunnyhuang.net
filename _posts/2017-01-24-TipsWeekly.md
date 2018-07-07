@@ -39,7 +39,7 @@ permalink: /:categories/:title:output_ext
 
 ![infoweeklytep1.png](http://ishanshan.qiniudn.com/share/infoweeklytep1.png?imageView2/2/w/350)
 
-第二，在 WorkFlowy 中定制周报模板。周报结构固定，把常设节点在 WorkFlowy 中固化下来，每周在模板上更新。还能标记用时类别，分析过去一周的时间分配是否吻合个人在团队中的角色期待。详见我在 [卡片助力输入输出，工具我选 WorkFlowy ](http://ishanshan.top/selfedu/HbOutputOwetoWorkFlowy.html) 中的示例。
+第二，在 WorkFlowy 中定制周报模板。周报结构固定，把常设节点在 WorkFlowy 中固化下来，每周在模板上更新。还能标记用时类别，分析过去一周的时间分配是否吻合个人在团队中的角色期待。详见我在 [卡片助力输入输出，工具我选 WorkFlowy ](https://ishanshan.im/selfedu/HbOutputOwetoWorkFlowy.html) 中的示例。
 
 
 这么多道工序，时有同事好奇我如何坚持。拆解来看，的确步骤繁多，但于我已成肌肉记忆（[Muscle memory - Wikipedia](https://en.wikipedia.org/wiki/Muscle_memory)），便不再繁琐。

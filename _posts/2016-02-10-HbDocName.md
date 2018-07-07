@@ -174,7 +174,7 @@ permalink: /:categories/:title:output_ext
 
 不管怎样，文档命名规则没有对错之分。如果单看某个文件名，队友现在和未来能明白其中所含内容，协作需要时能即时调取，这就是好规则。
 
-祝你远离「各人用词、命名习惯不一样，难以形成共识，徒增团队协作成本」的烦恼（比如俺在[《GitHub 协作五大业余姿势》](http://ishanshan.top/community/HbGitHubCooperate.html) 提到的现象）！
+祝你远离「各人用词、命名习惯不一样，难以形成共识，徒增团队协作成本」的烦恼（比如俺在[《GitHub 协作五大业余姿势》](https://ishanshan.im/community/HbGitHubCooperate.html) 提到的现象）！
 
 
 ## CHANGELOG

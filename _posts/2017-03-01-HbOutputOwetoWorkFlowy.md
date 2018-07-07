@@ -50,6 +50,7 @@ permalink: /:categories/:title:output_ext
 
 以上，可用工具不少，比如看板工具 [Trello](https://trello.com/) 、协作工具 [Spark](http://spark.yi-gather.com/home?redirect=http%3A%2F%2Fspark.yi-gather.com%2Fdesk) 等。但个人偏爱 [WorkFlowy](https://workflowy.com/) ，无它，最优雅趁手而已：**那些能自如缩进、拖动、折叠展开的 `bullet` ，令用户能自由定义所载字段在整个体系中的关系/作用，随时自如调整，不必被文件形态强行划分信息组块。这实在契合信息在脑中的状态**。
 
+感觉难以理解？没事儿，你马上会看到具体示例。
 
 ## WorkFlowy 助力输入输出
 
@@ -226,5 +227,3 @@ PS.如果你看到这篇文章想注册 WorkFlowy ，欢迎使用我的邀请链
 - 170301 初次起草一年后终于发布……
 - 170218 增补图片、修订措辞
 - 170212 完善使用心得部分
-
-

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 和大 Boss 协同，你有什么秘诀？邮件先行。
-category: selfedu
+categories:
+- selfedu
+- community
 permalink: /:categories/:title:output_ext
 photos:
 -  http://ishanshan.qiniudn.com/share/letter3.png
@@ -9,7 +11,7 @@ photos:
 
 <blockquote class="blockquote-center">你思量说尽，他悉你忧，知你知与不知，这时候再当面沟通，必顺畅不少。</blockquote>
 
-<!-- more --> 
+<!-- more -->
 
 <br>
 

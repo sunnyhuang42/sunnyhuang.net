@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 友聚如何更有趣？· 杂记
-category: selfedu
+categories:
+- community
 link: https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/InfoQ4Icebreaking.md
 ---
 

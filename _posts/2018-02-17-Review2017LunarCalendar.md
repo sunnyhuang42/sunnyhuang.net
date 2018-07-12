@@ -278,7 +278,7 @@ permalink: /:categories/:title:output_ext
 
 再说了，这儿还有你想掌握的技能才干呢——
 
-人都追求认知闭合(cognitive closure)，给行为找一个合理解释。
+人都追求认知闭合(need for cognitive closure)，给行为找一个合理解释。
 
 **你越来越喜欢向科学求解：每理解一个术语、理论或范式，世界就会愈简单清晰，你也拥有更大的自由，离低水平的重复更远**。生活，是神秘岛；科学素养，是躲在暗处帮你的老船长。而这里，有国内教育领域最雄厚的脑与认知科学背景，叫老船长为你开路。
 
@@ -362,3 +362,5 @@ PS.
 
 
 [^5-1]: The social clock is a concept proposed by the social psychologist Bernice Neugarten, which means a timetable determined by a culture or social structure, that specifies a proper time for certain events, like marriage, graduation, employment or social status. [[study](https://study.com/academy/lesson/the-social-clock-definition-theory.html)]
+
+

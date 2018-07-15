@@ -3,6 +3,7 @@ layout: post
 title: 友聚如何更有趣？· 杂记
 categories:
 - community
+- tool
 link: https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/InfoQ4Icebreaking.md
 ---
 

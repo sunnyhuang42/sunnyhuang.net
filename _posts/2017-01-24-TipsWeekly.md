@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 用心写周报的同事，绩效不会太差
-category: selfedu
-permalink: /:categories/:title:output_ext
+categories:
+- selfedu
+- tool
+permalink: /selfedu/:title:output_ext
 ---
 
 

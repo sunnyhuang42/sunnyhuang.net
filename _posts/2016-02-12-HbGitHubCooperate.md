@@ -2,8 +2,10 @@
 layout: post
 title: GitHub 协作五大业余姿势
 description: 协作姿势业余虽不至酿成大错，但着实让人浑身不自在。本文复盘俺过往踩坑经历（其实就是被 @ZoomQuiet 大妈咆哮调教的血泪史），助你规避几大常见业余姿势、少走弯路，更快体会 GitHub 协作的舒爽乐趣。
-category: community
-permalink: /:categories/:title:output_ext
+categories:
+- community
+- tool
+permalink: /community/:title:output_ext
 ---
 
 

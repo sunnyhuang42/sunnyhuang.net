@@ -122,8 +122,8 @@ menu:
   archives: /archives
   selfedu: category/#/selfedu
   community: category/#/community
+  tool: category/#/tool
   murmur: category/#/murmur
-
   about: /about
   #tags: /tags/
   #sitemap: /sitemap.xml
@@ -150,7 +150,7 @@ menu_icons:
   selfedu: angle-double-right
   community: angle-double-right
   murmur: angle-double-right
-
+  tool: angle-double-right
 
 
 # ---------------------------------------------------------------

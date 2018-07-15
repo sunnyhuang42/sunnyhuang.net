@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 想让生活不再满是工作？试试远距联想
-category: selfedu
+categories:
+- selfedu
+- tool
 permalink: /murmur/:title:output_ext
 ---
 

@@ -4,7 +4,8 @@ title: 和大 Boss 协同，你有什么秘诀？邮件先行。
 categories:
 - selfedu
 - community
-permalink: /:categories/:title:output_ext
+- tool
+permalink: /selfedu/:title:output_ext
 photos:
 -  http://ishanshan.qiniudn.com/share/letter3.png
 ---

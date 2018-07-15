@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 卡片助力输入输出，工具我选 WorkFlowy
-category: selfedu
-permalink: /:categories/:title:output_ext
+categories:
+- selfedu
+- tool
+permalink: /selfedu/:title:output_ext
 ---
 
 <blockquote class="blockquote-center">工具是辅助，输出作品才是目的。 </blockquote>

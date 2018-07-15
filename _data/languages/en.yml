@@ -23,6 +23,7 @@ menu:
   selfedu: ../SelfEdu
   community: ../Community
   murmur: ../Murmur
+  tool: ../Tool
 
 sidebar:
   overview: Overview

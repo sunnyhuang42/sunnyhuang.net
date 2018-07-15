@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Swing 吧！你的苦乐，swing 知道
-category: selfedu
+categories:
+- selfedu
+- tool
 permalink: /selfedu/:title:output_ext
 photos:
 - http://ishanshan.qiniudn.com/share/stb2017-1.jpg

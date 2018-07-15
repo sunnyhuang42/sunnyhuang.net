@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 命名用英文，烦恼少大半 | 团队文档命名指南
-category: community
-permalink: /:categories/:title:output_ext 
+categories:
+- community
+- tool
+permalink: /community/:title:output_ext
 ---
 
 

@@ -4,7 +4,7 @@ categories:
 - selfedu
 - tool
 publish: false
-description: 最近复盘，发现这大半年我如有神助，几乎每月发布一个属个人里程碑的作品或项目。相较过往，这输出密集程度算是突飞猛进。不禁好奇为何如此。得益于一群良师益友，叫我见贤思齐？可之前他们就在呀。因为工作节奏没有前两年紧张？或许，但光多点时间肯定不够。<br>思来想去，发现主要区别源于去年 9 月——那会儿我已有良好读写习惯打底，又意外习得一套新的输出习惯，难怪如虎添翼……
+description: 
 ---
 
 
@@ -19,7 +19,7 @@ description: 最近复盘，发现这大半年我如有神助，几乎每月发�
 
 - 十二月：发出[《谢谢你给她的时光》](https://ishanshan.im/murmur/Letter2XY4Year2017.html)。第一次全篇写故事，终于有底气说自己从「逻辑」「文采」，爬上了「故事」这座写作第三峰。
 - 一月：发布 [EnjoySwingDancing 指南](https://github.com/ishanshan/EnjoySwingDancing)。头一遭有使命感地分享个人爱好，这也是 GitHub 这个全球最大同性交友网站上头一回有人分享舞蹈项目吧。
-- 二月：发布个人年度回顾[《你丁酉年的故事》](https://ishanshan.im/selfedu/Review2017LunarCalendar.html)。尝试另一种视角记录生活：用预言的方式写回顾，呈现自评反思更自然；并发现自己已能谋篇布局万字故事。还在写作过程更清晰自己要去何方。
+- 二月：发布个人年度回顾[《你丁酉年的故事》](https://ishanshan.im/selfedu/Review2017LunarCalendar.html)。尝试另一种视角记录生活：用预言的方式写回顾，呈现自评反思更自然；并发现自己已能谋篇布局万字故事。还在写作过程更清晰自己要去何方。<!-- more -->
 - 三月：发布 [CollaborationGuide4Shaper 仓库](https://github.com/ishanshan/CollaborationGuide4Shaper)。终于集结分享对「如何高效共创」的观察思索，从此被问相关问题，可以甩较完整的资料过去。
 - 四月：完成集团新人入职机制和学习资料（[团队协作技能自学&自检清单](https://docs.google.com/spreadsheets/d/1xdfbrkQgvuV0FvD5uGFEQ070GC2Ybi2yenDEQAmRj9o/edit#gid=0) 是其一）的重大升级，了却一桩心愿：没我在，这些事情也易跑得不错。且第一次尝试划定各技能进阶标准「存活」、「感觉良好」、「更快更好更强」，以便用户按需取用。还摸索出用表格做检查清单的优雅模式，给下个阶段的输出帮了大忙。
 - 五月：输出[策略产品经理训练营作业手记](https://ishanshan.gitbooks.io/road2strategypm/content/)。第一次正儿八经地参加线上付费课程。还拿到优秀学员（5/145），点亮了新技能树。且 [网易蜗牛读书增长方案](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/Chap5Task.html) 被评为精选，是当期课程里唯一一份精选作业，也是课程至今这章作业的唯一精选。
@@ -154,7 +154,7 @@ description: 最近复盘，发现这大半年我如有神助，几乎每月发�
 	>
 	> 如果你要学 Swing ，现在就来吧！年度盛典后便是最好的时机——类比美国职业棒球队选秀，新人赛上「舞龄」更长的选手，更可能在新人赛上崭露头角。此外，无论舞会、比赛、还是大师课，你都更易进入高级别团体。
 	
-	未来稍加修改，就可用于文章。比如这段后来就用到了 [Swing 新人指南](https://github.com/ishanshan/EnjoySwingDancing/blob/master/HbSwingBeginner.md) 中。总之你想怎么用，平常就怎么练，不会错。
+	未来稍加修改，就可用于文章。比如这段后来就用到了 [Swing 新人指南](https://github.com/ishanshan/EnjoySwingDancing/blob/master/HbSwingBeginner.md) 中。总之你**想怎么用，平常就怎么练**，不会错。
 
 
 2. 如果想录下个人成长，那**难过失意一定要记**，不但有助排解，更令你舒缓理性，回看时还别有一番风味：P

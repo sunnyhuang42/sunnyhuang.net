@@ -23,7 +23,7 @@ description:
 - 三月：发布 [CollaborationGuide4Shaper 仓库](https://github.com/ishanshan/CollaborationGuide4Shaper)。终于集结分享对「如何高效共创」的观察思索，从此被问相关问题，可以甩较完整的资料过去。
 - 四月：完成集团新人入职机制和学习资料（[团队协作技能自学&自检清单](https://docs.google.com/spreadsheets/d/1xdfbrkQgvuV0FvD5uGFEQ070GC2Ybi2yenDEQAmRj9o/edit#gid=0) 是其一）的重大升级，了却一桩心愿：没我在，这些事情也易跑得不错。且第一次尝试划定各技能进阶标准「存活」、「感觉良好」、「更快更好更强」，以便用户按需取用。还摸索出用表格做检查清单的优雅模式，给下个阶段的输出帮了大忙。
 - 五月：输出[策略产品经理训练营作业手记](https://ishanshan.gitbooks.io/road2strategypm/content/)。第一次正儿八经地参加线上付费课程。还拿到优秀学员（5/145），点亮了新技能树。且 [网易蜗牛读书增长方案](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/Chap5Task.html) 被评为精选，是当期课程里唯一一份精选作业，也是课程至今这章作业的唯一精选。
-- 六月：对外较逊色，只完成博客三年来第一次改版，并更换域名解决了这两年的困扰：博客在微信访问不畅，被安全警示及重排。不过酝酿了本文及接下来几篇重要博文。
+- 六月：对外较逊色，只完成博客三年来第一次改版，并更换域名清除这两年的困扰：博客在微信访问不畅，被安全警示及重排。不过酝酿了本文及接下来几篇重要博文。
 
 相较过往，这输出密集程度算是突飞猛进。不禁好奇为何如此。得益于一群良师益友，叫我见贤思齐？可之前他们就在呀。因为工作节奏没有前两年紧张？或许，但光多点时间肯定不够。
 
@@ -54,7 +54,9 @@ description:
   - 空间维度：在不同电脑切换，比如工作电脑和个人电脑上，都能随时调取和更新。在移动设备也能调取并更新更好，不行也无妨，毕竟多数时候我电脑随身。
 - **可作「一个人的微博」，方便积累个人故事及练习写作**。这需要内容发布后可修改，才不阻断「慢改」；鲜有广告，也不会被强推内容，没啥噪音分散注意力；支持 MarkDown ，可平滑接入原有读写发布工作流；可设置自由设定访问权限，比如分享给特定朋友或公开访问。
 
-需求列完，瞅着这坑我心里特没底……好在倒腾俩月，终把坑填——
+需求列完，眼瞅这坑我心里特没底，灌了两桶酸奶仍没底……
+
+好在倒腾俩月，终把坑填——
 
 ## MarkDown + GitHub + LOFTER 有轻功
 
@@ -181,7 +183,7 @@ description:
 
 上文涉及 App 如下：
 
-- [MWeb](https://www.mweb.im/)：我最常用的 MarkDown 编辑器，刚发布 3.x 版本。但如果你打算使用我推荐的记忆外部化方法，建议购买 [2.x 版本](https://itunes.apple.com/cn/app/mweb-pro-markdown-writing/id954188948?l=zh&ls=1&mt=12)，因为 3.x 的目录视图常开体验不友好，且还不确定是否改回来。我两者都买了，对比后目前仍用 2.x ，毕竟 3.x 的更新对我来说基本用不到。
+- [MWeb](https://www.mweb.im/)：我最常用的 MarkDown 编辑器，刚发布 3.x 版本。但如果你打算使用我推荐的记忆外部化方法，建议购买 [2.x 版本](https://itunes.apple.com/cn/app/mweb-pro-markdown-writing/id954188948?l=zh&ls=1&mt=12)，因为 3.x 的目录视图常开体验不友好，且还不确定是否改回来。我两者都买了，对比后目前仍用 2.x ，毕竟 3.x 的更新我基本用不到。
 - [GitHub](https://github.com/)：我最常用的文档托管平台。它可供性极强，且内置很多专家级的内隐模式，如果使用得当，能极大降低个人创作复杂度。如果你之前没接触过，别被不明觉厉的操作吓退。可看我梳理的这份攻略上手：[https://github.com/OpenMindClub/Share/wiki/HbGitHub](https://github.com/OpenMindClub/Share/wiki/HbGitHub)。
 - [LOFTER](http://lofter.com/)：网易旗下的轻博客平台。 [http://mur42.lofter.com/](http://mur42.lofter.com/) 这个示例使用的主题模板是「悦」。
 - [Markdown Here](https://markdown-here.com/) ：chrome 上的插件。能把 MarkDown 未渲染的内容粘贴到网页输入框后，一键渲染成定制的 MarkDown 样式。
@@ -272,7 +274,7 @@ description:
 
 
 
-随着「if…then…」增多，便开始汇总到 WorkFlowy 特定节点「[随手复盘](https://workflowy.com/s/CO_N.rltyKgPOoe)」，不时翻看、更新：
+随着「if…then…」增多，我开始整理到 WorkFlowy 特定节点「[随手复盘](https://workflowy.com/s/CO_N.rltyKgPOoe)」，不时翻看、更新：
 
 <iframe  width='700' height='500' frameborder='1' scrolling='no' src="https://workflowy.com/embed/CO_N.rltyKgPOoe"></iframe>
 

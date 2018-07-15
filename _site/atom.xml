@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-15T21:12:54+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">卡片助力输出， MarkDown + GitHub + LOFTER 有轻功</title><link href="http://localhost:4000/selfedu/tool/HbOutputOwetoCards" rel="alternate" type="text/html" title="卡片助力输出， MarkDown + GitHub + LOFTER 有轻功" /><published>2018-07-15T00:00:00+08:00</published><updated>2018-07-15T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/tool/HbOutputOwetoCards</id><content type="html" xml:base="http://localhost:4000/selfedu/tool/HbOutputOwetoCards">&lt;blockquote class=&quot;blockquote-center&quot;&gt;作品和作品的差别，源于卡片。&lt;br /&gt;人和人的差异，垒于习惯。&lt;/blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-15T21:58:54+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">卡片助力输出， MarkDown + GitHub + LOFTER 有轻功</title><link href="http://localhost:4000/selfedu/tool/HbOutputOwetoCards" rel="alternate" type="text/html" title="卡片助力输出， MarkDown + GitHub + LOFTER 有轻功" /><published>2018-07-15T00:00:00+08:00</published><updated>2018-07-15T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/tool/HbOutputOwetoCards</id><content type="html" xml:base="http://localhost:4000/selfedu/tool/HbOutputOwetoCards">&lt;blockquote class=&quot;blockquote-center&quot;&gt;作品和作品的差别，源于卡片。&lt;br /&gt;人和人的差异，垒于习惯。&lt;/blockquote&gt;
 
 &lt;p&gt;最近复盘，发现这大半年我如有神助，几乎每月发布一个属个人里程碑的作品或项目：&lt;/p&gt;
 
@@ -9,7 +9,7 @@
   &lt;li&gt;三月：发布 &lt;a href=&quot;https://github.com/ishanshan/CollaborationGuide4Shaper&quot;&gt;CollaborationGuide4Shaper 仓库&lt;/a&gt;。终于集结分享对「如何高效共创」的观察思索，从此被问相关问题，可以甩较完整的资料过去。&lt;/li&gt;
   &lt;li&gt;四月：完成集团新人入职机制和学习资料（&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1xdfbrkQgvuV0FvD5uGFEQ070GC2Ybi2yenDEQAmRj9o/edit#gid=0&quot;&gt;团队协作技能自学&amp;amp;自检清单&lt;/a&gt; 是其一）的重大升级，了却一桩心愿：没我在，这些事情也易跑得不错。且第一次尝试划定各技能进阶标准「存活」、「感觉良好」、「更快更好更强」，以便用户按需取用。还摸索出用表格做检查清单的优雅模式，给下个阶段的输出帮了大忙。&lt;/li&gt;
   &lt;li&gt;五月：输出&lt;a href=&quot;https://ishanshan.gitbooks.io/road2strategypm/content/&quot;&gt;策略产品经理训练营作业手记&lt;/a&gt;。第一次正儿八经地参加线上付费课程。还拿到优秀学员（5/145），点亮了新技能树。且 &lt;a href=&quot;https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/Chap5Task.html&quot;&gt;网易蜗牛读书增长方案&lt;/a&gt; 被评为精选，是当期课程里唯一一份精选作业，也是课程至今这章作业的唯一精选。&lt;/li&gt;
-  &lt;li&gt;六月：对外较逊色，只完成博客三年来第一次改版，并更换域名解决了这两年的困扰：博客在微信访问不畅，被安全警示及重排。不过酝酿了本文及接下来几篇重要博文。&lt;/li&gt;
+  &lt;li&gt;六月：对外较逊色，只完成博客三年来第一次改版，并更换域名清除这两年的困扰：博客在微信访问不畅，被安全警示及重排。不过酝酿了本文及接下来几篇重要博文。&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;相较过往，这输出密集程度算是突飞猛进。不禁好奇为何如此。得益于一群良师益友，叫我见贤思齐？可之前他们就在呀。因为工作节奏没有前两年紧张？或许，但光多点时间肯定不够。&lt;/p&gt;
@@ -45,7 +45,9 @@
   &lt;li&gt;&lt;strong&gt;可作「一个人的微博」，方便积累个人故事及练习写作&lt;/strong&gt;。这需要内容发布后可修改，才不阻断「慢改」；鲜有广告，也不会被强推内容，没啥噪音分散注意力；支持 MarkDown ，可平滑接入原有读写发布工作流；可设置自由设定访问权限，比如分享给特定朋友或公开访问。&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;需求列完，瞅着这坑我心里特没底……好在倒腾俩月，终把坑填——&lt;/p&gt;
+&lt;p&gt;需求列完，眼瞅这坑我心里特没底，灌了两桶酸奶仍没底……&lt;/p&gt;
+
+&lt;p&gt;好在倒腾俩月，终把坑填——&lt;/p&gt;
 
 &lt;h2 id=&quot;markdown--github--lofter-有轻功&quot;&gt;MarkDown + GitHub + LOFTER 有轻功&lt;/h2&gt;
 
@@ -187,7 +189,7 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 &lt;p&gt;上文涉及 App 如下：&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.mweb.im/&quot;&gt;MWeb&lt;/a&gt;：我最常用的 MarkDown 编辑器，刚发布 3.x 版本。但如果你打算使用我推荐的记忆外部化方法，建议购买 &lt;a href=&quot;https://itunes.apple.com/cn/app/mweb-pro-markdown-writing/id954188948?l=zh&amp;amp;ls=1&amp;amp;mt=12&quot;&gt;2.x 版本&lt;/a&gt;，因为 3.x 的目录视图常开体验不友好，且还不确定是否改回来。我两者都买了，对比后目前仍用 2.x ，毕竟 3.x 的更新对我来说基本用不到。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mweb.im/&quot;&gt;MWeb&lt;/a&gt;：我最常用的 MarkDown 编辑器，刚发布 3.x 版本。但如果你打算使用我推荐的记忆外部化方法，建议购买 &lt;a href=&quot;https://itunes.apple.com/cn/app/mweb-pro-markdown-writing/id954188948?l=zh&amp;amp;ls=1&amp;amp;mt=12&quot;&gt;2.x 版本&lt;/a&gt;，因为 3.x 的目录视图常开体验不友好，且还不确定是否改回来。我两者都买了，对比后目前仍用 2.x ，毕竟 3.x 的更新我基本用不到。&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;：我最常用的文档托管平台。它可供性极强，且内置很多专家级的内隐模式，如果使用得当，能极大降低个人创作复杂度。如果你之前没接触过，别被不明觉厉的操作吓退。可看我梳理的这份攻略上手：&lt;a href=&quot;https://github.com/OpenMindClub/Share/wiki/HbGitHub&quot;&gt;https://github.com/OpenMindClub/Share/wiki/HbGitHub&lt;/a&gt;。&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://lofter.com/&quot;&gt;LOFTER&lt;/a&gt;：网易旗下的轻博客平台。 &lt;a href=&quot;http://mur42.lofter.com/&quot;&gt;http://mur42.lofter.com/&lt;/a&gt; 这个示例使用的主题模板是「悦」。&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://markdown-here.com/&quot;&gt;Markdown Here&lt;/a&gt; ：chrome 上的插件。能把 MarkDown 未渲染的内容粘贴到网页输入框后，一键渲染成定制的 MarkDown 样式。&lt;/li&gt;
@@ -267,7 +269,7 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 
 &lt;p&gt;还如从《哈佛商业评论》了解到&lt;a href=&quot;http://www.hbrchina.org/2016-08-10/4411.html&quot;&gt;饮食也会影响自律，低血糖饮食利于自律&lt;/a&gt;，便打算继续保持天天健康餐，如果外出就餐，也尽量少摄入碳水和脂肪；又想起决定你我人生的决策也就二十多个，便找了家定期换菜谱、可以提前两周排餐的健康餐外卖一直吃，省去考虑「今天吃啥」的麻烦释放决策内存……&lt;/p&gt;
 
-&lt;p&gt;随着「if…then…」增多，便开始汇总到 WorkFlowy 特定节点「&lt;a href=&quot;https://workflowy.com/s/CO_N.rltyKgPOoe&quot;&gt;随手复盘&lt;/a&gt;」，不时翻看、更新：&lt;/p&gt;
+&lt;p&gt;随着「if…then…」增多，我开始整理到 WorkFlowy 特定节点「&lt;a href=&quot;https://workflowy.com/s/CO_N.rltyKgPOoe&quot;&gt;随手复盘&lt;/a&gt;」，不时翻看、更新：&lt;/p&gt;
 
 &lt;iframe width=&quot;700&quot; height=&quot;500&quot; frameborder=&quot;1&quot; scrolling=&quot;no&quot; src=&quot;https://workflowy.com/embed/CO_N.rltyKgPOoe&quot;&gt;&lt;/iframe&gt;
 

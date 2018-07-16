@@ -3,7 +3,6 @@ title: 卡片助力输出， MarkDown + GitHub + LOFTER 有轻功
 categories: 
 - selfedu
 - tool
-publish: false
 description: 
 ---
 
@@ -13,15 +12,13 @@ description:
 
 
 
-最近复盘，发现这大半年我如有神助，几乎每月发布一个属个人里程碑的作品或项目：
-
-
+最近复盘，发现这大半年我如有神助，几乎每月发布一个作品或项目，拿下个人探索路上一个又一个小里程碑：
 
 - 十二月：发出[《谢谢你给她的时光》](https://ishanshan.im/murmur/Letter2XY4Year2017.html)。第一次全篇写故事，终于有底气说自己从「逻辑」「文采」，爬上了「故事」这座写作第三峰。
 - 一月：发布 [EnjoySwingDancing 指南](https://github.com/ishanshan/EnjoySwingDancing)。头一遭有使命感地分享个人爱好，这也是 GitHub 这个全球最大同性交友网站上头一回有人分享舞蹈项目吧。
-- 二月：发布个人年度回顾[《你丁酉年的故事》](https://ishanshan.im/selfedu/Review2017LunarCalendar.html)。尝试另一种视角记录生活：用预言的方式写回顾，呈现自评反思更自然；并发现自己已能谋篇布局万字故事。还在写作过程更清晰自己要去何方。<!-- more -->
-- 三月：发布 [CollaborationGuide4Shaper 仓库](https://github.com/ishanshan/CollaborationGuide4Shaper)。终于集结分享对「如何高效共创」的观察思索，从此被问相关问题，可以甩较完整的资料过去。
-- 四月：完成集团新人入职机制和学习资料（[团队协作技能自学&自检清单](https://docs.google.com/spreadsheets/d/1xdfbrkQgvuV0FvD5uGFEQ070GC2Ybi2yenDEQAmRj9o/edit#gid=0) 是其一）的重大升级，了却一桩心愿：没我在，这些事情也易跑得不错。且第一次尝试划定各技能进阶标准「存活」、「感觉良好」、「更快更好更强」，以便用户按需取用。还摸索出用表格做检查清单的优雅模式，给下个阶段的输出帮了大忙。
+- 二月：发布个人年度回顾[《你丁酉年的故事》](https://ishanshan.im/selfedu/Review2017LunarCalendar.html)。尝试换个视角记录生活：用预言的方式写回顾，呈现自评反思更自然；并发现自己已能谋篇布局万字故事。还在写作过程更清晰自己要去何方。<!-- more -->
+- 三月：发布 [CollaborationGuide4Shaper 仓库](https://github.com/ishanshan/CollaborationGuide4Shaper)。终于集结分享对「如何高效共创」的观察思索，从此被问相关问题可甩资料。
+- 四月：完成集团新人入职机制和学习资料（[团队协作技能自学&自检清单](https://docs.google.com/spreadsheets/d/1xdfbrkQgvuV0FvD5uGFEQ070GC2Ybi2yenDEQAmRj9o/edit#gid=0) 是其一）的重大升级，了却一桩心愿：没我在，这些事情也易跑得不错。且第一次划定各技能进阶标准「存活」、「感觉良好」、「更快更好更强」，以便用户按需取用。还摸索出用表格做检查清单的优雅模式，给下个阶段的输出帮了大忙。
 - 五月：输出[策略产品经理训练营作业手记](https://ishanshan.gitbooks.io/road2strategypm/content/)。第一次正儿八经地参加线上付费课程。还拿到优秀学员（5/145），点亮了新技能树。且 [网易蜗牛读书增长方案](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/Chap5Task.html) 被评为精选，是当期课程里唯一一份精选作业，也是课程至今这章作业的唯一精选。
 - 六月：对外较逊色，只完成博客三年来第一次改版，并更换域名清除这两年的困扰：博客在微信访问不畅，被安全警示及重排。不过酝酿了本文及接下来几篇重要博文。
 
@@ -54,7 +51,7 @@ description:
   - 空间维度：在不同电脑切换，比如工作电脑和个人电脑上，都能随时调取和更新。在移动设备也能调取并更新更好，不行也无妨，毕竟多数时候我电脑随身。
 - **可作「一个人的微博」，方便积累个人故事及练习写作**。这需要内容发布后可修改，才不阻断「慢改」；鲜有广告，也不会被强推内容，没啥噪音分散注意力；支持 MarkDown ，可平滑接入原有读写发布工作流；可设置自由设定访问权限，比如分享给特定朋友或公开访问。
 
-需求列完，眼瞅这坑我心里特没底，灌了两桶酸奶仍没底……
+需求列完，眼瞅这坑我心里特没底，灌了两桶酸奶仍不见底……
 
 好在倒腾俩月，终把坑填——
 
@@ -93,7 +90,7 @@ description:
 - `-1`：已发布后又修改，但还未同步更新到发布界面（由于我习惯多次修改，改后不会马上更新到发布界面，而是等个一两天没什么还想改的再更新，所以需要这个标记提醒自己）
 - `0-`：尚未发布，但有价值，适合继续修改以备未来使用
 
-如此，写意来临，我便可立马打出 `## 0` 而后开写，方便时再加标题。甚至一天忙完，该 commit 到 GitHub 私有库，才把当天各标题补上。
+如此，写意来临，便可立马打出 `## 0` 而后开写，方便时再加标题。甚至一天忙完，该 commit 到 GitHub 私有库，才把当天各标题补上。
 
 懒人如我，还找了仨技巧能省则省：
 
@@ -129,11 +126,11 @@ description:
 
 - 内容发布后可修改：满足，而且所有设置，比如署名权限、浏览权限都可更改。
 - 鲜有广告，也不会被强推内容：有，但相较某博可以算是不存在，很少分散注意力。如果你没关注什么人，时间线里也不会出现乱七八糟的东西。
-- 支持 MarkDown ：半支持—— chrome 浏览器搭配 MarkDown here 插件即可。美中不足，是无法自动和 GitHub 同步融入我的发布流程。不过无妨，就当是发朋友圈吧。
+- 支持 MarkDown ：半支持—— chrome 浏览器搭配 MarkDown here 插件即可。美中不足，是无法自动和 GitHub 同步融入我的发布流程。不过无妨，就当发朋友圈吧。
 	![lofter-setting2.png](http://ishanshan.qiniudn.com/share/lofter-setting2.png?imageView2/2/w/700)
 - 可设置自由设定访问权限：满足。一个账号可设多个子空间，子空间可选择密码访问，或设定不能被站内及搜索引擎搜索。亦可设置单条内容仅自己可见。
 	![lofter-setting1.png](http://ishanshan.qiniudn.com/share/lofter-setting1.png?imageView2/2/w/700)
-- 其它优势：有手机 App ；各类配置傻瓜级别，无需技术背景也能轻松搞定。
+- 其它优势：有手机 App ；各类配置傻瓜级别，无需技术背景。
 
 或许还有更合适的，但**最优解可遇不可求，找到满意解，先跑起来再说**：）
 
@@ -145,12 +142,12 @@ description:
 
 1. 如果想练习写作，那就**尽量用对外口吻而非纯心理过程的日记口吻**。如此，未来更易用在正式作品中。
 
-	什么意思？来个日记口吻你感受一下：
+	什么意思？来份日记口吻你感受一下：
 	
 	
 	> 今天新人赛看得我直跺脚，真后悔没早点学 swing 啊。照这么推算，那开始学 swing 的最佳时机就是年度盛典：类比美国职业棒球队选秀，新人赛上「舞龄」更长的选手，更可能在新人赛出线。而且无论舞会、比赛、还是大师课，都更易进入高级别团体。
 	
-	那对外口吻会怎么表达？想象你在和朋友对话——表意清晰，并突出这事儿和对方的关系：
+	那对外口吻会如何表达？想象你在和朋友对话——表意清晰，并突出这事儿和对方的关系：
 	
 	> 新人赛看得我直跺脚，恨学龄太短，只 swing 3 月多点儿。
 	>
@@ -171,7 +168,7 @@ description:
 
 
 
-从此，我便沉浸在这样舒爽的输出习惯中自拔不能：当周 MarkDown 文档常开，随时记忆外部化。那些需要发布的，就贴到对应渠道发出。如果想到要修改，就在 MarkDown 编辑器里改好了，再更新到对应渠道。每天 commit 同步到 GitHub 一次；若有值得保存的版本对比，则改动后立即 commit 一次留备后用。
+从此，我便沉浸在这样舒爽的输出习惯中自拔不能：当周 MarkDown 文档常开，随时记忆外部化。那些需要发布的，就贴到对应渠道发出。如果想到要修改，就在 MarkDown 编辑器里改好，再更新到对应渠道。每天 commit 同步到 GitHub 一次；若有值得保存的版本对比，则改动后立即 commit 一次留备后用。
 
 
 
@@ -211,7 +208,7 @@ description:
 
 至于其它操作系统，找个带目录视图的 MarkDown 编辑器就好，比如 [Cmd Markdown 编辑阅读器](https://www.zybuluo.com/cmd/)。但肯定不如 MWeb 保护心流（[flow](https://en.wikipedia.org/wiki/Flow_(psychology))）。
 
-那咋整？老实讲，如果**真想提升创作质&量**，我就算吃土两个月也咬牙换成 Apple 产品啊。毕竟换个[优雅舒畅的创作环境](https://www.yangzhiping.com/psy/mac.html)，很快就发觉真值当！
+那咋整？老实讲，如果**真想提升创作质&量**，我就算喝俩月西北风也咬牙换成 Apple 产品啊。毕竟换个[优雅舒畅的创作环境](https://www.yangzhiping.com/psy/mac.html)，很快就发觉真值当！
 
 
 
@@ -232,7 +229,7 @@ description:
 
 所以，如果你发现无论用[纳博科夫牌巴掌大的索引卡](http://ishanshan.qiniudn.com/share/cardnabcov7.png)，还是[梅棹忠夫牌 B6 大的京大式卡](https://www.amazon.cn/dp/B003FGLVPO/ref=sr_1_1?ie=UTF8&qid=1531642792&sr=8-1&keywords=%E4%BA%AC%E5%A4%A7%E5%BC%8F)，怎么都不得劲，这很正常。继续尝试就好。
 
-比如我，这卡那卡都体验了一把，还是忠情大二就开始的习惯：输出始于**横着 A4 纸**捕捉灵感、梳理思路，写画不羁。一些长文如[《谢谢你给她的时光》](https://ishanshan.im/murmur/Letter2XY4Year2017.html)、[《你丁酉年的故事》](https://ishanshan.im/selfedu/Review2017LunarCalendar.html)以及本文，更是如此：不仅起念阶段，甚至每个组块都要好几张 A4 纸自由写画，梳理想传递什么、引发什么行动，才敲成字符。当然，还会混合其他姿势，比如本文提到的随时记忆外部化+一个人的微博、之前推荐的 WorkFlowy 等。
+比如我，这卡那卡都体验了一把，还是钟情大二就开始的习惯：输出始于**横着 A4 纸**捕捉灵感、梳理思路，写画不羁。一些长文如[《谢谢你给她的时光》](https://ishanshan.im/murmur/Letter2XY4Year2017.html)、[《你丁酉年的故事》](https://ishanshan.im/selfedu/Review2017LunarCalendar.html)以及本文，更是如此：不仅起念阶段，甚至每个组块都要好几张 A4 纸自由写画，梳理想传递什么、引发什么行动，才敲成字符。当然，还会混合其他姿势，比如本文提到的随时记忆外部化+一个人的微博、之前推荐的 WorkFlowy 等。
 
 
 ![cardsample3.png](http://ishanshan.qiniudn.com/share/cardsample3.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/100k!)
@@ -242,7 +239,7 @@ description:
 
 要而言之，**「卡片」更多是一种粒度，绝不能当作形式，更不能标为目的**。
 
-但话说回来，就算八仙过海，我也严正提醒你别用 GitHub Issues 积累零散思绪：数据不好迁移，且不便移动重组、调取复用，网页加载还不稳定。总之不利于形成作品。不信你想想自己由此输出的作品质、量？
+但话说回来，就算八仙过海，我也严正提醒你**别用 GitHub Issues 积累零散思绪**：数据不好迁移，且不便移动重组、调取复用，网页加载还不稳定。总之不利于形成作品。不信你想想自己由此输出的作品质、量？
 
 
 ### 如何积累人名术语反常识等卡片
@@ -257,7 +254,7 @@ description:
 
 <br> 
 
-反常识和术语倒是可以叨两句。
+反常识和术语倒是可以聊个五毛钱的。
 
 <br> 
 
@@ -269,12 +266,12 @@ description:
 
 又如看《超越智商》发现原来通常诊断假阳性概率不低，便提醒自己，如果面对阳性结果，别急难过，先了解发病率。
 
-还如从《哈佛商业评论》了解到[饮食也会影响自律，低血糖饮食利于自律](http://www.hbrchina.org/2016-08-10/4411.html)，便打算继续保持天天健康餐，如果外出就餐，也尽量少摄入碳水和脂肪；又想起决定你我人生的决策也就二十多个，便找了家定期换菜谱、可以提前两周排餐的健康餐外卖一直吃，省去考虑「今天吃啥」的麻烦释放决策内存……
+还如从《哈佛商业评论》了解到[饮食也会影响自律，低血糖饮食利于自律](http://www.hbrchina.org/2016-08-10/4411.html)，便打算继续保持天天健康餐，如果外出就餐，也少摄入碳水和脂肪；又想起决定你我人生的决策也就二十多个，便找了家定期换菜谱、可以提前两周排餐的健康餐外卖一直吃，省去考虑「今天吃啥」的麻烦释放决策内存……
 
 
 
 
-随着「if…then…」增多，我开始整理到 WorkFlowy 特定节点「[随手复盘](https://workflowy.com/s/CO_N.rltyKgPOoe)」，不时翻看、更新：
+随着「if…then…」增多，我开始汇集到 WorkFlowy 特定节点「[随手复盘](https://workflowy.com/s/CO_N.rltyKgPOoe)」，不时翻看、更新：
 
 <iframe  width='700' height='500' frameborder='1' scrolling='no' src="https://workflowy.com/embed/CO_N.rltyKgPOoe"></iframe>
 

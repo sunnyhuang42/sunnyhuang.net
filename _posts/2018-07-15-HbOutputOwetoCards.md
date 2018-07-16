@@ -233,9 +233,9 @@ description:
 
 
 ![cardsample3.png](http://ishanshan.qiniudn.com/share/cardsample3.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/100k!)
- <center>A4 纸配板夹，走遍天下都不怕</center>  
+ <center>👆🏻A4 纸配板夹，走遍天下都不怕</center>  
 
-
+<br> 
 
 要而言之，**「卡片」更多是一种粒度，绝不能当作形式，更不能标为目的**。
 
@@ -266,7 +266,7 @@ description:
 
 又如看《超越智商》发现原来通常诊断假阳性概率不低，便提醒自己，如果面对阳性结果，别急难过，先了解发病率。
 
-还如从《哈佛商业评论》了解到[饮食也会影响自律，低血糖饮食利于自律](http://www.hbrchina.org/2016-08-10/4411.html)，便打算继续保持天天健康餐，如果外出就餐，也少摄入碳水和脂肪；又想起决定你我人生的决策也就二十多个，便找了家定期换菜谱、可以提前两周排餐的健康餐外卖一直吃，省去考虑「今天吃啥」的麻烦释放决策内存……
+还如从《哈佛商业评论》了解到[饮食也会影响自律，低血糖饮食利于自律](http://www.hbrchina.org/2016-08-10/4411.html)，便打算继续保持天天健康餐，如果外出就餐，也少摄入碳水和脂肪；又想起决定你我人生的决策也就二十多个，便找了家定期换菜谱、可以提前两周排餐的健康餐外卖充了 10000 块一直吃，省去考虑「今天吃啥」的麻烦释放决策内存……
 
 
 
@@ -290,7 +290,7 @@ description:
 
 如何用自己的话进一步表述，则是文中要用时，再结合语境整理成文，并深入查证确认使用正确。以「认知闭合」和「科学素养」这俩术语为例：
 
-之前搜集的术语释义：
+之前搜集的[术语释义](https://workflowy.com/s/CO_N.I0UGEwbZEL) ：
 
 <iframe  width='700' height='500' frameborder='1' scrolling='no' src="https://workflowy.com/embed/CO_N.I0UGEwbZEL"></iframe>
 
@@ -321,6 +321,7 @@ description:
 
 ## CHANGELOG 
 
+- 180716 优化样式和表达
 - 180715 累计快写慢改近 50h 终于发布
 - 180707 创建
 

@@ -34,7 +34,7 @@ description:
 
 ## 升级输出习惯
 
-如果看过我 [《卡片助力输入输出，工具我选 WorkFlowy 》](https://ishanshan.im/selfedu/HbOutputOwetoWorkFlowy.html) 这篇文章，你应该知道若想畅快输出作品，为何卡片层级重要，以及如何挑选卡片工具。甚至你已尝试我推荐的方法，借 WorkFlowy 优化生活。
+如果看过我 [《卡片助力输入输出，工具我选 WorkFlowy 》](https://ishanshan.im/selfedu/HbOutputOwetoWorkFlowy.html) 这篇文章，你应该知道若想畅快输出作品，为何卡片层级重要，以及如何挑选卡片工具。甚至你已尝试我推荐的方法，借 WorkFlowy 优化工作生活。
 
 过去几年那套方法的确令我受益匪浅。但去年夏天，我工作情感生活状况频出，仅靠原有输出习惯，越来越不能满足诉求：
 
@@ -324,3 +324,5 @@ description:
 - 180716 优化样式和表达
 - 180715 累计快写慢改近 50h 终于发布
 - 180707 创建
+
+

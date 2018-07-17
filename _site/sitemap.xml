@@ -5,6 +5,10 @@
 <lastmod>2015-06-02T00:00:00+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/selfedu/community/SelfEduOwetoJZK</loc>
+<lastmod>2016-01-26T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/community/IdxActivity</loc>
 <lastmod>2016-02-07T00:00:00+08:00</lastmod>
 </url>
@@ -37,6 +41,10 @@
 <lastmod>2017-03-01T00:00:00+08:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/murmur/tool/LogMeetup170311ZqBJ</loc>
+<lastmod>2017-04-12T00:00:00+08:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/murmur/TipsEfficiencyMorningExercise</loc>
 <lastmod>2017-09-11T00:00:00+08:00</lastmod>
 </url>
@@ -63,6 +71,14 @@
 <url>
 <loc>http://localhost:4000/selfedu/Review2017LunarCalendar.html</loc>
 <lastmod>2018-02-17T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/tool/HbMarkdownTrickPre</loc>
+<lastmod>2018-03-23T00:00:00+08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/tool/HbGitHubPre</loc>
+<lastmod>2018-04-28T00:00:00+08:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/selfedu/tool/HbOutputOwetoCards</loc>

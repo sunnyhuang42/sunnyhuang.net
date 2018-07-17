@@ -19,12 +19,12 @@ description:
 - 二月：发布个人年度回顾[《你丁酉年的故事》](https://ishanshan.im/selfedu/Review2017LunarCalendar.html)。尝试换个视角记录生活：用预言的方式写回顾，呈现自评反思更自然；并发现自己已能谋篇布局万字故事。还在写作过程更清晰自己要去何方。<!-- more -->
 - 三月：发布 [CollaborationGuide4Shaper 仓库](https://github.com/ishanshan/CollaborationGuide4Shaper)。终于集结分享对「如何高效共创」的观察思索，从此被问相关问题可甩资料。
 - 四月：完成集团新人入职机制和学习资料（[团队协作技能自学&自检清单](https://docs.google.com/spreadsheets/d/1xdfbrkQgvuV0FvD5uGFEQ070GC2Ybi2yenDEQAmRj9o/edit#gid=0) 是其一）的重大升级，了却一桩心愿：没我在，这些事情也易跑得不错。且第一次划定各技能进阶标准「存活」、「感觉良好」、「更快更好更强」，以便用户按需取用。还摸索出用表格做检查清单的优雅模式，给下个阶段的输出帮了大忙。
-- 五月：输出[策略产品经理训练营作业手记](https://ishanshan.gitbooks.io/road2strategypm/content/)。第一次正儿八经地参加线上付费课程。还拿到优秀学员（5/145），点亮了新技能树。且 [网易蜗牛读书增长方案](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/Chap5Task.html) 被评为精选，是当期课程里唯一一份精选作业，也是课程至今这章作业的唯一精选。
+- 五月：输出[策略产品经理训练营作业手记](https://ishanshan.gitbooks.io/road2strategypm/content/)。第一次正儿八经地参加线上付费课程。还拿到优秀学员（5/145），点亮新技能树。且 [网易蜗牛读书增长方案](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/Chap5Task.html) 被评为精选，是当期课程里唯一一份精选作业，也是课程至今这章作业的唯一精选。
 - 六月：对外较逊色，只完成博客三年来第一次改版，并更换域名清除这两年的困扰：博客在微信访问不畅，被安全警示及重排。不过酝酿了本文及接下来几篇重要博文。
 
 相较过往，这输出密集程度算是突飞猛进。不禁好奇为何如此。得益于一群良师益友，叫我见贤思齐？可之前他们就在呀。因为工作节奏没有前两年紧张？或许，但光多点时间肯定不够。
 
-思来想去，发现主要区别源于去年 9 月——那会儿我已有良好读写习惯打底，又意外习得一套新的输出习惯，难怪如虎添翼。
+思来想去，发现主要区别源于去年 9 月——那会儿我已有良好读写习惯打底，又幸运习得一套新的输出习惯，难怪如虎添翼。
 
 好东西我向来不独自掖着。加之最近卡片写作、卡片大法传播越广，舍近求远的输出姿势越多，体胖（pan）如我都看不下去了，撸起袖子就想……
 
@@ -78,7 +78,7 @@ description:
 	Mur1710w43.md Mur1712w51.md Mur1802w07.md Mur1804w15.md Mur1806w23.md
 	Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 
-文档里，按天划分组块，时间是一级标题，正文概要作二级标题，按时间倒序排列。如此便可凭目录栏随心跳转，快速修改已有内容：
+文档里，按天划分组块，时间是一级标题，正文概要作二级标题，**按时间倒序排列**。如此便可凭目录栏随心跳转，快速修改已有内容：
 
 ![mwebtoc3.png](http://ishanshan.qiniudn.com/share/mwebtoc3.png?imageView2/2/w/700)
 
@@ -181,7 +181,7 @@ description:
 上文涉及 App 如下：
 
 - [MWeb](https://www.mweb.im/)：我最常用的 MarkDown 编辑器，刚发布 3.x 版本。但如果你打算使用我推荐的记忆外部化方法，建议购买 [2.x 版本](https://itunes.apple.com/cn/app/mweb-pro-markdown-writing/id954188948?l=zh&ls=1&mt=12)，因为 3.x 的目录视图常开体验不友好，且还不确定是否改回来。我两者都买了，对比后目前仍用 2.x ，毕竟 3.x 的更新我基本用不到。
-- [GitHub](https://github.com/)：我最常用的文档托管平台。它可供性极强，且内置很多专家级的内隐模式，如果使用得当，能极大降低个人创作复杂度。如果你之前没接触过，别被不明觉厉的操作吓退。可看我梳理的这份攻略上手：[https://github.com/OpenMindClub/Share/wiki/HbGitHub](https://github.com/OpenMindClub/Share/wiki/HbGitHub)。
+- [GitHub](https://github.com/)：我最常用的文档托管平台。它可供性极强，且内置很多专家级的内隐模式，如果使用得当，能极大降低个人创作复杂度。如果你之前没接触过，别被不明觉厉的操作吓退，可看我梳理的这份 [给文字工作者的 GitHub 上手攻略](https://ishanshan.im/tool/HbGitHubPre)。实在难以学会也可以不用，可用下文云端同步的替代方案，甚至只保存在本地。
 - [LOFTER](http://lofter.com/)：网易旗下的轻博客平台。 [http://mur42.lofter.com/](http://mur42.lofter.com/) 这个示例使用的主题模板是「悦」。
 - [Markdown Here](https://markdown-here.com/) ：chrome 上的插件。能把 MarkDown 未渲染的内容粘贴到网页输入框后，一键渲染成定制的 MarkDown 样式。
 - [WorkFlowy](https://workflowy.com/) ：我用了快 5 年的卡片层级工具。真爱一生推，玩转指引见 [《卡片助力输入输出，工具我选 WorkFlowy 》](https://ishanshan.im/selfedu/HbOutputOwetoWorkFlowy.html)。

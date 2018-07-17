@@ -21,11 +21,11 @@ permalink: /:categories/:title
 # Pagination
 paginate: 7
 #paginate_path: "/page:num/"
-#archive:
-  #paginate: 10
+archive:
+  paginate: 100
   #paginate_path: "/page:num/"
-#category:
-  #paginate: 10
+category:
+  paginate: 100
   #paginate_path: "/page:num/"
 #tag:
   #paginate: 10

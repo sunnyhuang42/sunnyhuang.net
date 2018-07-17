@@ -65,7 +65,7 @@ description:
 
 单看工具不稀奇，关键在用法。
 
-### 记忆外部化
+### 以「周」为单位记忆外部化
 
 日常以「周」为单位新建 MarkDown 文档，这周任何想写的内容，都写在当周文档里。文档命名也省心，`文档类别代号+年月+周数`即可，比如这是我养成这个习惯至今的记录：
 
@@ -114,7 +114,7 @@ description:
 
 还有啥优势？**轻盈省心、数据在自己手里，若想保持此输出习惯，十年百年不在话下**。
 
-### 一个人的微博
+### 用「一个人的微博」促进快写慢改
 
 
 记忆外部化搞定，该填贪心挖的坑。
@@ -178,15 +178,16 @@ description:
 
 ### 所用工具扫盲
 
-上文涉及 App 如下：
+机敏如你肯定已经发现，**增进作品质、量的关键，在以「周」为单位记忆外部化，并用「一个人的微博」促进快写慢改**。能实现这个效果的工具不少，我推荐 MWeb + GitHub + LOFTER 是基于已有工作流（WorkFlowy 酝酿 + MarkDown 书写/编辑 + GitHub 托管/发布）。你完全可以根据已有习惯选择所用工具，能坚持三年五年甚至十年五十年，持续促进输出就好：）
+
+
+如果你相信我的品位，并乐意走出舒适区，上文推荐 App 如下：
 
 - [MWeb](https://www.mweb.im/)：我最常用的 MarkDown 编辑器，刚发布 3.x 版本。但如果你打算使用我推荐的记忆外部化方法，建议购买 [2.x 版本](https://itunes.apple.com/cn/app/mweb-pro-markdown-writing/id954188948?l=zh&ls=1&mt=12)，因为 3.x 的目录视图常开体验不友好，且还不确定是否改回来。我两者都买了，对比后目前仍用 2.x ，毕竟 3.x 的更新我基本用不到。
 - [GitHub](https://github.com/)：我最常用的文档托管平台。它可供性极强，且内置很多专家级的内隐模式，如果使用得当，能极大降低个人创作复杂度。如果你之前没接触过，别被不明觉厉的操作吓退，可看我梳理的这份 [给文字工作者的 GitHub 上手攻略](https://ishanshan.im/tool/HbGitHubPre)。实在难以学会也别勉强，可用下文云端同步的替代方案，甚至只保存在本地。
 - [LOFTER](http://lofter.com/)：网易旗下的轻博客平台。 [http://mur42.lofter.com/](http://mur42.lofter.com/) 这个示例使用的主题模板是「悦」。
 - [Markdown Here](https://markdown-here.com/) ：chrome 上的插件。能把 MarkDown 未渲染的内容粘贴到网页输入框后，一键渲染成定制的 MarkDown 样式。
 - [WorkFlowy](https://workflowy.com/) ：我用了快 5 年的卡片层级工具。真爱一生推，玩转指引见 [《卡片助力输入输出，工具我选 WorkFlowy 》](https://ishanshan.im/selfedu/HbOutputOwetoWorkFlowy.html)。
-
-更多我常用工具见  [IdxCooperateBasicSkill · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/IdxCooperateBasicSkill) 。
 
 这套习惯灵感来源参见：
 
@@ -321,6 +322,7 @@ description:
 
 ## CHANGELOG
 
+- 180717 根据反馈增补内容，强调增进作品质、量的关键，在以「周」为单位记忆外部化，并用「一个人的微博」促进快写慢改，而非具体哪个 App
 - 180716 优化样式和表达
 - 180715 累计快写慢改近 50h 终于发布
 - 180707 创建

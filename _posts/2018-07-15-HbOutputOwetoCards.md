@@ -196,13 +196,13 @@ description:
 - 品味生活：[品味（2）：“品味”生活的10种策略 - 阳志平的网志](https://www.yangzhiping.com/psy/savoring-10.html)
 - 「if…then…」&WOOP：[WOOP — Character Lab](https://www.characterlab.org/woop/)
 
-
+了解这些，你将理解这套习惯为何优雅高效，如何更高效。
 
 ### 省钱及移动端读写替补方案
 
 手快的朋友估计已经发现，这套工具只适合 Mac 用户。如果你恰属此类，恭喜，无论你是否常在移动端读写，都可找到应对姿势——
 
-如果你不常在移动端读写，且有 GitHub 隐私库或不差钱，可像我一样应对万一：移动端若要查找，直接在手机浏览器登录 GitHub 搜索。若要写点什么，就用与电脑自动同步的 App 先写，比如 iOS 的 note 。写完想发布就发布，之后再迁移到当周 MarkDown 文档中。这样一来，未来若想复用，依然检索 MarkDown 文档即可。如果只找已发布的内容，那可直接到发布渠道查找，比如直接到 LOFTER 里检索。
+如果你不常在移动端读写，且有 GitHub 隐私库或不差钱，可像我一样应对万一：移动端若要查找，直接在手机浏览器登录 GitHub 搜索。若要写点什么，就用与电脑自动同步的 App 先写，比如 iOS 的 Notes 。写完想发布就发布，之后再迁移到当周 MarkDown 文档中。这样一来，未来若想复用，依然检索 MarkDown 文档即可。如果只找已发布的内容，那可直接到发布渠道查找，比如直接到 LOFTER 里检索。
 
 如果你常在移动端读写，或想省下 GitHub 隐私库 $7/mon 的开销，那可只用 MWeb ，设置 iCloud 或 Dropbox 同步。详情参见 [iOS 版 MWeb 正式发布及简介 - MWeb](https://zh.mweb.im/introducing-mweb-for-ios.html)、[在 iOS 中如何使用 MWeb for Mac 文档库 - MWeb](https://zh.mweb.im/how_to_use_library_in_ios.html)。 # 我没试过，有问题请找 MWeb。
 

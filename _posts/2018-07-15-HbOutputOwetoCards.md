@@ -1,9 +1,9 @@
 ---
-title: 卡片助力输出， MarkDown + GitHub + LOFTER 有轻功 
-categories: 
+title: 卡片助力输出， MarkDown + GitHub + LOFTER 有轻功
+categories:
 - selfedu
 - tool
-description: 
+description:
 ---
 
 
@@ -59,9 +59,9 @@ description:
 
 庞杂需求如上，只靠一款工具难以满足。摸索再三，这套组合拳最得我心：
 
-- 有目录视图、支持文件管理的 MarkDown 编辑器：MWeb 
-- 云端同步工具：GitHub 
-- 一个人的微博：LOFTER 
+- 有目录视图、支持文件管理的 MarkDown 编辑器：MWeb
+- 云端同步工具：GitHub
+- 一个人的微博：LOFTER
 
 单看工具不稀奇，关键在用法。
 
@@ -100,7 +100,7 @@ description:
 
 	对了，当天时间最好选全 ASCII 字符的表达方式，不带汉字，未来若想跑个脚本分析也省心。比如我习惯晨间日记，可借此分析某阶段早上何时进入状态。
 
-	
+
 
 2. `## 0` 等常用字符，使用 aText 这类工具设置缩写规则，比如 `;0 == ## 0` ，简化输入流程。当天遐思的同步到 GitHub 所用的 commit message，当然也设缩写，比如 `uft == update for today` ：
 
@@ -136,23 +136,23 @@ description:
 
 跑了大半年，发现不但好使，还有意外收获：我总是发布后，才很快想到要修改哪里。如果说想写就写的「记忆外部化」习惯利于「快写」，那发到「一个人的微博」这套习惯，无疑加速了我练习「慢改」。而**「快写慢改」，正是调和人类自主心智（[Autonomous Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf)）和算法心智（[Algorithmic Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf)）、创造动人作品的最佳范式**啊！
 
-<br> 
+<br>
 
 填坑完毕，还有几个心得同你分享：
 
 1. 如果想练习写作，那就**尽量用对外口吻而非纯心理过程的日记口吻**。如此，未来更易用在正式作品中。
 
 	什么意思？来份日记口吻你感受一下：
-	
-	
+
+
 	> 今天新人赛看得我直跺脚，真后悔没早点学 swing 啊。照这么推算，那开始学 swing 的最佳时机就是年度盛典：类比美国职业棒球队选秀，新人赛上「舞龄」更长的选手，更可能在新人赛出线。而且无论舞会、比赛、还是大师课，都更易进入高级别团体。
-	
+
 	那对外口吻会如何表达？想象你在和朋友对话——表意清晰，并突出这事儿和对方的关系：
-	
+
 	> 新人赛看得我直跺脚，恨学龄太短，只 swing 3 月多点儿。
 	>
 	> 如果你要学 Swing ，现在就来吧！年度盛典后便是最好的时机——类比美国职业棒球队选秀，新人赛上「舞龄」更长的选手，更可能在新人赛上崭露头角。此外，无论舞会、比赛、还是大师课，你都更易进入高级别团体。
-	
+
 	未来稍加修改，就可用于文章。比如这段后来就用到了 [Swing 新人指南](https://github.com/ishanshan/EnjoySwingDancing/blob/master/HbSwingBeginner.md) 中。总之你**想怎么用，平常就怎么练**，不会错。
 
 
@@ -181,7 +181,7 @@ description:
 上文涉及 App 如下：
 
 - [MWeb](https://www.mweb.im/)：我最常用的 MarkDown 编辑器，刚发布 3.x 版本。但如果你打算使用我推荐的记忆外部化方法，建议购买 [2.x 版本](https://itunes.apple.com/cn/app/mweb-pro-markdown-writing/id954188948?l=zh&ls=1&mt=12)，因为 3.x 的目录视图常开体验不友好，且还不确定是否改回来。我两者都买了，对比后目前仍用 2.x ，毕竟 3.x 的更新我基本用不到。
-- [GitHub](https://github.com/)：我最常用的文档托管平台。它可供性极强，且内置很多专家级的内隐模式，如果使用得当，能极大降低个人创作复杂度。如果你之前没接触过，别被不明觉厉的操作吓退，可看我梳理的这份 [给文字工作者的 GitHub 上手攻略](https://ishanshan.im/tool/HbGitHubPre)。实在难以学会也可以不用，可用下文云端同步的替代方案，甚至只保存在本地。
+- [GitHub](https://github.com/)：我最常用的文档托管平台。它可供性极强，且内置很多专家级的内隐模式，如果使用得当，能极大降低个人创作复杂度。如果你之前没接触过，别被不明觉厉的操作吓退，可看我梳理的这份 [给文字工作者的 GitHub 上手攻略](https://ishanshan.im/tool/HbGitHubPre)。实在难以学会也别勉强，可用下文云端同步的替代方案，甚至只保存在本地。
 - [LOFTER](http://lofter.com/)：网易旗下的轻博客平台。 [http://mur42.lofter.com/](http://mur42.lofter.com/) 这个示例使用的主题模板是「悦」。
 - [Markdown Here](https://markdown-here.com/) ：chrome 上的插件。能把 MarkDown 未渲染的内容粘贴到网页输入框后，一键渲染成定制的 MarkDown 样式。
 - [WorkFlowy](https://workflowy.com/) ：我用了快 5 年的卡片层级工具。真爱一生推，玩转指引见 [《卡片助力输入输出，工具我选 WorkFlowy 》](https://ishanshan.im/selfedu/HbOutputOwetoWorkFlowy.html)。
@@ -235,7 +235,7 @@ description:
 ![cardsample3.png](http://ishanshan.qiniudn.com/share/cardsample3.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/100k!)
  <center>👆🏻A4 纸配板夹，走遍天下都不怕</center>  
 
-<br> 
+<br>
 
 要而言之，**「卡片」更多是一种粒度，绝不能当作形式，更不能标为目的**。
 
@@ -252,11 +252,11 @@ description:
 
 不过尚未用得满意，无实践案例可举……你若有满意心法记得和我分享~
 
-<br> 
+<br>
 
 反常识和术语倒是可以聊个五毛钱的。
 
-<br> 
+<br>
 
 **遇到反常识，确认可信后，我便会问自己这个问题：基于这个信息，我应停止做、开始做或继续保持什么？然后转成「if…then…」提升执行几率。**
 
@@ -282,7 +282,7 @@ description:
 
 
 
-<br> 
+<br>
 
 至于陌生术语，除了上述行动，我还会把这个术语的概念、出处等信息整理到 WorkFlowy 或 zotero 对应节点。比如：
 
@@ -319,14 +319,8 @@ description:
 
 
 
-## CHANGELOG 
+## CHANGELOG
 
 - 180716 优化样式和表达
 - 180715 累计快写慢改近 50h 终于发布
 - 180707 创建
-
-
-
-
-
-

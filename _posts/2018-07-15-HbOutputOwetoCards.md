@@ -26,7 +26,7 @@ description:
 
 思来想去，发现主要区别源于去年 9 月——那会儿我已有良好读写习惯打底，又幸运习得一套新的输出习惯，难怪如虎添翼。
 
-好东西我向来不独自掖着。加之最近卡片写作、卡片大法传播越广，舍近求远的输出姿势越多，体胖（pan）如我都看不下去了，撸起袖子就想……
+好东西我向来不独自掖着。加之最近卡片写作、卡片大法传播越广，南辕北辙的输出姿势越多，体胖（pan）如我都看不下去了，撸起袖子就想……
 
 说干就干！
 
@@ -59,9 +59,9 @@ description:
 
 庞杂需求如上，只靠一款工具难以满足。摸索再三，这套组合拳最得我心：
 
-- 有目录视图、支持文件管理的 MarkDown 编辑器：MWeb
-- 云端同步工具：GitHub
-- 一个人的微博：LOFTER
+- **有目录视图、支持文件管理的 MarkDown 编辑器**：MWeb
+- **云端同步工具**：GitHub
+- **一个人的微博**：LOFTER
 
 单看工具不稀奇，关键在用法。
 
@@ -134,7 +134,7 @@ description:
 
 或许还有更合适的，但**最优解可遇不可求，找到满意解，先跑起来再说**：）
 
-跑了大半年，发现不但好使，还有意外收获：我总是发布后，才很快想到要修改哪里。如果说想写就写的「记忆外部化」习惯利于「快写」，那发到「一个人的微博」这套习惯，无疑加速了我练习「慢改」。而**「快写慢改」，正是调和人类自主心智（[Autonomous Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf)）和算法心智（[Algorithmic Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf)）、创造动人作品的最佳范式**啊！
+跑了大半年，发现不但好使，还有意外收获：我总是发布后，才很快想到要修改哪里。如果说以周为单位想写就写的「记忆外部化」习惯利于「快写」，那发到「一个人的微博」这套习惯，无疑加速了我练习「慢改」。而**「快写慢改」，正是调和人类自主心智（[Autonomous Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf)）和算法心智（[Algorithmic Mind](http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf)）、创造动人作品的最佳范式**啊！
 
 <br>
 
@@ -178,10 +178,10 @@ description:
 
 ### 所用工具扫盲
 
-机敏如你肯定已经发现，**增进作品质、量的关键，在以「周」为单位记忆外部化，并用「一个人的微博」促进快写慢改**。能实现这个效果的工具不少，我推荐 MWeb + GitHub + LOFTER 是基于已有工作流（WorkFlowy 酝酿 + MarkDown 书写/编辑 + GitHub 托管/发布）。你完全可以根据已有习惯选择所用工具，能坚持三年五年甚至十年五十年，持续促进输出就好：）
+机敏如你肯定已经发现，**增进作品质、量的关键，在以「周」为单位记忆外部化，并用「一个人的微博」促进快写慢改**。能实现这个效果的工具不少，我推荐 MWeb + GitHub + LOFTER ，是基于已有工作流（WorkFlowy 酝酿 + MarkDown 书写/编辑 + GitHub 托管/发布）。你完全可以根据已有习惯选择工具，能三年五年甚至十年五十年，持续使用促进输出，你满意就好：）
 
 
-如果你相信我的品位，并乐意走出舒适区，上文推荐 App 如下：
+如果你未满意，并相信我的品位，还乐意走出舒适区，路在这里： 
 
 - [MWeb](https://www.mweb.im/)：我最常用的 MarkDown 编辑器，刚发布 3.x 版本。但如果你打算使用我推荐的记忆外部化方法，建议购买 [2.x 版本](https://itunes.apple.com/cn/app/mweb-pro-markdown-writing/id954188948?l=zh&ls=1&mt=12)，因为 3.x 的目录视图常开体验不友好，且还不确定是否改回来。我两者都买了，对比后目前仍用 2.x ，毕竟 3.x 的更新我基本用不到。
 - [GitHub](https://github.com/)：我最常用的文档托管平台。它可供性极强，且内置很多专家级的内隐模式，如果使用得当，能极大降低个人创作复杂度。如果你之前没接触过，别被不明觉厉的操作吓退，可看我梳理的这份 [给文字工作者的 GitHub 上手攻略](https://ishanshan.im/tool/HbGitHubPre)。实在难以学会也别勉强，可用下文云端同步的替代方案，甚至只保存在本地。
@@ -197,7 +197,7 @@ description:
 - 品味生活：[品味（2）：“品味”生活的10种策略 - 阳志平的网志](https://www.yangzhiping.com/psy/savoring-10.html)
 - 「if…then…」&WOOP：[WOOP — Character Lab](https://www.characterlab.org/woop/)
 
-了解这些，你将理解这套习惯为何优雅高效，如何更高效。
+知其然又知其所以然，你更易领会这套习惯为何优雅有效，如何持久高效。
 
 ### 省钱及移动端读写替补方案
 

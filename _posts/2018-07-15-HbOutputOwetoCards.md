@@ -63,11 +63,11 @@ description:
 - **云端同步工具**：GitHub
 - **一个人的微博**：LOFTER
 
-单看工具不稀奇，关键在用法。
+工具不稀奇，关键在用法。领会要点，再依已有习惯自选趁手工具，更是妙哉。
 
 ### 以「周」为单位记忆外部化
 
-日常以「周」为单位新建 MarkDown 文档，这周任何想写的内容，都写在当周文档里。文档命名也省心，`文档类别代号+年月+周数`即可，比如这是我养成这个习惯至今的记录：
+**日常以「周」为单位新建 MarkDown 文档，这周任何想写的内容，都写在当周文档里**。文档命名也省心，`文档类别代号+年月+周数`即可，比如这是我养成这个习惯至今的记录：
 
 	Mur1709w37.md Mur1711w45.md Mur1801w01.md Mur1802w09.md Mur1804w17.md Mur1806w25.md
 	Mur1709w38.md Mur1711w46.md Mur1801w02.md Mur1803w10.md Mur1804w18.md Mur1806w26.md
@@ -78,9 +78,9 @@ description:
 	Mur1710w43.md Mur1712w51.md Mur1802w07.md Mur1804w15.md Mur1806w23.md
 	Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 
-文档里，按天划分组块，时间是一级标题，正文概要作二级标题，**按时间倒序排列**。如此便可凭目录栏随心跳转，快速修改已有内容：
+**文档里，按天划分组块**，时间是一级标题，正文概要作二级标题，**按时间倒序排列**。如此便可凭目录栏随心跳转，快速修改已有内容：
 
-![mwebtoc3.png](http://ishanshan.qiniudn.com/share/mwebtoc3.png?imageView2/2/w/700)
+![mwebtoc3.png](http://ishanshan.qiniudn.com/share/mwebtoc3.png)
 
 
 为了区分内容类型以便查找复用，我还建了套标记规则，加在内容概要之前，一目了然各条状态：
@@ -91,6 +91,7 @@ description:
 - `0-`：尚未发布，但有价值，适合继续修改以备未来使用
 
 如此，写意来临，便可立马打出 `## 0` 而后开写，方便时再加标题。甚至一天忙完，该 commit 到 GitHub 私有库，才把当天各标题补上。
+<br> 
 
 懒人如我，还找了仨技巧能省则省：
 
@@ -120,11 +121,11 @@ description:
 记忆外部化搞定，该填贪心挖的坑。
 
 
-多方测试，我发现 LOFTER 最适合作「一个人的微博」。不信你瞅瞅 [http://mur42.lofter.com/](http://mur42.lofter.com/) ？
+多方测试，我发现 LOFTER 最适合作「一个人的微博」。不信你瞅 [http://mur42.lofter.com/](http://mur42.lofter.com/) ？
 
 不仅版式优雅，需求还都满足：
 
-- 内容发布后可修改：满足，而且所有设置，比如署名权限、浏览权限都可更改。
+- 内容发布后可修改：满足，且所有设置，比如署名权限、浏览权限都可更改。
 - 鲜有广告，也不会被强推内容：有，但相较某博可以算是不存在，很少分散注意力。如果你没关注什么人，时间线里也不会出现乱七八糟的东西。
 - 支持 MarkDown ：半支持—— chrome 浏览器搭配 MarkDown here 插件即可。美中不足，是无法自动和 GitHub 同步融入我的发布流程。不过无妨，就当发朋友圈吧。
 	![lofter-setting2.png](http://ishanshan.qiniudn.com/share/lofter-setting2.png?imageView2/2/w/700)
@@ -197,7 +198,7 @@ description:
 - 品味生活：[品味（2）：“品味”生活的10种策略 - 阳志平的网志](https://www.yangzhiping.com/psy/savoring-10.html)
 - 「if…then…」&WOOP：[WOOP — Character Lab](https://www.characterlab.org/woop/)
 
-知其然又知其所以然，你更易领会这套习惯为何优雅有效，如何持久高效。
+知其然又知其所以然，你将领会这套习惯为何优雅有效，如何持久高效。
 
 ### 省钱及移动端读写替补方案
 

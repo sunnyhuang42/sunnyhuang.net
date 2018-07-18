@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-18T09:21:30+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">卡片助力输出， MarkDown + GitHub + LOFTER 有轻功</title><link href="http://localhost:4000/selfedu/tool/HbOutputOwetoCards" rel="alternate" type="text/html" title="卡片助力输出， MarkDown + GitHub + LOFTER 有轻功" /><published>2018-07-15T00:00:00+08:00</published><updated>2018-07-15T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/tool/HbOutputOwetoCards</id><content type="html" xml:base="http://localhost:4000/selfedu/tool/HbOutputOwetoCards">&lt;blockquote class=&quot;blockquote-center&quot;&gt;作品和作品的差别，源于卡片。&lt;br /&gt;人和人的差异，垒于习惯。&lt;/blockquote&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-18T09:34:29+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">卡片助力输出， MarkDown + GitHub + LOFTER 有轻功</title><link href="http://localhost:4000/selfedu/tool/HbOutputOwetoCards" rel="alternate" type="text/html" title="卡片助力输出， MarkDown + GitHub + LOFTER 有轻功" /><published>2018-07-15T00:00:00+08:00</published><updated>2018-07-15T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/tool/HbOutputOwetoCards</id><content type="html" xml:base="http://localhost:4000/selfedu/tool/HbOutputOwetoCards">&lt;blockquote class=&quot;blockquote-center&quot;&gt;作品和作品的差别，源于卡片。&lt;br /&gt;人和人的差异，垒于习惯。&lt;/blockquote&gt;
 
 &lt;p&gt;最近复盘，发现这大半年我如有神助，几乎每月发布一个作品或项目，拿下个人探索路上一个又一个小里程碑：&lt;/p&gt;
 
@@ -59,11 +59,11 @@
   &lt;li&gt;&lt;strong&gt;一个人的微博&lt;/strong&gt;：LOFTER&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;单看工具不稀奇，关键在用法。&lt;/p&gt;
+&lt;p&gt;工具不稀奇，关键在用法。领会要点，再依已有习惯自选趁手工具，更是妙哉。&lt;/p&gt;
 
 &lt;h3 id=&quot;以周为单位记忆外部化&quot;&gt;以「周」为单位记忆外部化&lt;/h3&gt;
 
-&lt;p&gt;日常以「周」为单位新建 MarkDown 文档，这周任何想写的内容，都写在当周文档里。文档命名也省心，&lt;code class=&quot;highlighter-rouge&quot;&gt;文档类别代号+年月+周数&lt;/code&gt;即可，比如这是我养成这个习惯至今的记录：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;日常以「周」为单位新建 MarkDown 文档，这周任何想写的内容，都写在当周文档里&lt;/strong&gt;。文档命名也省心，&lt;code class=&quot;highlighter-rouge&quot;&gt;文档类别代号+年月+周数&lt;/code&gt;即可，比如这是我养成这个习惯至今的记录：&lt;/p&gt;
 
 &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Mur1709w37.md Mur1711w45.md Mur1801w01.md Mur1802w09.md Mur1804w17.md Mur1806w25.md
 Mur1709w38.md Mur1711w46.md Mur1801w02.md Mur1803w10.md Mur1804w18.md Mur1806w26.md
@@ -76,9 +76,9 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/div&gt;
 
-&lt;p&gt;文档里，按天划分组块，时间是一级标题，正文概要作二级标题，&lt;strong&gt;按时间倒序排列&lt;/strong&gt;。如此便可凭目录栏随心跳转，快速修改已有内容：&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;文档里，按天划分组块&lt;/strong&gt;，时间是一级标题，正文概要作二级标题，&lt;strong&gt;按时间倒序排列&lt;/strong&gt;。如此便可凭目录栏随心跳转，快速修改已有内容：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/mwebtoc3.png?imageView2/2/w/700&quot; alt=&quot;mwebtoc3.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/mwebtoc3.png&quot; alt=&quot;mwebtoc3.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;为了区分内容类型以便查找复用，我还建了套标记规则，加在内容概要之前，一目了然各条状态：&lt;/p&gt;
 
@@ -89,7 +89,8 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
   &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;0-&lt;/code&gt;：尚未发布，但有价值，适合继续修改以备未来使用&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;如此，写意来临，便可立马打出 &lt;code class=&quot;highlighter-rouge&quot;&gt;## 0&lt;/code&gt; 而后开写，方便时再加标题。甚至一天忙完，该 commit 到 GitHub 私有库，才把当天各标题补上。&lt;/p&gt;
+&lt;p&gt;如此，写意来临，便可立马打出 &lt;code class=&quot;highlighter-rouge&quot;&gt;## 0&lt;/code&gt; 而后开写，方便时再加标题。甚至一天忙完，该 commit 到 GitHub 私有库，才把当天各标题补上。
+&lt;br /&gt;&lt;/p&gt;
 
 &lt;p&gt;懒人如我，还找了仨技巧能省则省：&lt;/p&gt;
 
@@ -121,12 +122,12 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 
 &lt;p&gt;记忆外部化搞定，该填贪心挖的坑。&lt;/p&gt;
 
-&lt;p&gt;多方测试，我发现 LOFTER 最适合作「一个人的微博」。不信你瞅瞅 &lt;a href=&quot;http://mur42.lofter.com/&quot;&gt;http://mur42.lofter.com/&lt;/a&gt; ？&lt;/p&gt;
+&lt;p&gt;多方测试，我发现 LOFTER 最适合作「一个人的微博」。不信你瞅 &lt;a href=&quot;http://mur42.lofter.com/&quot;&gt;http://mur42.lofter.com/&lt;/a&gt; ？&lt;/p&gt;
 
 &lt;p&gt;不仅版式优雅，需求还都满足：&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;内容发布后可修改：满足，而且所有设置，比如署名权限、浏览权限都可更改。&lt;/li&gt;
+  &lt;li&gt;内容发布后可修改：满足，且所有设置，比如署名权限、浏览权限都可更改。&lt;/li&gt;
   &lt;li&gt;鲜有广告，也不会被强推内容：有，但相较某博可以算是不存在，很少分散注意力。如果你没关注什么人，时间线里也不会出现乱七八糟的东西。&lt;/li&gt;
   &lt;li&gt;支持 MarkDown ：半支持—— chrome 浏览器搭配 MarkDown here 插件即可。美中不足，是无法自动和 GitHub 同步融入我的发布流程。不过无妨，就当发朋友圈吧。
   &lt;img src=&quot;http://ishanshan.qiniudn.com/share/lofter-setting2.png?imageView2/2/w/700&quot; alt=&quot;lofter-setting2.png&quot; /&gt;&lt;/li&gt;
@@ -208,7 +209,7 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
   &lt;li&gt;「if…then…」&amp;amp;WOOP：&lt;a href=&quot;https://www.characterlab.org/woop/&quot;&gt;WOOP — Character Lab&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;知其然又知其所以然，你更易领会这套习惯为何优雅有效，如何持久高效。&lt;/p&gt;
+&lt;p&gt;知其然又知其所以然，你将领会这套习惯为何优雅有效，如何持久高效。&lt;/p&gt;
 
 &lt;h3 id=&quot;省钱及移动端读写替补方案&quot;&gt;省钱及移动端读写替补方案&lt;/h3&gt;
 

@@ -21,7 +21,7 @@ post-reward: true
 * 如何高效教会别人带新人
 * 如何给孩子尤其自家孩子更好的未来
 
-喜欢 [Swing dancing](https://github.com/ishanshan/EnjoySwingDancing) ，尤其 blues ，基本每天都跳。专注一个钟就会出去蹦跶十分钟，一跳就开心，哈哈。
+喜欢 [Swing dancing](https://github.com/ishanshan/EnjoySwingDancing) ，尤其 blues ，基本每天都跳。专注一个钟蹦跶十分钟，一跳就开心，哈哈。
 
 人如产品，我把个人特质和能提供的价值整理成了个人使用指南，欢迎你顺着所列接口来找我共创玩耍👇🏻
 

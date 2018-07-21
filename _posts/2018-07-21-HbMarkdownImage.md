@@ -5,31 +5,36 @@ title: MarkDown 码字发文有轻功：插图用七牛，优雅又省心（含�
 description: 一人百人、五年十年都能优雅又省心？嗯。
 --- 
 
-常在河边走，怎能不湿鞋。使用 MarkDown 码字发文，你迟早遭遇以下烦恼：
+## MarkDown 码字发文插图烦恼
 
-好不容易找到个看着不错的图床，上传图片、顺利发文，结果过段时间，图片无法显示……想重新再传，可眼瞅这乱码 URL 怎么都没法识别当初用的哪张图……你不想就此不管破罐破摔，也不想花时间重新找图作图，怎么办？
+使用 MarkDown 码字发文一年，我陆续遭遇以下烦恼：
 
-总算找到满意图片，可实在太大，为了图文浏览体验必须压缩。问题来了——压缩后，本地保留哪个版本？高清压缩都保留，不嫌占空间嘛？只保留一个，留哪个？留大的，那下回再用又得压缩一遍；留小的，那高清场合又得再找……
+好不容易找到看着不错的图床，上传图片、顺利发文，结果过段时间，图片无法显示……想重新再传，可眼瞅这乱码 URL 怎么都没法识别当初用的哪张图……不想就此不管破罐破摔，也不想花时间重新找图作图，怎么办？
+
+总算找到满意图片，可实在太大，为了图文浏览体验必须压缩。问题来了——压缩后，本地保留哪个版本？高清压缩都保留，占空间；只保留一个，留哪个？留大的，那下回再用又得压缩一遍；留小的，那高清场合又得再找……
 
 那看情况吧，先缩了再说。无奈烦恼也不少：得调试好多次才能找到合适参数；调试过程，难免保存导出，判断是否清晰合用，不行又得删掉重来。若是网页处理工具（比如美图秀秀），上传下载也挺烦。[TinyPng](https://tinypng.com/)、[SmartResize](https://www.smartresize.com/zh-cn) 是快捷，但没法限定输出大小，比如每张 100k 以下……
 
-你仰天长啸，不就想发篇文章吗，就不能不操心这种芝麻问题，把时间花在更有价值的事情上吗？！
+越高产，新烦恼来得越快：是一篇图文一个文件夹，里头装 MarkDown 文档和所用图片；还是所有图片一个文件夹，文档一个文件夹？到底怎么管理更省心，五年十年不添堵？
 
-越高产，新烦恼来得也越快：是一篇图文一个文件夹，里头装 MarkDown 文档和所用图片；还是所有图片一个文件夹，文档一个文件夹？到底怎么管理更省心，五年十年不添堵？
+团队编辑图文，各编各文各找各图。怎么做，才能提高效率，减少重复劳动？怎样做，才能便于多人调用、未来复用？
 
-你们还组了个内容编辑团队，但各编各文各找各图。怎么做，才能提高效率，减少重复劳动？怎样做，才能便于多人调用、未来复用？
+……
 
-要解决这些怎么办的问题，先要了解 MarkDown 配图机制——
+
+好在这一切在前年陆续有了转机，我可以不再操心上述芝麻问题，能把时间花在更有价值的事情上。
+
+这一切，要从 MarkDown 配图机制说起——
 
 ## MarkDown 配图机制
 
-传统文档，是把图片复制了一份搁文档里。 **MarkDown 文档，则是把图片搁云端（俗称图床），映射在文档里**。什么意思？你可以把文章想象成一个画廊，传统画廊，是把画直接放画框里，MarkDown 画廊，则是存画于线上资源库，把画投影到画框。
+传统文档，是把图片复制了一份搁文档里。 **MarkDown 文档，则是把图片搁云端（俗称图床），映射在文档里**。什么意思？你可以把文章想象成一个画廊，传统画廊，是把画直接放画框里；MarkDown 画廊，则是存画于线上资源库，把画投影到画框。
 
 **这样有什么好处？大大降低文档大小，轻盈畅快**。且图片管理方便：既然是把画投影在画框，那理论上只要改变投影参数，比如焦距、投影距离等，就可改变画框中画面的大小、清晰程度，不需调整原画。
 
 **更有优势的是，需求更复杂时，管理复杂度却变化不大**：比如想让多个画框出现该画，投影过去就好，不会多占 N 倍空间；不同位置所需画面大小、清晰程度不同，调整投影参数就好；如需替换各处的这幅画，直接更换原画就好，不必挨个替换画框。
 
-理论挺美，现实如何？我……别笑，还真就实现了——
+理论挺美，现实如何？我……还真就实现了——
 
 某张图片已用于十多篇文章，但图片有误需要更新。拿到新图，半分钟就替换完毕。
 
@@ -78,9 +83,9 @@ description: 一人百人、五年十年都能优雅又省心？嗯。
 * 支持设定上传前缀，以便区分不同类型内容，比如 `../share/image1.jpg` &  `../clipping/image2.jpg` 
 * 支持多个存储账号，以便灵活切换个人及公司图床
 
-找来找去，Mac GUI 工具，我只发现 [Dropzone 3](https://aptonic.com/) + [这款适用于 Dropzone 3的七牛上传工具](https://blog.kyleduo.com/2017/02/27/qiniu-upload-for-dropzone/)  全都满足，配置好后使用起来也简单。后者免费，前者收费，60 块，不到一顿饭就能拿下。
+找来找去，Mac GUI 工具，我只发现 [Dropzone 3](https://aptonic.com/) + [这款适用于 Dropzone 3的七牛上传工具](https://blog.kyleduo.com/2017/02/27/qiniu-upload-for-dropzone/)  全都满足，配置好后使用起来也简单。后者免费，前者收费，60 块，不到一顿饭就能拿下。 CLI 工具，参见 [命令行工具(qshell) - 七牛开发者中心](https://developer.qiniu.com/kodo/tools/1302/qshell) 。
 
-如何获取配置图床上传工具所需的 Access Key（下文简称 AK）、Secret Key（下文简称 SK） 等账号信息，见[怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心](https://developer.qiniu.com/af/kb/1479/how-to-access-or-locate-the-access-key-and-secret-key)。
+如何获取配置图床上传工具所需的 Bucket 、Access Key（下文简称 AK）、Secret Key（下文简称 SK） 等账号信息，见[快速入门 - 七牛开发者中心](https://developer.qiniu.com/kodo/manual/1233/console-quickstart) 、[怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心](https://developer.qiniu.com/af/kb/1479/how-to-access-or-locate-the-access-key-and-secret-key)。
 
 如果你只有前俩要求，选择范围会广些，比如：
 
@@ -113,7 +118,7 @@ Win:
 
 ![7niuonlineedit.gif](http://ishanshan.qiniudn.com/share/7niuonlineedit.gif)
 
-为了提升效率，编辑时我一般批处理：把一篇或几篇文章的图片都上传到对应位置后，再统一处理大小。增加参数时，先判断用得最多的参数，批量替换，再微调。比如，某五个文档所用图片，多是 < 2M 的 jpg 图片，我会在 Atom 里把 `.jpg)` 字段都换成 `.jpg?imageMogr2/size-limit/100k!)` ，再手动把原图大于 2M 的图片 URL 参数改为 `?imageView2/2/w/1000|imageslim` 。
+为了提升效率，编辑时我一般批处理：把一篇或几篇文章的图片都上传到对应位置后，再统一处理大小。增加参数时，先判断用得最多的参数，批量替换，再微调。比如，某五个文档所用图片，多是 < 2M 的 jpg 图片，我会在 Atom 里，用 `search in directory` 批量检索出这些文档里的 `.jpg)` 字段，批量换成 `.jpg?imageMogr2/size-limit/100k!)` ，再手动把原图大于 2M 的图片 URL 参数改为 `?imageView2/2/w/1000|imageslim` 。
 
 ### 2. 图片放同一文件夹
 
@@ -179,9 +184,10 @@ Win:
 
 ### 如何拥有优雅的图床域名？
 
-标准用户新创建存储空间后，会获得这类`*.bkt.clouddn.com` 系统自动生成的测试域名。乍一看是长了点，但勉强过得去。但当你真看到系统生成的测试域名，估计就不这么想了—— `ox2qarr4z.bkt.clouddn.com` ……这什么鬼？？？丑出新高度！
+标准用户新创建存储空间后，会获得这类`*.bkt.clouddn.com` 系统自动生成的测试域名。
 
-好在七牛提供了[自定义域名的入口](https://developer.qiniu.com/fusion/manual/1367/custom-domain-name-binding-process)——如果你想让图片地址优雅些，可以自己买个域名并[备案](https://developer.qiniu.com/af/kb/3987/how-to-make-website-and-inquires-the-police-put-on-record-information)，然后配置自定义域名。如果懒得折腾，就睁一只眼闭一只眼吧，反正图片地址一般也没人关注。
+如果你想图片 URL 更干净清晰，可[自定义域名](https://developer.qiniu.com/fusion/manual/1367/custom-domain-name-binding-process)。但需先有[备案域名](https://developer.qiniu.com/af/kb/3987/how-to-make-website-and-inquires-the-police-put-on-record-information)，才可自定义。
+
 
 
 ### 文章发到公众号和自建网站，如何不必重复传图？
@@ -200,24 +206,33 @@ Win:
 
 莫担心，还记得你前面获取的 AK SK 等配置信息吗？每个标准账号可设置两对 AK SK ，以及 N 个不同空间——不同角色使用不同的配置信息就好。
 
-比如内容同事使用 `AK_1` `SK_1` 和 `content_1` 空间，内容志愿者使用 `AK_2` `SK_2` 和 `content_1` 空间；这样即使换了一届志愿者，想保证信息安全，直接更新 `AK_2` `SK_2` 为 `AK_3` `SK_3` 就好。什么，你还有讲师团队也想用 content_1 空间，还想来单独一套 AK SK ？没问题，七牛可以把空间授权别的账号读写，这样你就可以有多对 AK SK 了，详见[空间授权 - 七牛开发者中心](https://developer.qiniu.com/kodo/manual/3647/authorization-of-the-space) 。
+比如内容同事使用 `AK_1` `SK_1` 和 `content_1` 空间，内容志愿者使用 `AK_2` `SK_2` 和 `content_1` 空间；这样即使换了一届志愿者，想保证信息安全，直接更新 `AK_2` `SK_2` 为 `AK_3` `SK_3` 就好。如果还有团队也想用 content_1 空间，并想来单独一套 AK SK ，可把空间授权别的账号读写，这样你就可以有多对 AK SK 了，详见[空间授权 - 七牛开发者中心](https://developer.qiniu.com/kodo/manual/3647/authorization-of-the-space) 。
 
 
 
 <br> 
 
-随着时光推移，工具必会推陈出新，但原则大体如上。
+星移斗转，工具必会推陈出新，但原则大体如上。
 
-以上工具使用问题请自行检索或联系客服，习惯疑问欢迎留言交流。
+工具使用问题请自行检索或联系客服，习惯疑问欢迎留言交流。
+
+愿你也远离烦心琐碎，多多拥抱心流：）
+
+## 关键链接汇总
 
 
-愿你也远离烦心琐碎，多多拥抱心流，就酱 []~(￣▽￣)~*
-
-
+- 七牛注册：https://portal.qiniu.com/signup?code=3lb1qrq25es0i
+- 上传工具：
+	- Mac GUI: [Dropzone 3](https://aptonic.com/) + [这款适用于 Dropzone 3的七牛上传工具](https://blog.kyleduo.com/2017/02/27/qiniu-upload-for-dropzone/) 
+	- CLI: [命令行工具(qshell) - 七牛开发者中心](https://developer.qiniu.com/kodo/tools/1302/qshell)
+- 获取配置信息：
+	- [快速入门 - 七牛开发者中心](https://developer.qiniu.com/kodo/manual/1233/console-quickstart#step2)
+	- [怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心](https://developer.qiniu.com/af/kb/1479/how-to-access-or-locate-the-access-key-and-secret-key)
+- 七牛图片在线编辑小抄：[Hb7niuImageEditOnline · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/Hb7niuImageEditOnline)
 
 
 ## CHANGELOG 
 
-- 180721 累计快写慢改 12h ，发布
+- 180721 累计快写慢改 12h ，发布；根据 @ZoomQuiet 反馈优化， 1h
 - 180720 创建
 

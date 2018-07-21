@@ -186,7 +186,7 @@ description:
 
 如果你未满意，并相信我的品位，还乐意走出舒适区，路在这里：
 
-- [MWeb](https://www.mweb.im/)：我最常用的 MarkDown 编辑器，刚发布 3.x 版本。付费软件，从得到的心流体验来看个人觉得很值；费用也不高，当少到外头聚次餐就好如果你心疼。如果你已买 2.x ，不升级也不影响尝试这套记忆外部化的方法——我两者都买了，依然用 2.x ，因为可以隐藏工具栏减少干扰。
+- [MWeb](https://www.mweb.im/)：我最常用的 MarkDown 编辑器，刚发布 3.x 版本。付费软件，从得到的心流体验来看个人觉得很值；费用也不高，当少到外头聚次餐就好如果你心疼。如果你已买 2.x ，不升级也不影响尝试这套记忆外部化的方法。
 - [GitHub](https://github.com/)：我最常用的文档托管平台。它可供性极强，且内置很多专家级的内隐模式，如果使用得当，能极大降低个人创作复杂度。如果你之前没接触过，别被不明觉厉的操作吓退，可看我梳理的这份 [给文字工作者的 GitHub 上手攻略](https://ishanshan.im/tool/HbGitHubPre)。实在难以学会也别勉强，可用下文云端同步的替代方案，甚至只保存在本地。
 - [LOFTER](http://lofter.com/)：网易旗下的轻博客平台。 [http://mur42.lofter.com/](http://mur42.lofter.com/) 这个示例使用的主题模板是「悦」。
 - [Markdown Here](https://markdown-here.com/) ：chrome 上的插件。能把 MarkDown 未渲染的内容粘贴到网页输入框后，一键渲染成定制的 MarkDown 样式。

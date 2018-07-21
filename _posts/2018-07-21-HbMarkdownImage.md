@@ -62,9 +62,7 @@ description: 一人百人、五年十年都能优雅又省心？嗯。
 
 但这并非所有图床都可实现，找了一圈，发现目前只有七牛云支持。
 
-七牛对用户也大方，注册并实名认证，便可获得标准用户权益：无上限免费上传流量，10GB 永久免费存储空间，10万次/月 PUT/DELETE 请求，100万次/月 GET 请求，10GB/月免费 CDN 下载流量。一般够个人博客足够了。
-
-（欢迎通过我的邀请链接注册，你懂的哈哈：[https://portal.qiniu.com/signup?code=3lb1qrq25es0i](https://portal.qiniu.com/signup?code=3lb1qrq25es0i)） 
+七牛对用户也大方，注册并实名认证，便可获得标准用户权益：无上限免费上传流量，10GB 永久免费存储空间，10万次/月 PUT/DELETE 请求，100万次/月 GET 请求，10GB/月免费 CDN 下载流量。一般够个人博客足够了。（欢迎通过我的[邀请链接](https://portal.qiniu.com/signup?code=3lb1qrq25es0i)注册，你懂的哈哈） 
 
 但七牛属面向技术人士的平台，对非技术人士不太友好：官方上传工具图形界面体验不佳，甚至没有；帮助文档繁杂且技术气息浓郁，容易懵圈。
 
@@ -95,7 +93,7 @@ Mac:
 Win:
 
 * [MPic-图床神器-免费图床,不限流量,专业图床工具](http://mpic.lzhaofu.cn/)
-* [七牛 Markdown 图片快速上传工具 | Veritas501's Blog](https://veritas501.space/2017/12/12/%E4%B8%83%E7%89%9B%20Markdown%20%E5%9B%BE%E7%89%87%E5%BF%AB%E9%80%9F%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7/)
+* [七牛 Markdown 图片快速上传工具 - Veritas501's Blog](https://veritas501.space/2017/12/12/%E4%B8%83%E7%89%9B%20Markdown%20%E5%9B%BE%E7%89%87%E5%BF%AB%E9%80%9F%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7/)
 
 选个你用得顺手的就好。
 
@@ -132,7 +130,7 @@ Win:
 
 ### 3. 图片名用英文标注绝对属性
 
-为何要用英文命名，见我老文 [《命名用英文，烦恼少大半 | 团队文档命名指南》](https://ishanshan.im/community/HbDocName.html)。
+为何要用英文命名，见我老文 [《命名用英文，烦恼少大半 · 团队文档命名指南》](https://ishanshan.im/community/HbDocName.html)。
 
 成，那就不用中文嘛。于是有朋友这么来给图片命名 `2017-11-09-l-stone-0-3-pic4-new.jpg` ……
 
@@ -188,9 +186,9 @@ Win:
 
 ### 文章发到公众号和自建网站，如何不必重复传图？
 
-在 MarkDown 编辑器写完，想一键排版到公众号，可参考 [markdown|高效撰写微信公众号文章 - 简书](https://www.jianshu.com/p/8197b59aec98) 。
+在 MarkDown 编辑器写完，想一键排版到公众号，可参考 [markdown 高效撰写微信公众号文章 - 简书](https://www.jianshu.com/p/8197b59aec98) 。
 
-划重点：在 MarkDown Here 渲染后，「剪切排版内容，再粘贴」，并等一会儿，图片才能正常显示。
+划重点：在 MarkDown Here 渲染后，「**剪切排版内容，再粘贴**」，并等一会儿，图片才能正常显示。
 
 如果你嫌原配的 CSS 丑，可以自己改，或直接用别人改好的。后者在网上能搜到不少，比如 [huanxi007/markdown-here-css。](https://github.com/huanxi007/markdown-here-css) 。
 
@@ -210,7 +208,7 @@ Win:
 
 随着时光推移，工具必会推陈出新，但原则大体如上。
 
-以上工具使用问题请自行检索或联系客服，习惯疑问欢迎留言交流~
+以上工具使用问题请自行检索或联系客服，习惯疑问欢迎留言交流。
 
 
 愿你也远离烦心琐碎，多多拥抱心流，就酱 []~(￣▽￣)~*

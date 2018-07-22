@@ -12,7 +12,7 @@ description:
 
 
 
-最近复盘，发现这大半年我如有神助，几乎每月发布一个作品或项目，拿下个人探索路上一个又一个小里程碑：
+最近复盘，发现这大半年如有神助，几乎每月发布一个作品或项目，拿下个人探索路上一个又一个小里程碑：
 
 - 十二月：发出[《谢谢你给她的时光》](https://ishanshan.im/murmur/Letter2XY4Year2017.html)。第一次全篇写故事，终于有底气说自己从「逻辑」「文采」，爬上了「故事」这座写作第三峰。
 - 一月：发布 [EnjoySwingDancing 指南](https://github.com/ishanshan/EnjoySwingDancing)。头一遭有使命感地分享个人爱好，这也是 GitHub 这个全球最大同性交友网站上头一回有人分享舞蹈项目吧。

@@ -1,13 +1,24 @@
 ---
-title: MarkDown 码字发文有轻功：插图用七牛，优雅又省心（含团队最佳实践）categories: 
+title: 这样用七牛，插图优雅又省心 | MarkDown 码字发文最佳实践categories: 
 - tool
 - community
 description: 一人百人、五年十年都能优雅又省心？嗯。
 --- 
 
-## MarkDown 码字发文插图烦恼
+近期陆续遇到几个 MarkDown 码字发文棘手问题，最后却都轻松化解：
 
-使用 MarkDown 码字发文一年，我陆续遭遇以下烦恼：
+- 某张图片已用于十多篇文章，但图片有误需要更新。拿到新图，半分钟就替换完毕。
+- 辛苦写了几篇文章，同步到 App 中发现加载太慢，原来是图片最好不超过 100k/张，但宽度至少 750 。几十张图片啊……眼睛一转，5 分钟就优化完毕。
+- 之前的图床地址失效，图片无法显示，几年的文章都需更新配图，愁煞人。翻了翻本地图片，20 分钟就更新完毕。
+
+想来多归功这三年的插图习惯。再看周围朋友，陆续遭遇以下插图困扰，耗于烦心琐碎而自拔不能，很是不值。
+
+正好最近有空，赶紧分享，助更多朋友少走弯路。也能一人百人、五年十年，都优雅从容，轻松省心：）
+
+
+## MarkDown 码字发文插图困扰
+
+常在河边走，怎能不湿鞋。使用 MarkDown 码字发文，迟早遭遇以下烦恼：
 
 好不容易找到看着不错的图床，上传图片、顺利发文，结果过段时间，图片无法显示……想重新再传，可眼瞅这乱码 URL 怎么都没法识别当初用的哪张图……不想就此不管破罐破摔，也不想花时间重新找图作图，怎么办？
 
@@ -21,10 +32,7 @@ description: 一人百人、五年十年都能优雅又省心？嗯。
 
 ……
 
-
-好在这一切在前年陆续有了转机，我可以不再操心上述芝麻问题，能把时间花在更有价值的事情上。
-
-这一切，要从 MarkDown 配图机制说起——
+要解决这些怎么办的问题，先要了解 MarkDown 配图机制——
 
 ## MarkDown 配图机制
 
@@ -34,17 +42,7 @@ description: 一人百人、五年十年都能优雅又省心？嗯。
 
 **更有优势的是，需求更复杂时，管理复杂度却变化不大**：比如想让多个画框出现该画，投影过去就好，不会多占 N 倍空间；不同位置所需画面大小、清晰程度不同，调整投影参数就好；如需替换各处的这幅画，直接更换原画就好，不必挨个替换画框。
 
-理论挺美，现实如何？我……还真就实现了——
-
-某张图片已用于十多篇文章，但图片有误需要更新。拿到新图，半分钟就替换完毕。
-
-辛苦写了几篇文章，同步到 App 中发现加载太慢，原来是图片最好不超过 100k/张，但宽度至少 750 。几十张图片啊……眼睛一转，5 分钟就优化完毕。
-
-之前的图床地址失效，图片无法显示，几年的文章都需更新配图，愁煞人。翻了翻本地图片，20 分钟就更新完毕。
-
-……
-
-这么高效，怎么做到？复盘发现，若想规避上述烦恼，轻松应对风险，需要这套习惯——
+理论挺美，如何实现？需要这套习惯——
 
 
 ## 如何插图优雅又省心
@@ -83,9 +81,9 @@ description: 一人百人、五年十年都能优雅又省心？嗯。
 * 支持设定上传前缀，以便区分不同类型内容，比如 `../share/image1.jpg` &  `../clipping/image2.jpg` 
 * 支持多个存储账号，以便灵活切换个人及公司图床
 
-找来找去，Mac GUI 工具，我只发现 [Dropzone 3](https://aptonic.com/) + [这款适用于 Dropzone 3的七牛上传工具](https://blog.kyleduo.com/2017/02/27/qiniu-upload-for-dropzone/)  全都满足，配置好后使用起来也简单。后者免费，前者收费，60 块，不到一顿饭就能拿下。 CLI 工具，参见 [命令行工具(qshell) - 七牛开发者中心](https://developer.qiniu.com/kodo/tools/1302/qshell) 。
+左看右看，Mac GUI 工具，我只发现 [Dropzone 3](https://aptonic.com/) 搭配 [这款适用于 Dropzone 3的七牛上传工具](https://blog.kyleduo.com/2017/02/27/qiniu-upload-for-dropzone/) 能全满足。配置好后，拖动即可上传并获取图片地址。后者免费，前者收费，不过不贵—— 60 块，不到一顿饭就能拿下。 CLI 工具，官方的即可，参见 [命令行工具(qshell) - 七牛开发者中心](https://developer.qiniu.com/kodo/tools/1302/qshell) 。
 
-如何获取配置图床上传工具所需的 Bucket 、Access Key（下文简称 AK）、Secret Key（下文简称 SK） 等账号信息，见[快速入门 - 七牛开发者中心](https://developer.qiniu.com/kodo/manual/1233/console-quickstart) 、[怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心](https://developer.qiniu.com/af/kb/1479/how-to-access-or-locate-the-access-key-and-secret-key)。
+如何获取配置七牛上传工具所需的 Bucket 、Access Key（下文简称 AK）、Secret Key（下文简称 SK） 等账号信息，见[快速入门 - 七牛开发者中心](https://developer.qiniu.com/kodo/manual/1233/console-quickstart) 、[怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心](https://developer.qiniu.com/af/kb/1479/how-to-access-or-locate-the-access-key-and-secret-key)。
 
 如果你只有前俩要求，选择范围会广些，比如：
 
@@ -109,25 +107,26 @@ Win:
 
 但每次处理图片都去翻这文档、排列组合不同参数，就如定向越野，好不容易有捷径可走，结果看捷径地图比不抄近路还花时间，岂不南辕北辙？
 
-好在办法总比困难多——我做了份小抄，MarkDown 码字发文专用：[Hb7niuImageEditOnline · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/Hb7niuImageEditOnline) 。
+好在办法总比困难多——我做了份 cheat sheet ，MarkDown 码字发文专用：[Hb7niuImageEditOnline · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/Hb7niuImageEditOnline) 。
 
 
-凭此小抄，只需判断原图是什么格式、是否大于 2M ，即可选择对应参数，限制图片大小。
+凭此 cheat sheet ，只需判断原图是什么格式、是否大于 2M ，即可选择对应参数，限制图片大小。
 
 如果效果不满意，可直接调整 URL 参数，在浏览器中查看结果，满意后把该 URL 更新到文档中即可：
 
 ![7niuonlineedit.gif](http://ishanshan.qiniudn.com/share/7niuonlineedit.gif)
 
-为了提升效率，编辑时我一般批处理：把一篇或几篇文章的图片都上传到对应位置后，再统一处理大小。增加参数时，先判断用得最多的参数，批量替换，再微调。比如，某五个文档所用图片，多是 < 2M 的 jpg 图片，我会在 Atom 里，用 `search in directory` 批量检索出这些文档里的 `.jpg)` 字段，批量换成 `.jpg?imageMogr2/size-limit/100k!)` ，再手动把原图大于 2M 的图片 URL 参数改为 `?imageView2/2/w/1000|imageslim` 。
+为了效率，编辑时我一般批处理：把一篇或几篇文章的图片都上传到对应位置后，再统一处理大小。增加参数时，先判断用得最多的参数，批量替换，再微调。
+
+比如，某五个文档所用图片，多是 < 2M 的 jpg 。我便在可多文档查找替换的编辑器（比如 [Atom](https://atom.io/)）里，用 `search in directory` 批量检索出这些文档里的 `.jpg)` 字段，批量换成 `.jpg?imageMogr2/size-limit/100k!)` ，再手动修改原图大于 2M 的图片 URL 参数，改为 `?imageView2/2/w/1000|imageslim` 。
 
 ### 2. 图片放同一文件夹
 
-若想未来管理省心，请尽量把配图放同一文件夹。
+若想未来管理省心，需尽量把配图放同一文件夹。
 
 比如对于个人博客的图片，我一般都放本地 share 文件夹，同步时选 `share/` 前缀，比如 `http://ishanshan.qiniudn.com/share/cardsample1.png` 那些收集来的有价值的图片，则放 clipping 文件夹，选 `clipping/` 前缀，比如 `http://ishanshan.qiniudn.com/clipping/scientific_method.png` 。
 
-如此，万一遇到原图床地址失效，也可以直接把这俩路径下的图片立马上传新图床，再批量替换对应文档里的图片主域名。比如把 `ishanshan.qiniudn.com` 替换成新域名即可。 
-
+如此，万一原图床地址失效，便可直接把这俩路径下的图片立马上传新图床，再批量替换对应文档里的图片主域名。比如把 `ishanshan.qiniudn.com` 替换成新域名即可。 
 
 团队使用同理。再借本地同步盘，同步对应文件夹就好。这样一来，新人初来乍到，也能平滑接入，使用原有片源、贡献新片源。
 
@@ -137,7 +136,7 @@ Win:
 
 为何要用英文命名，见我老文 [《命名用英文，烦恼少大半 · 团队文档命名指南》](https://ishanshan.im/community/HbDocName.html)。
 
-成，那就不用中文嘛。于是有朋友这么来给图片命名 `2017-11-09-l-stone-0-3-pic4-new.jpg` ……
+成，那就不用中文。于是有朋友这么来给图片命名 `2017-11-09-l-stone-0-3-pic4-new.jpg` ……
 
 这有什么后果？如果只是个人文章，未来几乎不会再用这些图，你也不计较识别时得多花点时间点开预览，都好说。但如果发生在团队图库呢？同事若想使用，是不是就得翻看到底是啥，逐个查阅确认？假设每张图得花 1.5s 预览，每天由于名称无法马上识别得多预览 10 张图，10 位同事得多花多少时间？100 位同事呢？……好心情和心流都是被这些琐碎小事给打飞的……
 
@@ -145,9 +144,9 @@ Win:
 
 **以绝对属性而非相对属性命名，令图片树状排列**。具体来说，命名规则为 `绝对属性主题代号+图片序号`。
 
-相信你多少有体会，团队文件管理，最好少用文件夹、减少层级降低管理复杂度。那文件怎么分类？**最好以名称字母自动排序区分各主题文件**。若大主题下还想细分，则在大主题代号后加细分名称。如「家庭场景画面」为 `family`，「有爸爸的家庭画面」，命名则在 `family` 后加 `dad` ，即 `familydad` 。
+为什么要这样？相信你多少有体会，团队文件管理，最好少用文件夹、减少层级降低管理复杂度。那文件怎么分类？**最好以名称字母自动排序区分各主题文件**。若大主题下还想细分，则在大主题代号后加细分名称。如「家庭场景画面」为 `family`，「有爸爸的家庭画面」，命名则在 `family` 后加 `dad` ，即 `familydad` 。
 
-如果还没感觉，可瞅瞅这个例子：
+如果还没感觉，可瞅这个例子：
 
 	- 序号 1~9999
 	- 主题代号举例
@@ -171,7 +170,7 @@ Win:
 			- 举例：《The Very Hungry Caterpillar》 封面图片命名 `book_tvhc` 
 
 
-如果团队作业，还请不要轻易改动里头的文件名，毕竟改动后，就难快速在 MarkDown 文档里搜出这此图。此外，保存图片尽量清晰大图，以便未来用于其它场合（比如易拉宝、网站等）。
+如果你们团队作业，还请不要轻易改动里头的文件名，毕竟改动后，就难快速在 MarkDown 文档里搜出这此图。此外，保存图片尽量清晰大图，以便未来用于其它场合（比如易拉宝、网站等）。
 
 ## FAQ
 
@@ -192,7 +191,7 @@ Win:
 
 ### 文章发到公众号和自建网站，如何不必重复传图？
 
-在 MarkDown 编辑器写完，想一键排版到公众号，可参考 [markdown 高效撰写微信公众号文章 - 简书](https://www.jianshu.com/p/8197b59aec98) 。
+在 MarkDown 编辑器写完图文，想一键排版到公众号，可参考 [markdown 高效撰写微信公众号文章 - 简书](https://www.jianshu.com/p/8197b59aec98) 。
 
 划重点：在 MarkDown Here 渲染后，「**剪切排版内容，再粘贴**」，并等一会儿，图片才能正常显示。
 
@@ -223,16 +222,19 @@ Win:
 
 - 七牛注册：https://portal.qiniu.com/signup?code=3lb1qrq25es0i
 - 上传工具：
-	- Mac GUI: [Dropzone 3](https://aptonic.com/) + [这款适用于 Dropzone 3的七牛上传工具](https://blog.kyleduo.com/2017/02/27/qiniu-upload-for-dropzone/) 
+	- Mac GUI: [Dropzone 3](https://aptonic.com/) + [适用于 Dropzone 3的七牛上传工具](https://blog.kyleduo.com/2017/02/27/qiniu-upload-for-dropzone/) 
 	- CLI: [命令行工具(qshell) - 七牛开发者中心](https://developer.qiniu.com/kodo/tools/1302/qshell)
 - 获取配置信息：
 	- [快速入门 - 七牛开发者中心](https://developer.qiniu.com/kodo/manual/1233/console-quickstart#step2)
 	- [怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心](https://developer.qiniu.com/af/kb/1479/how-to-access-or-locate-the-access-key-and-secret-key)
-- 七牛图片在线编辑小抄：[Hb7niuImageEditOnline · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/Hb7niuImageEditOnline)
+- 七牛图片在线编辑
+	- cheat sheet: [Hb7niuImageEditOnline · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/Hb7niuImageEditOnline)
+	- 官方文档：[图片处理使用说明 - 七牛开发者中心](https://developer.qiniu.com/dora/manual/3683/img-directions-for-use)
 
 
 ## CHANGELOG 
 
+- 180722 修改行文思路
 - 180721 累计快写慢改 12h ，发布；根据 @ZoomQuiet 反馈优化， 1h
 - 180720 创建
 

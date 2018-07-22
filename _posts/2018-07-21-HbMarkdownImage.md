@@ -187,7 +187,7 @@ Win:
 
 标准用户新创建存储空间后，会获得这类`*.bkt.clouddn.com` 系统自动生成的测试域名。
 
-如果你想图片 URL 更干净清晰，可[自定义域名](https://developer.qiniu.com/fusion/manual/1367/custom-domain-name-binding-process)。但需先有[备案域名](https://developer.qiniu.com/af/kb/3987/how-to-make-website-and-inquires-the-police-put-on-record-information)，才可自定义。
+如果有条件，建议[在中国大陆备案一个域名](https://developer.qiniu.com/af/kb/3987/how-to-make-website-and-inquires-the-police-put-on-record-information)，图床专用。这样就可以[自定义七牛空间域名](https://developer.qiniu.com/fusion/manual/1367/custom-domain-name-binding-process) ，更稳定，图片 URL 也更干净清晰。
 
 
 

@@ -65,23 +65,23 @@ description: 一人百人、五年十年都能优雅又省心？嗯。
 
 但这并非所有图床都可实现，找了一圈，发现目前只有七牛云支持。
 
-七牛对用户也大方，注册并实名认证，便可获得标准用户权益：无上限免费上传流量，10GB 永久免费存储空间，10万次/月 PUT/DELETE 请求，100万次/月 GET 请求，10GB/月免费 CDN 下载流量。一般够个人博客足够了。（欢迎通过我的[邀请链接](https://portal.qiniu.com/signup?code=3lb1qrq25es0i)注册，你懂的哈哈） 
+七牛对用户也大方，注册并实名认证，便可获得标准用户权益：无上限免费上传流量，10GB 永久免费存储空间，10万次/月 PUT/DELETE 请求，100万次/月 GET 请求，10GB/月免费 CDN 下载流量。一般个人博客足够了。（欢迎通过我的[邀请链接](https://portal.qiniu.com/signup?code=3lb1qrq25es0i)注册，你懂的哈哈） 
 
 但七牛属面向技术人士的平台，对非技术人士不太友好：官方上传工具图形界面体验不佳，甚至没有；帮助文档繁杂且技术气息浓郁，容易懵圈。
 
-好在也得益于这是面向技术人士的平台，不少热心工程师自己开发了上传应用，解决普通用户的上传问题。还有不少热心又懂点技术的伙伴，整理了图文指南示范关键步骤。
+好在也得益于这是面向技术人士的平台，不少热心工程师已自行开发上传应用，解决普通用户上传问题。还有不少热心又懂点技术的伙伴，整理了图文指南示范关键步骤。
 
 
 #### 如何高效上传文件至七牛云
 
-图床上传工具繁多，我有以下要求：
+图床上传工具繁多，为了应对愈发复杂的需求，我有以下要求：
 
-* 支持使用原文件名，使 URL 保留原语义，而非转译成数字
+* 支持使用原文件名，保留 URL 原语义，而非转译成数字
 * 支持批量上传
 * 支持设定上传前缀，以便区分不同类型内容，比如 `../share/image1.jpg` &  `../clipping/image2.jpg` 
 * 支持多个存储账号，以便灵活切换个人及公司图床
 
-左看右看，Mac GUI 工具，我只发现 [Dropzone 3](https://aptonic.com/) 搭配 [这款适用于 Dropzone 3的七牛上传工具](https://blog.kyleduo.com/2017/02/27/qiniu-upload-for-dropzone/) 能全满足。配置好后，拖动即可上传并获取图片地址。后者免费，前者收费，不过不贵—— 60 块，不到一顿饭就能拿下。 CLI 工具，官方的即可，参见 [命令行工具(qshell) - 七牛开发者中心](https://developer.qiniu.com/kodo/tools/1302/qshell) 。
+左看右看，Mac GUI 工具，只发现 [Dropzone 3](https://aptonic.com/) 搭配 [这款适用于 Dropzone 3的七牛上传工具](https://blog.kyleduo.com/2017/02/27/qiniu-upload-for-dropzone/) 能全满足。配置好后使用也方便，拖动即可上传并获取图片地址。后者免费，前者收费，不过不贵—— 60 块，不到一顿饭就能拿下。 CLI 工具，官方的即可，参见 [命令行工具(qshell) - 七牛开发者中心](https://developer.qiniu.com/kodo/tools/1302/qshell) 。
 
 如何获取配置七牛上传工具所需的 Bucket 、Access Key（下文简称 AK）、Secret Key（下文简称 SK） 等账号信息，见[快速入门 - 七牛开发者中心](https://developer.qiniu.com/kodo/manual/1233/console-quickstart) 、[怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心](https://developer.qiniu.com/af/kb/1479/how-to-access-or-locate-the-access-key-and-secret-key)。
 
@@ -98,14 +98,14 @@ Win:
 * [MPic-图床神器-免费图床,不限流量,专业图床工具](http://mpic.lzhaofu.cn/)
 * [七牛 Markdown 图片快速上传工具 - Veritas501's Blog](https://veritas501.space/2017/12/12/%E4%B8%83%E7%89%9B%20Markdown%20%E5%9B%BE%E7%89%87%E5%BF%AB%E9%80%9F%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7/)
 
-选个你用得顺手的就好。
+但这难保一人百人、五年十年依然优雅省心，你根据个人情况评估吧：）
 
 
 #### 如何高效在线处理图片
 
 如何在线处理图片，七牛给出了详细的文档 [图片处理使用说明 - 七牛开发者中心](https://developer.qiniu.com/dora/manual/3683/img-directions-for-use) 。
 
-但每次处理图片都去翻这文档、排列组合不同参数，就如定向越野，好不容易有捷径可走，结果看捷径地图比不抄近路还花时间，岂不南辕北辙？
+不过每次处理图片都去翻这文档、排列组合不同参数，就如定向越野，好不容易有捷径可走，结果看捷径地图比不抄近路还花时间，岂不南辕北辙？
 
 好在办法总比困难多——我做了份 cheat sheet ，MarkDown 码字发文专用：[Hb7niuImageEditOnline · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/Hb7niuImageEditOnline) 。
 
@@ -122,7 +122,7 @@ Win:
 
 ### 2. 图片放同一文件夹
 
-若想未来管理省心，需尽量把配图放同一文件夹。
+若想未来管理省心，需要尽量把配图放同一文件夹。
 
 比如对于个人博客的图片，我一般都放本地 share 文件夹，同步时选 `share/` 前缀，比如 `http://ishanshan.qiniudn.com/share/cardsample1.png` 那些收集来的有价值的图片，则放 clipping 文件夹，选 `clipping/` 前缀，比如 `http://ishanshan.qiniudn.com/clipping/scientific_method.png` 。
 
@@ -134,7 +134,7 @@ Win:
 
 ### 3. 图片名用英文标注绝对属性
 
-为何要用英文命名，见我老文 [《命名用英文，烦恼少大半 · 团队文档命名指南》](https://ishanshan.im/community/HbDocName.html)。
+为何命名要用英文，见我老文 [《命名用英文，烦恼少大半 · 团队文档命名指南》](https://ishanshan.im/community/HbDocName.html)。
 
 成，那就不用中文。于是有朋友这么来给图片命名 `2017-11-09-l-stone-0-3-pic4-new.jpg` ……
 
@@ -146,7 +146,7 @@ Win:
 
 为什么要这样？相信你多少有体会，团队文件管理，最好少用文件夹、减少层级降低管理复杂度。那文件怎么分类？**最好以名称字母自动排序区分各主题文件**。若大主题下还想细分，则在大主题代号后加细分名称。如「家庭场景画面」为 `family`，「有爸爸的家庭画面」，命名则在 `family` 后加 `dad` ，即 `familydad` 。
 
-如果还没感觉，可瞅这个例子：
+如果还没感觉，可瞅瞅这个例子：
 
 	- 序号 1~9999
 	- 主题代号举例
@@ -170,7 +170,7 @@ Win:
 			- 举例：《The Very Hungry Caterpillar》 封面图片命名 `book_tvhc` 
 
 
-如果你们团队作业，还请不要轻易改动里头的文件名，毕竟改动后，就难快速在 MarkDown 文档里搜出这此图。此外，保存图片尽量清晰大图，以便未来用于其它场合（比如易拉宝、网站等）。
+如果你们团队作业，还请不要轻易改动里头的文件名。毕竟改动后，就难快速在 MarkDown 文档里搜出这此图。此外，保存图片尽量清晰大图，以便未来用于其它场合（比如易拉宝、网站等）。
 
 ## FAQ
 
@@ -207,8 +207,6 @@ Win:
 
 比如内容同事使用 `AK_1` `SK_1` 和 `content_1` 空间，内容志愿者使用 `AK_2` `SK_2` 和 `content_1` 空间；这样即使换了一届志愿者，想保证信息安全，直接更新 `AK_2` `SK_2` 为 `AK_3` `SK_3` 就好。如果还有团队也想用 content_1 空间，并想来单独一套 AK SK ，可把空间授权别的账号读写，这样你就可以有多对 AK SK 了，详见[空间授权 - 七牛开发者中心](https://developer.qiniu.com/kodo/manual/3647/authorization-of-the-space) 。
 
-
-
 <br> 
 
 星移斗转，工具必会推陈出新，但原则大体如上。
@@ -227,14 +225,18 @@ Win:
 - 获取配置信息：
 	- [快速入门 - 七牛开发者中心](https://developer.qiniu.com/kodo/manual/1233/console-quickstart#step2)
 	- [怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心](https://developer.qiniu.com/af/kb/1479/how-to-access-or-locate-the-access-key-and-secret-key)
-- 七牛图片在线编辑
+- 七牛图片在线处理
 	- cheat sheet: [Hb7niuImageEditOnline · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/Hb7niuImageEditOnline)
 	- 官方文档：[图片处理使用说明 - 七牛开发者中心](https://developer.qiniu.com/dora/manual/3683/img-directions-for-use)
 
 
+
+
+
+
 ## CHANGELOG 
 
-- 180722 修改行文思路
+- 180722 修改行文思路 1h
 - 180721 累计快写慢改 12h ，发布；根据 @ZoomQuiet 反馈优化， 1h
 - 180720 创建
 

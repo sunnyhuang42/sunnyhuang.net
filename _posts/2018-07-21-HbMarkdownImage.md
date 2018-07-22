@@ -40,7 +40,7 @@ description: 一人百人、五年十年都能优雅又省心？嗯。
 
 **这样有什么好处？大大降低文档大小，轻盈畅快**。且图片管理方便：既然是把画投影在画框，那理论上只要改变投影参数，比如焦距、投影距离等，就可改变画框中画面的大小、清晰程度，不需调整原画。
 
-**更有优势的是，需求更复杂时，管理复杂度却变化不大**：比如想让多个画框出现该画，投影过去就好，不会多占 N 倍空间；不同位置所需画面大小、清晰程度不同，调整投影参数就好；如需替换各处的这幅画，直接更换原画就好，不必挨个替换画框。
+**更大优势，是需求更复杂时，管理复杂度却变化不大**：比如想让多个画框出现该画，投影过去就好，不会多占 N 倍空间；不同位置所需画面大小、清晰程度不同，调整投影参数就好；如需替换各处的这幅画，直接更换原画就好，不必挨个替换画框。
 
 理论挺美，如何实现？需要这套习惯——
 
@@ -59,6 +59,7 @@ description: 一人百人、五年十年都能优雅又省心？嗯。
 本来宽 910 的图片：http://ishanshan.qiniudn.com/clipping/scientific_method.png
 ![scientific_method.png](http://ishanshan.qiniudn.com/clipping/scientific_method.png)
 
+
 我希望最宽 400 ，于是在地址上加上限制宽度的参数 `?imageView2/2/w/400` ，图片地址变为 http://ishanshan.qiniudn.com/clipping/scientific_method.png?imageView2/2/w/400 即可：
 ![](http://ishanshan.qiniudn.com/clipping/scientific_method.png?imageView2/2/w/400)
 
@@ -76,7 +77,7 @@ description: 一人百人、五年十年都能优雅又省心？嗯。
 
 图床上传工具繁多，为了应对愈发复杂的需求，我有以下要求：
 
-* 支持使用原文件名，保留 URL 原语义，而非转译成数字
+* 支持使用原文件名，URL 能保留原语义，而非转译成数字
 * 支持批量上传
 * 支持设定上传前缀，以便区分不同类型内容，比如 `../share/image1.jpg` &  `../clipping/image2.jpg` 
 * 支持多个存储账号，以便灵活切换个人及公司图床
@@ -114,7 +115,7 @@ Win:
 
 如果效果不满意，可直接调整 URL 参数，在浏览器中查看结果，满意后把该 URL 更新到文档中即可：
 
-![7niuonlineedit.gif](http://ishanshan.qiniudn.com/share/7niuonlineedit.gif)
+![7niuonlineedit1.gif](http://ishanshan.qiniudn.com/share/7niuonlineedit1.gif)
 
 为了效率，编辑时我一般批处理：把一篇或几篇文章的图片都上传到对应位置后，再统一处理大小。增加参数时，先判断用得最多的参数，批量替换，再微调。
 
@@ -203,7 +204,7 @@ Win:
 
 七牛不支持团队账号，登录即有最高权限。这要是谁手滑改了什么配置，岂不乱套？
 
-莫担心，还记得你前面获取的 AK SK 等配置信息吗？每个标准账号可设置两对 AK SK ，以及 N 个不同空间——不同角色使用不同的配置信息就好。
+莫担心，还记得你前面获取的 AK SK 等配置信息吧？每个标准账号可设置两对 AK SK ，以及 N 个不同空间——不同角色使用不同的配置信息就好。
 
 比如内容同事使用 `AK_1` `SK_1` 和 `content_1` 空间，内容志愿者使用 `AK_2` `SK_2` 和 `content_1` 空间；这样即使换了一届志愿者，想保证信息安全，直接更新 `AK_2` `SK_2` 为 `AK_3` `SK_3` 就好。如果还有团队也想用 content_1 空间，并想来单独一套 AK SK ，可把空间授权别的账号读写，这样你就可以有多对 AK SK 了，详见[空间授权 - 七牛开发者中心](https://developer.qiniu.com/kodo/manual/3647/authorization-of-the-space) 。
 
@@ -236,7 +237,7 @@ Win:
 
 ## CHANGELOG 
 
-- 180722 修改行文思路 1h
+- 180722 修改行文思路、动图 1.5h
 - 180721 累计快写慢改 12h ，发布；根据 @ZoomQuiet 反馈优化， 1h
 - 180720 创建
 

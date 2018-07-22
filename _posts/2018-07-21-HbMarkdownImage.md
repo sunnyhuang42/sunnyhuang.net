@@ -149,27 +149,28 @@ Win:
 
 如果还没感觉，可瞅瞅这个例子：
 
-	- 序号 1~9999
-	- 主题代号举例
-		- family 家庭场景
-			- familydad 有爸爸的家庭画面
-			- familymom 有妈妈的家庭画面
-			- familyplay 家庭玩耍
-		- housework 做家务
-		- injury 受伤场景
-		- learning 学习场景
-		- object 物品
-			- objectcup 水杯
-			- objectbag 书包
-			- objecttoy 玩具
-		- unhappy 不开心的场景
-			- unhappydad 不开心的爸爸
-			- unhappyparents 不开心的家长
-		- book 图书封面：
-			- 规则：`book_书名首字母缩写`
-			- 注意：有英文名的优先使用英文名，没有的话用中文名首字母缩写
-			- 举例：《The Very Hungry Caterpillar》 封面图片命名 `book_tvhc` 
-
+```
+- 序号 1~9999
+- 主题代号举例
+	- family 家庭场景
+		- familydad 有爸爸的家庭画面
+		- familymom 有妈妈的家庭画面
+		- familyplay 家庭玩耍
+	- housework 做家务
+	- injury 受伤场景
+	- learning 学习场景
+	- object 物品
+		- objectcup 水杯
+		- objectbag 书包
+		- objecttoy 玩具
+	- unhappy 不开心的场景
+		- unhappydad 不开心的爸爸
+		- unhappyparents 不开心的家长
+	- book 图书封面：
+		- 规则：`book_书名首字母缩写`
+		- 注意：有英文名的优先使用英文名，没有的话用中文名首字母缩写
+		- 举例：《The Very Hungry Caterpillar》 封面图片命名 `book_tvhc` 
+```
 
 如果你们团队作业，还请不要轻易改动里头的文件名。毕竟改动后，就难快速在 MarkDown 文档里搜出这此图。此外，保存图片尽量清晰大图，以便未来用于其它场合（比如易拉宝、网站等）。
 
@@ -219,7 +220,7 @@ Win:
 ## 关键链接汇总
 
 
-- 七牛注册：https://portal.qiniu.com/signup?code=3lb1qrq25es0i
+- 七牛注册：[https://portal.qiniu.com/signup?code=3lb1qrq25es0i](https://portal.qiniu.com/signup?code=3lb1qrq25es0i)
 - 上传工具：
 	- Mac GUI: [Dropzone 3](https://aptonic.com/) + [适用于 Dropzone 3的七牛上传工具](https://blog.kyleduo.com/2017/02/27/qiniu-upload-for-dropzone/) 
 	- CLI: [命令行工具(qshell) - 七牛开发者中心](https://developer.qiniu.com/kodo/tools/1302/qshell)
@@ -229,7 +230,7 @@ Win:
 - 七牛图片在线处理
 	- cheat sheet: [Hb7niuImageEditOnline · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/Hb7niuImageEditOnline)
 	- 官方文档：[图片处理使用说明 - 七牛开发者中心](https://developer.qiniu.com/dora/manual/3683/img-directions-for-use)
-
+- 批量查找替换多个文档内容的编辑器：[Atom](https://atom.io/)
 
 
 

@@ -123,7 +123,7 @@ Win:
 
 ### 2. 图片放同一文件夹
 
-若想未来管理省心，需要尽量把配图放同一文件夹。
+若想未来管理省心，需要尽量把配图放同一文件夹。不仅减少存储时不必要的决策、取用时查找的麻烦，还利于应对万一。
 
 比如对于个人博客的图片，我一般都放本地 share 文件夹，同步时选 `share/` 前缀，比如 `http://ishanshan.qiniudn.com/share/cardsample1.png` 那些收集来的有价值的图片，则放 clipping 文件夹，选 `clipping/` 前缀，比如 `http://ishanshan.qiniudn.com/clipping/scientific_method.png` 。
 
@@ -211,7 +211,7 @@ Win:
 
 <br> 
 
-星移斗转，工具必会推陈出新，但原则大体如上。
+星移斗转，工具必会推陈出新，但省心原则大体如上。
 
 工具使用问题请自行检索或联系客服，习惯疑问欢迎留言交流。
 

@@ -220,11 +220,13 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 PS.
 
 1. 如果你看到这篇文章想注册 WorkFlowy ，欢迎使用我的邀请链接注册，哈哈你懂的：I've been using WorkFlowy to organize my life, and thought you might like it. If you want to check it out, here's an invite link that gets you 2x more free space: <https://workflowy.com/invite/181f4657.emlx>
-2. 作品和作品的差别，源于卡片。人和人的差异，垒于习惯。想更优雅畅快地输出作品，这套习惯也助益颇大：[卡片助力输出， MarkDown + GitHub + LOFTER 有轻功 · ishanshan's blog](https://ishanshan.im/selfedu/tool/HbOutputOwetoCards) 。
+2. 相关文章索引：
+    - 作品和作品的差别，源于卡片。人和人的差异，垒于习惯。想更优雅畅快地输出作品，这套习惯也助益颇大：[卡片助力输出， MarkDown + GitHub + LOFTER 有轻功 · ishanshan's blog](https://ishanshan.im/selfedu/tool/HbOutputOwetoCards) 。
+    - 周报怎么写，能更省力更受益更有动力？且看 [用心写周报的同事，绩效不会太差 · ishanshan's blog](https://ishanshan.im/selfedu/TipsWeekly.html) 。
 
 ## CHANGELOG
 
-- 180724 增补[《卡片助力输出， MarkDown + GitHub + LOFTER 有轻功》](https://ishanshan.im/selfedu/tool/HbOutputOwetoCards)地址
+- 180726 增补同类文章地址
 - 180703 增补 WorkFlowy 趁手优雅的原因：契合信息在脑中的状态
 - 180421 把一些示例图片替换为 embed 形式
 - 180331 增补频繁切换多个深层级节点的建议

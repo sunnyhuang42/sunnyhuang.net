@@ -1,5 +1,5 @@
 ---
-title: 讲座控，控住你的人生 | 学习自传（一）
+title: 讲座控，控住你的人生 · 学习自传（一）
 categories:
 - selfedu
 - community

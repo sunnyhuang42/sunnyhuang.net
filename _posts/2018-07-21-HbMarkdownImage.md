@@ -1,5 +1,5 @@
 ---
-title: 这样用七牛，插图优雅又省心 | MarkDown 码字发文最佳实践categories: 
+title: 这样用七牛，插图优雅又省心 · MarkDown 码字发文最佳实践categories: 
 - tool
 - community
 description: 一人百人、五年十年都能优雅又省心？嗯。

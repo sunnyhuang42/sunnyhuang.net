@@ -1,4 +1,166 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-26T18:19:48+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">这样用七牛，插图优雅又省心 | MarkDown 码字发文最佳实践</title><link href="http://localhost:4000/tool/community/HbMarkdownImage" rel="alternate" type="text/html" title="这样用七牛，插图优雅又省心 | MarkDown 码字发文最佳实践" /><published>2018-07-21T00:00:00+08:00</published><updated>2018-07-21T00:00:00+08:00</updated><id>http://localhost:4000/tool/community/HbMarkdownImage</id><content type="html" xml:base="http://localhost:4000/tool/community/HbMarkdownImage">&lt;p&gt;近期陆续遇到几个 MarkDown 码字发文棘手问题，最后却都轻松化解：&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-28T19:59:55+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">如何带出和自己一样能干的团队 · 半年摸爬小记</title><link href="http://localhost:4000/selfedu/community/TipsBecomeTeamLeaderBasic" rel="alternate" type="text/html" title="如何带出和自己一样能干的团队 · 半年摸爬小记" /><published>2018-07-28T00:00:00+08:00</published><updated>2018-07-28T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/community/TipsBecomeTeamLeaderBasic</id><content type="html" xml:base="http://localhost:4000/selfedu/community/TipsBecomeTeamLeaderBasic">&lt;p&gt;这份小记写于 2016 年秋，即使陆续修改，也没好意思发出——工作年头越长，带团队的体悟和反思越多，越觉当时疏浅局限。&lt;/p&gt;
+
+&lt;p&gt;今天整理资料翻见，依然面红耳赤。犹豫半晌，还是发布：这些记录虽与我现在重视的维度相去甚远，但非价值全无——踏上 leader 之路的新手，能从中捕获丝丝信心，点点启发吧：）&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;〇&quot;&gt;〇&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;这半年，你觉得自己有什么收获，最大的变化是什么？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;十一假期和老友吃饭，半年未见，他冒出这样一个问题。&lt;/p&gt;
+
+&lt;p&gt;忽然被问，一时难以回答。从近期最有成就感的事情说起吧。&lt;/p&gt;
+
+&lt;h2 id=&quot;一&quot;&gt;一&lt;/h2&gt;
+
+&lt;p&gt;上个月小组工作会谈，我试着邀请在我这儿实习三个月的妹子毕业后全职加盟。&lt;/p&gt;
+
+&lt;p&gt;坦白说邀请前我特别没底——她出身名校，还在校外折腾过不少事情，不缺机会；来开智实习前，有不少实习选择，且还不确定从事哪个行业。为了勾搭她来实习，我特意约饭。了解完她之前的探索经历和动机，「善意」提醒：你还有一年才毕业，探索职业方向的机会很多；我建议你先来开智实习，养成好的协作习惯和职场素养，再继续探索。如此这般，她思量再三，终于过来。&lt;/p&gt;
+
+&lt;p&gt;没想到会谈那天我留人话一出口，她很开心：啊，真的可以吗？&lt;/p&gt;
+
+&lt;p&gt;我心中重担卸下一半，再问。她答：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;在开智实习的这段时间，我基本确定以后做教育。这里真的能学到很多，还有我喜欢的协作方式、喜欢的同事、喜欢的老板……&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;有那么一瞬，我屏息凝神，却喜不自胜——下属的肯定比老板的肯定更叫人欢欣鼓舞：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;老板的肯定，通常意味着我做事能力不错；下属的肯定，则或多或少意味着，我带人、带团队的能力不错&lt;/strong&gt;。这预示着我在匹配转变的角色，过去半年有意锻炼的方向确有寸进。&lt;/p&gt;
+
+&lt;h2 id=&quot;二&quot;&gt;二&lt;/h2&gt;
+
+&lt;p&gt;《&lt;a href=&quot;https://book.douban.com/subject/6536593/&quot;&gt;领导梯队&lt;/a&gt;(The Leadership Pipeline)》一书，把职业路径分为几大阶段：管理自我、管理他人、管理经理人员、管理职能部门、管理事业部、管理业务群组、管理全集团，并给出了每个阶段对「工作理念」「时间应用」「领导技能」的要求和关注点。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://openmindclub.zoomquiet.top/ishanshan/blog/LeadershipStructure.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;处于管理个人阶段，主要学习工作计划、进度管理、工作内容、工作质量和工作的可靠性，需要提高的工作价值观，包括公司文化和职业标准。&lt;/p&gt;
+
+&lt;p&gt;而到管理他人阶段，应学技能则为工作计划、知人善任、分配工作、激励团队、教练辅导和绩效评估。处于这个阶段的管理者必须坚信，把时间用于帮助他人、制定计划、教练辅导和类似的工作，是他们的职责，而且他们必须把通过他人完成任务作为自己取得成功的关键。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;从管理个人，到管理团队，需要从自己做事转变为带队伍做事，不仅完成自己的工作，还须能帮助其他人完成工作。处在这个阶段，带出能干的团队，比自己能干更重要&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;今年四月初读此书，恰逢团队规模渐长，我一下豁然，开始有意识地给团队成员更多引导和反馈，给衡量自己绩效的维度加码：从「我能把这工作做好」，调整为「我能带出和我一样能把这工作做好的同事」。&lt;/p&gt;
+
+&lt;h2 id=&quot;三&quot;&gt;三&lt;/h2&gt;
+
+&lt;p&gt;如何让新人快速上手？我不得不常思索这个问题。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;知人善任&lt;/strong&gt;——书中案例和个人经历，无不指向这点。于是，我开始在新人入职之初，先进行一轮坦诚沟通，了解对方的动机、长项、想提升的方向，寻找对方成长方向和团队发展方向的契合点，力求分工匹配其特长和诉求，助其成长更快更有干劲。&lt;/p&gt;
+
+&lt;p&gt;比如有的新人，擅长沟通协调，但过往经历多是一次性项目，传承意识不足。我会安排他先参与已有模板规范的小项目；且同时参与几个，借助大脑强大的模式识别能力，快速明了降低项目运维成本的要点，再独立统筹项目。&lt;/p&gt;
+
+&lt;p&gt;有的新人，自信阳光机敏主动，但对团队价值观了解甚少。我会安排他在主线工作之外，负责一些有助了解团队气质的事情，如张罗内部每周分享会，借此和更多团队成员打交道；再如给发来简历的候选人打电话进行第一轮沟通，借频繁对外介绍团队倒逼自己了解团队文化，借跟我确认为什么这位候选人合适那位不合适，增进对团队偏好的把握。&lt;/p&gt;
+
+&lt;p&gt;但个人和团队都在快速发展变化，之前匹配的分工指不定什么时候就不匹配了。&lt;strong&gt;坐等问题暴露不如主动出击&lt;/strong&gt;，我开始定期和小组成员 &lt;strong&gt;1 on 1 沟通，每 4~6 周碰头小结上阶段工作&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;刚开始的定期沟通简单粗暴，约个时间地点现场开聊即可。后来翻了些 &lt;a href=&quot;https://hbr.org/&quot;&gt;Harvard Business Review - Ideas and Advice for Leaders&lt;/a&gt; 和 &lt;a href=&quot;https://medium.com/&quot;&gt;Medium – a place to read and write big ideas and important stories&lt;/a&gt; 里的文章，发现这么做不够高效，便结合文中建议及团队特性，逐步迭代为文字小结+当面沟通：组员先参考下述自评模板复盘上阶段工作，我了解他们自我感受的变化后，再给出工作观察意见，辅助细化下阶段提升目标和行动成果，提高输出效率。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/tepmonthlyreview2.png&quot; alt=&quot;tepmonthlyreview2.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(该模板原件见 &lt;a href=&quot;https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbWorkReviewMonthly.md&quot;&gt;HbWorkReviewMonthly.md at master · ishanshan/CollaborationGuide4Shaper&lt;/a&gt;)&lt;/p&gt;
+
+&lt;p&gt;虽是给别人做 1 on 1 沟通，我亦收获不小。如复盘时想不到有成就感的事，可回想倍感成长的事情，一样能找到接下来可多多投入的方向；再如还如看到对方探索方向转变，即使担心也不再评判，而是引导询问对方对这样的探索结果是否满意，为什么；又如给建议时，不说建议你怎么做，而是「如果换作我，我会怎么做，为什么」，这样对方更易接受；还如派任务时，不说「有劳这样这样」，而是「这样这样，你觉得如何」，比如「初稿下周二 14:00 前发给大伙查阅，你觉得如何？」，既获取对方承诺让结果更易达成，也给对方选择余地感觉更自主……&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;教练辅导&lt;/strong&gt;，也是带队关键。&lt;/p&gt;
+
+&lt;p&gt;彼时我已入职 10 个月，经手 4 门课程，和同事从零到一摸索出公司常规课程的跟进节奏和模板，熟悉课程启动筹备到结业复盘的每个环节，知晓品质要求及易失误的细节。当务之急，是让新同事入职 3-4 个月后，也能独立操盘一门常规课程，把控节奏保证品质。&lt;/p&gt;
+
+&lt;p&gt;可课程节奏分为研发筹备、招生开课、日常运营、结业、复盘五大阶段，全程 3-5 个月，这对新人上手实在不友好。好在一个时期多有几门课程，每门所处环节不一，新人恰得在短时间内，跟着已熟悉业务的同事体验所有环节。如此便缩短了新人熟悉节奏的周期。&lt;/p&gt;
+
+&lt;p&gt;至于品质，每门课程都已积累不少模板、行动指南，即使老手不过多介入，新人也易独立完成不出大错。但要把结果从六十分做到九十分，还靠个人主动刻意练习（deliberate practice，要点见 &lt;a href=&quot;http://www.yangzhiping.com/column/deliberate-practice.html&quot;&gt;刻意练习的本质 - 阳志平的网志&lt;/a&gt;），不断积累行动检查清单。&lt;/p&gt;
+
+&lt;p&gt;靠个人主动？这有风险呀。那几周我脑子里又多一个待解问题。&lt;/p&gt;
+
+&lt;p&gt;能否降低一些要求？不能——&lt;/p&gt;
+
+&lt;p&gt;在线课程，呈现到用户界面的内容更须简明无歧义，才不浪费用户时间。&lt;/p&gt;
+
+&lt;p&gt;所以，在新人还没熟悉&lt;a href=&quot;https://github.com/OpenMindClub/Share/wiki&quot;&gt;开智特色的协作机制和规范&lt;/a&gt;前，要保证交付时效和品质，唯有简单粗暴处理：所有交付用户界面的文字，都须至少项目经理审订确认无歧义才能发出。但工作节奏飞快，老人难免没时间一一解释为何调整这里、为何调整成这样。&lt;/p&gt;
+
+&lt;p&gt;那降低刻意练习和积累检查清单的门槛？对头——&lt;/p&gt;
+
+&lt;p&gt;日常输出交付的大部分成果都为文案/文档，内部协作平台 GitHub 可对比任意版本、获取 URL ，正好刻意练习——&lt;strong&gt;借助 GitHub 版本对比功能，新人便可以自行品味修订之处。思考分析修订原因后，即逮老人确认，完善检查清单及案例，提升上手效率&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/samplereviewdiff1.gif&quot; alt=&quot;samplereviewdiff1.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;有些重要技能难借工具加速反馈，比如电话做用户调研或沟通候选人，但接触外部事关公司品牌，又不能降低要求，只有花时间教练：&lt;/p&gt;
+
+&lt;p&gt;新人查阅操作指南后，我先当面强调要点、拨通电话示范一轮，并让对方与我演练。演练合格，新人才开始拨打对方电话。第一通电话我一般旁听，结束后新人先自评，比如说说做得好和需改进的，我再给反馈。&lt;/p&gt;
+
+&lt;p&gt;部分新人挂电话后下意识地先问我有什么建议，为了助对方习惯独立思考又不显生硬，此时我多沉吟两秒装作没想好，然后抬头满眼期待地回问「&lt;strong&gt;你觉得呢？&lt;/strong&gt;」这一&lt;strong&gt;管理神句&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;一些不必及时反馈的细节，则留待每周固定时间给出。试来试去，借助周报反馈最稳当：一是时间稳定易成习惯，二是刚了然整体进展，易给出精准反馈；而且&lt;a href=&quot;https://ishanshan.im/selfedu/TipsWeekly.html&quot;&gt;提交周报&lt;/a&gt;，同事多少是期待得到反馈的，相较冷不丁收到更乐听受。&lt;/p&gt;
+
+&lt;p&gt;于是每周再忙，我都抽时间处理小组成员周报，发现进步及时鼓励肯定，遇到优秀实践及时分享扩散。毕竟刚从新手阶段过来，深知投石有声下回再投更有动力。&lt;/p&gt;
+
+&lt;h2 id=&quot;四&quot;&gt;四&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;这么顺利？没什么教训么？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;老友饶有兴趣地等着下文。&lt;/p&gt;
+
+&lt;p&gt;我挠挠头本想嘚瑟，结果发现还真有……&lt;/p&gt;
+
+&lt;p&gt;那是一个炎热的午后，几周前入职的实习生半开玩笑地说了句：闪闪你可以像肯定学员一样夸赞一下我们么？空气一阵酸凉，我忽然意识到了什么——&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;对外的事情最重要，对内的事情都可以缓缓，这是团队共识&lt;/strong&gt;。所以之前虽然团队内外，我都发现很多值得肯定和鼓励的事情，但只在学员和外部合作伙伴界面频繁点出。毕竟给出&lt;strong&gt;一个能培养成长型心智（&lt;a href=&quot;https://www.brainpickings.org/2014/01/29/carol-dweck-mindset/&quot;&gt;growth mindset&lt;/a&gt;）的夸赞，需要肯定「努力」而非「聪明」，肯定「过程」而非「结果」，肯定「成长」而非「表现」&lt;/strong&gt;。这免不了留心观察、筹措语言、择时送出，得费不少精力；精力有限，当然先紧着对外的事情——给学员更多优质肯定增强学习信心。而泛泛的「赞」「真棒」「厉害」，未免敷衍，不如不说。&lt;/p&gt;
+
+&lt;p&gt;我还经常转发如何夸赞的好文给团队学习，却未曾想&lt;strong&gt;磨刀不误砍柴工：同事们切身感受过何为好夸赞，才更易对外传递相同体验啊。况且激励团队，亦是管理他人阶段的重要职责&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;回头是岸，我开始积极向同事表达赞美。即使来不及送上大段称赞，也会先简短点出 1-2 个进步之处或给团队的正面影响。遇到团队里有同事擅长营造仪式感、小惊喜，不忘引导鼓励对方在主线工作之余，发挥优势一起增加团队温度。&lt;/p&gt;
+
+&lt;p&gt;再一教训，来自偶然听来的问话：你说重视这事儿，那咱算算到底投入了多少时间？&lt;/p&gt;
+
+&lt;p&gt;艰难地咽了咽口水，扭头我就开始&lt;a href=&quot;https://ishanshan.im/selfedu/HbOutputOwetoWorkFlowy.html&quot;&gt;在工作日志中分类记录工时&lt;/a&gt;，统计花在团队管理事务的时间。一算才发现，只有 1/10~1/8 。&lt;strong&gt;重视某件事的程度通常和投入的时间精力正相关&lt;/strong&gt;。这结果多少意味着，我还未脱离管理个人阶段的工作理念和时间应用方式，更习惯自己完成工作而非带队伍做事。&lt;/p&gt;
+
+&lt;p&gt;有句话说得好：You can’t change what you don’t notice. 反之亦然：You can change what you’ve noticed. 有了「工时」这个显而易见的维度，我开始有意识地多做那些能增强团队战斗力的事情，每周检视。几周之后，自己每周带队伍做事的时间终于稳定在 1/4~1/3 ，比如：&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/leadershipcounttimemanageusage2.png?imageView2/2/w/450&quot; alt=&quot;leadershipcounttimemanageusage2.png&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;五&quot;&gt;五&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;如何培养新人？如何快速培养新人？如何持续、快速培养新人？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;悠悠半载，前两问已解十之八九，我开始有时间思考抽象级别更高的问题。最后一问，或许是让新人再带新人？就像我开始带新人才明白老板过往种种提醒。&lt;/p&gt;
+
+&lt;p&gt;不管怎样，新阶段继续求索，走着。&lt;/p&gt;
+
+&lt;h2 id=&quot;后记&quot;&gt;后记&lt;/h2&gt;
+
+&lt;p&gt;转眼走过两年。&lt;/p&gt;
+
+&lt;p&gt;冲过更多风雨，现在越发相信，&lt;strong&gt;即使平时和战时所需的领导风格迥异，但带团队最关键的，都是找发展迅速的事儿做&lt;/strong&gt;。如此，即使成员各有缺点，也妨害不大，毕竟大伙注意力都在应对源源不断的新挑战。何况此时大伙儿更易高速成长，优秀伙伴也更乐意加盟。&lt;/p&gt;
+
+&lt;p&gt;日常思索焦点也由此转变：团队的核心竞争力是什么？如果只能做好一件事，是什么？我及我的团队，在整体业务中是什么角色，做什么能强化护城河？&lt;/p&gt;
+
+&lt;p&gt;管理风格则朝「&lt;a href=&quot;https://www.slideshare.net/reed2001/culture-1798664/80-If_you_want_to_build&quot;&gt;Context, not Control&lt;/a&gt;」靠拢，尽己所能提供背景信息，激发并相信团队自主判断的能力。&lt;/p&gt;
+
+&lt;p&gt;未来肯定还会变化，先记在此，他日再来比对 ;-)&lt;/p&gt;
+
+&lt;p&gt;2018-07-28&lt;/p&gt;
+
+&lt;h2 id=&quot;changelog&quot;&gt;CHANGELOG&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;180728 修订后记，整体润色，发布&lt;/li&gt;
+  &lt;li&gt;171123 增加后记&lt;/li&gt;
+  &lt;li&gt;170126 增加案例&lt;/li&gt;
+  &lt;li&gt;161027 修订完善&lt;/li&gt;
+  &lt;li&gt;161005 创建&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">这份小记写于 2016 年秋，即使陆续修改，也没好意思发出——工作年头越长，带团队的体悟和反思越多，越觉当时疏浅局限。 今天整理资料翻见，依然面红耳赤。犹豫半晌，还是发布：这些记录虽与我现在重视的维度相去甚远，但非价值全无——踏上 leader 之路的新手，能从中捕获丝丝信心，点点启发吧：）</summary></entry><entry><title type="html">这样用七牛，插图优雅又省心 · MarkDown 码字发文最佳实践</title><link href="http://localhost:4000/tool/community/HbMarkdownImage" rel="alternate" type="text/html" title="这样用七牛，插图优雅又省心 · MarkDown 码字发文最佳实践" /><published>2018-07-21T00:00:00+08:00</published><updated>2018-07-21T00:00:00+08:00</updated><id>http://localhost:4000/tool/community/HbMarkdownImage</id><content type="html" xml:base="http://localhost:4000/tool/community/HbMarkdownImage">&lt;p&gt;近期陆续遇到几个 MarkDown 码字发文棘手问题，最后却都轻松化解：&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;某张图片已用于十多篇文章，但图片有误需要更新。拿到新图，半分钟就替换完毕。&lt;/li&gt;
@@ -646,15 +808,13 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 
 &lt;p&gt;我在时间这头，手握命运之书，犹豫半晌。并非我不愿告诉你，而是这一年你经历太多，我不知从何说起。&lt;/p&gt;
 
-&lt;!-- more --&gt;
-
 &lt;h2 id=&quot;白云在天丘陵自出&quot;&gt;白云在天，丘陵自出&lt;/h2&gt;
 
 &lt;p&gt;时间给人的陪伴如水流过石子，云漫过山峦，多少都落成变化，那就先说你令我欣喜的三大变化吧。&lt;/p&gt;
 
 &lt;p&gt;也许是吃了去年总结时的教训，你深切意识到里程碑有多重要，没有里程碑的人生将多平淡。今年，&lt;strong&gt;你开始留心时间长河里的特殊时刻。里程碑来临，你越来越能感知她在靠近，知道将要创造历史，沉心应对毫不含糊&lt;/strong&gt;。&lt;/p&gt;
 
-&lt;p&gt;最大的里程碑，要数年末你发布的 side project 「&lt;a href=&quot;https://github.com/ishanshan/EnjoySwingDancing&quot;&gt;ishanshan/EnjoySwingDancing: 谨以此籍，送给六个月前低落彷徨的自己，也送给脑力工作的你，伏案久坐的你 —— swing 吧！你的苦乐，swing 知道 💃🏻🕺🏻&lt;/a&gt;」。&lt;/p&gt;
+&lt;p&gt;最大的里程碑，要数&lt;!-- more --&gt;年末你发布的 side project 「&lt;a href=&quot;https://github.com/ishanshan/EnjoySwingDancing&quot;&gt;ishanshan/EnjoySwingDancing: 谨以此籍，送给六个月前低落彷徨的自己，也送给脑力工作的你，伏案久坐的你 —— swing 吧！你的苦乐，swing 知道 💃🏻🕺🏻&lt;/a&gt;」。&lt;/p&gt;
 
 &lt;p&gt;这将是你头一回完整发布开源项目，还一人身兼产品、研发、测试、运营。你本想在自己 swing 半周年时发布当作纪念，结果上线前夕收到内测伙伴一堆反馈，不得不推迟发布，以为山穷水尽苦闷到夜半，清晨纸笔理初心又柳暗花明，酸爽却回味无穷，相信你会喜欢。&lt;/p&gt;
 
@@ -975,7 +1135,7 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
       &lt;p&gt;The social clock is a concept proposed by the social psychologist Bernice Neugarten, which means a timetable determined by a culture or social structure, that specifies a proper time for certain events, like marriage, graduation, employment or social status. [&lt;a href=&quot;https://study.com/academy/lesson/the-social-clock-definition-theory.html&quot;&gt;study&lt;/a&gt;]&amp;nbsp;&lt;a href=&quot;#fnref:5-1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">你要记住，你在心灵自由的路上，踌躇、挣扎、崩溃、慢跑、狂奔的样子。那会是你，最美的回忆。 丁酉年钟声刚响，你便沿钟声抬头望我，眨着大眼睛，想知道这崭新的一年你会经历什么，有怎样的变化。 我在时间这头，手握命运之书，犹豫半晌。并非我不愿告诉你，而是这一年你经历太多，我不知从何说起。</summary></entry><entry><title type="html">谢谢你给她的时光</title><link href="http://localhost:4000/murmur/Letter2XY4Year2017.html" rel="alternate" type="text/html" title="谢谢你给她的时光" /><published>2018-02-14T00:00:00+08:00</published><updated>2018-02-14T00:00:00+08:00</updated><id>http://localhost:4000/murmur/Letter2XY4Year2017</id><content type="html" xml:base="http://localhost:4000/murmur/Letter2XY4Year2017.html">&lt;blockquote class=&quot;blockquote-center&quot;&gt; 她非松柏，无法用体液封印时光。&lt;br /&gt;唯有换个方式，造颗琥珀送给你。 &lt;/blockquote&gt;
+&lt;/div&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">你要记住，你在心灵自由的路上，踌躇、挣扎、崩溃、慢跑、狂奔的样子。那会是你，最美的回忆。 丁酉年钟声刚响，你便沿钟声抬头望我，眨着大眼睛，想知道这崭新的一年你会经历什么，有怎样的变化。 我在时间这头，手握命运之书，犹豫半晌。并非我不愿告诉你，而是这一年你经历太多，我不知从何说起。 白云在天，丘陵自出 时间给人的陪伴如水流过石子，云漫过山峦，多少都落成变化，那就先说你令我欣喜的三大变化吧。 也许是吃了去年总结时的教训，你深切意识到里程碑有多重要，没有里程碑的人生将多平淡。今年，你开始留心时间长河里的特殊时刻。里程碑来临，你越来越能感知她在靠近，知道将要创造历史，沉心应对毫不含糊。 最大的里程碑，要数</summary></entry><entry><title type="html">谢谢你给她的时光</title><link href="http://localhost:4000/murmur/Letter2XY4Year2017.html" rel="alternate" type="text/html" title="谢谢你给她的时光" /><published>2018-02-14T00:00:00+08:00</published><updated>2018-02-14T00:00:00+08:00</updated><id>http://localhost:4000/murmur/Letter2XY4Year2017</id><content type="html" xml:base="http://localhost:4000/murmur/Letter2XY4Year2017.html">&lt;blockquote class=&quot;blockquote-center&quot;&gt; 她非松柏，无法用体液封印时光。&lt;br /&gt;唯有换个方式，造颗琥珀送给你。 &lt;/blockquote&gt;
 
 &lt;h2 id=&quot;0&quot;&gt;0&lt;/h2&gt;
 
@@ -1448,27 +1608,4 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 &lt;ul&gt;
   &lt;li&gt;171124 早 整理为电子版并修订 1h&lt;/li&gt;
   &lt;li&gt;171123 晚 在纸上快写 0.5h&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><category term="murmur" /><summary type="html">又到感恩节，这是我第 24 个感恩节。24 年前的这个时候，我已猫在妈妈胸上蹭她下巴。而你呢？现在我还不知道什么时候能见着你咧。或许，再过七八个感恩节吧？—— 我估计。 今天没太特别的，除了，想给你写信。 也许是周围有一群带小朋友的叔叔阿姨，今年我常想见你同我玩耍的日子。如果啊，你也和这位小朋友一样，在天上挑妈妈—— 你问我出生前在做什么 我答 我在天上挑妈妈 看见你了 觉得你特别好 想做你的儿子 又觉得自己可能没那个运气 没想到 第二天一早 我已经在你肚子里 那你可不可以，先看我一眼？虽然我还算不上好妈妈，可几年后，谁知道呢？那时，那时说不定好多小朋友都挑中我呢。 不想空手见你，我开始准备礼物，捉住有你的天光： ishanshan/ForFamilyForFamily - weave of my family life ✨ 若你日后翻见，也要和我说说，这段时间你在干嘛哦：） – 想被你挑中的我 2017 年感恩节 CHANGELOG 171124 早 整理为电子版并修订 1h 171123 晚 在纸上快写 0.5h</summary></entry><entry><title type="html">友聚如何更有趣？· 杂记</title><link href="http://localhost:4000/community/tool/TipsMeetupHappier" rel="alternate" type="text/html" title="友聚如何更有趣？· 杂记" /><published>2017-09-21T00:00:00+08:00</published><updated>2017-09-21T00:00:00+08:00</updated><id>http://localhost:4000/community/tool/TipsMeetupHappier</id><content type="html" xml:base="http://localhost:4000/community/tool/TipsMeetupHappier">&lt;p&gt;三人上回相聚也在京城，两年未见，亦无隔阂。只是大家关注领域不同，易八卦闲扯。此时我心常游离——&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Great minds discuss ideas. Average minds discuss events. Small minds discuss people.&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;如何避免？备几枚常用问题，形势不妙就抛出：&lt;/p&gt;
-
-&lt;!-- more --&gt;
-
-&lt;blockquote class=&quot;embedly-card&quot; data-card-controls=&quot;0&quot;&gt;&lt;h4&gt;&lt;a href=&quot;https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/InfoQ4Icebreaking.md&quot;&gt;ishanshan/CollaborationGuide4Shaper&lt;/a&gt;&lt;/h4&gt;&lt;p&gt;CollaborationGuide4Shaper - For shaper, by shaper, help you be a shaper 🌱&lt;/p&gt;&lt;/blockquote&gt;
-&lt;script async=&quot;&quot; src=&quot;//cdn.embedly.com/widgets/platform.js&quot; charset=&quot;UTF-8&quot;&gt;&lt;/script&gt;
-
-&lt;p&gt;遇到投缘者，还可定期小聚，&lt;a href=&quot;http://joinwee.com/discuss/275/&quot;&gt;借鉴 MIT 实验室定期报告制度&lt;/a&gt;，同步近期主修，交换重大信息。我和熊每月一聚交流新知，已连续五月，这成了我俩每月最期待的节目。推荐你也践行~&lt;/p&gt;
-
-&lt;h2 id=&quot;changelog&quot;&gt;CHANGELOG&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;180310 把问题汇总到一个文档中&lt;/li&gt;
-  &lt;li&gt;180209 增加一个问题&lt;/li&gt;
-  &lt;li&gt;180104 增加一个问题&lt;/li&gt;
-  &lt;li&gt;171129 修订发布至 blog 0.5h&lt;/li&gt;
-  &lt;li&gt;170921 晚 快写 0.5h&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">三人上回相聚也在京城，两年未见，亦无隔阂。只是大家关注领域不同，易八卦闲扯。此时我心常游离—— Great minds discuss ideas. Average minds discuss events. Small minds discuss people. 如何避免？备几枚常用问题，形势不妙就抛出：</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><category term="murmur" /><summary type="html">又到感恩节，这是我第 24 个感恩节。24 年前的这个时候，我已猫在妈妈胸上蹭她下巴。而你呢？现在我还不知道什么时候能见着你咧。或许，再过七八个感恩节吧？—— 我估计。 今天没太特别的，除了，想给你写信。 也许是周围有一群带小朋友的叔叔阿姨，今年我常想见你同我玩耍的日子。如果啊，你也和这位小朋友一样，在天上挑妈妈—— 你问我出生前在做什么 我答 我在天上挑妈妈 看见你了 觉得你特别好 想做你的儿子 又觉得自己可能没那个运气 没想到 第二天一早 我已经在你肚子里 那你可不可以，先看我一眼？虽然我还算不上好妈妈，可几年后，谁知道呢？那时，那时说不定好多小朋友都挑中我呢。 不想空手见你，我开始准备礼物，捉住有你的天光： ishanshan/ForFamilyForFamily - weave of my family life ✨ 若你日后翻见，也要和我说说，这段时间你在干嘛哦：） – 想被你挑中的我 2017 年感恩节 CHANGELOG 171124 早 整理为电子版并修订 1h 171123 晚 在纸上快写 0.5h</summary></entry></feed>

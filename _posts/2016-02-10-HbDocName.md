@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 命名用英文，烦恼少大半 | 团队文档命名指南
+title: 命名用英文，烦恼少大半 · 团队文档命名指南
 categories:
 - community
 - tool

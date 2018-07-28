@@ -13,7 +13,7 @@ permalink: /:categories/:title:output_ext
 
 我在时间这头，手握命运之书，犹豫半晌。并非我不愿告诉你，而是这一年你经历太多，我不知从何说起。
 
-<!-- more -->
+
 
 ## 白云在天，丘陵自出
 
@@ -25,7 +25,7 @@ permalink: /:categories/:title:output_ext
 
 
 
-最大的里程碑，要数年末你发布的 side project 「[ishanshan/EnjoySwingDancing: 谨以此籍，送给六个月前低落彷徨的自己，也送给脑力工作的你，伏案久坐的你 —— swing 吧！你的苦乐，swing 知道 💃🏻🕺🏻](https://github.com/ishanshan/EnjoySwingDancing)」。
+最大的里程碑，要数<!-- more -->年末你发布的 side project 「[ishanshan/EnjoySwingDancing: 谨以此籍，送给六个月前低落彷徨的自己，也送给脑力工作的你，伏案久坐的你 —— swing 吧！你的苦乐，swing 知道 💃🏻🕺🏻](https://github.com/ishanshan/EnjoySwingDancing)」。
 
 这将是你头一回完整发布开源项目，还一人身兼产品、研发、测试、运营。你本想在自己 swing 半周年时发布当作纪念，结果上线前夕收到内测伙伴一堆反馈，不得不推迟发布，以为山穷水尽苦闷到夜半，清晨纸笔理初心又柳暗花明，酸爽却回味无穷，相信你会喜欢。
 

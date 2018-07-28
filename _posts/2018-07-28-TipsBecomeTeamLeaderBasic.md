@@ -158,7 +158,7 @@ title: 如何带出和自己一样能干的团队 · 半年摸爬小记categori
 
 管理风格则朝「[Context, not Control](https://www.slideshare.net/reed2001/culture-1798664/80-If_you_want_to_build)」靠拢，尽己所能提供背景信息，激发并相信团队自主判断的能力。
 
-未来肯定还会变化，先记在此，他日再来比对 ;-)
+未来肯定还会变化，先记在此，坐等再次耳赤面红 ;-)
 
 2018-07-28
 

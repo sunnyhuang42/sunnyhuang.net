@@ -275,7 +275,7 @@ description:
 
 
 
-随着「if…then…」增多，我开始汇集整理，成体系的集为指南 [CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper) ，零散的先汇到 WorkFlowy 特定节点「[随手复盘](https://workflowy.com/s/CO_N.rltyKgPOoe)」，不时翻看、更新：
+随着「if…then…」增多，我开始汇集整理，成体系的集为指南，比如 [如果我来陪你走一程·养娃清单](https://github.com/ishanshan/ForFamily/blob/master/HbParenting.md)、[CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper) ，零散的先汇到 WorkFlowy 特定节点「[随手复盘](https://workflowy.com/s/CO_N.rltyKgPOoe)」，不时翻看、更新：
 
 <iframe  width='700' height='500' frameborder='1' scrolling='no' src="https://workflowy.com/embed/CO_N.rltyKgPOoe"></iframe>
 

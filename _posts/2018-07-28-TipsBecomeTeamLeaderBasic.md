@@ -156,9 +156,9 @@ title: 如何带出和自己一样能干的团队 · 半年摸爬小记categori
 
 日常思索焦点也由此转变：团队的核心竞争力是什么？如果只能做好一件事，是什么？我及我的团队，在整体业务中是什么角色，做什么能强化护城河？
 
-管理风格则朝「[Context, not Control](https://www.slideshare.net/reed2001/culture-1798664/80-If_you_want_to_build)」靠拢，尽己所能提供背景信息，激发并相信团队自主判断的能力。
+管理风格则朝「[Context, not Control](https://www.slideshare.net/reed2001/culture-1798664/80-If_you_want_to_build)」靠拢，尽己所能提供背景信息，激发并相信团队自主决策的能力。
 
-未来肯定还会变化，先记在此，坐等再次耳赤面红 ;-)
+未来肯定还会变化，先记在此，坐等下回耳赤面红 ;-)
 
 2018-07-28
 

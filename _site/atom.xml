@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-28T22:43:04+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">如何带出和自己一样能干的团队 · 半年摸爬小记</title><link href="http://localhost:4000/selfedu/community/TipsBecomeTeamLeaderBasic" rel="alternate" type="text/html" title="如何带出和自己一样能干的团队 · 半年摸爬小记" /><published>2018-07-28T00:00:00+08:00</published><updated>2018-07-28T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/community/TipsBecomeTeamLeaderBasic</id><content type="html" xml:base="http://localhost:4000/selfedu/community/TipsBecomeTeamLeaderBasic">&lt;p&gt;这份小记写于 2016 年秋，即使陆续修改，也没好意思发出——工作年头越长，带团队的体悟和反思越多，越觉当时疏浅局限。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-29T09:42:06+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">如何带出和自己一样能干的团队 · 半年摸爬小记</title><link href="http://localhost:4000/selfedu/community/TipsBecomeTeamLeaderBasic" rel="alternate" type="text/html" title="如何带出和自己一样能干的团队 · 半年摸爬小记" /><published>2018-07-28T00:00:00+08:00</published><updated>2018-07-28T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/community/TipsBecomeTeamLeaderBasic</id><content type="html" xml:base="http://localhost:4000/selfedu/community/TipsBecomeTeamLeaderBasic">&lt;p&gt;这份小记写于 2016 年秋，即使陆续修改，也没好意思发出——工作年头越长，带团队的体悟和反思越多，越觉当时疏浅局限。&lt;/p&gt;
 
 &lt;p&gt;这两天整理资料翻见，依然面红耳赤。犹豫半晌，还是发布：这些记录虽与我现在重视的维度相去甚远，但非价值全无——踏上 leader 之路的新手，能从中捕获丝丝信心，点点启发吧：）&lt;/p&gt;
 
@@ -82,7 +82,7 @@
 
 &lt;p&gt;能否降低一些要求？不能——&lt;/p&gt;
 
-&lt;p&gt;在线课程，呈现到用户界面的内容更须简明无歧义，才不浪费用户时间。&lt;/p&gt;
+&lt;p&gt;在线课程学员众多，且异步响应，呈现到用户界面的内容更须简明无歧义，才能少浪费用户时间。&lt;/p&gt;
 
 &lt;p&gt;所以，在新人还没熟悉&lt;a href=&quot;https://github.com/OpenMindClub/Share/wiki&quot;&gt;开智特色的协作机制和规范&lt;/a&gt;前，要保证交付时效和品质，唯有简单粗暴处理：所有交付用户界面的文字，都须至少项目经理审订确认无歧义才能发出。但工作节奏飞快，老人难免没时间一一解释为何调整这里、为何调整成这样。&lt;/p&gt;
 
@@ -146,7 +146,7 @@
 
 &lt;p&gt;日常思索焦点也由此转变：团队的核心竞争力是什么？如果只能做好一件事，是什么？我及我的团队，在整体业务中是什么角色，做什么能强化护城河？&lt;/p&gt;
 
-&lt;p&gt;管理风格则朝「&lt;a href=&quot;https://www.slideshare.net/reed2001/culture-1798664/80-If_you_want_to_build&quot;&gt;Context, not Control&lt;/a&gt;」靠拢，尽己所能提供背景信息，激发并相信团队自主判断的能力。&lt;/p&gt;
+&lt;p&gt;管理风格则朝「&lt;a href=&quot;https://www.slideshare.net/reed2001/culture-1798664/80-If_you_want_to_build&quot;&gt;Context, not Control&lt;/a&gt;」靠拢，尽己所能提供背景信息，培养并相信团队自主决策的能力。当然，核心方向一直没变——满足「自主（autonomy）」「胜任（competence）」和「归属（relatedness）」这三种基本的心理需求，依自我决定论（&lt;a href=&quot;https://en.wikipedia.org/wiki/Self-determination_theory&quot;&gt;Self-Determination Theory&lt;/a&gt;）激发并保护团队的内在动机。&lt;/p&gt;
 
 &lt;p&gt;未来肯定还会变化，先记在此，坐等下回耳赤面红 ;-)&lt;/p&gt;
 

@@ -90,7 +90,7 @@ title: 如何带出和自己一样能干的团队 · 半年摸爬小记categori
 
 能否降低一些要求？不能——
 
-在线课程，呈现到用户界面的内容更须简明无歧义，才不浪费用户时间。
+在线课程学员众多，且异步响应，呈现到用户界面的内容更须简明无歧义，才能少浪费用户时间。
 
 所以，在新人还没熟悉[开智特色的协作机制和规范](https://github.com/OpenMindClub/Share/wiki)前，要保证交付时效和品质，唯有简单粗暴处理：所有交付用户界面的文字，都须至少项目经理审订确认无歧义才能发出。但工作节奏飞快，老人难免没时间一一解释为何调整这里、为何调整成这样。
 
@@ -156,7 +156,7 @@ title: 如何带出和自己一样能干的团队 · 半年摸爬小记categori
 
 日常思索焦点也由此转变：团队的核心竞争力是什么？如果只能做好一件事，是什么？我及我的团队，在整体业务中是什么角色，做什么能强化护城河？
 
-管理风格则朝「[Context, not Control](https://www.slideshare.net/reed2001/culture-1798664/80-If_you_want_to_build)」靠拢，尽己所能提供背景信息，激发并相信团队自主决策的能力。
+管理风格则朝「[Context, not Control](https://www.slideshare.net/reed2001/culture-1798664/80-If_you_want_to_build)」靠拢，尽己所能提供背景信息，培养并相信团队自主决策的能力。当然，核心方向一直没变——满足「自主（autonomy）」「胜任（competence）」和「归属（relatedness）」这三种基本的心理需求，依自我决定论（[Self-Determination Theory](https://en.wikipedia.org/wiki/Self-determination_theory)）激发并保护团队的内在动机。
 
 未来肯定还会变化，先记在此，坐等下回耳赤面红 ;-)
 

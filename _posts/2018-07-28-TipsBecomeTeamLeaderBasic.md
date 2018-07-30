@@ -159,7 +159,7 @@ title: 如何带出和自己一样能干的团队 · 半年摸爬小记categori
 
 日常思索焦点也由此转变：团队的核心竞争力是什么？如果只能做好一件事，是什么？我及我的团队，在整体业务中是什么角色，做什么能拓宽护城河？
 
-管理风格亦有变化：朝「[Context, not Control](https://www.slideshare.net/reed2001/culture-1798664/80-If_you_want_to_build)」靠拢，尽己所能提供背景信息，培养并相信团队自主决策的能力。当然，核心方向一直没变——满足「自主（autonomy）」「胜任（competence）」和「归属（relatedness）」这仨基本心理需求，依「自我决定论（[Self-Determination Theory](https://en.wikipedia.org/wiki/Self-determination_theory)）」激发潜力、保护内在动机。
+管理风格亦有变化：朝「[Context, not Control](https://www.slideshare.net/reed2001/culture-1798664/80-If_you_want_to_build)」靠拢，尽己所能提供背景信息，培养并相信团队自主决策的能力，带出比自己更能干的团队。当然，核心方向一直没变——满足「自主（autonomy）」「胜任（competence）」和「归属（relatedness）」这仨基本心理需求，依「自我决定论（[Self-Determination Theory](https://en.wikipedia.org/wiki/Self-determination_theory)）」激发潜力、保护内在动机。
 
 未来肯定还会演化，先记在此，静候下回耳赤面红 ;-)
 

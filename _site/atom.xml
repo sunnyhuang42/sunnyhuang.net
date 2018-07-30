@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-30T08:30:06+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">如何带出和自己一样能干的团队 · 半年摸爬小记</title><link href="http://localhost:4000/selfedu/community/TipsBecomeTeamLeaderBasic" rel="alternate" type="text/html" title="如何带出和自己一样能干的团队 · 半年摸爬小记" /><published>2018-07-28T00:00:00+08:00</published><updated>2018-07-28T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/community/TipsBecomeTeamLeaderBasic</id><content type="html" xml:base="http://localhost:4000/selfedu/community/TipsBecomeTeamLeaderBasic">&lt;p&gt;这份小记写于 2016 年秋，即使陆续修改，也没好意思发出——工作年头越长，带团队的体悟和反思越多，越觉当时疏浅局限。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-07-30T19:33:22+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">如何带出和自己一样能干的团队 · 半年摸爬小记</title><link href="http://localhost:4000/selfedu/community/TipsBecomeTeamLeaderBasic" rel="alternate" type="text/html" title="如何带出和自己一样能干的团队 · 半年摸爬小记" /><published>2018-07-28T00:00:00+08:00</published><updated>2018-07-28T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/community/TipsBecomeTeamLeaderBasic</id><content type="html" xml:base="http://localhost:4000/selfedu/community/TipsBecomeTeamLeaderBasic">&lt;p&gt;这份小记写于 2016 年秋，即使陆续修改，也没好意思发出——工作年头越长，带团队的体悟和反思越多，越觉当时疏浅局限。&lt;/p&gt;
 
 &lt;p&gt;这两天整理资料翻见，依然面红耳赤。犹豫半晌，还是发布：这些记录虽与我现在重视的维度相去甚远，但非价值全无——踏上 leader 之路的新手，能从中捕获丝丝信心，点点启发吧：）&lt;/p&gt;
 
@@ -20,14 +20,14 @@
 
 &lt;p&gt;上个月小组工作会谈，我试着邀请在我这儿实习三个月的妹子毕业后全职加盟。&lt;/p&gt;
 
-&lt;p&gt;坦白说邀请前我特别没底——她出身名校，还在校外折腾过不少事情，不缺机会；来开智实习前，有不少实习选择，且还不确定从事哪个行业。为了勾搭她来实习，我特意约饭。了解完她之前的探索经历和动机，「善意」提醒：你还有一年才毕业，探索职业方向的机会很多；我建议你先来开智实习，养成好的协作习惯和职场素养，再继续探索。如此这般，她思量再三，终于过来。&lt;/p&gt;
+&lt;p&gt;坦白说邀请前我特别没底——她出身名校，还在校外折腾过不少事情，不缺机会；来实习前，有不少选择，且还不确定从事哪个行业。为了勾搭她来实习，我特意约饭。了解完她之前的探索经历和动机，「善意」提醒：你还有一年才毕业，探索职业方向的机会很多；我建议你先过来实习，养成好的协作习惯和职场素养，再继续探索。如此这般，她思量再三，终于过来。&lt;/p&gt;
 
 &lt;p&gt;没想到会谈那天我留人话一出口，她很开心：啊，真的可以吗？&lt;/p&gt;
 
 &lt;p&gt;我心中重担卸下一半，再问。她答：&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;在开智实习的这段时间，我基本确定以后做教育。这里真的能学到很多，还有我喜欢的协作方式、喜欢的同事、喜欢的老板……&lt;/p&gt;
+  &lt;p&gt;实习这段时间，我基本确定以后做教育。这里真的能学到很多，还有我喜欢的协作方式、喜欢的同事、喜欢的老板……&lt;/p&gt;
 &lt;/blockquote&gt;
 
 &lt;p&gt;有那么一瞬，我屏息凝神，却喜不自胜——下属的肯定比老板的肯定更叫人欢欣鼓舞：&lt;/p&gt;
@@ -36,17 +36,19 @@
 
 &lt;h2 id=&quot;二&quot;&gt;二&lt;/h2&gt;
 
-&lt;p&gt;《&lt;a href=&quot;https://book.douban.com/subject/6536593/&quot;&gt;领导梯队&lt;/a&gt;(The Leadership Pipeline)》一书，把职业路径分为几大阶段：管理自我、管理他人、管理经理人员、管理职能部门、管理事业部、管理业务群组、管理全集团，并给出了每个阶段对「工作理念」「时间应用」「领导技能」的要求和关注点。&lt;/p&gt;
+&lt;p&gt;《&lt;a href=&quot;https://book.douban.com/subject/6536593/&quot;&gt;领导梯队&lt;/a&gt;(The Leadership Pipeline:How to Build the Leadership Powered Company)》一书，把职场新手到首席执行官的发展路径，划分成几大阶段：管理自我、管理他人、管理经理人员、管理职能部门、管理事业部、管理业务群组、管理全集团。&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://openmindclub.zoomquiet.top/ishanshan/blog/LeadershipStructure.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;处于管理个人阶段，主要学习工作计划、进度管理、工作内容、工作质量和工作的可靠性，需要提高的工作价值观，包括公司文化和职业标准。&lt;/p&gt;
+&lt;p&gt;每进入一个新阶段，都需在这三方面做出改变：1）工作理念，指做事的价值取向和优先顺序；2）领导技能；3）时间应用，即如何分配自己的时间。&lt;/p&gt;
+
+&lt;p&gt;基于这个「领导梯队模型」，处于管理个人阶段，主要学习内容包括工作计划、进度管理、工作内容、工作质量，需要提高的工作价值观，包括公司文化和职业标准。&lt;/p&gt;
 
 &lt;p&gt;而到管理他人阶段，应学技能则为工作计划、知人善任、分配工作、激励团队、教练辅导和绩效评估。处于这个阶段的管理者必须坚信，把时间用于帮助他人、制定计划、教练辅导和类似的工作，是他们的职责，而且他们必须把通过他人完成任务作为自己取得成功的关键。&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;从管理个人，到管理团队，需要从自己做事转变为带队伍做事，不仅完成自己的工作，还须能帮助其他人完成工作。处在这个阶段，带出能干的团队，比自己能干更重要。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;从管理个人到管理他人，变化重点是从自己做事转变为带队伍做事，不仅完成自己的工作，还须能帮助其他人完成工作。处在这个阶段，带出能干的队伍，比自己能干更重要。&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;今年四月初读此书，恰逢团队规模渐长，我一下豁然，开始有意识地给团队成员更多引导和反馈，给衡量自己绩效的维度加码：从「我能把这工作做好」，调整为「我能带出和我一样能把这工作做好的同事」。&lt;/p&gt;
+&lt;p&gt;今年四月初读此书，恰逢团队规模渐长，我一下豁然，开始有意识地给团队成员更多引导和反馈，给衡量自己绩效的维度加码：从「我能把这事情做好」，调整为「我能带出和我一样能把这事情做好的团队」。&lt;/p&gt;
 
 &lt;h2 id=&quot;三&quot;&gt;三&lt;/h2&gt;
 
@@ -84,7 +86,7 @@
 
 &lt;p&gt;在线课程用户众多，且异步响应，呈现到用户界面的内容须简明无歧义，才能少浪费用户时间。&lt;/p&gt;
 
-&lt;p&gt;所以，在新人还没熟悉&lt;a href=&quot;https://github.com/OpenMindClub/Share/wiki&quot;&gt;开智特色的协作机制和规范&lt;/a&gt;前，要保证交付时效和品质，唯有简单粗暴处理：所有交付用户界面的文字，至少项目经理审订确认无歧义才能发出。但工作节奏飞快，老人难免没时间一一解释为何调整这里、为何调整成这样。&lt;/p&gt;
+&lt;p&gt;所以，在新人还没熟悉&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1xdfbrkQgvuV0FvD5uGFEQ070GC2Ybi2yenDEQAmRj9o/edit#gid=0&quot;&gt;开智特色的协作机制和规范&lt;/a&gt;前，要保证交付时效和品质，唯有简单粗暴处理：所有交付用户界面的文字，至少项目经理审订确认无歧义才能发出。但工作节奏飞快，老人难免没时间一一解释为何调整这里、为何调整成这样。&lt;/p&gt;
 
 &lt;p&gt;那降低刻意练习和积累检查清单的门槛？对头——&lt;/p&gt;
 
@@ -98,7 +100,9 @@
 
 &lt;p&gt;部分新人挂电话后会下意识地先问我有什么建议，为了助对方习惯独立思考又不显生硬，此时我多沉吟两秒装作没想好，然后抬头满眼期待地回问「&lt;strong&gt;你觉得呢？&lt;/strong&gt;」这一&lt;strong&gt;管理神句&lt;/strong&gt;。&lt;/p&gt;
 
-&lt;p&gt;一些不必及时反馈的细节，则留待每周固定时间给出。试来试去，借助周报反馈最稳当：一来时间稳定易成习惯，二来刚了然整体进展，易给出精准反馈；而且&lt;a href=&quot;https://ishanshan.im/selfedu/TipsWeekly.html&quot;&gt;提交周报，同事多少期待反馈&lt;/a&gt;，相较冷不丁收到更乐听受。&lt;/p&gt;
+&lt;p&gt;有些诉求超出我能力范围，难以给出到位反馈，便牵线更合适的资源。&lt;/p&gt;
+
+&lt;p&gt;一些不必及时给出的反馈，则留待每周固定时间处理。试来试去，借助周报反馈最稳当：一来时间稳定易成习惯，二来刚了然整体进展，易给出精准反馈；而且&lt;a href=&quot;https://ishanshan.im/selfedu/TipsWeekly.html&quot;&gt;提交周报，同事多少期待反馈&lt;/a&gt;，相较冷不丁收到更乐听受。&lt;/p&gt;
 
 &lt;p&gt;于是每周再忙，我都抽时间处理小组成员周报，发现进步及时鼓励肯定，遇到优秀实践及时分享扩散。毕竟刚从新手阶段过来，深知投石有声下回再投更有动力。&lt;/p&gt;
 

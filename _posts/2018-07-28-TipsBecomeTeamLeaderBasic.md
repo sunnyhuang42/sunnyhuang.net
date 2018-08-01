@@ -40,7 +40,7 @@ title: 如何带出和自己一样能干的团队 · 半年摸爬小记categori
 
 ## 二
 
-《[领导梯队](https://book.douban.com/subject/6536593/)(The Leadership Pipeline:How to Build the Leadership Powered Company)》一书，把职场新手到首席执行官的发展路径，划分成几大阶段：管理自我、管理他人、管理经理人员、管理职能部门、管理事业部、管理业务群组、管理全集团。
+《[领导梯队](https://book.douban.com/subject/6536593/)([The Leadership Pipeline:How to Build the Leadership Powered Company](https://smile.amazon.com/Leadership-Pipeline-Powered-Company-non-Franchise-ebook/dp/B004BA5776/ref=smi_www_rco2_go_smi_g1405964225?_encoding=UTF8&%2AVersion%2A=1&%2Aentries%2A=0&ie=UTF8))》一书，把职场新手到首席执行官的发展路径，划分成几大阶段：管理自我、管理他人、管理经理人员、管理职能部门、管理事业部、管理业务群组、管理全集团。
 
 
 ![](http://openmindclub.zoomquiet.top/ishanshan/blog/LeadershipStructure.png)
@@ -73,7 +73,7 @@ title: 如何带出和自己一样能干的团队 · 半年摸爬小记categori
 
 ![tepmonthlyreview2.png](http://ishanshan.qiniudn.com/share/tepmonthlyreview2.png)
 
-(该模板原件见 [HbWorkReviewMonthly.md at master · ishanshan/CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbWorkReviewMonthly.md))
+(该模板全文见 [HbWorkReviewMonthly.md at master · ishanshan/CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbWorkReviewMonthly.md))
 
 虽是给别人做 1 on 1 沟通，我亦收获不小。如复盘时想不到有成就感的事，可回想倍感成长的事情，一样能找到接下来可多多投入的方向；再如看到对方探索方向转变，即使担心也不再评判，而是引导询问对方对这样的探索结果是否满意，为什么；又如给建议时，不说建议你怎么做，而是「如果换作我，我会怎么做，为什么」，这样对方更易接受；还如派任务时，不说「有劳这样这样」，而是「这样这样，对你来说 OK 吗」，比如「初稿下周二 14:00 前发给大伙查阅，对你来说 OK 吗？」，既获取对方承诺让结果更易达成，也给对方选择余地感觉更自主。
 
@@ -159,9 +159,9 @@ title: 如何带出和自己一样能干的团队 · 半年摸爬小记categori
 
 **日常思索焦点**也由此转变：**团队的核心竞争力是什么？如果只能做好一件事，是什么？我及我的团队，在整体业务中是什么角色，做什么能拓宽护城河？**
 
-**管理风格**亦有变化：朝「[Context, not Control](https://www.slideshare.net/reed2001/culture-1798664/80-If_you_want_to_build)」靠拢，尽己所能提供背景信息，培养并相信团队自主决策的能力，**带出比自己更能干的团队**。当然，**核心方向一直没变——满足「自主（autonomy）」「胜任（competence）」和「归属（relatedness）」这仨基本心理需求，依「自我决定论（[Self-Determination Theory](https://en.wikipedia.org/wiki/Self-determination_theory)）」激发潜力、保护内在动机**。
+**管理风格**亦有变化：朝「[Context, not Control](https://www.slideshare.net/reed2001/culture-1798664/80-If_you_want_to_build)」靠拢，尽己所能提供背景信息，培养并相信团队自主决策的能力，**带出比自己更能干的团队**。当然，**核心方向一直没变——满足「自主（autonomy）」「胜任（competence）」和「归属（relatedness）」这仨基本心理需求，依「自我决定论（[Self-Determination Theory](https://en.wikipedia.org/wiki/Self-determination_theory)）」激发潜力、保护内在动机（inherent motivation）**。
 
-能有这些变化，主要归功过去三年安人团队的支持和包容，助我发现自身不足并快速调整。尤其感谢老大[阳志平先生](https://www.yangzhiping.com/)的器重和放养式的管理风格——乐意给初出茅庐的我人事权、财务管理权和经营管理权，让我试错，帮我兜底；并言传身教如何运用认知科学、教育科学、心理科学及脑科学，借前沿进展与经典范式优化工作生活。
+能有这些变化，主要归功过去三年安人团队的支持和包容，助我发现自身不足并快速调整。尤其感谢老大[阳志平先生](https://www.yangzhiping.com/)的器重和放养式的管理风格——乐意给初出茅庐的我人事权、财务管理权和经营管理权，让我试错，帮我解围；并言传身教如何运用认知科学、教育科学、心理科学及脑科学，借前沿进展与经典范式优化工作生活。
 
 未来肯定还会演化，先记在此，静候下回耳赤面红 ;-)
 

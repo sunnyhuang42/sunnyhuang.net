@@ -192,7 +192,7 @@ PS.印象最深的是这次活动报名帖发出不到 1 天就 150 多位小伙
 
 ![](http://openmindclub.zoomquiet.top/ishanshan/blog/Activity/Act1310BJDeepInterviewGroup0.png)
 
-- [活动介绍](http://www.ad.dijiuke.com/class/view/0000lQa)
+- [活动介绍](https://weibo.com/1696816107/AcEcXhJUQ?type=comment#_rnd1533627116146)
 - [活动回顾](http://weibo.com/1696816107/AunjR2n22?from=page_1005051696816107_profile&wvr=6&mod=weibotime&type=comment#_rnd1429840028602)
 - **关键词**：深度访谈、职业访问、勾搭、学习小组、自我教育
 

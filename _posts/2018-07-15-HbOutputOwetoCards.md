@@ -19,7 +19,7 @@ description:
 - 二月：发布个人年度回顾[《你丁酉年的故事》](https://ishanshan.im/selfedu/Review2017LunarCalendar.html)。尝试换个视角记录生活：用预言的方式写回顾，呈现自评反思更自然；并发现自己已能谋篇布局万字故事。还在写作过程更清晰自己要去何方。<!-- more -->
 - 三月：发布 [CollaborationGuide4Shaper 仓库](https://github.com/ishanshan/CollaborationGuide4Shaper)。终于集结分享对「如何高效共创」的观察思索，从此被问相关问题可甩资料。
 - 四月：完成集团新人入职机制和学习资料（[团队协作技能自学&自检清单](https://docs.google.com/spreadsheets/d/1xdfbrkQgvuV0FvD5uGFEQ070GC2Ybi2yenDEQAmRj9o/edit#gid=0) 是其一）的重大升级，了却一桩心愿：没我在，这些事情也易跑得不错。且第一次划定各技能进阶标准「存活」、「感觉良好」、「更快更好更强」，以便用户按需取用。还摸索出用表格做检查清单的优雅模式，给下个阶段的输出帮了大忙。
-- 五月：输出[策略产品经理训练营作业手记](https://ishanshan.gitbooks.io/road2strategypm/content/)。第一次正儿八经地参加线上付费课程。并拿到优秀学员（5/145），点亮新技能树。且 [网易蜗牛读书增长方案](https://ishanshan.gitbooks.io/road2strategypm/content/CONTENT/Chap5Task.html) 被评为精选，是当期课程里唯一一份精选作业，也是课程至今这章作业的唯一精选。
+- 五月：输出[策略产品经理训练营作业手记](https://ishanshan.gitbooks.io/road2strategypm/content/)。第一次正儿八经地参加线上付费课程。并拿到优秀学员（5/145），点亮新技能树。且 [网易蜗牛读书增长方案](https://road2strategypm.ishanshan.im/CONTENT/Chap5Task.html) 被评为精选，是当期课程里唯一一份精选作业，也是课程至今这章作业的唯一精选。
 - 六月：对外较逊色，只完成博客三年来第一次改版，并更换域名清除这两年的困扰：博客在微信访问不畅，被安全警示及重排。不过酝酿了本文及接下来几篇重要博文。
 
 相较过往，这输出密集程度算是突飞猛进。不禁好奇为何如此。得益于一群良师益友，叫我见贤思齐？可之前他们就在呀。因为工作节奏没有前两年紧张？或许，但光多点时间肯定不够。

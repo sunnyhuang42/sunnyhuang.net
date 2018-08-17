@@ -66,9 +66,12 @@ description: 一人百人、五年十年都能优雅又省心？嗯。
 
 但这并非所有图床都可实现，找了一圈，发现目前只有七牛云支持。
 
-七牛对用户也大方，注册并实名认证，便可获得标准用户权益：无上限免费上传流量，10GB 永久免费存储空间，10万次/月 PUT/DELETE 请求，100万次/月 GET 请求，10GB/月免费 CDN 下载流量。一般个人博客足够了。（欢迎通过我的[邀请链接](https://portal.qiniu.com/signup?code=3lb1qrq25es0i)注册，你懂的哈哈） 
+七牛对用户也大方，注册并实名认证，便可获得标准用户权益：无上限免费上传流量，10GB 永久免费存储空间，10万次/月 PUT/DELETE 请求，100万次/月 GET 请求，10GB/月免费 CDN 下载流量。一般个人博客足够了。
 
-但七牛属面向技术人士的平台，对非技术人士不太友好：官方上传工具图形界面体验不佳，甚至没有；帮助文档繁杂且技术气息浓郁，容易懵圈。
+美中不足，是他们最近调整了外链策略——需你有[已备案的域名](https://developer.qiniu.com/af/kb/3987/how-to-make-website-and-inquires-the-police-put-on-record-information)才可稳定使用。但想想未来省心省力，还是忍一时麻烦备案吧。稳妥起见，建议你备案和博客不一样的域名，万一博客有违规内容被取消备案，也不影响图床。
+
+
+此外，七牛属面向技术人士的平台，对非技术人士不太友好：官方上传工具图形界面体验不佳，甚至没有；帮助文档繁杂且技术气息浓郁，容易懵圈。
 
 好在也得益于这是面向技术人士的平台，不少热心工程师已自行开发上传应用，解决普通用户上传问题。还有不少热心又懂点技术的伙伴，整理了图文指南示范关键步骤。
 
@@ -225,19 +228,21 @@ Win:
 	- Mac GUI: [Dropzone 3](https://aptonic.com/) + [适用于 Dropzone 3的七牛上传工具](https://blog.kyleduo.com/2017/02/27/qiniu-upload-for-dropzone/) 
 	- CLI: [命令行工具(qshell) - 七牛开发者中心](https://developer.qiniu.com/kodo/tools/1302/qshell)
 - 获取配置信息：
-	- [快速入门 - 七牛开发者中心](https://developer.qiniu.com/kodo/manual/1233/console-quickstart#step2)
-	- [怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心](https://developer.qiniu.com/af/kb/1479/how-to-access-or-locate-the-access-key-and-secret-key)
+    - [快速入门 - 七牛开发者中心](https://developer.qiniu.com/kodo/manual/1233/console-quickstart#step2)
+    - [怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心](https://developer.qiniu.com/af/kb/1479/how-to-access-or-locate-the-access-key-and-secret-key)
+    - [如何进行网站公安备案和查询公安备案信息 - 七牛开发者中心](https://developer.qiniu.com/af/kb/3987/how-to-make-website-and-inquires-the-police-put-on-record-information)
 - 七牛图片在线处理
 	- cheat sheet: [Hb7niuImageEditOnline · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/Hb7niuImageEditOnline)
 	- 官方文档：[图片处理使用说明 - 七牛开发者中心](https://developer.qiniu.com/dora/manual/3683/img-directions-for-use)
 - 批量查找替换多个文档内容的编辑器：[Atom](https://atom.io/)
-
+- 更多小众但实用的 MarkDown 技巧见 [HbMarkdownTrick.md at master · ishanshan/CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbMarkdownTrick.md) 。
 
 
 
 
 ## CHANGELOG 
 
+- 180816 增加需要备案域名的说明及其它 MarkDown 技巧链接
 - 180722 修改行文思路、动图 1.5h
 - 180721 累计快写慢改 12h ，发布；根据 @ZoomQuiet 反馈优化， 1h
 - 180720 创建

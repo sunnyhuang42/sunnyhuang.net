@@ -70,7 +70,7 @@ description:
 
 ![triggerpointstuff1.jpg](http://openmindclub.zoomquiet.top/ishanshan/triggerpointstuff1.jpg?imageView2/2/w/500)
 
-<center>（按摩杖、按摩棒、按摩球、按摩轴等等，淘宝有卖）
+<center>（我在用的按摩杖、按摩棒、按摩球、按摩轴，淘宝有卖）
 </center> 
 
 <br> 
@@ -88,7 +88,7 @@ description:
 
 ## 完整清单
 
-[这份清单](https://shimo.im/sheet/TbX47opDpH8YkUnd/RIDOC)包括健康、防骗、生活玩乐等方面，列了资源指引和预估费用，会持续更新。直接在浏览器打开，取用更便捷。
+[这份清单](https://shimo.im/sheet/TbX47opDpH8YkUnd/RIDOC)包括健康、防骗、生活玩乐等方面，列了资源指引和预估费用，会持续更新。在电脑浏览器打开，取用更便捷。
 
 <embed src="https://shimo.im/sheet/TbX47opDpH8YkUnd/RIDOC" style="width:700px; height: 800px;">
 

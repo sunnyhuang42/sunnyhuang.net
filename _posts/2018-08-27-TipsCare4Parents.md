@@ -92,7 +92,7 @@ description:
 
 <embed src="https://shimo.im/sheet/TbX47opDpH8YkUnd/RIDOC" style="width:700px; height: 800px;">
 
-如果你有好的行动建议，也和我分享呀~
+暂时想到这些。如果你有好的行动建议，也和我分享呀~
 
 
 ## CHANGELOG 

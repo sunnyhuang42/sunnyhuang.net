@@ -1,7 +1,7 @@
 ---
 title: 这波内容付费平台，未来的困境和出路会在哪 · 杂记categories: 
 - murmur
-- selfedulink: https://road2strategypm.ishanshan.im/CONTENT/TipsLightEduProductChallenge.html
+- selfedulink: https://road2strategypm.ishanshan.im/CONTENT/TipsEduSuperficialProductChallenge.html
 description:
 --- 
 
@@ -11,5 +11,5 @@ description:
 
 如果你正受知识焦虑困扰，也不妨一看，估计有启发 ;-)
 
-阅读请移步：<br> [https://road2strategypm.ishanshan.im/CONTENT/TipsLightEduProductChallenge.html](https://road2strategypm.ishanshan.im/CONTENT/TipsLightEduProductChallenge.html) 。
+阅读请移步：<br> [https://road2strategypm.ishanshan.im/CONTENT/TipsEduSuperficialProductChallenge.html](https://road2strategypm.ishanshan.im/CONTENT/TipsEduSuperficialProductChallenge.html) 。
 

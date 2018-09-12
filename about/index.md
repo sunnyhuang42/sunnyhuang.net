@@ -59,7 +59,7 @@ post-reward: true
 
 日常习惯「快写慢改」，文章发布后多会持续迭代，力求十年后依然乐意翻看，或把一个命题写尽。所以，没有新博文不代表我没更新哦，尤其指南类的内容：P
 
-另外，我会根据使用场景把成果发布在不同平台，包括博客、GitBook 、GitHub repo 等(比如左侧 sidebar > Other Resources 给出的链接)，但都托管在 GitHub 上。如果你不想错过这些更新，欢迎到 GitHub watch 对应 repository ，或 follow 我了解动态：[https://github.com/ishanshan](https://github.com/ishanshan) 。
+另外，我会根据使用场景把成果发布在不同平台，包括博客、GitBook 、GitHub repo 等(比如左侧 sidebar > Other Resources 给出的链接)，但多托管在 GitHub 上。如果你不想错过这些更新，欢迎到 GitHub watch 对应 repository ，或 follow 我了解动态：[https://github.com/ishanshan](https://github.com/ishanshan) 。
 
 如果你有疑问建议、想交流的话题，或希望听我聊的内容，欢迎到 [Issues · ishanshan/ishanshan.github.io](https://github.com/ishanshan/ishanshan.github.io/issues) 告诉我，或邮件 ishanshan.huang#gmail.com 。
 

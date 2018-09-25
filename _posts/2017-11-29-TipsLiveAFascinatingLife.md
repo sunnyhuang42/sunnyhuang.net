@@ -3,7 +3,6 @@ layout: post
 title: 跟王烁「老婆推」学记趣和爱 · 杂记
 category: selfedu
 permalink: /:categories/:title:output_ext
-description: 今天一口气刷完财新主编王烁的老婆推，拍案欢喜：可作认知写作学课程案例，示范故事文采；亦是新新夫妻相处典范，当即精选藏之，磨刀霍霍。现摘些片段同你分享 ——
 ---
 
 
@@ -12,6 +11,8 @@ description: 今天一口气刷完财新主编王烁的老婆推，拍案欢喜�
 >今天一口气刷完财新主编[王烁的老婆推](http://blog.sina.com.cn/s/articlelist_1640307671_0_1.html)，拍案欢喜：可作认知写作学课程案例，示范故事文采；亦是新新夫妻相处典范，当即[精选藏之](https://workflowy.com/s/CO_N.3qiR2I8Pry)，磨刀霍霍。倏尔怅然：啊，还差个老公来试身手！
 
 现摘些片段同你分享：  
+
+<!-- more --> 
 
 ## 学记趣
 

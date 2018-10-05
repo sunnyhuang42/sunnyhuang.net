@@ -189,7 +189,7 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 如果的确有几个层级较深且常需切换的节点，我会 star 这些节点，然后利用 WorkFlowy switch between pages 的快捷键 `CMD+;` 切换：
 
-![hbworkflowystar2.gif](http://ishanshan.qiniudn.com/share/hbworkflowystar2.gif?imageView2/2/w/750)
+![hbworkflowystar2.gif](http://ishanshan.zoomquiet.top/share/hbworkflowystar2.gif?imageView2/2/w/750)
 
 ### 期望过奢，用于文件层级
 

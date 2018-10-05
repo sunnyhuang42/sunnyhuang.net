@@ -56,12 +56,12 @@ description: 一人百人、五年十年都能优雅又省心？嗯。
 
 举个例子：
 
-本来宽 910 的图片：http://ishanshan.qiniudn.com/clipping/scientific_method.png
-![scientific_method.png](http://ishanshan.qiniudn.com/clipping/scientific_method.png)
+本来宽 910 的图片：http://ishanshan.zoomquiet.top/clipping/scientific_method.png
+![scientific_method.png](http://ishanshan.zoomquiet.top/clipping/scientific_method.png)
 
 
-我希望最宽 400 ，于是在地址上加上限制宽度的参数 `?imageView2/2/w/400` ，图片地址变为 http://ishanshan.qiniudn.com/clipping/scientific_method.png?imageView2/2/w/400 即可：
-![](http://ishanshan.qiniudn.com/clipping/scientific_method.png?imageView2/2/w/400)
+我希望最宽 400 ，于是在地址上加上限制宽度的参数 `?imageView2/2/w/400` ，图片地址变为 http://ishanshan.zoomquiet.top/clipping/scientific_method.png?imageView2/2/w/400 即可：
+![](http://ishanshan.zoomquiet.top/clipping/scientific_method.png?imageView2/2/w/400)
 
 
 但这并非所有图床都可实现，找了一圈，发现目前只有七牛云支持。
@@ -118,7 +118,7 @@ Win:
 
 如果效果不满意，可直接调整 URL 参数，在浏览器中查看结果，满意后把该 URL 更新到文档中即可：
 
-![7niuonlineedit1.gif](http://ishanshan.qiniudn.com/share/7niuonlineedit1.gif)
+![7niuonlineedit1.gif](http://ishanshan.zoomquiet.top/share/7niuonlineedit1.gif)
 
 为了效率，编辑时我一般批处理：把一篇或几篇文章的图片都上传到对应位置后，再统一处理大小。增加参数时，先判断用得最多的参数，批量替换，再微调。
 
@@ -128,9 +128,9 @@ Win:
 
 若想未来管理省心，需要尽量把配图放同一文件夹。不仅减少存储时不必要的决策、取用时查找的麻烦，还利于应对万一。
 
-比如对于个人博客的图片，我一般都放本地 share 文件夹，同步时选 `share/` 前缀，比如 `http://ishanshan.qiniudn.com/share/cardsample1.png` 那些收集来的有价值的图片，则放 clipping 文件夹，选 `clipping/` 前缀，比如 `http://ishanshan.qiniudn.com/clipping/scientific_method.png` 。
+比如对于个人博客的图片，我一般都放本地 share 文件夹，同步时选 `share/` 前缀，比如 `http://ishanshan.zoomquiet.top/share/cardsample1.png` 那些收集来的有价值的图片，则放 clipping 文件夹，选 `clipping/` 前缀，比如 `http://ishanshan.zoomquiet.top/clipping/scientific_method.png` 。
 
-如此，万一原图床地址失效，便可直接把这俩路径下的图片立马上传新图床，再批量替换对应文档里的图片主域名。比如把 `ishanshan.qiniudn.com` 替换成新域名即可。 
+如此，万一原图床地址失效，便可直接把这俩路径下的图片立马上传新图床，再批量替换对应文档里的图片主域名。比如把 `ishanshan.zoomquiet.top` 替换成新域名即可。 
 
 团队使用同理。再借本地同步盘，同步对应文件夹就好。这样一来，新人初来乍到，也能平滑接入，使用原有片源、贡献新片源。
 

@@ -71,7 +71,7 @@ title: 如何带出和自己一样能干的团队 · 半年摸爬小记categori
 
 刚开始的定期沟通简单粗暴，沿用了我在[大学第一个 side project 担任负责人时](https://ishanshan.im/selfedu/community/SelfEduOwetoJZK)的做法：提前说明意图、话题，约个时间地点现场开聊。后来翻了些 [Harvard Business Review - Ideas and Advice for Leaders](https://hbr.org/) 和 [Medium – a place to read and write big ideas and important stories](https://medium.com/) 里的文章，发现这么做不够高效，便结合文中建议及团队特性，逐步迭代为**文字小结+当面沟通：组员先参考下述自评模板复盘上阶段工作，我了解他们自我评价的变化后，再给出工作观察意见，辅助细化下阶段提升目标和行动成果，提高输出效率**。
 
-![tepmonthlyreview2.png](http://ishanshan.qiniudn.com/share/tepmonthlyreview2.png)
+![tepmonthlyreview2.png](http://ishanshan.zoomquiet.top/share/tepmonthlyreview2.png)
 
 (该模板全文见 [HbWorkReviewMonthly.md at master · ishanshan/CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbWorkReviewMonthly.md))
 
@@ -100,7 +100,7 @@ title: 如何带出和自己一样能干的团队 · 半年摸爬小记categori
 
 日常输出交付的大部分成果都为文案/文档，内部协作平台 GitHub 可对比任意版本、获取 URL ，正好刻意练习——**借助 GitHub 版本对比功能，新人便可以自行品味修订之处。思考分析修订原因后，即逮老人确认，完善检查清单及案例，提升上手效率**。
 
-![samplereviewdiff1.gif](http://ishanshan.qiniudn.com/share/samplereviewdiff1.gif)
+![samplereviewdiff1.gif](http://ishanshan.zoomquiet.top/share/samplereviewdiff1.gif)
 
 有些重要技能难借工具加速反馈，比如电话做用户调研或沟通候选人，但接触外部事关公司品牌，又不能降低要求，只有花时间教练：
 
@@ -137,7 +137,7 @@ title: 如何带出和自己一样能干的团队 · 半年摸爬小记categori
 
 有句话说得好：You can't change what you don't notice. 反之亦然：You can change what you've noticed. 有了「工时」这个显而易见的标尺，我开始有意识地多做那些能增强团队战斗力的事情，每周检视。几周后，每周带队伍做事的时间终于稳定在 1/4~1/3 。
 
-![leadershipcounttimemanageusage2.png](http://ishanshan.qiniudn.com/share/leadershipcounttimemanageusage2.png?imageView2/2/w/450)
+![leadershipcounttimemanageusage2.png](http://ishanshan.zoomquiet.top/share/leadershipcounttimemanageusage2.png?imageView2/2/w/450)
 
 
 

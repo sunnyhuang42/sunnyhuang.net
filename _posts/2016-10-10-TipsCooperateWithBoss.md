@@ -7,7 +7,7 @@ categories:
 - tool
 permalink: /selfedu/:title:output_ext
 photos:
--  http://ishanshan.qiniudn.com/share/letter3.png
+-  http://ishanshan.zoomquiet.top/share/letter3.png
 ---
 
 <blockquote class="blockquote-center">你思量说尽，他悉你忧，知你知与不知，这时候再当面沟通，必顺畅不少。</blockquote>

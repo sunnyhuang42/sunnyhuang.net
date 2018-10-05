@@ -168,7 +168,7 @@
 
 &lt;p&gt;刚开始的定期沟通简单粗暴，沿用了我在&lt;a href=&quot;https://ishanshan.im/selfedu/community/SelfEduOwetoJZK&quot;&gt;大学第一个 side project 担任负责人时&lt;/a&gt;的做法：提前说明意图、话题，约个时间地点现场开聊。后来翻了些 &lt;a href=&quot;https://hbr.org/&quot;&gt;Harvard Business Review - Ideas and Advice for Leaders&lt;/a&gt; 和 &lt;a href=&quot;https://medium.com/&quot;&gt;Medium – a place to read and write big ideas and important stories&lt;/a&gt; 里的文章，发现这么做不够高效，便结合文中建议及团队特性，逐步迭代为&lt;strong&gt;文字小结+当面沟通：组员先参考下述自评模板复盘上阶段工作，我了解他们自我评价的变化后，再给出工作观察意见，辅助细化下阶段提升目标和行动成果，提高输出效率&lt;/strong&gt;。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/tepmonthlyreview2.png&quot; alt=&quot;tepmonthlyreview2.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/tepmonthlyreview2.png&quot; alt=&quot;tepmonthlyreview2.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;(该模板全文见 &lt;a href=&quot;https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbWorkReviewMonthly.md&quot;&gt;HbWorkReviewMonthly.md at master · ishanshan/CollaborationGuide4Shaper&lt;/a&gt;)&lt;/p&gt;
 
@@ -196,7 +196,7 @@
 
 &lt;p&gt;日常输出交付的大部分成果都为文案/文档，内部协作平台 GitHub 可对比任意版本、获取 URL ，正好刻意练习——&lt;strong&gt;借助 GitHub 版本对比功能，新人便可以自行品味修订之处。思考分析修订原因后，即逮老人确认，完善检查清单及案例，提升上手效率&lt;/strong&gt;。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/samplereviewdiff1.gif&quot; alt=&quot;samplereviewdiff1.gif&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/samplereviewdiff1.gif&quot; alt=&quot;samplereviewdiff1.gif&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;有些重要技能难借工具加速反馈，比如电话做用户调研或沟通候选人，但接触外部事关公司品牌，又不能降低要求，只有花时间教练：&lt;/p&gt;
 
@@ -234,7 +234,7 @@
 
 &lt;p&gt;有句话说得好：You can’t change what you don’t notice. 反之亦然：You can change what you’ve noticed. 有了「工时」这个显而易见的标尺，我开始有意识地多做那些能增强团队战斗力的事情，每周检视。几周后，每周带队伍做事的时间终于稳定在 1/4~1/3 。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/leadershipcounttimemanageusage2.png?imageView2/2/w/450&quot; alt=&quot;leadershipcounttimemanageusage2.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/leadershipcounttimemanageusage2.png?imageView2/2/w/450&quot; alt=&quot;leadershipcounttimemanageusage2.png&quot; /&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;五&quot;&gt;五&lt;/h2&gt;
 
@@ -322,11 +322,11 @@
 
 &lt;p&gt;举个例子：&lt;/p&gt;
 
-&lt;p&gt;本来宽 910 的图片：http://ishanshan.qiniudn.com/clipping/scientific_method.png
-&lt;img src=&quot;http://ishanshan.qiniudn.com/clipping/scientific_method.png&quot; alt=&quot;scientific_method.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;本来宽 910 的图片：http://ishanshan.zoomquiet.top/clipping/scientific_method.png
+&lt;img src=&quot;http://ishanshan.zoomquiet.top/clipping/scientific_method.png&quot; alt=&quot;scientific_method.png&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;我希望最宽 400 ，于是在地址上加上限制宽度的参数 &lt;code class=&quot;highlighter-rouge&quot;&gt;?imageView2/2/w/400&lt;/code&gt; ，图片地址变为 http://ishanshan.qiniudn.com/clipping/scientific_method.png?imageView2/2/w/400 即可：
-&lt;img src=&quot;http://ishanshan.qiniudn.com/clipping/scientific_method.png?imageView2/2/w/400&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;我希望最宽 400 ，于是在地址上加上限制宽度的参数 &lt;code class=&quot;highlighter-rouge&quot;&gt;?imageView2/2/w/400&lt;/code&gt; ，图片地址变为 http://ishanshan.zoomquiet.top/clipping/scientific_method.png?imageView2/2/w/400 即可：
+&lt;img src=&quot;http://ishanshan.zoomquiet.top/clipping/scientific_method.png?imageView2/2/w/400&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;但这并非所有图床都可实现，找了一圈，发现目前只有七牛云支持。&lt;/p&gt;
 
@@ -383,7 +383,7 @@
 
 &lt;p&gt;如果效果不满意，可直接调整 URL 参数，在浏览器中查看结果，满意后把该 URL 更新到文档中即可：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/7niuonlineedit1.gif&quot; alt=&quot;7niuonlineedit1.gif&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/7niuonlineedit1.gif&quot; alt=&quot;7niuonlineedit1.gif&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;为了效率，编辑时我一般批处理：把一篇或几篇文章的图片都上传到对应位置后，再统一处理大小。增加参数时，先判断用得最多的参数，批量替换，再微调。&lt;/p&gt;
 
@@ -393,9 +393,9 @@
 
 &lt;p&gt;若想未来管理省心，需要尽量把配图放同一文件夹。不仅减少存储时不必要的决策、取用时查找的麻烦，还利于应对万一。&lt;/p&gt;
 
-&lt;p&gt;比如对于个人博客的图片，我一般都放本地 share 文件夹，同步时选 &lt;code class=&quot;highlighter-rouge&quot;&gt;share/&lt;/code&gt; 前缀，比如 &lt;code class=&quot;highlighter-rouge&quot;&gt;http://ishanshan.qiniudn.com/share/cardsample1.png&lt;/code&gt; 那些收集来的有价值的图片，则放 clipping 文件夹，选 &lt;code class=&quot;highlighter-rouge&quot;&gt;clipping/&lt;/code&gt; 前缀，比如 &lt;code class=&quot;highlighter-rouge&quot;&gt;http://ishanshan.qiniudn.com/clipping/scientific_method.png&lt;/code&gt; 。&lt;/p&gt;
+&lt;p&gt;比如对于个人博客的图片，我一般都放本地 share 文件夹，同步时选 &lt;code class=&quot;highlighter-rouge&quot;&gt;share/&lt;/code&gt; 前缀，比如 &lt;code class=&quot;highlighter-rouge&quot;&gt;http://ishanshan.zoomquiet.top/share/cardsample1.png&lt;/code&gt; 那些收集来的有价值的图片，则放 clipping 文件夹，选 &lt;code class=&quot;highlighter-rouge&quot;&gt;clipping/&lt;/code&gt; 前缀，比如 &lt;code class=&quot;highlighter-rouge&quot;&gt;http://ishanshan.zoomquiet.top/clipping/scientific_method.png&lt;/code&gt; 。&lt;/p&gt;
 
-&lt;p&gt;如此，万一原图床地址失效，便可直接把这俩路径下的图片立马上传新图床，再批量替换对应文档里的图片主域名。比如把 &lt;code class=&quot;highlighter-rouge&quot;&gt;ishanshan.qiniudn.com&lt;/code&gt; 替换成新域名即可。&lt;/p&gt;
+&lt;p&gt;如此，万一原图床地址失效，便可直接把这俩路径下的图片立马上传新图床，再批量替换对应文档里的图片主域名。比如把 &lt;code class=&quot;highlighter-rouge&quot;&gt;ishanshan.zoomquiet.top&lt;/code&gt; 替换成新域名即可。&lt;/p&gt;
 
 &lt;p&gt;团队使用同理。再借本地同步盘，同步对应文件夹就好。这样一来，新人初来乍到，也能平滑接入，使用原有片源、贡献新片源。&lt;/p&gt;
 
@@ -514,7 +514,7 @@
   &lt;li&gt;180722 修改行文思路、动图 1.5h&lt;/li&gt;
   &lt;li&gt;180721 累计快写慢改 12h ，发布；根据 @ZoomQuiet 反馈优化， 1h&lt;/li&gt;
   &lt;li&gt;180720 创建&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">近期陆续遇到几个 MarkDown 码字发文棘手问题，最后却都轻松化解： 某张图片已用于十多篇文章，但图片有误需要更新。拿到新图，半分钟就替换完毕。 辛苦写了几篇文章，同步到 App 中发现加载太慢，原来是图片最好不超过 100k/张，但宽度至少 750 。几十张图片啊……眼睛一转，5 分钟就优化完毕。 之前的图床地址失效，图片无法显示，几年的文章都需更新配图，愁煞人。翻了翻本地图片，20 分钟就更新完毕。 想来多归功这三年的插图习惯。再看周围朋友，陆续遭遇以下插图困扰，耗于烦心琐碎而自拔不能，很是不值。 正好最近有空，分享出来助更多朋友少走弯路，也能一人百人、五年十年，都优雅从容，轻松省心：） MarkDown 码字发文插图困扰 常在河边走，怎能不湿鞋。使用 MarkDown 码字发文，迟早遭遇以下烦恼： 好不容易找到看着不错的图床，上传图片、顺利发文，结果过段时间，图片无法显示……想重新再传，可眼瞅这乱码 URL 怎么都没法识别当初用的哪张图……不想就此不管破罐破摔，也不想花时间重新找图作图，怎么办？ 总算找到满意图片，可实在太大，为了图文浏览体验必须压缩。问题来了——压缩后，本地保留哪个版本？高清压缩都保留，占空间；只保留一个，留哪个？留大的，那下回再用又得压缩一遍；留小的，那高清场合又得再找…… 那看情况吧，先缩了再说。无奈烦恼也不少：得调试好多次才能找到合适参数；调试过程，难免保存导出，判断是否清晰合用，不行又得删掉重来。若是网页处理工具（比如美图秀秀），上传下载也挺烦。TinyPng、SmartResize 是快捷，但没法限定输出大小，比如每张 100k 以下…… 越高产，新烦恼来得越快：是一篇图文一个文件夹，里头装 MarkDown 文档和所用图片；还是所有图片一个文件夹，文档一个文件夹？到底怎么管理更省心，五年十年不添堵？ 团队编辑图文，各编各文各找各图。怎么做，才能提高效率，减少重复劳动？怎样做，才能便于多人调用、未来复用？ …… 要解决这些怎么办的问题，先要了解 MarkDown 配图机制—— MarkDown 配图机制 传统文档，是把图片复制了一份搁文档里。 MarkDown 文档，则是把图片搁云端（俗称图床），映射在文档里。什么意思？你可以把文章想象成一个画廊，传统画廊，是把画直接放画框里；MarkDown 画廊，则是存画于线上资源库，把画投影到画框。 这样有什么好处？大大降低文档大小，轻盈畅快。且图片管理方便：既然是把画投影在画框，那理论上只要改变投影参数，比如焦距、投影距离等，就可改变画框中画面的大小、清晰程度，不需调整原画。 更大优势，是需求更复杂时，管理复杂度却变化不大：比如想让多个画框出现该画，投影过去就好，不会多占 N 倍空间；不同位置所需画面大小、清晰程度不同，调整投影参数就好；如需替换各处的这幅画，直接更换原画就好，不必挨个替换画框。 理论挺美，如何实现？需要这套习惯—— 如何插图优雅又省心 1. 使用稳定且支持图片在线处理的图床 「稳定」好理解，登录才能传图的大厂图床，一般都有保障。 「支持图片在线处理」，则鲜为人知。还记得前面打的比方吗——改变投影参数，比如焦距、投影距离等，就可改变画框中画面的大小、清晰程度。实际操作，就是直接在图片地址后添加对应参数，即可简单处理图片，如限制宽高、大小，转换图片格式等。 举个例子： 本来宽 910 的图片：http://ishanshan.qiniudn.com/clipping/scientific_method.png 我希望最宽 400 ，于是在地址上加上限制宽度的参数 ?imageView2/2/w/400 ，图片地址变为 http://ishanshan.qiniudn.com/clipping/scientific_method.png?imageView2/2/w/400 即可： 但这并非所有图床都可实现，找了一圈，发现目前只有七牛云支持。 七牛对用户也大方，注册并实名认证，便可获得标准用户权益：无上限免费上传流量，10GB 永久免费存储空间，10万次/月 PUT/DELETE 请求，100万次/月 GET 请求，10GB/月免费 CDN 下载流量。一般个人博客足够了。 美中不足，是他们最近调整了外链策略——需你有已备案的域名才可稳定使用。但想想未来省心省力，还是忍一时麻烦备案吧。稳妥起见，建议你备案和博客不一样的域名，万一博客有违规内容被取消备案，也不影响图床。 此外，七牛属面向技术人士的平台，对非技术人士不太友好：官方上传工具图形界面体验不佳，甚至没有；帮助文档繁杂且技术气息浓郁，容易懵圈。 好在也得益于这是面向技术人士的平台，不少热心工程师已自行开发上传应用，解决普通用户上传问题。还有不少热心又懂点技术的伙伴，整理了图文指南示范关键步骤。 如何高效上传文件至七牛云 图床上传工具繁多，为了应对愈发复杂的需求，我有以下要求： 支持使用原文件名，URL 能保留原语义，而非转译成数字 支持批量上传 支持设定上传前缀，以便区分不同类型内容，比如 ../share/image1.jpg &amp;amp; ../clipping/image2.jpg 支持多个存储账号，以便灵活切换个人及公司图床 左看右看，Mac GUI 工具，只发现 Dropzone 3 搭配 这款适用于 Dropzone 3的七牛上传工具 能全满足。配置好后使用也方便，拖动即可上传并获取图片地址。后者免费，前者收费，不过不贵—— 60 块，不到一顿饭就能拿下。 CLI 工具，官方的即可，参见 命令行工具(qshell) - 七牛开发者中心 。 如何获取配置七牛上传工具所需的 Bucket 、Access Key（下文简称 AK）、Secret Key（下文简称 SK） 等账号信息，见快速入门 - 七牛开发者中心 、怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心。 如果你只有前俩要求，选择范围会广些，比如： Mac: Mac七牛图床与文件批量上传工具 - 简书 利用Alfred Workflow快速上传粘贴板图片至七牛图床并在Markdown中引用 - 作业部落 Cmd Markdown 编辑阅读器 Win: MPic-图床神器-免费图床,不限流量,专业图床工具 七牛 Markdown 图片快速上传工具 - Veritas501’s Blog 但这难保一人百人、五年十年依然优雅省心，你根据个人情况掂量吧：） 如何高效在线处理图片 如何在线处理图片，七牛给出了详细的文档 图片处理使用说明 - 七牛开发者中心 。 不过每次处理图片都去翻这文档、排列组合不同参数，就如定向越野，好不容易有捷径可走，结果看捷径地图比不抄近路还花时间，岂不南辕北辙？ 好在办法总比困难多——我做了份 cheat sheet ，MarkDown 码字发文专用：Hb7niuImageEditOnline · OpenMindClub/Share Wiki 。 凭此 cheat sheet ，只需判断原图是什么格式、是否大于 2M ，即可选择对应参数，限制图片大小。 如果效果不满意，可直接调整 URL 参数，在浏览器中查看结果，满意后把该 URL 更新到文档中即可： 为了效率，编辑时我一般批处理：把一篇或几篇文章的图片都上传到对应位置后，再统一处理大小。增加参数时，先判断用得最多的参数，批量替换，再微调。 比如，某五个文档所用图片，多是 &amp;lt; 2M 的 jpg 。我便在可多文档查找替换的编辑器（比如 Atom）里，用 search in directory 批量检索出这些文档里的 .jpg) 字段，批量换成 .jpg?imageMogr2/size-limit/100k!) ，再手动修改原图大于 2M 的图片 URL 参数，改为 ?imageView2/2/w/1000|imageslim 。 2. 图片放同一文件夹 若想未来管理省心，需要尽量把配图放同一文件夹。不仅减少存储时不必要的决策、取用时查找的麻烦，还利于应对万一。 比如对于个人博客的图片，我一般都放本地 share 文件夹，同步时选 share/ 前缀，比如 http://ishanshan.qiniudn.com/share/cardsample1.png 那些收集来的有价值的图片，则放 clipping 文件夹，选 clipping/ 前缀，比如 http://ishanshan.qiniudn.com/clipping/scientific_method.png 。 如此，万一原图床地址失效，便可直接把这俩路径下的图片立马上传新图床，再批量替换对应文档里的图片主域名。比如把 ishanshan.qiniudn.com 替换成新域名即可。 团队使用同理。再借本地同步盘，同步对应文件夹就好。这样一来，新人初来乍到，也能平滑接入，使用原有片源、贡献新片源。 需要注意的是，此处所用并非云盘，是本地同步盘，能实时同步本地指定文件夹的那种。Dropbox、坚果云、亿方云等都可实现。 3. 图片名用英文标注绝对属性 为何命名要用英文，见我老文 《命名用英文，烦恼少大半 · 团队文档命名指南》。 成，那就不用中文。于是有朋友这么来给图片命名 2017-11-09-l-stone-0-3-pic4-new.jpg …… 这有什么后果？如果只是个人文章，未来几乎不会再用这些图，你也不计较识别时得多花点时间点开预览，都好说。但如果发生在团队图库呢？同事若想使用，是不是就得翻看到底是啥，逐个查阅确认？假设每张图得花 1.5s 预览，每天由于名称无法马上识别得多预览 10 张图，10 位同事得多花多少时间？100 位同事呢？……好心情和心流都是被这些琐碎小事给打飞的…… 那图片怎样命名，才不易给自己和团队找事？ 以绝对属性而非相对属性命名，令图片树状排列。具体来说，命名规则为 绝对属性主题代号+图片序号。 为什么要这样？相信你多少有体会，团队文件管理，最好少用文件夹、减少层级降低管理复杂度。那文件怎么分类？最好以名称字母自动排序区分各主题文件。若大主题下还想细分，则在大主题代号后加细分名称。如「家庭场景画面」为 family，「有爸爸的家庭画面」，命名则在 family 后加 dad ，即 familydad 。 如果还没感觉，可瞅瞅这个例子： - 序号 1~9999 - 主题代号举例 - family 家庭场景 - familydad 有爸爸的家庭画面 - familymom 有妈妈的家庭画面 - familyplay 家庭玩耍 - housework 做家务 - injury 受伤场景 - learning 学习场景 - object 物品 - objectcup 水杯 - objectbag 书包 - objecttoy 玩具 - unhappy 不开心的场景 - unhappydad 不开心的爸爸 - unhappyparents 不开心的家长 - book 图书封面： - 规则：`book_书名首字母缩写` - 注意：有英文名的优先使用英文名，没有的话用中文名首字母缩写 - 举例：《The Very Hungry Caterpillar》 封面图片命名 `book_tvhc` 如果你们团队作业，还请不要轻易改动里头的文件名。毕竟改动后，就难快速在 MarkDown 文档里搜出这此图。此外，保存图片尽量清晰大图，以便未来用于其它场合（比如易拉宝、网站等）。 FAQ 新文件会覆盖原图不？ 为了你少出乱子，七牛默认上传策略不能覆盖原图。所以如果你想剪裁图片后再上传，最好修改文件名，比如在文件名后加1。 实在不想更改图片地址，只想直接显示新图，也成——可自行检索 七牛 上传策略 覆盖 等关键词解决。反正我瞅了瞅就溜回来改文件名重新上传了，祝你好运：P 如何拥有优雅的图床域名？ 标准用户新创建存储空间后，会获得这类*.bkt.clouddn.com 系统自动生成的测试域名。 如果有条件，建议在中国大陆备案一个域名，图床专用。这样就可以自定义七牛空间域名 ，更稳定，图片 URL 也更干净清晰。 文章发到公众号和自建网站，如何不必重复传图？ 在 MarkDown 编辑器写完图文，想一键排版到公众号，可参考 markdown 高效撰写微信公众号文章 - 简书 。 划重点：在 MarkDown Here 渲染后，「剪切排版内容，再粘贴」，并等一会儿，图片才能正常显示。 如果你嫌原配的 CSS 丑，可以自己改，或直接用别人改好的。后者在网上能搜到不少，比如 huanxi007/markdown-here-css。 。 团队如何优雅共用七牛空间？ 七牛不支持团队账号，登录即有最高权限。这要是谁手滑改了什么配置，岂不乱套？ 莫担心，还记得你前面获取的 AK SK 等配置信息吧？每个标准账号可设置两对 AK SK ，以及 N 个不同空间——不同角色使用不同的配置信息就好。 比如内容同事使用 AK_1 SK_1 和 content_1 空间，内容志愿者使用 AK_2 SK_2 和 content_1 空间；这样即使换了一届志愿者，想保证信息安全，直接更新 AK_2 SK_2 为 AK_3 SK_3 就好。如果还有团队也想用 content_1 空间，并想来单独一套 AK SK ，可把空间授权别的账号读写，这样你就可以有多对 AK SK 了，详见空间授权 - 七牛开发者中心 。 星移斗转，工具必会推陈出新，但省心原则大体如上。 工具使用问题请自行检索或联系客服，习惯疑问欢迎留言交流。 愿你也远离烦心琐碎，多多拥抱心流：） 关键链接汇总 七牛注册：https://portal.qiniu.com/signup?code=3lb1qrq25es0i 上传工具： Mac GUI: Dropzone 3 + 适用于 Dropzone 3的七牛上传工具 CLI: 命令行工具(qshell) - 七牛开发者中心 获取配置信息： 快速入门 - 七牛开发者中心 怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心 如何进行网站公安备案和查询公安备案信息 - 七牛开发者中心 七牛图片在线处理 cheat sheet: Hb7niuImageEditOnline · OpenMindClub/Share Wiki 官方文档：图片处理使用说明 - 七牛开发者中心 批量查找替换多个文档内容的编辑器：Atom 更多小众但实用的 MarkDown 技巧见 HbMarkdownTrick.md at master · ishanshan/CollaborationGuide4Shaper 。 CHANGELOG 180816 增加需要备案域名的说明及其它 MarkDown 技巧链接 180722 修改行文思路、动图 1.5h 180721 累计快写慢改 12h ，发布；根据 @ZoomQuiet 反馈优化， 1h 180720 创建</summary></entry><entry><title type="html">卡片助力输出， MarkDown + GitHub + LOFTER 有轻功</title><link href="http://localhost:4000/selfedu/tool/HbOutputOwetoCards" rel="alternate" type="text/html" title="卡片助力输出， MarkDown + GitHub + LOFTER 有轻功" /><published>2018-07-15T00:00:00+08:00</published><updated>2018-07-15T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/tool/HbOutputOwetoCards</id><content type="html" xml:base="http://localhost:4000/selfedu/tool/HbOutputOwetoCards">&lt;blockquote class=&quot;blockquote-center&quot;&gt;作品和作品的差别，源于卡片。&lt;br /&gt;人和人的差异，垒于习惯。&lt;/blockquote&gt;
+&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">近期陆续遇到几个 MarkDown 码字发文棘手问题，最后却都轻松化解： 某张图片已用于十多篇文章，但图片有误需要更新。拿到新图，半分钟就替换完毕。 辛苦写了几篇文章，同步到 App 中发现加载太慢，原来是图片最好不超过 100k/张，但宽度至少 750 。几十张图片啊……眼睛一转，5 分钟就优化完毕。 之前的图床地址失效，图片无法显示，几年的文章都需更新配图，愁煞人。翻了翻本地图片，20 分钟就更新完毕。 想来多归功这三年的插图习惯。再看周围朋友，陆续遭遇以下插图困扰，耗于烦心琐碎而自拔不能，很是不值。 正好最近有空，分享出来助更多朋友少走弯路，也能一人百人、五年十年，都优雅从容，轻松省心：） MarkDown 码字发文插图困扰 常在河边走，怎能不湿鞋。使用 MarkDown 码字发文，迟早遭遇以下烦恼： 好不容易找到看着不错的图床，上传图片、顺利发文，结果过段时间，图片无法显示……想重新再传，可眼瞅这乱码 URL 怎么都没法识别当初用的哪张图……不想就此不管破罐破摔，也不想花时间重新找图作图，怎么办？ 总算找到满意图片，可实在太大，为了图文浏览体验必须压缩。问题来了——压缩后，本地保留哪个版本？高清压缩都保留，占空间；只保留一个，留哪个？留大的，那下回再用又得压缩一遍；留小的，那高清场合又得再找…… 那看情况吧，先缩了再说。无奈烦恼也不少：得调试好多次才能找到合适参数；调试过程，难免保存导出，判断是否清晰合用，不行又得删掉重来。若是网页处理工具（比如美图秀秀），上传下载也挺烦。TinyPng、SmartResize 是快捷，但没法限定输出大小，比如每张 100k 以下…… 越高产，新烦恼来得越快：是一篇图文一个文件夹，里头装 MarkDown 文档和所用图片；还是所有图片一个文件夹，文档一个文件夹？到底怎么管理更省心，五年十年不添堵？ 团队编辑图文，各编各文各找各图。怎么做，才能提高效率，减少重复劳动？怎样做，才能便于多人调用、未来复用？ …… 要解决这些怎么办的问题，先要了解 MarkDown 配图机制—— MarkDown 配图机制 传统文档，是把图片复制了一份搁文档里。 MarkDown 文档，则是把图片搁云端（俗称图床），映射在文档里。什么意思？你可以把文章想象成一个画廊，传统画廊，是把画直接放画框里；MarkDown 画廊，则是存画于线上资源库，把画投影到画框。 这样有什么好处？大大降低文档大小，轻盈畅快。且图片管理方便：既然是把画投影在画框，那理论上只要改变投影参数，比如焦距、投影距离等，就可改变画框中画面的大小、清晰程度，不需调整原画。 更大优势，是需求更复杂时，管理复杂度却变化不大：比如想让多个画框出现该画，投影过去就好，不会多占 N 倍空间；不同位置所需画面大小、清晰程度不同，调整投影参数就好；如需替换各处的这幅画，直接更换原画就好，不必挨个替换画框。 理论挺美，如何实现？需要这套习惯—— 如何插图优雅又省心 1. 使用稳定且支持图片在线处理的图床 「稳定」好理解，登录才能传图的大厂图床，一般都有保障。 「支持图片在线处理」，则鲜为人知。还记得前面打的比方吗——改变投影参数，比如焦距、投影距离等，就可改变画框中画面的大小、清晰程度。实际操作，就是直接在图片地址后添加对应参数，即可简单处理图片，如限制宽高、大小，转换图片格式等。 举个例子： 本来宽 910 的图片：http://ishanshan.zoomquiet.top/clipping/scientific_method.png 我希望最宽 400 ，于是在地址上加上限制宽度的参数 ?imageView2/2/w/400 ，图片地址变为 http://ishanshan.zoomquiet.top/clipping/scientific_method.png?imageView2/2/w/400 即可： 但这并非所有图床都可实现，找了一圈，发现目前只有七牛云支持。 七牛对用户也大方，注册并实名认证，便可获得标准用户权益：无上限免费上传流量，10GB 永久免费存储空间，10万次/月 PUT/DELETE 请求，100万次/月 GET 请求，10GB/月免费 CDN 下载流量。一般个人博客足够了。 美中不足，是他们最近调整了外链策略——需你有已备案的域名才可稳定使用。但想想未来省心省力，还是忍一时麻烦备案吧。稳妥起见，建议你备案和博客不一样的域名，万一博客有违规内容被取消备案，也不影响图床。 此外，七牛属面向技术人士的平台，对非技术人士不太友好：官方上传工具图形界面体验不佳，甚至没有；帮助文档繁杂且技术气息浓郁，容易懵圈。 好在也得益于这是面向技术人士的平台，不少热心工程师已自行开发上传应用，解决普通用户上传问题。还有不少热心又懂点技术的伙伴，整理了图文指南示范关键步骤。 如何高效上传文件至七牛云 图床上传工具繁多，为了应对愈发复杂的需求，我有以下要求： 支持使用原文件名，URL 能保留原语义，而非转译成数字 支持批量上传 支持设定上传前缀，以便区分不同类型内容，比如 ../share/image1.jpg &amp;amp; ../clipping/image2.jpg 支持多个存储账号，以便灵活切换个人及公司图床 左看右看，Mac GUI 工具，只发现 Dropzone 3 搭配 这款适用于 Dropzone 3的七牛上传工具 能全满足。配置好后使用也方便，拖动即可上传并获取图片地址。后者免费，前者收费，不过不贵—— 60 块，不到一顿饭就能拿下。 CLI 工具，官方的即可，参见 命令行工具(qshell) - 七牛开发者中心 。 如何获取配置七牛上传工具所需的 Bucket 、Access Key（下文简称 AK）、Secret Key（下文简称 SK） 等账号信息，见快速入门 - 七牛开发者中心 、怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心。 如果你只有前俩要求，选择范围会广些，比如： Mac: Mac七牛图床与文件批量上传工具 - 简书 利用Alfred Workflow快速上传粘贴板图片至七牛图床并在Markdown中引用 - 作业部落 Cmd Markdown 编辑阅读器 Win: MPic-图床神器-免费图床,不限流量,专业图床工具 七牛 Markdown 图片快速上传工具 - Veritas501’s Blog 但这难保一人百人、五年十年依然优雅省心，你根据个人情况掂量吧：） 如何高效在线处理图片 如何在线处理图片，七牛给出了详细的文档 图片处理使用说明 - 七牛开发者中心 。 不过每次处理图片都去翻这文档、排列组合不同参数，就如定向越野，好不容易有捷径可走，结果看捷径地图比不抄近路还花时间，岂不南辕北辙？ 好在办法总比困难多——我做了份 cheat sheet ，MarkDown 码字发文专用：Hb7niuImageEditOnline · OpenMindClub/Share Wiki 。 凭此 cheat sheet ，只需判断原图是什么格式、是否大于 2M ，即可选择对应参数，限制图片大小。 如果效果不满意，可直接调整 URL 参数，在浏览器中查看结果，满意后把该 URL 更新到文档中即可： 为了效率，编辑时我一般批处理：把一篇或几篇文章的图片都上传到对应位置后，再统一处理大小。增加参数时，先判断用得最多的参数，批量替换，再微调。 比如，某五个文档所用图片，多是 &amp;lt; 2M 的 jpg 。我便在可多文档查找替换的编辑器（比如 Atom）里，用 search in directory 批量检索出这些文档里的 .jpg) 字段，批量换成 .jpg?imageMogr2/size-limit/100k!) ，再手动修改原图大于 2M 的图片 URL 参数，改为 ?imageView2/2/w/1000|imageslim 。 2. 图片放同一文件夹 若想未来管理省心，需要尽量把配图放同一文件夹。不仅减少存储时不必要的决策、取用时查找的麻烦，还利于应对万一。 比如对于个人博客的图片，我一般都放本地 share 文件夹，同步时选 share/ 前缀，比如 http://ishanshan.zoomquiet.top/share/cardsample1.png 那些收集来的有价值的图片，则放 clipping 文件夹，选 clipping/ 前缀，比如 http://ishanshan.zoomquiet.top/clipping/scientific_method.png 。 如此，万一原图床地址失效，便可直接把这俩路径下的图片立马上传新图床，再批量替换对应文档里的图片主域名。比如把 ishanshan.zoomquiet.top 替换成新域名即可。 团队使用同理。再借本地同步盘，同步对应文件夹就好。这样一来，新人初来乍到，也能平滑接入，使用原有片源、贡献新片源。 需要注意的是，此处所用并非云盘，是本地同步盘，能实时同步本地指定文件夹的那种。Dropbox、坚果云、亿方云等都可实现。 3. 图片名用英文标注绝对属性 为何命名要用英文，见我老文 《命名用英文，烦恼少大半 · 团队文档命名指南》。 成，那就不用中文。于是有朋友这么来给图片命名 2017-11-09-l-stone-0-3-pic4-new.jpg …… 这有什么后果？如果只是个人文章，未来几乎不会再用这些图，你也不计较识别时得多花点时间点开预览，都好说。但如果发生在团队图库呢？同事若想使用，是不是就得翻看到底是啥，逐个查阅确认？假设每张图得花 1.5s 预览，每天由于名称无法马上识别得多预览 10 张图，10 位同事得多花多少时间？100 位同事呢？……好心情和心流都是被这些琐碎小事给打飞的…… 那图片怎样命名，才不易给自己和团队找事？ 以绝对属性而非相对属性命名，令图片树状排列。具体来说，命名规则为 绝对属性主题代号+图片序号。 为什么要这样？相信你多少有体会，团队文件管理，最好少用文件夹、减少层级降低管理复杂度。那文件怎么分类？最好以名称字母自动排序区分各主题文件。若大主题下还想细分，则在大主题代号后加细分名称。如「家庭场景画面」为 family，「有爸爸的家庭画面」，命名则在 family 后加 dad ，即 familydad 。 如果还没感觉，可瞅瞅这个例子： - 序号 1~9999 - 主题代号举例 - family 家庭场景 - familydad 有爸爸的家庭画面 - familymom 有妈妈的家庭画面 - familyplay 家庭玩耍 - housework 做家务 - injury 受伤场景 - learning 学习场景 - object 物品 - objectcup 水杯 - objectbag 书包 - objecttoy 玩具 - unhappy 不开心的场景 - unhappydad 不开心的爸爸 - unhappyparents 不开心的家长 - book 图书封面： - 规则：`book_书名首字母缩写` - 注意：有英文名的优先使用英文名，没有的话用中文名首字母缩写 - 举例：《The Very Hungry Caterpillar》 封面图片命名 `book_tvhc` 如果你们团队作业，还请不要轻易改动里头的文件名。毕竟改动后，就难快速在 MarkDown 文档里搜出这此图。此外，保存图片尽量清晰大图，以便未来用于其它场合（比如易拉宝、网站等）。 FAQ 新文件会覆盖原图不？ 为了你少出乱子，七牛默认上传策略不能覆盖原图。所以如果你想剪裁图片后再上传，最好修改文件名，比如在文件名后加1。 实在不想更改图片地址，只想直接显示新图，也成——可自行检索 七牛 上传策略 覆盖 等关键词解决。反正我瞅了瞅就溜回来改文件名重新上传了，祝你好运：P 如何拥有优雅的图床域名？ 标准用户新创建存储空间后，会获得这类*.bkt.clouddn.com 系统自动生成的测试域名。 如果有条件，建议在中国大陆备案一个域名，图床专用。这样就可以自定义七牛空间域名 ，更稳定，图片 URL 也更干净清晰。 文章发到公众号和自建网站，如何不必重复传图？ 在 MarkDown 编辑器写完图文，想一键排版到公众号，可参考 markdown 高效撰写微信公众号文章 - 简书 。 划重点：在 MarkDown Here 渲染后，「剪切排版内容，再粘贴」，并等一会儿，图片才能正常显示。 如果你嫌原配的 CSS 丑，可以自己改，或直接用别人改好的。后者在网上能搜到不少，比如 huanxi007/markdown-here-css。 。 团队如何优雅共用七牛空间？ 七牛不支持团队账号，登录即有最高权限。这要是谁手滑改了什么配置，岂不乱套？ 莫担心，还记得你前面获取的 AK SK 等配置信息吧？每个标准账号可设置两对 AK SK ，以及 N 个不同空间——不同角色使用不同的配置信息就好。 比如内容同事使用 AK_1 SK_1 和 content_1 空间，内容志愿者使用 AK_2 SK_2 和 content_1 空间；这样即使换了一届志愿者，想保证信息安全，直接更新 AK_2 SK_2 为 AK_3 SK_3 就好。如果还有团队也想用 content_1 空间，并想来单独一套 AK SK ，可把空间授权别的账号读写，这样你就可以有多对 AK SK 了，详见空间授权 - 七牛开发者中心 。 星移斗转，工具必会推陈出新，但省心原则大体如上。 工具使用问题请自行检索或联系客服，习惯疑问欢迎留言交流。 愿你也远离烦心琐碎，多多拥抱心流：） 关键链接汇总 七牛注册：https://portal.qiniu.com/signup?code=3lb1qrq25es0i 上传工具： Mac GUI: Dropzone 3 + 适用于 Dropzone 3的七牛上传工具 CLI: 命令行工具(qshell) - 七牛开发者中心 获取配置信息： 快速入门 - 七牛开发者中心 怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心 如何进行网站公安备案和查询公安备案信息 - 七牛开发者中心 七牛图片在线处理 cheat sheet: Hb7niuImageEditOnline · OpenMindClub/Share Wiki 官方文档：图片处理使用说明 - 七牛开发者中心 批量查找替换多个文档内容的编辑器：Atom 更多小众但实用的 MarkDown 技巧见 HbMarkdownTrick.md at master · ishanshan/CollaborationGuide4Shaper 。 CHANGELOG 180816 增加需要备案域名的说明及其它 MarkDown 技巧链接 180722 修改行文思路、动图 1.5h 180721 累计快写慢改 12h ，发布；根据 @ZoomQuiet 反馈优化， 1h 180720 创建</summary></entry><entry><title type="html">卡片助力输出， MarkDown + GitHub + LOFTER 有轻功</title><link href="http://localhost:4000/selfedu/tool/HbOutputOwetoCards" rel="alternate" type="text/html" title="卡片助力输出， MarkDown + GitHub + LOFTER 有轻功" /><published>2018-07-15T00:00:00+08:00</published><updated>2018-07-15T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/tool/HbOutputOwetoCards</id><content type="html" xml:base="http://localhost:4000/selfedu/tool/HbOutputOwetoCards">&lt;blockquote class=&quot;blockquote-center&quot;&gt;作品和作品的差别，源于卡片。&lt;br /&gt;人和人的差异，垒于习惯。&lt;/blockquote&gt;
 
 &lt;p&gt;最近复盘，发现这大半年如有神助，几乎每月发布一个作品或项目，拿下个人探索路上一个又一个小里程碑：&lt;/p&gt;
 
@@ -594,7 +594,7 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 
 &lt;p&gt;&lt;strong&gt;文档里，按天划分组块&lt;/strong&gt;，时间是一级标题，正文概要作二级标题，&lt;strong&gt;按时间倒序排列&lt;/strong&gt;。如此便可凭目录栏随心跳转，快速修改已有内容：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/mwebtoc3.png&quot; alt=&quot;mwebtoc3.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/mwebtoc3.png&quot; alt=&quot;mwebtoc3.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;为了区分内容类型以便查找复用，我还建了套标记规则，加在内容概要之前，一目了然各条状态：&lt;/p&gt;
 
@@ -614,19 +614,19 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
   &lt;li&gt;
     &lt;p&gt;一级标题所需的「当天时间」，用输入法自带的当前时间。比如在搜狗拼音输入 &lt;code class=&quot;highlighter-rouge&quot;&gt;sj&lt;/code&gt; ，候选项就会出现当前时间，选择即可输入。如此，不仅可作一级组块区分标记，还可记录当天遐思何时开始：&lt;/p&gt;
 
-    &lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/mwebtricks1.gif&quot; alt=&quot;mwebtricks1.gif&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/mwebtricks1.gif&quot; alt=&quot;mwebtricks1.gif&quot; /&gt;&lt;/p&gt;
 
     &lt;p&gt;对了，当天时间最好选全 ASCII 字符的表达方式，不带汉字，未来若想跑个脚本分析也省心。比如我习惯晨间日记，可借此分析某阶段早上何时进入状态。&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;## 0&lt;/code&gt; 等常用字符，使用 aText 这类工具设置缩写规则，比如 &lt;code class=&quot;highlighter-rouge&quot;&gt;;0 == ## 0&lt;/code&gt; ，简化输入流程。当天遐思的同步到 GitHub 所用的 commit message，当然也设缩写，比如 &lt;code class=&quot;highlighter-rouge&quot;&gt;uft == update for today&lt;/code&gt; ：&lt;/p&gt;
 
-    &lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/mwebtricks3.gif&quot; alt=&quot;mwebtricks3.gif&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/mwebtricks3.gif&quot; alt=&quot;mwebtricks3.gif&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
-    &lt;p&gt;其它 MarkDown 标记比如 &lt;code class=&quot;highlighter-rouge&quot;&gt;#&lt;/code&gt; ，以及各视图切换等常用操作，用 &lt;a href=&quot;http://ishanshan.qiniudn.com/share/mwebtricks7.png&quot;&gt;MWeb 快捷键&lt;/a&gt;简化输入流程。&lt;/p&gt;
+    &lt;p&gt;其它 MarkDown 标记比如 &lt;code class=&quot;highlighter-rouge&quot;&gt;#&lt;/code&gt; ，以及各视图切换等常用操作，用 &lt;a href=&quot;http://ishanshan.zoomquiet.top/share/mwebtricks7.png&quot;&gt;MWeb 快捷键&lt;/a&gt;简化输入流程。&lt;/p&gt;
 
-    &lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/mwebtricks4.gif&quot; alt=&quot;mwebtricks4.gif&quot; /&gt;&lt;/p&gt;
+    &lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/mwebtricks4.gif&quot; alt=&quot;mwebtricks4.gif&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
 
@@ -640,7 +640,7 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 
 &lt;p&gt;多方测试，我发现 LOFTER 最适合作「一个人的微博」。不信你瞅 &lt;a href=&quot;http://mur42.lofter.com/&quot;&gt;http://mur42.lofter.com/&lt;/a&gt; ？&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/cardlofter3.gif&quot; alt=&quot;cardlofter3.gif&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/cardlofter3.gif&quot; alt=&quot;cardlofter3.gif&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;不仅版式优雅，需求还都满足：&lt;/p&gt;
 
@@ -648,9 +648,9 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
   &lt;li&gt;内容发布后可修改：满足，且所有设置，比如署名权限、浏览权限都可更改。&lt;/li&gt;
   &lt;li&gt;鲜有广告，也不会被强推内容：有，但相较某博可以算是不存在，很少分散注意力。如果你没关注什么人，时间线里也不会出现乱七八糟的东西。&lt;/li&gt;
   &lt;li&gt;支持 MarkDown ：半支持—— chrome 浏览器搭配 MarkDown here 插件即可。美中不足，是无法自动和 GitHub 同步融入我的发布流程。不过无妨，就当发朋友圈吧。
-  &lt;img src=&quot;http://ishanshan.qiniudn.com/share/lofter-setting2.png?imageView2/2/w/700&quot; alt=&quot;lofter-setting2.png&quot; /&gt;&lt;/li&gt;
+  &lt;img src=&quot;http://ishanshan.zoomquiet.top/share/lofter-setting2.png?imageView2/2/w/700&quot; alt=&quot;lofter-setting2.png&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;可设置自由设定访问权限：满足。一个账号可设多个子空间，子空间可选择密码访问，或设定不能被站内及搜索引擎搜索。亦可设置单条内容仅自己可见。
-  &lt;img src=&quot;http://ishanshan.qiniudn.com/share/lofter-setting1.png?imageView2/2/w/700&quot; alt=&quot;lofter-setting1.png&quot; /&gt;&lt;/li&gt;
+  &lt;img src=&quot;http://ishanshan.zoomquiet.top/share/lofter-setting1.png?imageView2/2/w/700&quot; alt=&quot;lofter-setting1.png&quot; /&gt;&lt;/li&gt;
   &lt;li&gt;其它优势：有手机 App ；各类配置傻瓜级别，无需技术背景。&lt;/li&gt;
 &lt;/ul&gt;
 
@@ -753,11 +753,11 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 
 &lt;p&gt;至于如何积累零散思绪，那就见仁见智了。但万变不离其宗，能让你更高效自在地输出就成。&lt;/p&gt;
 
-&lt;p&gt;所以，如果你发现无论用&lt;a href=&quot;http://ishanshan.qiniudn.com/share/cardnabcov7.png&quot;&gt;纳博科夫牌巴掌大的索引卡&lt;/a&gt;，还是&lt;a href=&quot;https://www.amazon.cn/dp/B003FGLVPO/ref=sr_1_1?ie=UTF8&amp;amp;qid=1531642792&amp;amp;sr=8-1&amp;amp;keywords=%E4%BA%AC%E5%A4%A7%E5%BC%8F&quot;&gt;梅棹忠夫牌 B6 大的京大式卡&lt;/a&gt;，怎么都不得劲，这很正常。继续尝试就好。&lt;/p&gt;
+&lt;p&gt;所以，如果你发现无论用&lt;a href=&quot;http://ishanshan.zoomquiet.top/share/cardnabcov7.png&quot;&gt;纳博科夫牌巴掌大的索引卡&lt;/a&gt;，还是&lt;a href=&quot;https://www.amazon.cn/dp/B003FGLVPO/ref=sr_1_1?ie=UTF8&amp;amp;qid=1531642792&amp;amp;sr=8-1&amp;amp;keywords=%E4%BA%AC%E5%A4%A7%E5%BC%8F&quot;&gt;梅棹忠夫牌 B6 大的京大式卡&lt;/a&gt;，怎么都不得劲，这很正常。继续尝试就好。&lt;/p&gt;
 
 &lt;p&gt;比如我，这卡那卡都体验了一把，还是钟情大二就开始的习惯：输出始于&lt;strong&gt;横着 A4 纸&lt;/strong&gt;捕捉灵感、梳理思路，写画不羁。一些长文如&lt;a href=&quot;https://ishanshan.im/murmur/Letter2XY4Year2017.html&quot;&gt;《谢谢你给她的时光》&lt;/a&gt;、&lt;a href=&quot;https://ishanshan.im/selfedu/Review2017LunarCalendar.html&quot;&gt;《你丁酉年的故事》&lt;/a&gt;以及本文，更是如此：不仅起念阶段，甚至每个组块都要好几张 A4 纸自由写画，梳理想传递什么、引发什么行动，才敲成字符。当然，还会混合其他姿势，比如本文提到的随时记忆外部化+一个人的微博、之前推荐的 WorkFlowy 等。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/cardsample3.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/100k!&quot; alt=&quot;cardsample3.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/cardsample3.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/100k!&quot; alt=&quot;cardsample3.png&quot; /&gt;&lt;/p&gt;
 &lt;center&gt;👆🏻A4 纸配板夹，走遍天下都不怕&lt;/center&gt;
 
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
@@ -772,7 +772,7 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 
 &lt;p&gt;对于人名，我用表格整理相关信息，比如：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/cardsample2.png?imageView2/2/w/900&quot; alt=&quot;cardsample2.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/cardsample2.png?imageView2/2/w/900&quot; alt=&quot;cardsample2.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;不过尚未用得满意，无实践案例可举……你若有满意心法记得和我分享~&lt;/p&gt;
 
@@ -802,7 +802,7 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 
 &lt;p&gt;至于陌生术语，除了上述行动，我还会把这个术语的概念、出处等信息整理到 WorkFlowy 或 zotero 对应节点。比如：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/cardsample1.png&quot; alt=&quot;cardsample1.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/cardsample1.png&quot; alt=&quot;cardsample1.png&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;如何用自己的话进一步表述，则是文中要用时，再结合语境整理成文，并深入查证确认使用正确。以「认知闭合」和「科学素养」这俩术语为例：&lt;/p&gt;
 
@@ -877,7 +877,7 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 
 &lt;p&gt;比如之前经常写 FAQ 给用户，但内容太多，后来发现在 MarkDown 里也可以设置折叠，这便成了我的惯用技法：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/markdowntricks.gif?imageView2/2/w/700&quot; alt=&quot;markdowntricks.gif&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/markdowntricks.gif?imageView2/2/w/700&quot; alt=&quot;markdowntricks.gif&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;类似的 MarkDown 技巧还有不少，比如：&lt;/p&gt;
 
@@ -941,7 +941,7 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 
 &lt;p&gt;起初，你只是想把进阶心得分享给更多人，不想这不仅给了你特长的用武之地：比如对认知科学和学习科学的实践、对社区运营的理解、玩 swing &amp;amp; GitHub 的心得，还不知不觉领你运用成功万花筒策略(&lt;a href=&quot;https://hbr.org/2004/02/success-that-lasts&quot;&gt;The Kaleidoscope Strategy&lt;/a&gt;, Nash &amp;amp; Stevenson, 2004)倍增幸福：在工作目标不必「多多益善」的情况下，「适可而止」转入新目标，且是一个齐备快乐(happiness)、成就(achievement)、意义(significance)、传承(legacy)四种元素的新目标，使你个人万花筒图案愈发丰富多彩，幸福感也节节高升。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/infopersonalkaleidoscope.gif&quot; alt=&quot;infopersonalkaleidoscope.gif&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/infopersonalkaleidoscope.gif&quot; alt=&quot;infopersonalkaleidoscope.gif&quot; /&gt;&lt;/p&gt;
 &lt;center&gt;图1 personal kaleidoscope strategy&lt;/center&gt;
 
 &lt;p&gt;虽然项目发布了两周反响还不多，你并不着急：这才刚开始，你知道迭代的路还很长，也有足够的耐心陪她成长。我为你这样的心态高兴。如果你别怕丢脸就更好啦 —— 野心说出来才更易实现嘛：要相信，&lt;strong&gt;你知道自己要去哪里，全世界都会为你让路&lt;/strong&gt;。&lt;/p&gt;
@@ -981,7 +981,7 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 
 &lt;p&gt;但项目负责同事并不看好 —— 她在自己张罗的学习小组里尝试不佳：要求大伙儿互评，但响应寥寥。你不服，认定大方向无误 —— 不依赖外部评价给自己反馈，是受益无穷的能力，亦是新手快速进阶的宝剑，值得尝试；只是需从小处入手，优化引导。然后便自顾自推动：整理新手常忽略但裨益良多的编程习惯、学习习惯，汇成自评清单，供同学自检、互评；优化作业提交模板细节，加上「给楼上同学的反馈：……」等细节，把这个作为提交必需。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/sampleissueassignmenthandup.png?imageslim&quot; alt=&quot;sampleissueassignmenthandup.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/sampleissueassignmenthandup.png?imageslim&quot; alt=&quot;sampleissueassignmenthandup.png&quot; /&gt;&lt;/p&gt;
 &lt;center&gt;图2 作业提交引导&lt;/center&gt;
 
 &lt;p&gt;其实不服时你也不知道自己能做成怎样，只是隐约觉得，这会是继去年春天你在开智课程模式里引入新人报到，基于 GitHub Issue 的新人报到，这令开智课程氛围一下别样的行动后，又一个能改写课程氛围、所有课程通用的规则，是个里程碑，值得下功夫。请相信你的直觉，大胆去做吧。&lt;/p&gt;
@@ -1080,12 +1080,12 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 
 &lt;p&gt;认知写作学课程人员、需求繁多，你会在协作伊始划定原则，提升决策效率：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/samplethinkingthoughtexperiment1.png?imageslim&quot; alt=&quot;samplethinkingthoughtexperiment1.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/samplethinkingthoughtexperiment1.png?imageslim&quot; alt=&quot;samplethinkingthoughtexperiment1.png&quot; /&gt;&lt;/p&gt;
 &lt;center&gt;图3 认知写作学课程队长行动指南&lt;/center&gt;
 
 &lt;p&gt;同事忧愁公众号数据，你更倾向权衡全局业务：&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.qiniudn.com/share/samplethinkingthoughtexperiment2-2.png?imageslim&quot; alt=&quot;samplethinkingthoughtexperiment2.png&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/samplethinkingthoughtexperiment2-2.png?imageslim&quot; alt=&quot;samplethinkingthoughtexperiment2.png&quot; /&gt;&lt;/p&gt;
 &lt;center&gt;图4 思考什么是最需要解决的问题&lt;/center&gt;
 
 &lt;p&gt;但你也深知自己对商业模式、行业机会、未来形势的预判依然欠缺。不过没关系，你先扎实基本功，那些上层才干还有我来收拾呢。&lt;/p&gt;
@@ -1443,7 +1443,7 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 &lt;p&gt;&lt;strong&gt;没见事先招呼却默契十足，个体既能自由表达，又能轻松享受延伸为整体的快乐&lt;/strong&gt;，正欲离场的我立马被这文化吸引，爱上 swing 。&lt;/p&gt;
 
 &lt;p&gt;越爱越深，则因这是双人舞，需两人交流。以前习惯以言语和符号传递信息，现在开始凭肢体和表情传递信号，即使媒介切换的新奇日渐消退，被人理解的欣喜仍源源不绝。就如牙牙孩童，语言功能日渐发达，越来越能&lt;strong&gt;理解世界、表达自我、与世互动，每一步都是新大陆，每一层都是新挑战&lt;/strong&gt; —— 啊哈，挑战递增不正是心流（flow）不断的要素吗：
-&lt;img src=&quot;http://ishanshan.qiniudn.com/share/modelflow3.jpg?imageView2/2/w/500&quot; alt=&quot;modelflow3.jpg&quot; /&gt;
+&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/modelflow3.jpg?imageView2/2/w/500&quot; alt=&quot;modelflow3.jpg&quot; /&gt;
 图1 Flow chart&lt;sup id=&quot;fnref:7-3&quot;&gt;&lt;a href=&quot;#fn:7-3&quot; class=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;更欣喜的是，swing 社区还有很多强化心流的支持：这里有摇摆前辈趟出的进阶路线，有给你反馈激励你前行的舞友，有定期举办的每周舞会和高手云集的年度盛典，你可以根据个人精力能力，选择探索节奏。当然，如所有学习一样，得你自己主动才成。&lt;/p&gt;
@@ -1453,7 +1453,7 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 &lt;h2 id=&quot;swing--梯&quot;&gt;Swing · 梯&lt;/h2&gt;
 
 &lt;p&gt;Swing 是什么？为什么要 Swing ？或寄托或消遣，或心动或心安，千位舞者有千种答案&lt;sup id=&quot;fnref:7-5&quot;&gt;&lt;a href=&quot;#fn:7-5&quot; class=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt;。于我，她是一种语言，有她便可跨越地域和种族愉快交流；也是复活良方，脑力工作必备；更一种习惯：Jazz 一响，整个人如浸入另一世界，纷繁思绪都被鼓点挤出 Jazz 之外，只剩身体和着韵律恣意摇摆，精神熵减，欢愉渐起。
-&lt;img src=&quot;http://ishanshan.qiniudn.com/share/frankie-mannings-102nd-birthday.gif?imageView2/2/w/750&quot; alt=&quot;frankie-mannings-102nd-birthday.gif&quot; /&gt;
+&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/frankie-mannings-102nd-birthday.gif?imageView2/2/w/750&quot; alt=&quot;frankie-mannings-102nd-birthday.gif&quot; /&gt;
 图2 Swing 经典动作：Aerials&lt;sup id=&quot;fnref:7-7&quot;&gt;&lt;a href=&quot;#fn:7-7&quot; class=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 
 &lt;p&gt;Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。&lt;/p&gt;
@@ -1474,7 +1474,7 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
 &lt;p&gt;–&lt;/p&gt;
 
 &lt;p&gt;最后，真的很想和遇到的每一位 swing dancer ，都说声谢谢 —— 如果没有遇到你们，真不知道我现在会在哪里，还要在黑暗中待多久。&lt;strong&gt;YOU make my day!&lt;/strong&gt; 😘
-&lt;img src=&quot;http://ishanshan.qiniudn.com/share/stb2017.jpg?imageView2/2/w/750&quot; alt=&quot;stb2017.jpg&quot; /&gt;
+&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/stb2017.jpg?imageView2/2/w/750&quot; alt=&quot;stb2017.jpg&quot; /&gt;
 图3 Swingtime Ball&lt;sup id=&quot;fnref:9&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot;&gt;13&lt;/a&gt;&lt;/sup&gt; 2017&lt;/p&gt;
 
 &lt;h2 id=&quot;changelog&quot;&gt;Changelog&lt;/h2&gt;

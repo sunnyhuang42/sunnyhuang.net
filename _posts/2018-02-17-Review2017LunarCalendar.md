@@ -38,7 +38,7 @@ permalink: /:categories/:title:output_ext
 
 起初，你只是想把进阶心得分享给更多人，不想这不仅给了你特长的用武之地：比如对认知科学和学习科学的实践、对社区运营的理解、玩 swing & GitHub 的心得，还不知不觉领你运用成功万花筒策略([The Kaleidoscope Strategy](https://hbr.org/2004/02/success-that-lasts), Nash & Stevenson, 2004)倍增幸福：在工作目标不必「多多益善」的情况下，「适可而止」转入新目标，且是一个齐备快乐(happiness)、成就(achievement)、意义(significance)、传承(legacy)四种元素的新目标，使你个人万花筒图案愈发丰富多彩，幸福感也节节高升。
 
-![infopersonalkaleidoscope.gif](http://ishanshan.qiniudn.com/share/infopersonalkaleidoscope.gif)
+![infopersonalkaleidoscope.gif](http://ishanshan.zoomquiet.top/share/infopersonalkaleidoscope.gif)
 <center>图1 personal kaleidoscope strategy</center>
 
 虽然项目发布了两周反响还不多，你并不着急：这才刚开始，你知道迭代的路还很长，也有足够的耐心陪她成长。我为你这样的心态高兴。如果你别怕丢脸就更好啦 —— 野心说出来才更易实现嘛：要相信，**你知道自己要去哪里，全世界都会为你让路**。
@@ -81,7 +81,7 @@ permalink: /:categories/:title:output_ext
 
 但项目负责同事并不看好 —— 她在自己张罗的学习小组里尝试不佳：要求大伙儿互评，但响应寥寥。你不服，认定大方向无误 —— 不依赖外部评价给自己反馈，是受益无穷的能力，亦是新手快速进阶的宝剑，值得尝试；只是需从小处入手，优化引导。然后便自顾自推动：整理新手常忽略但裨益良多的编程习惯、学习习惯，汇成自评清单，供同学自检、互评；优化作业提交模板细节，加上「给楼上同学的反馈：……」等细节，把这个作为提交必需。
 
-![sampleissueassignmenthandup.png](http://ishanshan.qiniudn.com/share/sampleissueassignmenthandup.png?imageslim)
+![sampleissueassignmenthandup.png](http://ishanshan.zoomquiet.top/share/sampleissueassignmenthandup.png?imageslim)
 <center>图2 作业提交引导</center>
 
 
@@ -184,13 +184,13 @@ permalink: /:categories/:title:output_ext
 认知写作学课程人员、需求繁多，你会在协作伊始划定原则，提升决策效率：
 
 
-![samplethinkingthoughtexperiment1.png](http://ishanshan.qiniudn.com/share/samplethinkingthoughtexperiment1.png?imageslim)
+![samplethinkingthoughtexperiment1.png](http://ishanshan.zoomquiet.top/share/samplethinkingthoughtexperiment1.png?imageslim)
 <center>图3 认知写作学课程队长行动指南</center>
 
 
 同事忧愁公众号数据，你更倾向权衡全局业务：
 
-![samplethinkingthoughtexperiment2.png](http://ishanshan.qiniudn.com/share/samplethinkingthoughtexperiment2-2.png?imageslim)
+![samplethinkingthoughtexperiment2.png](http://ishanshan.zoomquiet.top/share/samplethinkingthoughtexperiment2-2.png?imageslim)
 <center>图4 思考什么是最需要解决的问题</center>
 
 但你也深知自己对商业模式、行业机会、未来形势的预判依然欠缺。不过没关系，你先扎实基本功，那些上层才干还有我来收拾呢。
@@ -362,5 +362,3 @@ PS.
 
 
 [^5-1]: The social clock is a concept proposed by the social psychologist Bernice Neugarten, which means a timetable determined by a culture or social structure, that specifies a proper time for certain events, like marriage, graduation, employment or social status. [[study](https://study.com/academy/lesson/the-social-clock-definition-theory.html)]
-
-

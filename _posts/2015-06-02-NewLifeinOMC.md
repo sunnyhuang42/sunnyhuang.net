@@ -6,7 +6,7 @@ category: murmur
 permalink: /selfedu/:title:output_ext
 ---
 
-![se150602.jpg](http://ishanshan.qiniudn.com/share/se150602.jpg?imageMogr2/size-limit/100k!)
+![se150602.jpg](http://ishanshan.zoomquiet.top/share/se150602.jpg?imageMogr2/size-limit/100k!)
 <center>2013 年秋摄于奥林匹克森林公园</center>
 
 

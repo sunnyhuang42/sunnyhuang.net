@@ -6,7 +6,7 @@ categories:
 - tool
 permalink: /selfedu/:title:output_ext
 photos:
-- http://ishanshan.qiniudn.com/share/stb2017-1.jpg
+- http://ishanshan.zoomquiet.top/share/stb2017-1.jpg
 ---
 
 <blockquote class="blockquote-center"> 愿知识工作者如你，也欣闻归属。 </blockquote>
@@ -46,7 +46,7 @@ Swing 系自娱即兴舞蹈，不必循规蹈矩，没有严格的动作规范�
 **没见事先招呼却默契十足，个体既能自由表达，又能轻松享受延伸为整体的快乐**，正欲离场的我立马被这文化吸引，爱上 swing 。
 
 越爱越深，则因这是双人舞，需两人交流。以前习惯以言语和符号传递信息，现在开始凭肢体和表情传递信号，即使媒介切换的新奇日渐消退，被人理解的欣喜仍源源不绝。就如牙牙孩童，语言功能日渐发达，越来越能**理解世界、表达自我、与世互动，每一步都是新大陆，每一层都是新挑战** —— 啊哈，挑战递增不正是心流（flow）不断的要素吗：
-![modelflow3.jpg](http://ishanshan.qiniudn.com/share/modelflow3.jpg?imageView2/2/w/500)
+![modelflow3.jpg](http://ishanshan.zoomquiet.top/share/modelflow3.jpg?imageView2/2/w/500)
 图1 Flow chart[^7-3]
 
 
@@ -62,7 +62,7 @@ Swing 系自娱即兴舞蹈，不必循规蹈矩，没有严格的动作规范�
 
 
 Swing 是什么？为什么要 Swing ？或寄托或消遣，或心动或心安，千位舞者有千种答案[^7-5]。于我，她是一种语言，有她便可跨越地域和种族愉快交流；也是复活良方，脑力工作必备；更一种习惯：Jazz 一响，整个人如浸入另一世界，纷繁思绪都被鼓点挤出 Jazz 之外，只剩身体和着韵律恣意摇摆，精神熵减，欢愉渐起。
-![frankie-mannings-102nd-birthday.gif](http://ishanshan.qiniudn.com/share/frankie-mannings-102nd-birthday.gif?imageView2/2/w/750)
+![frankie-mannings-102nd-birthday.gif](http://ishanshan.zoomquiet.top/share/frankie-mannings-102nd-birthday.gif?imageView2/2/w/750)
 图2 Swing 经典动作：Aerials[^7-7]
 
 Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
@@ -88,7 +88,7 @@ Swing 是什么？为什么要 Swing ？看再多资源也只能窥豹一斑，�
 
 
 最后，真的很想和遇到的每一位 swing dancer ，都说声谢谢 —— 如果没有遇到你们，真不知道我现在会在哪里，还要在黑暗中待多久。**YOU make my day!** 😘
-![stb2017.jpg](http://ishanshan.qiniudn.com/share/stb2017.jpg?imageView2/2/w/750)
+![stb2017.jpg](http://ishanshan.zoomquiet.top/share/stb2017.jpg?imageView2/2/w/750)
 图3 Swingtime Ball[^9] 2017
 
 

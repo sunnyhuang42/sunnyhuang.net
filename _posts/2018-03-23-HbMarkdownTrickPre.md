@@ -11,7 +11,7 @@ description:
 
 比如之前经常写 FAQ 给用户，但内容太多，后来发现在 MarkDown 里也可以设置折叠，这便成了我的惯用技法：
 
-![markdowntricks.gif](http://ishanshan.qiniudn.com/share/markdowntricks.gif?imageView2/2/w/700)
+![markdowntricks.gif](http://ishanshan.zoomquiet.top/share/markdowntricks.gif?imageView2/2/w/700)
 
 类似的 MarkDown 技巧还有不少，比如：
 

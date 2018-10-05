@@ -6,7 +6,7 @@ category: murmur
 ---
 
 
-![se160611.jpg](http://ishanshan.qiniudn.com/share/se160611.jpg?imageMogr2/size-limit/100k!)
+![se160611.jpg](http://ishanshan.zoomquiet.top/share/se160611.jpg?imageMogr2/size-limit/100k!)
 <center>2012 年夏摄于北京植物园</center>
 
 

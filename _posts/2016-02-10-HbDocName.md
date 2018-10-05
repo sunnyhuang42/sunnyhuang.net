@@ -158,10 +158,10 @@ permalink: /community/:title:output_ext
 
 - [Home · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki) 右侧 pages ：
 
-	![sampledocname.jpeg](http://ishanshan.qiniudn.com/share/sampledocname.jpeg)
+	![sampledocname.jpeg](http://ishanshan.zoomquiet.top/share/sampledocname.jpeg)
 - [CollaborationGuide4Shaper/CONTENT at master · ishanshan/CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper/tree/master/CONTENT) 所含文件：
 
-	![sampledocname2.jpeg](http://ishanshan.qiniudn.com/share/sampledocname2.jpeg)
+	![sampledocname2.jpeg](http://ishanshan.zoomquiet.top/share/sampledocname2.jpeg)
 - [HbCollaborateWikiandCode · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/HbCollaborateWikiandCode) 所举案例：
 
 		HbCollaborate.md                  InfoShow.md                       LogMeeting171226PrepareforShow.md

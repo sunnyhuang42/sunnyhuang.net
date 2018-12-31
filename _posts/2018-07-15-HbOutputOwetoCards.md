@@ -12,15 +12,9 @@ description:
 
 
 
-最近复盘，发现这大半年如有神助，几乎每月发布一个作品或项目，拿下个人探索路上一个又一个小里程碑：
+最近复盘，发现这大半年如有神助，几乎每月发布一个作品或项目，拿下个人探索路上一个又一个[小里程碑](#jump)。
 
-- 十二月：发出[《谢谢你给她的时光》](https://ishanshan.im/murmur/Letter2XY4Year2017.html)。第一次全篇写故事，终于有底气说自己从「逻辑」「文采」，爬上了「故事」这座写作第三峰。
-- 一月：发布 [EnjoySwingDancing 指南](https://github.com/ishanshan/EnjoySwingDancing)。头一遭有使命感地分享个人爱好，这也是 GitHub 这个全球最大同性交友网站上头一回有人分享舞蹈项目吧。
-- 二月：发布个人年度回顾[《你丁酉年的故事》](https://ishanshan.im/selfedu/Review2017LunarCalendar.html)。尝试换个视角记录生活：用预言的方式写回顾，呈现自评反思更自然；并发现自己已能谋篇布局万字故事。还在写作过程更清晰自己要去何方。<!-- more -->
-- 三月：发布 [CollaborationGuide4Shaper 仓库](https://github.com/ishanshan/CollaborationGuide4Shaper)。终于集结分享对「如何高效共创」的观察思索，从此被问相关问题可甩资料。
-- 四月：完成集团新人入职机制和学习资料（[团队协作技能自学&自检清单](https://docs.google.com/spreadsheets/d/1xdfbrkQgvuV0FvD5uGFEQ070GC2Ybi2yenDEQAmRj9o/edit#gid=0) 是其一）的重大升级，了却一桩心愿：没我在，这些事情也易跑得不错。且第一次划定各技能进阶标准「存活」、「感觉良好」、「更快更好更强」，以便用户按需取用。还摸索出用表格做检查清单的优雅模式，给下个阶段的输出帮了大忙。
-- 五月：输出[策略产品经理训练营作业手记](https://ishanshan.gitbooks.io/road2strategypm/content/)。第一次正儿八经地参加线上付费课程。并拿到优秀学员（5/145），点亮新技能树。且 [网易蜗牛读书增长方案](https://road2strategypm.ishanshan.im/CONTENT/Chap5Task.html) 被评为精选，是当期课程里唯一一份精选作业，也是课程至今这章作业的唯一精选。
-- 六月：对外较逊色，只完成博客三年来第一次改版，并更换域名清除这两年的困扰：博客在微信访问不畅，被安全警示及重排。不过酝酿了本文及接下来几篇重要博文。
+
 
 相较过往，这输出密集程度算是突飞猛进。不禁好奇为何如此。得益于一群良师益友，叫我见贤思齐？可之前他们就在呀。因为工作节奏没有前两年紧张？或许，但光多点时间肯定不够。
 
@@ -31,6 +25,7 @@ description:
 说干就干！
 
 咳，优雅习惯推介会，现在开始~
+<!-- more -->
 
 ## 升级输出习惯
 
@@ -185,7 +180,7 @@ description:
 
 如果你未满意，并相信我的品位，还乐意走出舒适区，路在这里：
 
-- [MWeb](https://www.mweb.im/)：我最常用的 MarkDown 编辑器，刚发布 3.x 版本。付费软件，从得到的心流体验来看个人觉得很值；费用也不高，100+ CNY，当少到外头聚次餐就好。如果你已买 2.x ，不升级也不影响尝试这套记忆外部化的方法。
+- [MWeb](https://www.mweb.im/)：我最常用的 MarkDown 编辑器，刚发布 3.x 版本。Mac 付费软件，从得到的心流体验来看个人觉得很值；费用也不高，100+ CNY，当少到外头聚次餐就好。[Typora — a markdown editor, markdown reader.](https://typora.io/) 也不错，Mac/Win 均支持，免费，带目录栏、支持加载本地文件夹、可自行设定 CSS 渲染样式。
 - [GitHub](https://github.com/)：我最常用的文档托管平台。它可供性极强，且内置很多专家级的内隐模式，如果使用得当，能极大降低个人创作复杂度。如果你之前没接触过，别被不明觉厉的操作吓退，可看我梳理的这份 [给文字工作者的 GitHub 上手攻略](https://ishanshan.im/tool/HbGitHubPre)。实在难以学会也别勉强，可用下文云端同步的替代方案，甚至只保存在本地。
 - [LOFTER](http://lofter.com/)：网易旗下的轻博客平台。 [http://mur42.lofter.com/](http://mur42.lofter.com/) 这个示例使用的主题模板是「悦」。
 - [Markdown Here](https://markdown-here.com/) ：chrome 上的插件。能把 MarkDown 未渲染的内容粘贴到网页输入框后，一键渲染成定制的 MarkDown 样式。
@@ -319,11 +314,22 @@ description:
 
 怎么做？小女子我已先干为敬，你看着办;-)
 
+<br> 
+
+<span id = "jump">附：这半年的里程碑</span>
 
 
+- 十二月：发出[《谢谢你给她的时光》](https://ishanshan.im/murmur/Letter2XY4Year2017.html)。第一次全篇写故事，终于有底气说自己从「逻辑」「文采」，爬上了「故事」这座写作第三峰。
+- 一月：发布 [EnjoySwingDancing 指南](https://github.com/ishanshan/EnjoySwingDancing)。头一遭有使命感地分享个人爱好，这也是 GitHub 这个全球最大同性交友网站上头一回有人分享舞蹈项目吧。
+- 二月：发布个人年度回顾[《你丁酉年的故事》](https://ishanshan.im/selfedu/Review2017LunarCalendar.html)。尝试换个视角记录生活：用预言的方式写回顾，呈现自评反思更自然；并发现自己已能谋篇布局万字故事。还在写作过程更清晰自己要去何方。
+- 三月：发布 [CollaborationGuide4Shaper 仓库](https://github.com/ishanshan/CollaborationGuide4Shaper)。终于集结分享对「如何高效共创」的观察思索，从此被问相关问题可甩资料。
+- 四月：完成集团新人入职机制和学习资料（[团队协作技能自学&自检清单](https://docs.google.com/spreadsheets/d/1xdfbrkQgvuV0FvD5uGFEQ070GC2Ybi2yenDEQAmRj9o/edit#gid=0) 是其一）的重大升级，了却一桩心愿：没我在，这些事情也易跑得不错。且第一次划定各技能进阶标准「存活」、「感觉良好」、「更快更好更强」，以便用户按需取用。还摸索出用表格做检查清单的优雅模式，给下个阶段的输出帮了大忙。
+- 五月：输出[策略产品经理训练营作业手记](https://ishanshan.gitbooks.io/road2strategypm/content/)。第一次正儿八经地参加线上付费课程。并拿到优秀学员（5/145），点亮新技能树。且 [网易蜗牛读书增长方案](https://road2strategypm.ishanshan.im/CONTENT/Chap5Task.html) 被评为精选，是当期课程里唯一一份精选作业，也是课程至今这章作业的唯一精选。
+- 六月：对外较逊色，只完成博客三年来第一次改版，并更换域名清除这两年的困扰：博客在微信访问不畅，被安全警示及重排。不过酝酿了本文及接下来几篇重要博文。
 
 ## CHANGELOG
 
+- 181231 增加 Windows MarkDown 编辑器推荐（[Typora](https://typora.io/)），把开头内容移到附录
 - 180720 和 MWeb 开发者确认目录视图调整方案后，修改 MWeb 推荐说明
 - 180717 根据反馈增补内容，强调增进作品质、量的关键，在以「周」为单位记忆外部化，并用「一个人的微博」促进快写慢改，而非具体哪个 App
 - 180716 优化样式和表达

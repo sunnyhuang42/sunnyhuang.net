@@ -58,7 +58,7 @@ permalink: /selfedu/:title:output_ext
 
 如果你还没用过 WorkFlowy ，可以先去 <https://workflowy.com/demo/embed/> 体验 3 分钟。
 
-<iframe  width='670' height='380' frameborder='1' scrolling='no' src="https://workflowy.com/embed/CO_N.vA3vHSrxk2?demo"></iframe>
+<iframe  width='670' height='380' frameborder='1' scrolling='no' src="https://workflowy.com/s/CO_N.vA3vHSrxk2?demo"></iframe>
 
 <center> WorkFlowy 功能简介 </center>
 
@@ -84,11 +84,11 @@ permalink: /selfedu/:title:output_ext
 
 比如我，日常一般如此输入输出：头天晚上或当天早晨列出今日待办，按处理顺序排序，做完后标注自己所用工时和成果链接；第二天整理成日报更新到团队自省界面；周末根据日报输出周报，汇总自己这一周的进展，分析时间分配是否符合所任角色期待；日常难免有一些临时接到的任务，或忽然想起的事情，不时记录一些讨论内容或阅读笔记，还经常有一些议题/项目需要思考梳理和输出。
 
-这样一分析，于我，工作区最舒服的尺度，是以周为单位。便在 WorkFlowy 里创造单位节点，并逐步摸索出[工作用的每周 WorkFlowy 模板](https://workflowy.com/s/CO_N.9glcXYoyF4) ：结合周报所需内容，创建每周模板，以便随时积累记录，也便安排日程及检视。一些固定发生的日程，比如周一早上的管理组会、周二的团队周会，也直接放到模板里，提醒自己，也省去重复创建的麻烦。
+这样一分析，于我，工作区最舒服的尺度，是以周为单位。便在 WorkFlowy 里创造单位节点，并逐步摸索出[工作用的每周 WorkFlowy 模板](https://workflowy.com/s/CO_N.9glcXYoyF4) ：结合周报所需内容，创建每周模板，以便随时积累记录，也便安排日程及检视。一些固定发生的日程，比如小组例会等，也直接放到模板里，提醒自己，也省去重复创建的麻烦。
 
-<iframe  width='670' height='500' frameborder='1' scrolling='no' src="https://workflowy.com/embed/CO_N.9glcXYoyF4?demo"></iframe>
+<iframe  width='670' height='500' frameborder='1' scrolling='no' src="https://workflowy.com/s/CO_N.9glcXYoyF4?demo"></iframe>
 
-<center>我的每周工作梳理模板（可用上下键查看）</center>
+<center>我每周工作梳理模板（可用上下键查看）</center>
 
 日常临时接到或忽然想起，但又难以立马想到安排在哪天，或实在太零碎不适合写进日报的事情，我则会及时记录在碎片清单的节点下；早晨规划日程或临时空闲，便会查看碎片清单，处理划掉一些事项。
 

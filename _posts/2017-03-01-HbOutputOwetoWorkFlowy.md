@@ -60,7 +60,7 @@ permalink: /selfedu/:title:output_ext
 
 <iframe  width='670' height='380' frameborder='1' scrolling='no' src="https://workflowy.com/s/CO_N.vA3vHSrxk2?demo"></iframe>
 
-<center> WorkFlowy 功能简介 </center>
+<center> WorkFlowy 功能简介（可用上下键查看，cmd+? 可查看快捷键） </center>
 
 初见 WorkFlowy ，有人以为这是思维导图软件，有人当作 TODO List，你呢？
 
@@ -88,7 +88,7 @@ permalink: /selfedu/:title:output_ext
 
 <iframe  width='670' height='500' frameborder='1' scrolling='no' src="https://workflowy.com/s/CO_N.9glcXYoyF4?demo"></iframe>
 
-<center>我每周工作梳理模板（可用上下键查看）</center>
+<center>我每周工作梳理模板（可用上下键查看，cmd+? 可查看快捷键）</center>
 
 日常临时接到或忽然想起，但又难以立马想到安排在哪天，或实在太零碎不适合写进日报的事情，我则会及时记录在碎片清单的节点下；早晨规划日程或临时空闲，便会查看碎片清单，处理划掉一些事项。
 

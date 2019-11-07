@@ -50,7 +50,7 @@ permalink: /selfedu/:title:output_ext
 
 最后，**能跨平台保存**。个人设备越来越多，若不能跨平台使用，实难趁手。
 
-以上，可用工具不少，比如看板工具 [Trello](https://trello.com/) 、协作工具 [Spark](http://spark.yi-gather.com/home?redirect=http%3A%2F%2Fspark.yi-gather.com%2Fdesk) 等。但个人偏爱 [WorkFlowy](https://workflowy.com/) ，无它，最优雅趁手而已：**那些能自如缩进、拖动、折叠展开的 `bullet` ，令用户能自由定义所载字段在整个体系中的关系/作用，随时自如调整，不必被文件形态强行划分信息组块。这实在契合信息在脑中的状态**。
+以上，可用工具不少，比如看板工具 [Trello](https://trello.com/) 、协作工具 [Spark](http://spark.yi-gather.com/home?redirect=http%3A%2F%2Fspark.yi-gather.com%2Fdesk) 等。但个人偏爱 [WorkFlowy](https://workflowy.com/) ，无它，最优雅趁手而已：**那些能自如缩进、拖动、折叠展开的 `node` ，令用户能自由定义所载字段在整个体系中的关系/作用，随时自如调整，不必被文件形态强行划分信息组块。这实在契合信息在脑中的状态**。
 
 感觉难以理解？没事儿，你马上会看到具体示例。
 
@@ -145,7 +145,7 @@ permalink: /selfedu/:title:output_ext
 
 WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键词条目筛选出来，这不特别，所有检索功能都这样。但搭配树形结构，便能挖掘不少新玩法。
 
-我常把常用关键词设定成标签，借助标签提取局部和整体的关系。举个例子：课程组委会每周多个角色协作，每个角色需要了解自己当周什么时候需要做什么，但并非每个角色都需关注所有本周所有角色的安排，那如何从整体快速剥离每个角色所需事务？ WorkFlowy 帮了大忙：设定涉及角色为标签，只要一点击，便可看到这个角色每周所需要跟进事务：
+我常把常用关键词设定成标签，借助标签提取局部和整体的关系。举个例子：课程组委会每周多个角色协作，每个角色需要了解自己当周什么时候需要做什么，但并非每个角色都需关注所有本周所有角色的安排，那如何从整体快速剥离每个角色所需事务？ WorkFlowy 帮了大忙：设定涉及角色为标签，只要一点击，便可看到这个角色每周所需要跟进事务node：
 
 ![动图展示](http://openmindclub.zoomquiet.top/ishanshan/blog/DemoWorkflowyTagUsage2.gif)
 

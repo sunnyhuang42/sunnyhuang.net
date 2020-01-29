@@ -23,11 +23,14 @@ permalink: /selfedu/:title:output_ext
 
 第四叹我感触颇深——有一天我也开始带团队，终于领会当初老板良苦用心——凡老板总希望手下能多培养几位独当一面之将，周报便是每周了解团队情况选苗子的好窗口，然职场新手很少用心对待，错过加速成长的机会，实在可惜。再看周围，那些用心写周报、持续用心写周报的同事，成长都不错——想来也是，如果你坚持用心反思、调整行动，并主动知会团队、获得更多反馈和支持，在这个正循环中不断积累加速度，成长能慢到哪里去？
 
+<br>
+
+<br>
+
 那周报怎么写？
 
 加入小年糕后，我写周报遵循公司模板。那是一套结合 OKR 目标管理和联想复盘模板的反思框架：
-
-![tep_weekly.png](http://ishanshan.zoomquiet.top/clipping/tep_weekly.png)
+![tep_weekly1.png](http://ishanshan.zoomquiet.top/share/tep_weekly1.png)
 
 写什么已明确，那如何写得更省力？各人习惯不一，我也在不断摸索迭代，仅供参考：
 
@@ -35,16 +38,19 @@ permalink: /selfedu/:title:output_ext
 
 结合个人输出习惯，我一般会先把当天反思记录于个人工作台界面。写周报时调出浏览，从中串起当周亮点、改进点，把日常反思想法梳理进周报中。
 
-<iframe  width='670' height='380' frameborder='1' scrolling='no' src="https://workflowy.com/s/CO_N.9glcXYoyF4"></iframe>
+<iframe  width='670' height='480' frameborder='1' scrolling='no' src="https://workflowy.com/s/CO_N.9glcXYoyF4"></iframe>
 
-<center> 我的每周工作记录模板👆🏻<br>工作台中，根据“反思三问”记录每日反思<br>周报草稿，写在“公司周报模板”节点下</center>
+<center> 我的每周工作记录模板👆🏻<br>工作台中，根据“反思三问”记录每日反思；周报草稿，写在“公司周报模板”节点下</center>
 
 
 
 具体写时，也一般直接在 WorkFlowy 中起草，基本完成后，便整理进 MarkDown 编辑器排版，以便贴进公司的周报提交平台时，格式友好。
 
 ![tep_weeklydemo.png](http://ishanshan.zoomquiet.top/share/tep_weeklydemo.png)
+<center>在 MarkDown 编辑器里调整文字格式</center>
 
+<br>
+<br>
 
 每次把这框架给朋友展示，并提及自己每周花在周报上的时间，至少 3 小时，都会收到对方难以置信的眼神——周报要写这么多内容，花这么多时间，你疯了吧？
 
@@ -60,34 +66,33 @@ permalink: /selfedu/:title:output_ext
 
 ## CHANGELOG 
 
-- 200129 根据近期习惯，更新写周报的具体方式
-    
+- 200129 根据近期习惯，更新写周报的具体方式    
     <details>
     <summary>原周报方式保留在这里，点击展开可见：</summary>
     
     那周报怎么写？
-    
+    <br>
     我一般包括这几个部分：上周做了什么，所领项目进展和成果如何；我的时间分配如何，自我评价如何，有什么思考和收获；下周计划如何，需要什么支持。
-    
+    <br>
     写什么已明确，那如何写得更省力？各人习惯不一，我也在不断摸索迭代，仅供参考：
-    
+    <br>
     周报要写的内容，如果前期不准备，周末直接思考这些问题，我肯定啥都想不出。显然需要未雨绸缪。那么问题来了，需要提前准备哪些东西？从最后要输出的结果往前倒推，答案很清晰：记录当天成果产出、时间分配、思考收获。
-    
+    <br>
     结合个人输出习惯和团队协同工具，我一般会先把当天要点及时记录于 [WorkFlowy](https://workflowy.com/) ，输出成日报，以 MarkDown 格式，回复在团队每日自省的 GitHub  Issues 上；周末再抽半小时梳理分析，输出周报。
-    
+    <br>
     但这样周末汇总、每周重复好像还是挺麻烦？是，为了更省力，我又做了两个调整：
-    
+    <br>
     
     第一，把日报持续更新在一个 MarkDown 文档中，并借助 GitHub 托管这个 MarkDown 文档，追踪历史版本。这样一来，周末我只需打开 GitHub 客户端切换 commit 记录，就可以方便地浏览日报，摘取周报所需内容：
-    
+    <br>
     
     ![infoweeklytep1.png](http://ishanshan.zoomquiet.top/share/infoweeklytep1.png?imageView2/2/w/350)
-    
+    <br>
     第二，在 WorkFlowy 中定制周报模板。周报结构固定，把常设节点在 WorkFlowy 中固化下来，每周在模板上更新。还能标记用时类别，分析过去一周的时间分配是否吻合个人在团队中的角色期待。详见我在 [卡片助力输入输出，工具我选 WorkFlowy ](https://ishanshan.im/selfedu/HbOutputOwetoWorkFlowy.html) 中的示例。
-    
+    <br>
     
     这么多道工序，时有同事好奇我如何坚持。拆解来看，的确步骤繁多，但于我已成肌肉记忆（[Muscle memory - Wikipedia](https://en.wikipedia.org/wiki/Muscle_memory)），便不再繁琐。
-    
+    <br>
     再说了，如果你知道自己想要什么，你知道你每天做的事情，都能使你朝向往的方向迈进一点，有什么比这更叫人鼓舞？
     
     </details>
@@ -98,4 +103,4 @@ permalink: /selfedu/:title:output_ext
 
 [^1]: 每日反思，我一般以这几个问题牵引：今天有哪些事情 ROI 不高、存在浪费？如果重来，可如何调整以减少浪费？明天的工作，可从中借鉴什么？
 
-[^2]: SML~Self-awareness, motivation, learning ability 的缩写代号。这是我司用于评估人才潜力的模型。
+[^2]: SML，是 Self-awareness, motivation, learning ability 的缩写代号。这是我司用于评估人才潜力的模型。

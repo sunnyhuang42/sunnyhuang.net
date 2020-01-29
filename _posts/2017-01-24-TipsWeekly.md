@@ -100,6 +100,6 @@ permalink: /selfedu/:title:output_ext
 
 ## Footnotes
 
-[^1]: 每日反思，我一般以这几个问题牵引：今天有哪些事情 ROI 不高、存在浪费？如果重来，可如何调整以减少浪费？明天的工作，可从中借鉴什么？
+[^1]: 每日反思，我一般以这三个问题牵引：今天有哪些事情 ROI 不高、存在浪费？如果重来，可如何调整以减少浪费？明天的工作，可从中借鉴什么？
 
-[^2]: SML，是 Self-awareness, motivation, learning ability 的缩写代号。这是我司用于评估人才潜力的模型。
+[^2]: SML，是 Self-awareness, Motivation, Learning ability 的缩写代号。这是我司用于评估人才潜力的模型。

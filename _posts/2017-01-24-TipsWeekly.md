@@ -39,11 +39,11 @@ permalink: /selfedu/:title:output_ext
 
 周报内容，如果前期不准备，周末直接思考，我肯定半天憋不出一字。显然需要未雨绸缪。
 
-结合个人输出习惯，我一般会先把当天复盘反思[^1]记录于个人工作台界面（见下述 WorkFlowy 模板）。写周报时调出浏览，从中串起当周亮点、改进点，把日常想法二次梳理。
+结合个人输出习惯，我一般会先把当天复盘反思[^1]记录于[个人工作台界面（见下述 WorkFlowy 模板](https://workflowy.com/s/CO_N.9glcXYoyF4)）。写周报时调出浏览，从中串起当周亮点、改进点，把日常想法二次梳理。
 
 <iframe  width='670' height='480' frameborder='1' scrolling='no' src="https://workflowy.com/s/CO_N.9glcXYoyF4?demo"></iframe>
 
-<center>▲ 我的[每周工作记录模板](https://workflowy.com/s/CO_N.9glcXYoyF4)<br>工作日志及反思，记录在工作台的“日志”中；周报草稿，写在“公司周报模板”节点下</center>
+<center>▲ 我的 每周工作记录模板<br>工作日志及反思，记录在工作台的“日志”中；周报草稿，写在“公司周报模板”节点下</center>
 
 <br>
 
@@ -65,10 +65,10 @@ permalink: /selfedu/:title:output_ext
 <center>▲ 某次在全员群内分享周报给我的触动</center>
 
 <br>
-如此，自己和团队的成长速度，便在这增强回路(reinforcing feedback loop)中愈来愈大，加速度也愈来愈大。那种感觉妙不可言，人也乐此不疲了：）
+如此，自己和团队的成长速度，便在这增强回路(reinforcing feedback loop)中愈来愈大，加速度也愈来愈大。那种感觉妙不可言。
 
 
-再说了，如果你知道自己想要什么，你知道你**每天做的事情，都能使你朝向往的方向迈进一点，有什么比这更叫人鼓舞**？
+再说了，如果你知道自己想要什么，你知道你**每天做的事情，都能使你朝向往的方向迈进一点，有什么比这更叫人乐此不疲**？
 
 
 
@@ -113,4 +113,4 @@ permalink: /selfedu/:title:output_ext
 [^2]: OKR目标管理方法，是缘起英特尔的管理方法。新手指南可参看我司新人培训内容 [「目标管理 OKR」幻灯 V2.0](https://docs.qq.com/slide/DRnprbXNXaGphVVZT)。
 [^3]: 联想复盘模板，是联想公司的复盘模板。使用要点和案例，可参见我司某次全员周会的幻灯 [如何做出好复盘-m9w1 周会](https://docs.qq.com/slide/DZnpaeG5xUlNwQlZN)。
 [^4]: SML，是 Self-awareness, Motivation, Learning ability 的缩写代号。这是我司用于评估人才潜力的模型。
-[^5]: PDCA 指 plan–do–check–act or plan–do–check–adjust ，是质量管理的基本方法，也是企业管理各项工作的一般规律。
+[^5]: [PDCA](https://en.wikipedia.org/wiki/PDCA) 指 plan–do–check–act or plan–do–check–adjust ，是质量管理的基本方法，也是企业管理各项工作的一般规律。

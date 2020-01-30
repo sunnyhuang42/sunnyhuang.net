@@ -32,7 +32,7 @@ permalink: /selfedu/:title:output_ext
 
 那周报怎么写？
 
-加入小年糕后，我写周报遵循公司模板。那是一套结合 OKR目标管理方法[^2] 和 联想复盘模板[^3] 的反思框架，助每周 PDCA 循环有效落地：
+加入小年糕后，我写周报遵循公司模板。那是一套结合 OKR目标管理方法[^2] 和 联想复盘模板[^3] 的反思框架，助每周 PDCA 循环[^5]有效落地：
 ![tep_weekly1.png](http://ishanshan.zoomquiet.top/share/tep_weekly2.png)
 
 写什么已明确，那如何写得更省力？各人习惯不一，我也在不断摸索迭代，仅供参考：
@@ -43,14 +43,14 @@ permalink: /selfedu/:title:output_ext
 
 <iframe  width='670' height='480' frameborder='1' scrolling='no' src="https://workflowy.com/s/CO_N.9glcXYoyF4?demo"></iframe>
 
-<center> 我的[每周工作记录模板](https://workflowy.com/s/CO_N.9glcXYoyF4)👆🏻<br>工作日志及反思，记录在工作台的“日志”中；周报草稿，写在“公司周报模板”节点下</center>
+<center>▲ 我的[每周工作记录模板](https://workflowy.com/s/CO_N.9glcXYoyF4)<br>工作日志及反思，记录在工作台的“日志”中；周报草稿，写在“公司周报模板”节点下</center>
 
 <br>
 
 具体写周报时，也直接在 WorkFlowy 中起草，那个“公司周报模板”的节点便是。基本完成后，便整理进 MarkDown 编辑器，用 2 分钟排版，以便贴进公司周报提交平台时，整洁易读。
 
 ![tep_weeklydemo.png](http://ishanshan.zoomquiet.top/share/tep_weeklydemo2.png)
-<center>在 MarkDown 编辑器里调整文字格式</center>
+<center>▲ 在 MarkDown 编辑器里调整文字格式</center>
 
 <br>
 
@@ -59,9 +59,14 @@ permalink: /selfedu/:title:output_ext
 
 于我还好：**每周定期反思，挖掘根因，争取避免再犯，或是发扬亮点，算 ROI(Return on investment, 投入产出比) 是很值的**。且若内化这模板背后的思路，写起来不但未觉繁琐，反而水到渠成，顺畅自然。
 
-况且这样写周报，其实不只是每周复盘，它还折射成长速度。**透过一份份周报，当你发觉周围同学思考越来越有深度，人越来越有温度，SML[^4] 也在变强，见贤思齐油然而生**。眼瞅大家都在力争上游，更令人不甘落后。
+况且这样写周报，其实不只是每周 PDCA，它还折射成长速度。透过一份份周报，你会发觉周围同学思考越来越有深度，人越来越有温度，SML[^4] 也在变强，见贤思齐油然而生。眼瞅大家都在力争上游，更令人不甘落后。
 
-如此，整个团队的成长速度，便在这增强回路(reinforcing feedback loop)中变大，加速度也在变大。那种感觉妙不可言。人也就乐此不疲了：）
+![info_weekly_learning.jpg](http://ishanshan.zoomquiet.top/share/info_weekly_learning.jpg?imageView2/2/w/280)
+<center>▲ 某次在全员群内分享周报给我的触动</center>
+
+<br>
+如此，自己和团队的成长速度，便在这增强回路(reinforcing feedback loop)中愈来愈大，加速度也愈来愈大。那种感觉妙不可言，人也乐此不疲了：）
+
 
 再说了，如果你知道自己想要什么，你知道你**每天做的事情，都能使你朝向往的方向迈进一点，有什么比这更叫人鼓舞**？
 
@@ -104,7 +109,8 @@ permalink: /selfedu/:title:output_ext
 
 ## Footnotes
 
-[^1]: 每日反思，我一般以这三个问题牵引：今天有哪些事情 ROI 不高、存在浪费？如果重来，可如何调整以减少浪费？明天的工作，可从中借鉴什么？
-[^2]: OKR目标管理
-[^3]: 联想复盘模板
+[^1]: 每日反思，我一般以这三个问题牵引，提升自己抓重点、做减法的能力：今天有哪些事情 ROI 不高、存在浪费？如果重来，可如何调整以减少浪费？明天的工作，可从中借鉴什么？
+[^2]: OKR目标管理方法，是缘起英特尔的管理方法。新手指南可参看我司新人培训内容 [「目标管理 OKR」幻灯 V2.0](https://docs.qq.com/slide/DRnprbXNXaGphVVZT)。
+[^3]: 联想复盘模板，是联想公司的复盘模板。使用要点和案例，可参见我司某次全员周会的幻灯 [如何做出好复盘-m9w1 周会](https://docs.qq.com/slide/DZnpaeG5xUlNwQlZN)。
 [^4]: SML，是 Self-awareness, Motivation, Learning ability 的缩写代号。这是我司用于评估人才潜力的模型。
+[^5]: PDCA 指 plan–do–check–act or plan–do–check–adjust ，是质量管理的基本方法，也是企业管理各项工作的一般规律。

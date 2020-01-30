@@ -62,7 +62,7 @@ permalink: /selfedu/:title:output_ext
 况且这样写周报，其实不只是每周 PDCA，它还折射成长速度。透过一份份周报，你会发觉周围同学思考越来越有深度，人越来越有温度，SML[^4] 也在变强，见贤思齐油然而生。眼瞅大家都在力争上游，更令人不甘落后。
 
 ![info_weekly_learning.jpg](http://ishanshan.zoomquiet.top/share/info_weekly_learning.jpg?imageView2/2/w/280)
-<center>▲ 某次在全员群内分享周报给我的触动</center>
+<center>▲ 某次忍不住在全员群分享周报给我的触动</center>
 
 <br>
 如此，自己和团队的成长速度，便在这增强回路(reinforcing feedback loop)中愈来愈大，加速度也愈来愈大。那种感觉妙不可言。
@@ -76,7 +76,7 @@ permalink: /selfedu/:title:output_ext
 
 - 200129 根据近期习惯，更新写周报的具体方式    
     <details>
-    <summary>原周报方式保留在这里，点击展开可见：</summary>
+    <summary>原写周报方式保留在这里，点击此处可见：</summary>
     
     那周报怎么写？
     <br>

@@ -92,15 +92,16 @@ description:
 
 ## 完整清单
 
-[这份清单](https://shimo.im/sheet/TbX47opDpH8YkUnd/RIDOC)包括健康、防骗、生活玩乐等方面，列了资源指引和预估费用，会持续更新。在电脑浏览器打开，取用更便捷。
+[这份清单](https://docs.qq.com/sheet/DVU5BZ2xQdnRRQ2NK?tab=bb08j2)包括健康、防骗、生活玩乐等方面，列了资源指引和预估费用，会持续更新。在电脑浏览器打开，取用更便捷。
 
-<embed src="https://shimo.im/sheet/TbX47opDpH8YkUnd/RIDOC" style="width:700px; height: 800px;">
+<embed src="https://docs.qq.com/sheet/DVU5BZ2xQdnRRQ2NK?tab=bb08j2" style="width:700px; height: 800px;">
 
 暂时想到这些。如果你有好的行动建议，也和我分享呀~
 
 
 ## CHANGELOG 
 
+- 201007 修改关爱家人行动清单链接为腾讯文档，减少登陆干扰
 - 180829 修订措辞
 - 180827 增补发布
 - 180722 创建

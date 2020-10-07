@@ -1,6 +1,8 @@
 ---
 title: 由“拥抱变化”引发的羞愧和反思
-categories: murmur
+categories: 
+- selfedu
+- murmur
 description:
 --- 
 

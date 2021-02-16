@@ -44,9 +44,9 @@ permalink: /selfedu/:title:output_ext
 
 其一，**为输出而设计，而非存储**。啥叫为存储而设？看某某笔记就知道了：可以方便地接收来自各渠道的信息，存起来，久而久之，难逃储物间命运，越发臃肿杂乱。为输出而设，则不仅能友好创作，还需叫人没企图导入文章或文件。
 
-其二，**可全文检索**。好不容易输出了这么多内容，不能全文检索轻松调取，再见。
+其二，**可全文检索**。好不容易输出了这么多内容，不能全文检索轻松调取？再见。
 
-其三，**方便移动、组合和导出**。写卡片写卡片，目的自在输出更高层级的作品，**需易整合才宜创造**。如果卡片不便导出，难以畅快接入创造文件、项目层级作品的环境，这不是舍本逐末么？
+其三，**方便移动、组合和导出**。写卡片的目的，其实是输出更高层级的作品，**易整合才宜创造**。如果卡片不便导出，难以畅快接入创造文件、项目层级作品的环境，这不是舍本逐末么？
 
 最后，**能跨平台保存**。个人设备越来越多，若不能跨平台使用，实难趁手。
 
@@ -219,13 +219,14 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 PS.
 
-1. 如果你看到这篇文章想注册 WorkFlowy ，欢迎使用我的邀请链接注册，哈哈你懂的：I've been using WorkFlowy to organize my life, and thought you might like it. If you want to check it out, here's an invite link that gets you 2x more free space: <https://workflowy.com/invite/5cabe311.lnx>
+1. 如果你看到这篇文章想注册 WorkFlowy ，欢迎使用这个邀请链接注册，哈哈你懂的：I've been using WorkFlowy to organize my life, and thought you might like it. If you want to check it out, here's an invite link that gets you 2x more free space: <https://workflowy.com/invite/5cabe311.lnx>
 2. 相关文章索引：
     - 作品和作品的差别，源于卡片。人和人的差异，垒于习惯。想更优雅畅快地输出作品，这套习惯也助益颇大：[卡片助力输出， MarkDown + GitHub + LOFTER 有轻功 · ishanshan's blog](https://ishanshan.im/selfedu/tool/HbOutputOwetoCards) 。
     - 周报怎么写，能更省力更受益更有动力？且看 [用心写周报的同事，绩效不会太差 · ishanshan's blog](https://ishanshan.im/selfedu/TipsWeekly.html) 。
 
 ## CHANGELOG
 
+- 210216 修订一些措辞
 - 180726 增补同类文章地址
 - 180703 增补 WorkFlowy 趁手优雅的原因：契合信息在脑中的状态
 - 180421 把一些示例图片替换为 embed 形式

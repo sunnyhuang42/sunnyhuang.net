@@ -1,9 +1,10 @@
+---
 layout: post
 title:  我如何成为换头最快的1%？| 过去8个月的面容调整复盘
 categories:
 - selfedu
 - tool
-
+---
 
 <blockquote class="blockquote-center"> 愿你我都长出基因里<br> 最健康最美的样子 </blockquote>
 
@@ -118,7 +119,10 @@ categories:
 
 然后很快，就发生了更多变化，甚至最开始几个月，连 face ID 都不认得我了，两三周就要更新一次。当时还有位一两个月见我一次的同事说，每次看到我都感觉比以前更漂亮了，但又说不上来哪里变了，还以为是自己的错觉；直到看到我对比照记录，才知道不是错觉，是真在变化。
 
-![mewing 变化 2102.jpg](http://ishanshan.zoomquiet.top/share/mewing%20%E5%8F%98%E5%8C%96%202102.jpg)
+![facialgrowth2102.jpg](http://ishanshan.zoomquiet.top/share/facialgrowth2102.jpg?imageView2/2/w/500)
+<center> 大图可点[这里](http://ishanshan.zoomquiet.top/share/facialgrowth2102.jpg)  </center>
+
+<br> 
 
 除了面容上日渐健康自然，生活上也愈发健康自在——前面提到的睡觉流口水、醒来嘴里味道怪这些困扰，也慢慢没了踪影：P
 
@@ -145,6 +149,8 @@ categories:
 
 ![facechange05.jpg](http://ishanshan.zoomquiet.top/clipping/facechange052.jpg)
 <center> ▲ 我常翻来给自己打气的一些对比图 </center>
+
+<br> 
 
 确信这套方法对自己管用后，还**借助「执行意图(implementation intention)」范式，用「if…then…」给大脑设置一些脚本，提升应对风险的能力**。比如「如果有时候发现变化不大感到沮丧了，就把这些网友的照片翻出来看看，告诉自己那是几年才有的变化，咱才半年，不着急。类似定投，**只要投资标的选得没错，持续定投，投入的本金足够，虽然短期收益会有波动，但如果跨越几个大周期，早晚有巨额回报**」。这令我在看到自己变化不大的那段时间，沮丧大幅减少甚至充满希望👻
 
@@ -238,7 +244,7 @@ categories:
 
 ## CHANGELOG 
 
-- 210308 更新细节，发布到博客 
+- 210308 更新细节，发布到博客 2h
 - 210306~7 根据平常采集到的问题增补完善 13h
 - 210305 整理成文、在群里分享初稿 8h
 - 210302 起草思路 2h

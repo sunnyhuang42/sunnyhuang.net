@@ -43,7 +43,7 @@ title: 如何带出和自己一样能干的团队 · 半年摸爬小记categori
 《[领导梯队](https://book.douban.com/subject/6536593/)([The Leadership Pipeline:How to Build the Leadership Powered Company](https://smile.amazon.com/Leadership-Pipeline-Powered-Company-non-Franchise-ebook/dp/B004BA5776/ref=smi_www_rco2_go_smi_g1405964225?_encoding=UTF8&%2AVersion%2A=1&%2Aentries%2A=0&ie=UTF8))》一书，把职场新手到首席执行官的发展路径，划分成几大阶段：管理自我、管理他人、管理经理人员、管理职能部门、管理事业部、管理业务群组、管理全集团。
 
 
-![](http://openmindclub.zoomquiet.top/ishanshan/blog/LeadershipStructure.png)
+![leadershipstructure.png](http://ishanshan.zoomquiet.top/share/leadershipstructure.png)
 
 每进入一个新阶段，都需在这三方面做出改变：1）工作理念，指做事的价值取向和优先顺序；2）领导技能；3）时间应用，即如何分配自己的时间。
 
@@ -170,6 +170,7 @@ title: 如何带出和自己一样能干的团队 · 半年摸爬小记categori
 
 ## CHANGELOG
 
+- 210315 更新图片地址，以便 chrome 浏览器查看
 - 180731 增补链接和内容 1h 
 - 180729 修订细节 1h
 - 180728 修订后记，整体润色 8h，发布

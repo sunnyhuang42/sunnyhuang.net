@@ -44,7 +44,8 @@ description:
 
 牙线（棒）、牙缝刷有很多品牌，你看评价挑个自己满意的就好。至于使用牙线还是牙线棒，看个人喜好。我两个都买了，最后只用牙线棒。
 
-![teethbrush2.jpg](http://openmindclub.zoomquiet.top/ishanshan/teethbrush2.jpg)
+
+![teethbrush2.jpg](http://ishanshan.zoomquiet.top/clipping/teethbrush2.jpg)
 <center>（图片来自网络。注意第一步的用力方向，是拉锯子不是切黄瓜）</center>
 
 ### 特别提醒
@@ -72,8 +73,8 @@ description:
 
 当然，最好辅助按摩仪器，减轻双手压力、覆盖双手盲区：
 
-![triggerpointstuff1.jpg](http://openmindclub.zoomquiet.top/ishanshan/triggerpointstuff1.jpg?imageView2/2/w/500)
 
+![triggerpointstuff1.jpg](http://ishanshan.zoomquiet.top/share/triggerpointstuff1.jpg?imageView2/2/w/500)
 <center>（我在用的按摩杖、按摩棒、按摩球、按摩轴，淘宝有卖）
 </center> 
 
@@ -101,6 +102,7 @@ description:
 
 ## CHANGELOG 
 
+- 210315 更新图片地址，以便 chrome 浏览器查看
 - 201007 修改关爱家人行动清单链接为腾讯文档，减少登陆干扰
 - 180829 修订措辞
 - 180827 增补发布

@@ -17,7 +17,7 @@ categories:
 <!-- more -->
 
 ![前后变化对比图](http://ishanshan.zoomquiet.top/share/facechange003.png)
-
+<center> 最新的对比见这里：http://ishanshan.zoomquiet.top/share/facialgrowth2103.jpg </center>
 
 右边比左边，是不是明显顺眼不少？是的，从眼部到下巴都明显顺眼好看，面部逐步健康生长——
 * 嘴巴能自然闭上，也不再口呼吸。
@@ -25,7 +25,7 @@ categories:
 * 面部朝前而非朝下生长，看起来更立体。
 * 双下巴、颈纹、婴儿肥、法令纹、嘴巴前凸减轻，眉骨明显，眼角不再下垂，眼睛有神。
 
-总的来说，把下图描述的大部分变化都发生了，效果堪比整容。
+总的来说，把下图描述的大部分变化都发生了，效果堪比换头。
 
 
 ![前后面部要点对比图](http://ishanshan.zoomquiet.top/share/facechange022.jpg)
@@ -120,8 +120,10 @@ categories:
 
 然后很快，就发生了更多变化，甚至最开始几个月，连 face ID 都不认得我了，两三周就要更新一次。当时还有位一两个月见我一次的同事说，每次看到我都感觉比以前更漂亮了，但又说不上来哪里变了，还以为是自己的错觉；直到看到我对比照记录，才知道不是错觉，是真在变化。
 
-![facialgrowth2102.jpg](http://ishanshan.zoomquiet.top/share/facialgrowth2102.jpg?imageView2/2/w/500)
-<center> ▶ 大图可看这里：http://ishanshan.zoomquiet.top/share/facialgrowth2102.jpg </center>
+![facialgrowth2102.jpg](http://ishanshan.zoomquiet.top/share/facialgrowthlist2103.jpg?imageView2/2/w/500)
+<center> ▶ 大图可看这里：http://ishanshan.zoomquiet.top/share/facialgrowthlist2103.jpg </center>
+
+
 
 <br> 
 
@@ -247,6 +249,7 @@ categories:
 
 ## CHANGELOG 
 
+- 210330 添加本月最新对比图
 - 210316 添加优惠券领取地址
 - 210308 更新细节，发布到博客 4h
 - 210306~7 根据平常采集到的问题增补完善 13h

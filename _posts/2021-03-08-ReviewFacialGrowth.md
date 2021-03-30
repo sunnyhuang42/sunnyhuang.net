@@ -19,6 +19,8 @@ categories:
 ![前后变化对比图](http://ishanshan.zoomquiet.top/share/facechange003.png)
 <center> 最新的对比见这里：http://ishanshan.zoomquiet.top/share/facialgrowth2103.jpg </center>
 
+<br> 
+
 右边比左边，是不是明显顺眼不少？是的，从眼部到下巴都明显顺眼好看，面部逐步健康生长——
 * 嘴巴能自然闭上，也不再口呼吸。
 * 下巴后缩改善，下颌线愈发清晰。
@@ -29,6 +31,7 @@ categories:
 
 
 ![前后面部要点对比图](http://ishanshan.zoomquiet.top/share/facechange022.jpg)
+
 
 
 更令人兴奋的是，能有这些可喜变化，并不是因为去整容了，也没怎么花钱。而是调整了两个小习惯，使肌肉回到正确状态，从而令面部恢复健康生长。简单来说就是降低外界干扰，让基因更充分表达。 

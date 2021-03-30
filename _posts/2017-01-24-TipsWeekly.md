@@ -74,6 +74,7 @@ permalink: /selfedu/:title:output_ext
 
 ## CHANGELOG 
 
+- 210330 修正脚注里的 OKR 幻灯地址
 - 200129 根据近期习惯，更新写周报的具体方式    
     <details>
     <summary>原写周报方式保留在这里，点击此处可见：</summary>
@@ -110,7 +111,7 @@ permalink: /selfedu/:title:output_ext
 ## Footnotes
 
 [^1]: 每日反思，我一般以这三个问题牵引，提升自己抓重点、做减法的能力：今天有哪些事情 ROI 不高、存在浪费？如果重来，可如何调整以减少浪费？明天的工作，可从中借鉴什么？
-[^2]: OKR目标管理方法，是缘起英特尔的管理方法。新手指南可参看我司新人培训内容 [「目标管理 OKR」幻灯 V2.0](https://docs.qq.com/slide/DRnprbXNXaGphVVZT)。
+[^2]: OKR目标管理方法，是缘起英特尔的管理方法。新手指南可参看我司新人培训内容 [「目标管理 OKR」幻灯 V2.0](https://docs.qq.com/slide/DVXlMWnlFcUdnck96)。
 [^3]: 联想复盘模板，是联想公司的复盘模板。使用要点和案例，可参见我司某次全员周会的幻灯 [如何做出好复盘-m9w1 周会](https://docs.qq.com/slide/DZnpaeG5xUlNwQlZN)。
 [^4]: SML，是 Self-awareness, Motivation, Learning ability 的缩写代号。这是我司用于评估人才潜力的模型。
 [^5]: [PDCA](https://en.wikipedia.org/wiki/PDCA) 指 plan–do–check–act or plan–do–check–adjust ，是质量管理的基本方法，也是企业管理各项工作的一般规律。

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  「促进输出小组」玩法介绍&报名
+title:  「促进输出小组」玩法介绍&报名入口
 categories:
 - community
 - selfedu

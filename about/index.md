@@ -11,22 +11,24 @@ post-reward: true
 
 
 
-[@闪闪-ishanshan](https://github.com/ishanshan)，成长中的 shaper 。希望尽己所能，把周围塑造成自己想见的样子。对要去何方、路在哪里这些人生大问题的思索见 [《你丁酉年的故事》](https://ishanshan.im/selfedu/Review2017LunarCalendar.html) 。
+[@闪闪-ishanshan](https://github.com/ishanshan)，一枚在不断打开盲区的小女子，期待过上「健康自在 自信从容」的生活。
 
-近一年常在思索的问题有：
+之前六年一直在互联网行业，做过教研、运营、学习与发展教练、产品。虽然他们看似不同职务，但在我眼里都是相通的——传播 meme（模因）影响人，帮助人更易发生行为改变。目前处于职业转型阶段，在探索把自己一份时间卖出多次的可能。
 
-* 如何让更多人体验更多心流
-* 个体如何实现自我教育
-* 教学设计如何更高效
-* 如何高效教会别人带新人
-* 如何给孩子尤其自家孩子更好的未来
+最近 1-2 个月在关注/思考的主要问题是：
+1. 如何解决自己持续输出的风险？
+2. 人生模式相关
+    * 人生有哪些方面的模式？最关键的是什么方面？
+    * 让人生健康自在/从容自信/幸福的模式是怎样的？
+3. 人生资本相关
+    * 如何评估或测量人生资本的积累情况？
+    * 人生资本积累和转化的规律
+    * 常见误区、反常识之处是啥
+    * 怎么积累 ROI 最高？
+    * 那些自己感兴趣的先辈，各人生周期都在干嘛，人生资本积累如何？节奏大概是怎样的？
 
-喜欢 [Swing dancing](https://github.com/ishanshan/EnjoySwingDancing) ，尤其 blues ，基本每天都跳。专注一个钟蹦跶十分钟，一跳就开心，哈哈。
 
-人如产品，我把个人特质和能提供的价值整理成了个人使用指南，欢迎你顺着所列接口来找我共创玩耍👇🏻
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/ishanshan/collaborate_ishanshan">ishanshan/collaborate_ishanshan</a></h4><p>collaborate_ishanshan - help you enjoy collaborating with ishanshan ⚙️</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## About My Mentors
 
@@ -37,6 +39,7 @@ post-reward: true
 他们是：
 
 
+- **[茹海波](https://weibo.com/brianru)**、**李辉**：第二段职业生涯的上级，也是密切协作最多的伙伴。我对精益创业、目标管理、项目管理、复盘、情境领导、教练技术的理解和运用，离不开他们的潜移默化的耐心指导。共事的这两年，也让我多了不少对「人」而不只是「事」的关注。总之，他们让我获得了守护一生的铠甲，更有底气去探索人生可能。
 - **[阳志平](https://www.yangzhiping.com/)**：第一段职业生涯的顶头上司。初入职场就与他密切共事三年，获益深远——我的写作风格、[创作方法](https://ishanshan.im/selfedu/tool/HbOutputOwetoCards)、科学素养、主题学习模式、简单生活模式、注重大时间周期积累和批量解决问题等习惯都源于他。
 - **[Zoom Quiet](http://zoomquiet.io/#)**：工作头两年的项目合作伙伴。远程协作两年，升级了我对异步协同、团队知识传承、[GitHub 使用](https://ishanshan.im/community/HbGitHubCooperate.html)及开源共创的认知，并种下了我对项目管理 [All Know All](https://www.xmind.net/m/citg/) 及对外界面专业度的执念。哦对，还勾起了我对工程师的喜爱：P
 - **[Oliver Ding](https://zine.la/@Oliver%20Ding/)**：大学后半段至今多个阶段的项目顾问。身在大洋彼岸多年，他仍关注并推动本土青年项目，持续探究和分享的热情及行动速度令我钦佩，并引发了我对学术素养及代际传承的关注。
@@ -69,5 +72,6 @@ post-reward: true
 
 ## CHANGELOG
 
+- 210402 更新简介和 mentors
 - 180717 增加 Mentors 组块
 - 180702 创建

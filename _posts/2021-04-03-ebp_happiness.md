@@ -21,7 +21,7 @@ categories:
 
 # 「暂停实验室」是干嘛的？
 
-简单来说，就是一家提供线上陪伴式服务的心理健身房，主要解决这些问题：
+简单来说，就是一家提供线上陪伴式服务的心理健身房，是[缓解情绪压力的第三种解决方案](https://img01.yzcdn.cn/upload_files/2020/06/12/Fly_uyZRdec37YKpaWMxS8WpQFE4.jpg!730x0.jpg)，主要解决这些问题：
 ![ebphappinessfreshman.png](http://ishanshan.zoomquiet.top/clipping/ebphappinessfreshman.png?imageView2/2/w/380)
 
 如果你想进一步了解，可以看[官方介绍](https://mp.weixin.qq.com/s/hfPXgCar5adopjykgubK8g)。

@@ -19,6 +19,8 @@ categories:
 
 <!-- more -->
 
+[TOC]
+
 # 「暂停实验室」是干嘛的？
 
 简单来说，就是一家提供线上陪伴式服务的心理健身房，是[缓解情绪压力的第三种解决方案](https://img01.yzcdn.cn/upload_files/2020/06/12/Fly_uyZRdec37YKpaWMxS8WpQFE4.jpg!730x0.jpg)，主要解决这些问题：
@@ -106,7 +108,7 @@ PS. 如果你从上述链接购买，我会获得自带的推广奖励。所以�
 
 
 
-## CHANGELOG 
+# CHANGELOG 
 
 - 210403 迭代完善 6h
 - 210324 整理初稿 3h

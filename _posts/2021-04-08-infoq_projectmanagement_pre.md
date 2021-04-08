@@ -52,6 +52,7 @@ categories:
 3. 其它：
     1. **随着项目推进，关键干系人可能会有变化，尤其进入新的项目阶段时**。请注意根据项目进展及时盘点名单，并持续关注他们的需求变化、做好预期管理。
     2. 如果项目是你个人的、不涉及其他人，也可以用这个问题清单梳理目标和规划。
+    3. 更多关于项目管理和协作的实践经验、模板，可到这个 GitHub 仓库挖掘： [ishanshan/CollaborationGuide4Shaper: For shaper, by shaper, help you be a shaper 🌱](https://github.com/ishanshan/CollaborationGuide4Shaper) 。
 
 ## CHANGELOG 
 

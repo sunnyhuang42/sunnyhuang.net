@@ -35,7 +35,7 @@ description:
 
 脑海中闪过无数思绪、观察，无论是为了记住还是为了忘记，都想及时捕捉，从大脑工作记忆（[working memory](https://en.wikipedia.org/wiki/Working_memory)）内存切换到外部载体；线上与人交流，输入界面常不友好，我喜欢到 MarkDown 编辑器里写好再发出，每次思考写哪、存否、存哪、命名也挺麻烦；打出不错内容未来要调取复用，再去对话界面搜寻实在繁琐，想不起在哪儿发布、意外丢失聊天记录更是徒增烦恼……
 
-贪心如我，还想有个地儿作「[一个人的微博](https://www.yangzhiping.com/psy/quiet.html)」，同我[「品味（savoring）」生活](https://www.yangzhiping.com/psy/savoring-10.html)，或分担难过失意等当下不宜为熟人知的时光。不仅积累个人故事，录下欣然成长的自己，还能倒逼写作练习——毕竟不是私人笔记，得照顾读者观感琢磨文字嘛。
+贪心如我，还想有个地儿作「[一个人的微博](https://www.yangzhiping.com/psy/quiet.html)」，同我[「品味（savoring）」生活](https://www.yangzhiping.com/psy/savoring-10.html)，或分担难过失意等当下不宜为熟人知的时光。不仅积累个人故事，录下欣然成长的自己，还能倒逼写作练习——毕竟不是私人笔记，不由自主地照顾读者观感琢磨文字嘛。
 
 于是，我开始摸索更舒畅的输出姿势。结合已有的「 WorkFlowy 酝酿 + MarkDown 书写/编辑 + GitHub 托管/发布 」工作流，优化后的理想情况当如此：
 

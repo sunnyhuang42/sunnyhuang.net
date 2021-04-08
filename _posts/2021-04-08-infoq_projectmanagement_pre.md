@@ -8,7 +8,7 @@ categories:
 
 对于项目管理来说，搞清楚干系人（[stakeholders](https://opentextbc.ca/projectmanagement/chapter/chapter-5-project-stakeholders-project-management/)）的需求、预期至关重要，事关项目成败。
 
-作为项目经理时，我一般会在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、对于项目管理四要素（时间质量成本范围）的期待、关于风险的提醒建议等信息，形成项目OKR、初步规划，然后快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期。
+作为项目经理时，我一般会在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、对于项目管理四要素（时间质量成本范围）的期待、关于风险的提醒建议等信息，同时快速研究业界同类项目的优秀实践，然后形成项目OKR、初步规划，快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期。
 
 ## 访谈问题清单
 
@@ -53,6 +53,8 @@ categories:
     1. **随着项目推进，关键干系人可能会有变化，尤其进入新的项目阶段时**。请注意根据项目进展及时盘点名单，并持续关注他们的需求变化、做好预期管理。
     2. 如果项目是你个人的、不涉及其他人，也可以用这个问题清单梳理目标和规划。
     3. 更多关于项目管理和协作的实践经验、模板，可到这个 GitHub 仓库挖掘： [ishanshan/CollaborationGuide4Shaper: For shaper, by shaper, help you be a shaper 🌱](https://github.com/ishanshan/CollaborationGuide4Shaper) 。
+
+如果你有疑问、建议等任何反馈，欢迎留言告诉我，一起完善迭代这个问题清单：D
 
 ## CHANGELOG 
 

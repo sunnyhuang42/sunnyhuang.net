@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-08T09:29:03+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">启动新项目，如何设定项目目标？|项目需求采集阶段问题清单</title><link href="http://localhost:4000/tool/infoq_projectmanagement_pre" rel="alternate" type="text/html" title="启动新项目，如何设定项目目标？|项目需求采集阶段问题清单" /><published>2021-04-08T00:00:00+08:00</published><updated>2021-04-08T00:00:00+08:00</updated><id>http://localhost:4000/tool/infoq_projectmanagement_pre</id><content type="html" xml:base="http://localhost:4000/tool/infoq_projectmanagement_pre">&lt;p&gt;对于项目管理来说，搞清楚干系人（&lt;a href=&quot;https://opentextbc.ca/projectmanagement/chapter/chapter-5-project-stakeholders-project-management/&quot;&gt;stakeholders&lt;/a&gt;）的需求、预期，对项目成败至关重要。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-08T09:50:01+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">启动新项目，如何设定项目目标？| 项目需求采集阶段问题清单</title><link href="http://localhost:4000/tool/infoq_projectmanagement_pre" rel="alternate" type="text/html" title="启动新项目，如何设定项目目标？| 项目需求采集阶段问题清单" /><published>2021-04-08T00:00:00+08:00</published><updated>2021-04-08T00:00:00+08:00</updated><id>http://localhost:4000/tool/infoq_projectmanagement_pre</id><content type="html" xml:base="http://localhost:4000/tool/infoq_projectmanagement_pre">&lt;p&gt;对于项目管理来说，搞清楚干系人（&lt;a href=&quot;https://opentextbc.ca/projectmanagement/chapter/chapter-5-project-stakeholders-project-management/&quot;&gt;stakeholders&lt;/a&gt;）的需求、预期至关重要，事关项目成败。&lt;/p&gt;
 
 &lt;p&gt;作为项目经理时，我一般会在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、关于时间质量成本范围的期待、对于风险的提醒建议等信息，形成项目OKR、初步规划，然后快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期。&lt;/p&gt;
 
@@ -50,14 +50,23 @@
   &lt;li&gt;关于&lt;strong&gt;项目风险&lt;/strong&gt;：我们项目组推进这个项目，你有什么担心、提醒或建议？&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;h2 id=&quot;注意事项&quot;&gt;注意事项&lt;/h2&gt;
+&lt;h2 id=&quot;使用锦囊&quot;&gt;使用锦囊&lt;/h2&gt;
 
 &lt;ol&gt;
   &lt;li&gt;关于访谈顺序，建议从提议要启动这个项目的干系人开始，如果是多位，就从权力大、利益大的开始。然后根据他对于关键干系人的推荐，再进一步邀约他人。&lt;/li&gt;
-  &lt;li&gt;访谈前，我一般会把这个问题清单提前发给对方，以便对方提前了解和酝酿。但现场访谈时，不一定完全按顺序来，但会确保每个要素都能采集到。&lt;/li&gt;
-  &lt;li&gt;访谈后，注意及时小结要点发给对方确认，避免理解偏差。&lt;/li&gt;
-  &lt;li&gt;采集到预期后，使用 OKR 来对齐预期比较省力。关于如何设定优质 OKR ，可参考我在小年糕时梳理的这份新人培训材料 &lt;a href=&quot;https://docs.qq.com/slide/DVXlMWnlFcUdnck96&quot;&gt;「目标管理 OKR」幻灯 V2.0&lt;/a&gt;。&lt;/li&gt;
-  &lt;li&gt;随着项目推进，关键干系人可能会有变化，尤其进入新的项目阶段时。请注意根据项目进展及时盘点名单，并持续关注他们的需求变化、做好预期管理。&lt;/li&gt;
+  &lt;li&gt;关于访谈工作要点：
+    &lt;ol&gt;
+      &lt;li&gt;访谈前，我一般会把这个问题清单提前发给对方，以便对方提前了解和酝酿。但现场访谈时，不一定完全按顺序来，但会确保每个要素都能采集到。&lt;/li&gt;
+      &lt;li&gt;访谈后，注意及时小结要点发给对方确认，避免理解偏差。&lt;/li&gt;
+      &lt;li&gt;采集到预期后，使用 OKR 来对齐预期比较省力。关于如何设定优质 OKR ，可参考我在小年糕时梳理的这份新人培训材料 &lt;a href=&quot;https://docs.qq.com/slide/DVXlMWnlFcUdnck96&quot;&gt;「目标管理 OKR」幻灯 V2.0&lt;/a&gt;。&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+  &lt;li&gt;其它：
+    &lt;ol&gt;
+      &lt;li&gt;随着项目推进，关键干系人可能会有变化，尤其进入新的项目阶段时。请注意根据项目进展及时盘点名单，并持续关注他们的需求变化、做好预期管理。&lt;/li&gt;
+      &lt;li&gt;如果是你个人发起的项目，基本不涉及他人，也可以用这个问题清单来帮助自己梳理目标和规划。&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
 &lt;h2 id=&quot;changelog&quot;&gt;CHANGELOG&lt;/h2&gt;
@@ -65,7 +74,7 @@
 &lt;ul&gt;
   &lt;li&gt;210408 增补注意事项，迁移到博客 1h&lt;/li&gt;
   &lt;li&gt;210407 从 WorkFlowy 整理到仓库里 1h&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">对于项目管理来说，搞清楚干系人（stakeholders）的需求、预期，对项目成败至关重要。 作为项目经理时，我一般会在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、关于时间质量成本范围的期待、对于风险的提醒建议等信息，形成项目OKR、初步规划，然后快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期。 访谈问题清单 以下是项目启动初期，我常用的访谈问题清单，供参考（这是「战略迭代项目」的版本，你把相关内容换成自己项目的即可）：</summary></entry><entry><title type="html">这座线上心理健身房，你，值得拥有</title><link href="http://localhost:4000/tool/selfedu/ebp_happiness" rel="alternate" type="text/html" title="这座线上心理健身房，你，值得拥有" /><published>2021-04-03T00:00:00+08:00</published><updated>2021-04-03T00:00:00+08:00</updated><id>http://localhost:4000/tool/selfedu/ebp_happiness</id><content type="html" xml:base="http://localhost:4000/tool/selfedu/ebp_happiness">&lt;p&gt;这两个月我个人状态发生了些自己特别欣喜的变化——&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">对于项目管理来说，搞清楚干系人（stakeholders）的需求、预期至关重要，事关项目成败。 作为项目经理时，我一般会在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、关于时间质量成本范围的期待、对于风险的提醒建议等信息，形成项目OKR、初步规划，然后快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期。 访谈问题清单 以下是项目启动初期，我常用的访谈问题清单，供参考（这是「战略迭代项目」的版本，你把相关内容换成自己项目的即可）：</summary></entry><entry><title type="html">这座线上心理健身房，你，值得拥有</title><link href="http://localhost:4000/tool/selfedu/ebp_happiness" rel="alternate" type="text/html" title="这座线上心理健身房，你，值得拥有" /><published>2021-04-03T00:00:00+08:00</published><updated>2021-04-03T00:00:00+08:00</updated><id>http://localhost:4000/tool/selfedu/ebp_happiness</id><content type="html" xml:base="http://localhost:4000/tool/selfedu/ebp_happiness">&lt;p&gt;这两个月我个人状态发生了些自己特别欣喜的变化——&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;&lt;strong&gt;更清楚自己想要怎样的生活，也慢慢找回热望，逐步回到充满干劲和希望的状态&lt;/strong&gt;。&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;更清楚哪些事情会让自己更易开心、幸福，也更能接纳自己、品味生活、发现乐趣&lt;/strong&gt;。&lt;/li&gt;

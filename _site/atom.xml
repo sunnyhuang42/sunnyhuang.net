@@ -1,4 +1,71 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-07T15:39:55+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">这座线上心理健身房，你，值得拥有</title><link href="http://localhost:4000/tool/selfedu/ebp_happiness" rel="alternate" type="text/html" title="这座线上心理健身房，你，值得拥有" /><published>2021-04-03T00:00:00+08:00</published><updated>2021-04-03T00:00:00+08:00</updated><id>http://localhost:4000/tool/selfedu/ebp_happiness</id><content type="html" xml:base="http://localhost:4000/tool/selfedu/ebp_happiness">&lt;p&gt;这两个月我个人状态发生了些自己特别欣喜的变化——&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-08T09:28:53+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">启动新项目，如何设定项目目标？|项目需求采集阶段问题清单</title><link href="http://localhost:4000/tool/infoq_projectmanagement_pre" rel="alternate" type="text/html" title="启动新项目，如何设定项目目标？|项目需求采集阶段问题清单" /><published>2021-04-08T00:00:00+08:00</published><updated>2021-04-08T00:00:00+08:00</updated><id>http://localhost:4000/tool/infoq_projectmanagement_pre</id><content type="html" xml:base="http://localhost:4000/tool/infoq_projectmanagement_pre">&lt;p&gt;对于项目管理来说，搞清楚干系人（&lt;a href=&quot;https://opentextbc.ca/projectmanagement/chapter/chapter-5-project-stakeholders-project-management/&quot;&gt;stakeholders&lt;/a&gt;）的需求、预期，对项目成败至关重要。&lt;/p&gt;
+
+&lt;p&gt;作为项目经理时，我一般会在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、关于时间质量成本范围的期待、对于风险的提醒建议等信息，形成项目OKR、初步规划，然后快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期。&lt;/p&gt;
+
+&lt;h2 id=&quot;访谈问题清单&quot;&gt;访谈问题清单&lt;/h2&gt;
+
+&lt;p&gt;以下是项目启动初期，我常用的访谈问题清单，供参考（这是「战略迭代项目」的版本，你把相关内容换成自己项目的即可）：&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;关于&lt;strong&gt;项目的背景&lt;/strong&gt;：为什么想启动这个项目？想解决什么问题？
+    &lt;ul&gt;
+      &lt;li&gt;我们面临的主要业务问题和运营问题是什么？&lt;/li&gt;
+      &lt;li&gt;为什么这是一个问题？不解决该问题会有什么样的结果？&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;关于&lt;strong&gt;项目质量要求/目标&lt;/strong&gt;：对于这轮「迭代战略」，你有什么期待？
+    &lt;ul&gt;
+      &lt;li&gt;达到怎样的状态，你会拍手称赞？&lt;/li&gt;
+      &lt;li&gt;这个项目，至少达到怎样的状态，是你觉得可接受的？&lt;/li&gt;
+      &lt;li&gt;你了解到的信息中，比如同行，在迭代战略这类事情上，有哪些你印象深刻的 亮点或痛点？&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;关于&lt;strong&gt;项目范围&lt;/strong&gt;：你觉得怎样算是这个项目结束了——
+    &lt;ul&gt;
+      &lt;li&gt;比如经营管理层及干部层面，对 战略达成共识？&lt;/li&gt;
+      &lt;li&gt;全员对于战略的反馈呈现出来？&lt;/li&gt;
+      &lt;li&gt;根据战略调整完组织架构？&lt;/li&gt;
+      &lt;li&gt;关键干系人对这个项目的复盘完成？&lt;/li&gt;
+      &lt;li&gt;或是时间优先：在某个日期前，尽力做到最好即可；接受有损，不要加时？&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;关于&lt;strong&gt;项目干系人&lt;/strong&gt;：哪些是关键干系人？
+    &lt;ul&gt;
+      &lt;li&gt;你觉得至少哪些人必须深度参与到战略讨论中？为什么？&lt;/li&gt;
+      &lt;li&gt;能否给出一些名单？尤其是你带的团队。&lt;/li&gt;
+      &lt;li&gt;这是我之前起草的名单，你看有无要调整的？&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;关于&lt;strong&gt;项目成本&lt;/strong&gt;：你对于资源投入的预期
+    &lt;ul&gt;
+      &lt;li&gt;对于你的角色来说，在这轮迭代战略上，你觉得花多少小时合适？你能接受的上限是？&lt;/li&gt;
+      &lt;li&gt;对于 其他角色呢？&lt;/li&gt;
+      &lt;li&gt;你觉得这个项目，最好什么时候结束？&lt;/li&gt;
+      &lt;li&gt;最晚什么时候结束，是你能接受的底线？&lt;/li&gt;
+      &lt;li&gt;我们能否引入外部咨询公司或顾问？预算范围是？&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;关于&lt;strong&gt;项目风险&lt;/strong&gt;：我们项目组推进这个项目，你有什么担心、提醒或建议？&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;注意事项&quot;&gt;注意事项&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;关于访谈顺序，建议从提议要启动这个项目的干系人开始，如果是多位，就从权力大、利益大的开始。然后根据他对于关键干系人的推荐，再进一步邀约他人。&lt;/li&gt;
+  &lt;li&gt;访谈前，我一般会把这个问题清单提前发给对方，以便对方提前了解和酝酿。但现场访谈时，不一定完全按顺序来，但会确保每个要素都能采集到。&lt;/li&gt;
+  &lt;li&gt;访谈后，注意及时小结要点发给对方确认，避免理解偏差。&lt;/li&gt;
+  &lt;li&gt;采集到预期后，使用 OKR 来对齐预期比较省力。关于如何设定优质 OKR ，可参考我在小年糕时梳理的这份新人培训材料 &lt;a href=&quot;https://docs.qq.com/slide/DVXlMWnlFcUdnck96&quot;&gt;「目标管理 OKR」幻灯 V2.0&lt;/a&gt;。&lt;/li&gt;
+  &lt;li&gt;随着项目推进，关键干系人可能会有变化，尤其进入新的项目阶段时。请注意根据项目进展及时盘点名单，并持续关注他们的需求变化、做好预期管理。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;changelog&quot;&gt;CHANGELOG&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;210408 增补注意事项，迁移到博客 1h&lt;/li&gt;
+  &lt;li&gt;210407 从 WorkFlowy 整理到仓库里 1h&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">对于项目管理来说，搞清楚干系人（stakeholders）的需求、预期，对项目成败至关重要。 作为项目经理时，我一般会在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、关于时间质量成本范围的期待、对于风险的提醒建议等信息，形成项目OKR、初步规划，然后快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期。 访谈问题清单 以下是项目启动初期，我常用的访谈问题清单，供参考（这是「战略迭代项目」的版本，你把相关内容换成自己项目的即可）：</summary></entry><entry><title type="html">这座线上心理健身房，你，值得拥有</title><link href="http://localhost:4000/tool/selfedu/ebp_happiness" rel="alternate" type="text/html" title="这座线上心理健身房，你，值得拥有" /><published>2021-04-03T00:00:00+08:00</published><updated>2021-04-03T00:00:00+08:00</updated><id>http://localhost:4000/tool/selfedu/ebp_happiness</id><content type="html" xml:base="http://localhost:4000/tool/selfedu/ebp_happiness">&lt;p&gt;这两个月我个人状态发生了些自己特别欣喜的变化——&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;&lt;strong&gt;更清楚自己想要怎样的生活，也慢慢找回热望，逐步回到充满干劲和希望的状态&lt;/strong&gt;。&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;更清楚哪些事情会让自己更易开心、幸福，也更能接纳自己、品味生活、发现乐趣&lt;/strong&gt;。&lt;/li&gt;
@@ -70,7 +137,7 @@
 
 &lt;h1 id=&quot;如何参加&quot;&gt;如何参加？&lt;/h1&gt;
 
-&lt;p&gt;行动营可以随时报名，每五周开一期。点击&lt;a href=&quot;https://shop16380385.youzan.com/wscvis/course/detail/367roo3ajfo8p?kdt_id=16188217&amp;amp;bid=28832092&amp;amp;fid=6068920301&amp;amp;activity_id=4303822950&amp;amp;is_share=1&amp;amp;dc_ps=2704954729712280584.200001&quot;&gt;这里&lt;/a&gt;，即可享 50 元优惠，报名新学员必修的「正念书写行动营」。&lt;/p&gt;
+&lt;p&gt;行动营可以随时报名，每五周开一期。使用老学员邀请链接，比如&lt;a href=&quot;https://shop16380385.youzan.com/wscvis/course/detail/367roo3ajfo8p?kdt_id=16188217&amp;amp;bid=28832092&amp;amp;fid=6068920301&amp;amp;activity_id=4303822950&amp;amp;is_share=1&amp;amp;dc_ps=2704954729712280584.200001&quot;&gt;这里&lt;/a&gt;，即可享 50 元优惠，报名新学员必修的「正念书写行动营」。&lt;/p&gt;
 
 &lt;p&gt;PS. 如果你从上述链接报名，我会获得自带的推广奖励。所以如果你觉得分享的内容对你有帮助，欢迎从上述链接报名，算是对我继续分享实践反思的鼓励：）&lt;/p&gt;
 
@@ -1593,39 +1660,4 @@ Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
   &lt;li&gt;180716 优化样式和表达&lt;/li&gt;
   &lt;li&gt;180715 累计快写慢改近 50h 终于发布&lt;/li&gt;
   &lt;li&gt;180707 创建&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">作品和作品的差别，源于卡片。人和人的差异，垒于习惯。 最近复盘，发现这大半年如有神助，几乎每月发布一个作品或项目，拿下个人探索路上一个又一个小里程碑。 相较过往，这输出密集程度算是突飞猛进。不禁好奇为何如此。得益于一群良师益友，叫我见贤思齐？可之前他们就在呀。因为工作节奏没有前两年紧张？或许，但光多点时间肯定不够。 思来想去，发现主要区别源于去年 9 月——那会儿我已有良好读写习惯打底，又幸运习得一套新的输出习惯，难怪如虎添翼。 好东西我向来不独自掖着。加之最近卡片写作、卡片大法传播越广，南辕北辙的输出姿势越多，体胖（pan）如我都看不下去了，撸起袖子就想…… 说干就干！ 咳，优雅习惯推介会，现在开始~</summary></entry><entry><title type="html">给文字工作者的 GitHub 上手攻略</title><link href="http://localhost:4000/tool/HbGitHubPre" rel="alternate" type="text/html" title="给文字工作者的 GitHub 上手攻略" /><published>2018-04-28T00:00:00+08:00</published><updated>2018-04-28T00:00:00+08:00</updated><id>http://localhost:4000/tool/HbGitHubPre</id><content type="html" xml:base="http://localhost:4000/tool/HbGitHubPre">&lt;p&gt;熟悉我的朋友都知道，我向来不写某个工具的基础教程，毕竟有官方文档这一手资料呢，白费那功夫干啥。&lt;/p&gt;
-
-&lt;p&gt;所以每当面临带共事伙伴或用户上手 GitHub ，我多会演示一些常用操作，并附上几个官方文档。这的确能解燃眉之急，让他们马上更新资料不耽误进度。但日子久了，难免发觉这不管事儿：&lt;!-- more --&gt;官方文档及网上资料，多是面对技术开发场景，难以匹配文字工作者的创作及共创场景。且文字工作者并不需要马上了解那么多陌生术语，也不需要那么多专家级别的操作。更头疼的是，文字创作及共创场景下，新手面临的基础问题没有现成文档，比如怎么写 commit message 能少给自己和团队找事儿，怎么让别人快速看到 GitHub 某个页面的内容，如何不被 GitHub 邮件轰炸等等，只能遇到时我现写。&lt;/p&gt;
-
-&lt;p&gt;长痛不如短痛，趁着优化团队新人入职机制，我理出一份给文字工作者的 GitHub 上手攻略。&lt;/p&gt;
-
-&lt;p&gt;攻略从 GitHub 世界的基本概念讲起，比如常用界面、常用操作通常大伙儿如何描述，以便新手遇到问题，能准确描述、高效求助。然后针对个人创作、团队协同、主题讨论场景，给出常用操作指南、最佳实践、自检任务，以及这三年来我观察到的新手常见疑问解答。&lt;/p&gt;
-
-&lt;h2 id=&quot;攻略地址&quot;&gt;攻略地址&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/OpenMindClub/Share/wiki/HbGitHub&quot;&gt;预备篇&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/OpenMindClub/Share/wiki/HbGitHubBasic&quot;&gt;第一级：存活&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/OpenMindClub/Share/wiki/HbGitHubBasicInt&quot;&gt;第二级：感觉良好，愈觉优雅&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;第三级：觉得更好更强更快，如虎添翼难自弃（请直接按  &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1xdfbrkQgvuV0FvD5uGFEQ070GC2Ybi2yenDEQAmRj9o/edit?usp=sharing&quot;&gt;团队协作技能自检清单&lt;/a&gt; 中的指引链接自学自检，需科学上网）&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;如果你已经听过 GitHub&lt;/strong&gt; ，并有兴趣尝试这款可供性极强、内置很多专家级的内隐模式的工具，降低个人创作、团队共创复杂度，那相信这份指南能令你少走不少弯路：）&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;如果你没听过 GitHub&lt;/strong&gt; ，但正寻找更高效的个人创作或团队文字共创协同方式，那不妨了解一下。当然，不是直接看上述攻略，而是先了解，为什么 GitHub 值得使用：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.yangzhiping.com/tech/writing-space.html&quot;&gt;理想的写作环境：Git+Github+Markdown+Jekyll - 阳志平的网志&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.yangzhiping.com/tech/github.html&quot;&gt;如何高效利用GitHub - 阳志平的网志&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;确认过眼神，是在等的人，再翻攻略：）&lt;/p&gt;
-
-&lt;h2 id=&quot;changelog&quot;&gt;CHANGELOG&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;180716 发布到 blog&lt;/li&gt;
-  &lt;li&gt;180428 创建&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">熟悉我的朋友都知道，我向来不写某个工具的基础教程，毕竟有官方文档这一手资料呢，白费那功夫干啥。 所以每当面临带共事伙伴或用户上手 GitHub ，我多会演示一些常用操作，并附上几个官方文档。这的确能解燃眉之急，让他们马上更新资料不耽误进度。但日子久了，难免发觉这不管事儿：</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">作品和作品的差别，源于卡片。人和人的差异，垒于习惯。 最近复盘，发现这大半年如有神助，几乎每月发布一个作品或项目，拿下个人探索路上一个又一个小里程碑。 相较过往，这输出密集程度算是突飞猛进。不禁好奇为何如此。得益于一群良师益友，叫我见贤思齐？可之前他们就在呀。因为工作节奏没有前两年紧张？或许，但光多点时间肯定不够。 思来想去，发现主要区别源于去年 9 月——那会儿我已有良好读写习惯打底，又幸运习得一套新的输出习惯，难怪如虎添翼。 好东西我向来不独自掖着。加之最近卡片写作、卡片大法传播越广，南辕北辙的输出姿势越多，体胖（pan）如我都看不下去了，撸起袖子就想…… 说干就干！ 咳，优雅习惯推介会，现在开始~</summary></entry></feed>

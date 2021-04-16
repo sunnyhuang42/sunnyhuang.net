@@ -1,6 +1,525 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-08T09:50:01+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">启动新项目，如何设定项目目标？| 项目需求采集阶段问题清单</title><link href="http://localhost:4000/tool/infoq_projectmanagement_pre" rel="alternate" type="text/html" title="启动新项目，如何设定项目目标？| 项目需求采集阶段问题清单" /><published>2021-04-08T00:00:00+08:00</published><updated>2021-04-08T00:00:00+08:00</updated><id>http://localhost:4000/tool/infoq_projectmanagement_pre</id><content type="html" xml:base="http://localhost:4000/tool/infoq_projectmanagement_pre">&lt;p&gt;对于项目管理来说，搞清楚干系人（&lt;a href=&quot;https://opentextbc.ca/projectmanagement/chapter/chapter-5-project-stakeholders-project-management/&quot;&gt;stakeholders&lt;/a&gt;）的需求、预期至关重要，事关项目成败。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-16T23:31:31+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">Gap 两个月复盘</title><link href="http://localhost:4000/selfedu/review2021Q1" rel="alternate" type="text/html" title="Gap 两个月复盘" /><published>2021-04-13T00:00:00+08:00</published><updated>2021-04-13T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/review2021Q1</id><content type="html" xml:base="http://localhost:4000/selfedu/review2021Q1">&lt;p&gt;前几周和师友交流，我更体会到，应该及时复盘及时闭环，促进自己进入增强回路。&lt;/p&gt;
 
-&lt;p&gt;作为项目经理时，我一般会在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、关于时间质量成本范围的期待、对于风险的提醒建议等信息，形成项目OKR、初步规划，然后快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期。&lt;/p&gt;
+&lt;p&gt;正好 gap 也两个月了，是时候整体盘点并汇报一下进展和经验教训，以便获得更多反馈，及时调整行动，也方便有需要的伙伴参考。所以无论你有任何疑问建议，都欢迎随时和我交流，也促进我完善想法：D&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;以下内容直接参考 联想的经典复盘模板&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; 进行，降低输出门槛。
+&lt;img src=&quot;http://ishanshan.zoomquiet.top/clipping/hbreview.png?imageView2/2/w/500&quot; alt=&quot;hbreview.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;友情提示：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;内容较长，建议在电脑上查看，这样可通过左侧目录快速了解整体结构、查看自己感兴趣的内容。&lt;/li&gt;
+  &lt;li&gt;如果没时间细看，可尝试手机「朗读屏幕」功能，在通勤或家务时听读。iOS 可参考这篇文章&lt;a href=&quot;https://mp.weixin.qq.com/s/jPsZxS0LXCRChrKXJ8-r0g&quot;&gt;《听读生产力：iPhone「朗读屏幕」功能的9种高效用法》&lt;/a&gt;， Android 可检索类似 App .&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;初始目标&quot;&gt;初始目标&lt;/h1&gt;
+
+&lt;p&gt;去年第四季度中下旬，我工作开始没有以前积极主动。反思发现主要是因为原本的个人大目标对我已经没有感召力，所以常会困扰自己在哪儿、为什么要做这些，越发迷茫和动力不足。尝试调整但发现还是比较难恢复之前的状态，于是打算休息一段时间，休整一下，也进一步探索自己想要什么。&lt;/p&gt;
+
+&lt;p&gt;当时没给自己定明确的目标，但有两个大方向，随着进展调整：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;调整状态，并寻找接下来的发展方向&lt;/li&gt;
+  &lt;li&gt;输出，把一些想写的文章发出来，也是对自己的梳理&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;接下来的复盘也会围绕这两大方向进行。&lt;/p&gt;
+
+&lt;p&gt;对方向一感兴趣的，可重点看亮点1、2和改进点1（即 HL1 HL2 LL1）的根因分析。对方向二感兴趣的，可重点看亮点3和改进点2（即 HL3 LL2）的根因分析。&lt;/p&gt;
+
+&lt;h1 id=&quot;亮点-highlights&quot;&gt;亮点 HighLights&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;迷茫焦虑减少大半，愈发从容，状态逐步回升，接下来的发展方向也日渐清晰&lt;/li&gt;
+  &lt;li&gt;正念冥想变成日常习惯（目前已坚持每日正念两个多月，应该不会再不了了之）&lt;/li&gt;
+  &lt;li&gt;开始恢复博文更新，目前已经更新 4 篇（对比之前两年多都没怎么更新，这是很大的亮点，也是下面会重点反思的地方）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;改进点-lowlights&quot;&gt;改进点 LowLights&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;生活节律依然不够健康、早上状态不佳&lt;/li&gt;
+  &lt;li&gt;输出速度还有较大提升空间，新博文发布数量也较少，发布频率也未达预期（期待是 2-3 天/篇，现在是 5-7天/篇）&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;成功根本原因&quot;&gt;成功根本原因&lt;/h1&gt;
+
+&lt;h2 id=&quot;hl1-迷茫焦虑减少大半愈发从容状态逐步回升接下来的发展方向也日渐清晰&quot;&gt;HL1. 迷茫焦虑减少大半，愈发从容，状态逐步回升，接下来的发展方向也日渐清晰&lt;/h2&gt;
+
+&lt;p&gt;根因：&lt;/p&gt;
+
+&lt;p&gt;能有上述变化，主要源于以下行动：&lt;/p&gt;
+
+&lt;h3 id=&quot;1-进一步了解人生周期论人生资本论感到自己人生的选择空间变大不少发展路径也日渐明朗&quot;&gt;1. 进一步了解「人生周期论」「人生资本论」，感到自己人生的选择空间变大不少，发展路径也日渐明朗&lt;/h3&gt;
+
+&lt;p&gt;我想过怎样的生活？我要如何度过这一生？这是那段时间常在我脑子里打转的问题。&lt;/p&gt;
+
+&lt;p&gt;关于人生发展困惑及解法，古今中外已有诸多智者在探索。而阳志平先生在这方面的研究和品位，是我最信得过且感到和自己最匹配的。所以感到迷茫时的第一反应，就是去翻查他推荐的资源和线索。&lt;/p&gt;
+
+&lt;p&gt;「人生周期论」「人生资本论」，是他近几年形成的思考成果，一些内容可见：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/QcO4fHAu5PaDimRkiesMng&quot;&gt;人生发展，有这四种资本，越积累越自由&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mp.weixin.qq.com/s/eV3Z-7QWEp9VC75urDyt8w&quot;&gt;年轻人的三年五载就是一生一世&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;对于我来说的主要启发和影响有：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;人生周期论。把人生划分为大周期、中周期与小周期，十二年为大周期，三年为中周期，十八个月为小周期。&lt;/p&gt;
+
+    &lt;p&gt;两三年前我就在阳志平先生的演讲里听闻这个内容，但当时没能理解这么划分有什么好处。直到今年春节，借助融合上述理论的实体工具「人生彩虹本」开始梳理人生规划时，才体会这模型妙在哪里。&lt;/p&gt;
+
+    &lt;p&gt;坦白说，在人生周期表格上找到自己当前所处位置时，让我有种 wow 的感觉——对接下来的人生里程碑和阶段感一下明朗，也更清楚如何去张罗接下来的人生长路。而且&lt;strong&gt;不需遵循社会钟，每个周期重心在哪儿、重点积累什么资本，可以有自己的选择&lt;/strong&gt;，自主掌控感提升，压迫感和焦虑随之下降。&lt;/p&gt;
+
+    &lt;p&gt;而且这方法可以跨越大时间周期，中老年时也适用——可以一直以大中小周期持续去思考，自己要创造什么价值、有怎样的成长和变化。而非简单划分为退休前、退休后（和我爸交流有感）。&lt;/p&gt;
+
+    &lt;p&gt;此外，顺着彩虹本中「人生周期」「人生计划」模块的引导，&lt;strong&gt;先明确当前处于哪个大中小周期、大战略是怎样的、对过去进行复盘，再思考未来 6 个月的规划&lt;/strong&gt;，使用起来也感觉很科学、顺畅。 &lt;strong&gt;「6 个月」这个时长对我来说也刚好，比一年为单位更可感可控，不愧是人类可以有明确预期的时间单位&lt;/strong&gt;。彩虹本还鼓励我们再往下拆成 2-3 个月为单位的小小周期，更有节奏感，我尝试下来的确如此。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;人生资本论。&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;什么是「人生资本论」？
+你会发现，无论时代如何变迁，社会如何风起潮涌，总有一些东西不变。比如，从春秋战国时代到今天，我们都尊重有一技之长的人；我们都欣赏那些能从逆境中反弹的人。 &lt;br /&gt;
+我将在不同智者的人生发展中反复出现的关键要素称之为「人生资本」。有四种资本对一个人的人生发展至关重要，它们分别是「社会资本」、「文化资本」、「心理资本」与「技能资本」。我提出的「人生资本论」就是探讨智者的人生发展之旅中，四种资本的生发、扩大及其相互作用。
+——阳志平&lt;/p&gt;
+    &lt;/blockquote&gt;
+
+    &lt;p&gt;接触这套理论源于 2020 年底阳志平先生的跨年分享，后来又反复听了两遍。对我来说的主要启发和影响是：&lt;/p&gt;
+
+    &lt;ol&gt;
+      &lt;li&gt;
+        &lt;p&gt;&lt;strong&gt;不同资本的属性是不一样的&lt;/strong&gt;。比如在人群中的分布情况：心理资本和身高类似，是正态分布（normal distribution），很难拉开量级差异；但社会资本和文化资本却偏幂律分布（power-law distribution），可以拉开量级差异，比如有人写读书笔记上万篇，但有人从来没有写过。&lt;/p&gt;
+
+        &lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/clipping/bell-curve-power-law-distributions.png?imageView2/2/w/500&quot; alt=&quot;bell-curve-power-law-distributions.png&quot; /&gt;&lt;/p&gt;
+
+        &lt;p&gt;又如增长曲线，有些资本的积累或带来的收益是对数增长，有些是指数增长。&lt;/p&gt;
+
+        &lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/clipping/growthcurve.png?imageView2/2/w/500&quot; alt=&quot;growthcurve.png&quot; /&gt;&lt;/p&gt;
+
+        &lt;p&gt;意识到这些客观规律，便打开了我对于时间怎么分配更划算的一些盲区，有了更多决策依据。&lt;/p&gt;
+
+        &lt;p&gt;比如&lt;strong&gt;对于正态分布型的资本&lt;/strong&gt;，投入时间再多，和大部分人也就是标准九和标准五的区别，难以拉开相对优势。但如果&lt;strong&gt;达到标准六七后，把时间投入到幂律分布型的资本上，能带来的收益和优势，明显大于前者&lt;/strong&gt;。尤其一切皆时间的函数，随着时间增长，两者差异愈发显著。&lt;/p&gt;
+
+        &lt;p&gt;那&lt;strong&gt;对于正态分布型的资本&lt;/strong&gt;，就不需要重视吗？因人而异。&lt;strong&gt;关键是不要让自己掉到及格线以下&lt;/strong&gt;，比如不要让自己出现抑郁之类的情况。&lt;/p&gt;
+
+        &lt;p&gt;又如，尽量选择指数增长的事情——前期需要大量积累，很长时间收益不显著，自动隔离想快进快出的人，减少竞争对手，也让自己易与一群长期主义同行；后期收益天花板很高甚至没有天花板，令长期积累的人有丰厚回报。比如写作。&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;要想跨越阶层，不一定要死磕社会资本。因为不同资本可以相互转化，而且有好些反常识的规律。比如文化资本可以转化为社会资本，而文化资本对于各方面积累薄弱的个体，起步更容易；又如以下这些：
+ &lt;img src=&quot;http://ishanshan.zoomquiet.top/clipping/incommon_socialcapital.png&quot; alt=&quot;incommon_socialcapital.png&quot; /&gt;&lt;/p&gt;
+
+        &lt;p&gt;了解并借助这些反常识的规律，便更易根据自己的优劣势和人生定位，找到更省力巧妙的路径，达成人生目标。&lt;/p&gt;
+      &lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;虽然我刚接触，但已安心豁然不少。就像寻宝路上，拿到了藏宝图，即使还未沿地图深入往下走，但心中有概览，便少了未知多了踏实，并知道只要投入时间深入研究、循着地图指引，大概率会走到自己想去的地方。&lt;/p&gt;
+
+&lt;p&gt;接下来要做的事情，便是投入时间，去进行更多研习和实践。&lt;/p&gt;
+
+&lt;p&gt;PS. 更多启发，后续会随着研习和实践陆续分享。如果你想早点了解，欢迎直接约我交流哈哈。&lt;/p&gt;
+
+&lt;h3 id=&quot;2-深入学习定投策略以及开始定投区块链指数基金让我卸下了财富积累的压力心态也更为平和释放出更多认知带宽来做自己认为重要的事情&quot;&gt;2. 深入学习定投策略，以及开始定投区块链指数基金，让我卸下了财富积累的压力，心态也更为平和，释放出更多认知带宽来做自己认为重要的事情&lt;/h3&gt;
+
+&lt;p&gt;坦白说，前几个月我有种莫名的焦虑，看到周围陆续有人抓住了机会资产大幅增加更靠近他们想要的生活，而自己还不知道自己想要什么、这一生如何度过。&lt;/p&gt;
+
+&lt;p&gt;机缘巧合二三月份我参加了「笑来的写作训练营」，在八周课程中，随着打卡作业仔细剖析和审视&lt;a href=&quot;https://ri.firesbox.com/#/cn/&quot;&gt;《定投改变命运（第三版）》&lt;/a&gt;的关键逻辑，更深刻地理解定投的原理、要点、践行定投的方法论，并意识到区块链指数基金 BOX 这个标的价值多大且开始认真定投后，整个人从容不少。虽然那时候我还不清楚自己想要什么、过怎样的生活。&lt;/p&gt;
+
+&lt;p&gt;因为相信在财富积累上，自己走上了一条迟早获得巨额回报的路，且是一条对于普通人来说很有优势的路。尤其是我有信心自己能不掉队——捋清楚了背后的 why ，而非盲从他人观点，自然内心笃定。&lt;/p&gt;
+
+&lt;p&gt;个人财富积累的压力和焦虑自此卸下，且不会再为市场波动焦虑，甚至越跌越开心——又有打折筹码可以买；花在理财投资方面的注意力也得已释放，市面绝大部分理财投资内容，都可以忽略无需理会了。从此，便有更富足的脑力和心力去探索自己想要什么、做自己认为重要的事，也开始有心力去考虑家族财富积累和阶层跨越，为所爱的人做更多事情。&lt;/p&gt;
+
+&lt;p&gt;且随着脑力、心力逐步回到从容状态，创作欲望和创造力也更好地释放出来，正反馈越来越多，又让我更从容。总之进入增强回路。&lt;/p&gt;
+
+&lt;p&gt;这段时间的研习，还解答了一个我心中已久的困惑：&lt;/p&gt;
+
+&lt;p&gt;有人倡导要探寻内心热爱、追随激情；又有人说不要急于寻找，激情是精通的副产品，与其在迷茫中寻找一份「真正热爱的事业（激情所在的事业）」，不如让自己在当前的工作中努力「优秀到不能被忽视」。听起来都有道理、也都有例证，哪种才是对的？&lt;/p&gt;
+
+&lt;p&gt;其实这些选项的属性，并非「规律」，而是「策略」。&lt;strong&gt;人生和投资一样，有多种流派及对应策略，每种都有可能获得巨额回报，选择适合自己的并认真践行就好&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;h3 id=&quot;3-认真练习正念和积极心理学书写借助科学的工具方法促进自己专注当下品味生活发现乐趣并逐步清晰自己想要的生活&quot;&gt;3. 认真练习正念和积极心理学书写，借助科学的工具方法促进自己专注当下、品味生活、发现乐趣，并逐步清晰自己想要的生活&lt;/h3&gt;
+
+&lt;p&gt;关于这些行动的更多体会和经验教训，可见&lt;a href=&quot;https://ishanshan.im/tool/selfedu/ebp_happiness&quot;&gt;《这座线上心理健身房，你，值得拥有》&lt;/a&gt;。&lt;/p&gt;
+
+&lt;p&gt;这里主要说下为什么逐步清晰自己想要的生活，对我状态回升如此关键——
+给行动方向收敛了边界（即画出下述思考战略的三位一体图中“想做”的边界），再看到周围层出不穷的机会和故事，便安定不少很少彷徨。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/clipping/strategy.jpeg?imageView2/2/w/400&quot; alt=&quot;strategy.jpeg&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;hl2-正念冥想变成日常习惯&quot;&gt;HL2. 正念冥想变成日常习惯&lt;/h2&gt;
+
+&lt;p&gt;根因：&lt;/p&gt;
+
+&lt;p&gt;对比过往几次不了了之的练习尝试，我发现这次能坚持下来，和以下因素密不可分：&lt;/p&gt;
+
+&lt;h3 id=&quot;1-榜样力量建立正确的练习预期增强了练习意愿&quot;&gt;1. 榜样力量+建立正确的练习预期，增强了练习意愿&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;榜样力量&lt;/strong&gt;：&lt;/p&gt;
+
+&lt;p&gt;这两年和海波共事，看到他作为 CEO 日理万机、压力比我大很多但很少崩溃，不禁好奇是怎么做到的。他说和冥想练习密不可分。日常我也的确不时看到他在冥想。两个月前道别的时候，他分享近期感受时再次提及冥想给自己带来的帮助，也更激起我的练习意愿——&lt;strong&gt;看到自己信赖的身边伙伴做到和带来的成效，很容易让人见贤思齐&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;建立正确的练习预期&lt;/strong&gt;：&lt;/p&gt;
+
+&lt;p&gt;高手在正念冥想时是什么状态？之前我以为是全程保持专注。这令我感到难以企及，尤其越练越意识到自己频频游离，越发沮丧挫败，最后不了了之。这几年的几次尝试莫不如此。&lt;/p&gt;
+
+&lt;p&gt;直到前两个月参加正念书写行动营，了解到这项技能的进阶状态是怎样的，才松了口气——原来我其实是在进阶：更快觉察走神，觉察次数更多，专注的总时长更长。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/clipping/ebp_mindfuless_advance.jpg?imageView2/2/w/500&quot; alt=&quot;ebp_mindfuless_advance.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;意识到这些后，不带评判地把思绪牵回来，也变得不难做到。&lt;/p&gt;
+
+&lt;p&gt;这也让我深切体会到，&lt;strong&gt;想增长某项技能时，了解其分级状态、建立正确的进阶预期有多重要——类似灯塔，让我们知道自己是否在正确航道上行进&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;h3 id=&quot;2-借助优质训练营促进自己度过新手期&quot;&gt;2. 借助优质训练营，促进自己度过新手期&lt;/h3&gt;
+
+&lt;p&gt;之前几次尝试，我都是自己在网上找材料来练习，包括使用潮汐、睿心冥想、Pause 等工具。&lt;/p&gt;
+
+&lt;p&gt;这次是参加行动营。对比之下，不得不说，这类优质训练营，对于我这样的新手来说，帮助不小。主要是以下几点：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;每天正念练习后&lt;/strong&gt;，需要记录当日练习感想。每天把感受写下来，相比之前练完就结束，有种踏实往前走的感觉，也能从记录中感受到自己的变化。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;能观察到其他学员的状态&lt;/strong&gt;。这个训练营有个「书写圈」，里面能看到营员公开的练习感想记录。这让我更了解其他人是怎样的状态，感觉自己不孤单。看到做得好的，还会不由自主地见贤思齐。而且看到更多样本，也让自己更能客观看待自己当前状态。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;打卡机制敦促练习&lt;/strong&gt;。这个训练营一期是 25 天，有 3 天自选的休息日。即使哪天没有来打卡，依然可以重拾进度。完成所有练习可以领回 100 块督学金。对于新手来说，在养成习惯阶段适当借助外力敦促自己，还挺有帮助的。&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;有 FAQ ，有疑问时也可以随时提问&lt;/strong&gt;。新手阶段如果遇到问题难以得到专业解答，容易困于迷雾或陷到坑里，不了了之。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;hl3-开始恢复博文更新目前已经更新-4-篇&quot;&gt;HL3. 开始恢复博文更新，目前已经更新 4 篇&lt;/h2&gt;
+
+&lt;p&gt;根因：&lt;/p&gt;
+
+&lt;p&gt;简单来说，是内外部变化，让我更新博文的意愿变强，开始行动起来。具体来说主要是以下三点：&lt;/p&gt;
+
+&lt;h3 id=&quot;1-反思这两年很少更新博文的原因意识到之前一些认知有误并及时调整行动意愿开始增强&quot;&gt;1. 反思这两年很少更新博文的原因，意识到之前一些认知有误，并及时调整，行动意愿开始增强&lt;/h3&gt;
+
+&lt;p&gt;这两年都没怎么更新博文，是忙得一点时间都没有吗？那倒不至于。究其原因，发现我之前一直有个执念：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;想写穿越大时间周期、十年二十年之后依然值得看的内容。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;而那些能跨越大时间周期的内容，输出起来并不容易，需要花精力修改迭代。尤其当我没有那么多连续的写作时间时，发博文这个事情便不了了之。&lt;/p&gt;
+
+&lt;p&gt;我也知道可以先完成再完美，但估计是心底里并未认同「完美主义」是自己必须改掉的特质，依然迟迟没有行动。尤其看到一些读者推荐我博客时，说「文章少而精」，更令我更不愿轻易更新，以免破坏了这印象。&lt;/p&gt;
+
+&lt;p&gt;直到有天进行当日反思时，忽然意识到这个事情：&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;完美主义，通常源于「抓重点」的能力不足&lt;/strong&gt;——资源永远有限，如果知道什么重要什么不重要，便不会再想面面俱到追求完美，而是把资源倾力投入关键之处，其他 let it go 。&lt;/p&gt;
+
+&lt;p&gt;而「善于抓重点」，是我一直很希望具备的特质啊。至此，改变的动力强了起来。&lt;/p&gt;
+
+&lt;p&gt;下一个问题也随之而来：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;对于我来说，当前阶段什么最重要？&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;在一定质量标准下，及时记录分享实践和反思&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;因为我在探索发展方向、想要的生活、把一份时间卖出多次的可能，这是不少伙伴也感兴趣的。及时记录分享，便能连接到更多同行者、相互支持走得更远，也能更快让更多同行伙伴少走弯路，而这本就是我理想生活的一部分。&lt;/p&gt;
+
+&lt;p&gt;而从过往情况来看，如果当时不写，未来真的很难有欲望愿意花精力再来梳理。&lt;/p&gt;
+
+&lt;p&gt;加上多次经历已经表明，把所思所想分享出来，并不会让我就此把这个事情放下，反而会助我我更上心去迭代完善，也有更多灵感来改进。因为写出来后，更易发现迭代空间，而人类认知闭合的需要（need for cognitive closure），会天然促使我们去完善。再是收到外部反馈，输入新鲜信息多元视角，灵感自然也更多。&lt;/p&gt;
+
+&lt;p&gt;此外，这其实和「输出穿越大时间周期、十年二十年之后依然值得看的内容」并不矛盾——发布后还可迭代，且我的确会持续迭代，看我那些博文末尾的 changelog 就知道了。先完成，再完美。&lt;/p&gt;
+
+&lt;p&gt;总之，&lt;strong&gt;那之后的我，依然追求完美，但能接纳自己不一定马上达到，并 「choose my battles」 —— 辨识当前最重要的是什么、关注&amp;amp;投入近期目标。&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;但好景不长，我是开始陆续写东西想更新到博客上了，可还是久久没更新出来。进一步反思，又发现了一个难以迈过去的心理门槛——&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;不想看到自己比之前退步了。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;坦白说，2018 年有两篇博文&lt;sup id=&quot;fnref:2&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;，对我来说是个重要里程碑，多少意味着我开始攀到「逻辑-文采-故事-风格」这写作四大峰的最高峰。而最近陆续想写的内容，除了有点逻辑，文采、故事、风格相去十万八千里……而比以前的自己退步，是我很不愿看到的情况。&lt;/p&gt;
+
+&lt;p&gt;且不评判「不想看到自己比之前退步」这个想法是否应该有，我用理智吩咐涌起的情绪，先看所含假设（assumption）是否成立：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;如果我发的博文，没有文采、故事、风格，就意味着退步了。这个假设成立吗？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;是的，这是个假设。意识到这点时，心中已有什么东西开始瓦解。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;能进行比较是需要前提的——他们属于同一类事物、有共同的参考系&lt;/strong&gt;。虽然此时和彼时，都是输出文章，看似同一类活动，但他们的情景和目的，其实并不相同：&lt;/p&gt;
+
+&lt;p&gt;之前是在刻意练习文采、故事和风格，所以花费大量的时间来打磨。看文末的 changelog 就知道，10小时/千字 左右。而现在，我的重点并非训练写作，而是在一定质量标准下，及时记录分享实践和反思。&lt;/p&gt;
+
+&lt;p&gt;这两种情境虽然都是输出文章，但其实不适合比较。&lt;/p&gt;
+
+&lt;p&gt;好比做饭，之前在专门练习某个菜系，现在是在外探险、想让伙伴们快速吃饱有机会一起感受这美好风景、少走弯路避开风险，这是两种情境和目的。后者不如前者精致讲究，就说明水平退步了，你觉得合理吗？显然不啊。&lt;/p&gt;
+
+&lt;p&gt;长舒一口气，这个心理门槛也没了。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;再进一步，&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;就算是同样的情景且文章的文采、故事和风格的确不如以前，我发布新博文的意愿，为什么会因此受影响？有什么更深层的假设？是否需要修正？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;想了半天，我发现不愿直面自己退步而不更新，其实暗含着这个假设：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;文采、故事和风格不如以前，就是退步，是可耻的。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这意味着在我潜意识里，&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;应用一项技能时的表现（performance），随着练习（使用）时长线性增长才是正常的；哪怕有平台期，那也只是止步不前而不应该出现退步。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;但真的是这样吗？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;虽然没找到确证的研究结论，但靠常识审视这个假设，我也相信大概率是错的。好些创作者不都是这样么，一部好作品问世，之后的作品久久难以企及；如果就此放弃，而非笔耕不辍，便不可能迎来下一部好作品。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;那应用一项技能时的表现（performance），和练习（使用）时长的关系&lt;/strong&gt;是怎样的？&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;在以科学的方法刻意练习（deliberate practice）的前提下&lt;/strong&gt;，现在我更倾向&lt;strong&gt;它们类似交易市场中的指数基金价格曲线——在波动中缓慢上扬，很久以后，才会看出复利曲线。甚至还会出现类似指数基金价格曲线中的周期现象，牛熊交替，牛短熊长&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/clipping/s%26p500.png&quot; alt=&quot;s&amp;amp;p500.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;此外，&lt;strong&gt;评估是否「退步」，其实是需要看相对于什么参考系来说的&lt;/strong&gt;。如果比较文采、故事和风格，现在的确不如以前。但&lt;strong&gt;如果放在上面那波动上扬的复利曲线中来看，其实只要还在用科学的方法继续投入，没有离场，无论一时表现（performance）如何，都是在往前走，是在跨越必经之路，是在进步&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;好的，又一个重大心结至此解开。随着这些基础假设和底层认知的修正，我输出博文的意愿又上升不少。&lt;/p&gt;
+
+&lt;p&gt;这些反思也令我愈发体会到，&lt;strong&gt;正确认识事物发展的客观规律、选对参考系、保持长期和动态的视角，对于决策来说有多重要&lt;/strong&gt;。以及&lt;strong&gt;感觉现状未达预期时，先暂缓评判和情绪，审慎检视自己的感觉来源及隐含假设、认真复盘，对于找到根因和行动策略有多必要&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;h3 id=&quot;2-随着个人大目标逐步清晰意识到持续输出很关键重视程度继续提升并摸索机制促进自己持续输出&quot;&gt;2. 随着个人大目标逐步清晰，意识到「持续输出」很关键，重视程度继续提升，并摸索机制促进自己持续输出&lt;/h3&gt;
+
+&lt;p&gt;随着个人大目标逐步清晰，我意识到能否持续输出，是接下来继续往前走的下一个最大风险，重视程度提升，开始把精力主要放在这块。&lt;/p&gt;
+
+&lt;p&gt;在随后复盘中，意识到到输出还比较磨蹭，有两个主要卡点：一是没有想清楚某个主题的写作目的，导致没能紧抓重点，想写的东西太多。再是的确好些想法还没捋清楚。&lt;/p&gt;
+
+&lt;p&gt;于是&lt;a href=&quot;https://ishanshan.im/community/selfedu/info_facilitate_output&quot;&gt;发起线上定期交流小组「输出实验室」&lt;/a&gt;，降低分享想法的门槛，同时借助交流梳理思路、补充视角、打开盲区，让自己更了解用户视角、获得更多灵感，也激发更多表达欲望。&lt;/p&gt;
+
+&lt;h3 id=&quot;3-有外部-trigger-倒逼我迅速交付一个可用版本&quot;&gt;3. 有外部 trigger ，倒逼我迅速交付一个可用版本&lt;/h3&gt;
+
+&lt;p&gt;回看输出的这 4 篇博文，发觉输出他们时都有个共同点——正好有外部 trigger，且是&lt;strong&gt;有特定时间节点要求和明确的目标用户&lt;/strong&gt;，倒逼我先快速交付一个可用版本：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ishanshan.im/selfedu/tool/ReviewFacialGrowth&quot;&gt;《我如何成为换头最快的1%？- 过去8个月的面容调整复盘》&lt;/a&gt;：这篇当时是需要在一个课程群里进行主题分享，所以迅速产出了一个可用版本。在群里分享的过程，涌现不少灵感，也收到好些提问，随后又慢改了两天逐步成型。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ishanshan.im/community/selfedu/info_facilitate_output&quot;&gt;《「输出实验室」玩法介绍&amp;amp;报名入口（长期有效）》&lt;/a&gt;：那会儿是还有几天就要结束一周的线上交流小组实验，我希望能顺畅接上新一轮招募，所以迅速根据头几天收到的疑议，产出一个可讨论的最小版本。随后几天每天都提到小组例会上征求反馈，由此陆续迭代完善的。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ishanshan.im/tool/selfedu/ebp_happiness&quot;&gt;《这座线上心理健身房，你，值得拥有》&lt;/a&gt;：这篇文章其实酝酿了两三周，但几次动笔都没啥进展，半天写不出个啥。随着新一期行动营又要开始，一想到如果再不发出，估计就要再拖一个月才能让我周围有更多释放更大潜力、创造更大价值、人生更加幸福的朋友，就感觉不能再拖了，便赶紧把过往卡片整理了一下，先梳理出一篇可看的，以便更多伙伴能早点获得如此优质的服务开始练习。分享到朋友圈后，很快收到朋友咨询，又根据收到的提问迅速迭代成型的。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ishanshan.im/tool/infoq_projectmanagement_pre&quot;&gt;《启动新项目，如何设定项目目标？- 项目需求采集问题清单》&lt;/a&gt;：这篇也很巧，是朋友准备启动新项目，来取经时问到如何设定这类项目的目标。所以我赶紧花了半小时整理出一个最小可用版本分享出来，然后再逐步迭代出来的。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;嗯，看来还是需要借助一些外力。&lt;/p&gt;
+
+&lt;p&gt;正好借此吆喝一下：&lt;/p&gt;
+
+&lt;p&gt;谢谢你耐心看到这里。&lt;strong&gt;如果有想和我交流探讨的，尤其&lt;a href=&quot;https://ishanshan.im/about/&quot;&gt;我个人介绍页面&lt;/a&gt;里所列关键词的相关问题，都欢迎勾搭，帮我创造机会倒逼我多多输出哇：D&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;失败根本原因&quot;&gt;失败根本原因&lt;/h1&gt;
+
+&lt;h2 id=&quot;ll1-生活节律依然不够健康早上状态不佳&quot;&gt;LL1. 生活节律依然不够健康、早上状态不佳&lt;/h2&gt;
+
+&lt;p&gt;最近一般近 12 点睡，早上 7 点左右起。早上的精神不太好，午休之后才精神能饱满投入高强度脑力工作。&lt;/p&gt;
+
+&lt;p&gt;根因：&lt;/p&gt;
+
+&lt;p&gt;推测主要是意愿不足。毕竟科学研究表明，早睡晚睡不是关键，关键是休息时长足够、节律稳定。所以潜意识里觉得其实不调整，也还 OK，毕竟晚上也在做高强度脑力工作，相当于把精神饱满的时段后移。且也有午休，补上睡眠时长。总之目前调整作息的动力不足。&lt;/p&gt;
+
+&lt;p&gt;但我其实又还是希望能在白天饱满工作，晚上做些放松的事情，这更匹配我期待的生活状态。&lt;/p&gt;
+
+&lt;p&gt;那接下来或许可以尝试增加早起对自己的吸引力：比如找早起的朋友聊聊，看看是什么吸引他们一定要早起，增强自己的意愿。以及列列最近还不甚满意的地方，看看哪些可以通过早起解决。&lt;/p&gt;
+
+&lt;h2 id=&quot;ll2-输出速度还有较大提升空间新博文发布数量也较少发布频率也未达预期期待是-2-3-天篇现在是-5-7天篇&quot;&gt;LL2. 输出速度还有较大提升空间，新博文发布数量也较少，发布频率也未达预期（期待是 2-3 天/篇，现在是 5-7天/篇）&lt;/h2&gt;
+
+&lt;p&gt;根因：&lt;/p&gt;
+
+&lt;p&gt;意愿和能力都有不足，接下来展开说说。&lt;/p&gt;
+
+&lt;h3 id=&quot;1-意愿不足主要源于侥幸心理及高估自己没有认真梳理决策逻辑&quot;&gt;1. 意愿不足，主要源于侥幸心理及高估自己，没有认真梳理决策逻辑&lt;/h3&gt;
+
+&lt;p&gt;坦白说当时我只是直觉反应，接下来往前走的下一个最大风险，是「能否持续输出」。&lt;/p&gt;
+
+&lt;p&gt;因为持续输出高质量内容，这是我想继续往前走，迟早要迈过去的大坎。而起步阶段，先能持续输出，对我来说更重要。因为 &lt;strong&gt;有效实验频次=迭代速度=学习速度=找到满意解的概率&lt;/strong&gt; ，考虑到我目前进行有效实验和复盘的水平，那提升输出速度，对我来说就相当于提升有效实验的频次；如此，输出质量迟早提升。而我输出又比较磨蹭，加上前文所列思考，所以当前应把重点先放到提升输出速度上。&lt;/p&gt;
+
+&lt;p&gt;但接下来几周的事实表明，如果只有上述想法，还远不足以激发出足够我达成目标的行动意愿。&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;于是这几天复盘时，尝试从头认真梳理，思考这个关键问题：&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;现阶段对于我来说最重要的是什么？&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这个问题其实是在思考现阶段目标。至于&lt;strong&gt;如何找到好目标&lt;/strong&gt;，自然延用上一段职业生涯中习得的方法，屡试不爽：&lt;strong&gt;全局分析、寻找投入产出比最高的发力点&lt;/strong&gt;——&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;先思考终态：我的大目标是什么，我想过怎样的生活？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;这在几周前正好梳理过——健康自在 自信从容的幸福生活，并帮助有需要的伙伴，也过上这样的生活。具体见（待增补）。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;然后看现状：现在现状是怎样的？最大的差距在哪里？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;我已经开始探索，并发现了一些效果不错的工具方法，越来越靠近「健康自在 自信从容」的状态。也在把这些工具方法、使用的经验教训陆续整理出来供有需要的伙伴参考。写作习惯对我来说已有，只是输出成稿很慢。同时还在尝试通过口头交流的方式，比如线上小组碰头、单约吃饭交流，促进自己梳理思路、分享想法。&lt;/p&gt;
+
+&lt;p&gt;最大的差距有以下几点：&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;很多实践和经验教训还没分享出来，目前影响的人也有限，程度和范围都有限。&lt;/li&gt;
+  &lt;li&gt;把一份时间卖出多次的探索刚开始，还远没到能稳定保证我生活质量不下降的程度。&lt;/li&gt;
+  &lt;li&gt;也没做出让用户喜欢且愿意持续使用的产品（虽然有几篇博文各有至少 5 位读者主动和我说这几年他们一直不时翻看，但这毕竟还没形成商业价值，暂且先不列在内吧）。&lt;/li&gt;
+  &lt;li&gt;还没有伴侣，更别说孩子。。。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;最后找解法并评估：接下来投入产出比最高的发力点是？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;思来想去，发现对我来说，接下来投入产出比最高的发力点，还是「提升输出速度」。因为这个点足够小，却对缩小上述差距都有促进作用：&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;能更快地把探索「健康自在 自信从容」生活的经验教训、有效的工具方法分享出来，连接到更多同行者，相伴前行；也助更多伙伴少走弯路——这本就是我的理想生活的一部分。&lt;/li&gt;
+  &lt;li&gt;输出的内容越多，尤其是把思考写下来，越能促进自己梳理思路，未来复盘时也有更多可回溯的材料，从而更深刻复盘、更快进步。与此同时，披露的信息越多，尤其是披露自己的成败得失、变化和反思，还能给读者更多信息来评估我是否值得信任，进而提升增进信任的概率。而信息与信任，是商业大厦的基石。且随着自己不断进步，会逐步形成专业印象——这是说服的关键啊。总之很有助于我进入把一份时间卖出多次的状态。&lt;/li&gt;
+  &lt;li&gt;输出速度提升后，进行有效实验的频次也能增加。这很有助于我理解用户、进而输出更能解决用户需求的作品，也为之后做出用户喜爱且可持续发展的产品打下基础。&lt;/li&gt;
+  &lt;li&gt;基于上述，披露的信息越多、连接的伙伴越多，还能有助于遇到合适的伴侣哈哈哈。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;总之，越分析越意识到「提升输出速度」这个发力点，会助于全方位促我靠近理想生活，也让我更想提升输出速度。&lt;/p&gt;
+
+&lt;p&gt;更令人欣喜的是，把这些逻辑捋出来后，我不仅行动意愿增强，行动思路也拓宽了——&lt;/p&gt;
+
+&lt;p&gt;和「从容自信」这个方向相关的工具方法，其实不只涉及积极心理学领域；是否用可靠的方法决策和行动，也很影响我们能否「自信从容」。虽然这方面我还在持续探索，但也值得把至今练习实践的行动反思分享出来。而这正好过往已有不少素材，无论是以往周报，还是未发布的卡片。&lt;/p&gt;
+
+&lt;p&gt;开心，这下不仅选题范围拓宽，成稿速度也能加快：D&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;再进一步，&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;为什么我没能早点想到这些？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;侥幸心理及高估自己&lt;/strong&gt;。只是直觉该干，就先干了，并没有把决策思考落到纸面，也没有认真全局分析找投入产出比最大的机会点，辨析当前发力重点。&lt;/p&gt;
+
+&lt;p&gt;实际上，&lt;strong&gt;我的直觉不够可靠，还是需要把想法落到纸面、以可靠的框架落到纸面，才好提升行动意愿&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;好在现在复盘发现了并调整了行动，还不算晚。这也让我更体会到，高频复盘的益处和必要。&lt;/p&gt;
+
+&lt;h3 id=&quot;2-能力上在以下方面还有欠缺影响输出速度&quot;&gt;2. 能力上，在以下方面还有欠缺，影响输出速度：&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;一是对用户理解不足，想写的东西太多，难以马上紧住重点。再是的确好些想法还没捋清楚。&lt;/p&gt;
+
+    &lt;p&gt;这个已在尝试组建定期的线上交流小组来解决，正在逐步改善中。&lt;/p&gt;
+
+    &lt;p&gt;此外，慢改时需注意每次先把最需要改的地方列出，先改最必要的形成最小可发布的版本，发布出来。更快借助外部力量促进自己修改。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;启动时间长，磨蹭着不愿意进入写作状态。&lt;/p&gt;
+
+    &lt;p&gt;打算陆续尝试其他作者分享的方法，找到适合自己的。比如通过心算热启动，以及把日常创作时间固定下来，到点就写等。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;每天的有效工作时间不够长&lt;/p&gt;
+
+    &lt;p&gt;现在早上精神状态不佳，基本都浪费掉了。啊，调整作息的动力强了一些。&lt;/p&gt;
+
+    &lt;p&gt;打算开始做：&lt;/p&gt;
+    &lt;ol&gt;
+      &lt;li&gt;在 21:30 线上小组碰头前，把睡前其它工作都做了，争取会议结束能直接入睡。&lt;/li&gt;
+      &lt;li&gt;缩短午休时长，从一小时调整回半小时，避免晚上迟迟不困。&lt;/li&gt;
+      &lt;li&gt;白天困倦时，除正念冥想外，尝试借助咖啡。&lt;/li&gt;
+    &lt;/ol&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h1 id=&quot;规律总结和行动举措&quot;&gt;规律总结和行动举措&lt;/h1&gt;
+
+&lt;h2 id=&quot;规律总结&quot;&gt;规律总结&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;如果想减少实际情况和自己预期不符的情况，值得且需要持续练习提升以下方面；如果遇到现实不及预期的情况，也可检视以下哪些方面有欠缺（这些方面相互之间也有联系，但我还没捋清楚。如果你有想法，欢迎告诉我哇）：
+    &lt;ul&gt;
+      &lt;li&gt;正确认识这个世界运行和发展的客观规律，尤其反常识的规律&lt;/li&gt;
+      &lt;li&gt;全局 长期 动态 本质 系统思考的能力&lt;/li&gt;
+      &lt;li&gt;抓重点（全局分析找投入产出比最大的机会点）&lt;/li&gt;
+      &lt;li&gt;理清人生大目标、找到当下和大目标的关联&lt;/li&gt;
+      &lt;li&gt;客观评价事物、看待自己及他人的状态和所处位置&lt;/li&gt;
+      &lt;li&gt;高频复盘（定期复盘+及时复盘——发现现实和预期不符时就复盘），认真复盘（深挖并检视隐含假设）&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;学习一项新技能时，尽量保障自己做到以下几点：
+    &lt;ul&gt;
+      &lt;li&gt;多接触精通这项技能的朋友&lt;/li&gt;
+      &lt;li&gt;了解这项技能的进阶标准&lt;/li&gt;
+      &lt;li&gt;加入相关实践社区&lt;/li&gt;
+      &lt;li&gt;记录分享练习感想收获&lt;/li&gt;
+      &lt;li&gt;借助外力促进自己度过新手区&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;要想客观评价事物、看待自己及他人的状态和所处位置，离不开选对参考系（情境、目标可比）、正确认识事物发展的客观规律、保持全局长期动态本质的视角。这些也对决策质量至关重要。&lt;/li&gt;
+  &lt;li&gt;在成长的路上，感到表现（performance）或收获不如之前也不必难过，因为投入和表现或收获的关系，肯定不是线性的，很可能是波动上扬的复利曲线。甚至出现指数基金价格曲线中的周期现象，牛熊交替，牛短熊长。如此，其实只要还在用科学的方法继续投入，没有离场，无论一时表现或收获如何，都是在往前走，是在跨越必经之路，是在进步。&lt;/li&gt;
+  &lt;li&gt;「自律、不拖延」，是我们的追求，但这其实偏滞后指标。相较之下，「理清人生大目标、找到当下和大目标的关联」则是领先指标——理清人生大目标，并找到当下和大目标的关联，很多事情就对我们有吸引力，然后我们自然就去做，变得自律、不拖延了。&lt;/li&gt;
+  &lt;li&gt;如果有可能借助外力，还是借助一下。尤其如果想让自己迅速做某事，可以主动创造一些外部 trigger ，增进行动意愿。（写到这里我也更理解为什么 &lt;code class=&quot;highlighter-rouge&quot;&gt;Behavior=Motivation*Ability*Trigger&lt;/code&gt; 这个上瘾模型里，把 Trigger 专门拎出来）&lt;/li&gt;
+  &lt;li&gt;直觉可以让我们缩短决策时长、快速行动起来。但如果想让行动坚定且持续，最好还是把决策逻辑写下来。抱侥幸心理，迟早会吃亏。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;行动举措&quot;&gt;行动举措&lt;/h2&gt;
+
+&lt;p&gt;除了上面所列，还有这些行动值得特别列出来叫自己留意：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;继续保持：感到现状未达预期时，如果想找到根因和有效的行动策略，注意先暂缓评判和情绪，尽快审慎检视自己的感觉来源及隐含假设。&lt;/li&gt;
+  &lt;li&gt;开始做：
+    &lt;ul&gt;
+      &lt;li&gt;提请周围伙伴如果有想和我交流探讨的，尤其我个人介绍页面里所列关键词的相关问题，都欢迎勾搭，帮我创造机会倒逼我多多输出：D&lt;/li&gt;
+      &lt;li&gt;摸索轻快复盘并分享出来的办法，促进反思也增进信任。&lt;/li&gt;
+      &lt;li&gt;调整作息，近期先调整到 11 点能睡。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;下个周期的目标和规划&quot;&gt;下个周期的目标和规划&lt;/h1&gt;
+
+&lt;p&gt;发力重点是提升输出速度，并让「输出实验室」初步进入良性运转。&lt;/p&gt;
+
+&lt;p&gt;具体见&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.qq.com/doc/DVWlSYW53c1dtanB4&quot;&gt;个人输出规划_M4_闪闪&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.qq.com/doc/DVWZER1lLa1V0c0dh&quot;&gt;轮值主持人训练规划_输出实验室&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;学习与成长&quot;&gt;学习与成长&lt;/h1&gt;
+
+&lt;p&gt;（待增补）&lt;/p&gt;
+
+&lt;h1 id=&quot;changelog&quot;&gt;CHANGELOG&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;210417 更新 HL1&amp;amp;2 的根因  20h&lt;/li&gt;
+  &lt;li&gt;210406~13 陆续复盘反思、增补迭代 40h 后，整理到博客上&lt;/li&gt;
+  &lt;li&gt;210405 梳理初稿 6h&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;footnotes&quot;&gt;footnotes&lt;/h1&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;联想经典复盘模板，是指联想公司的复盘模板。使用要点和案例，可参见这份幻灯 &lt;a href=&quot;https://docs.qq.com/slide/DZnpaeG5xUlNwQlZN&quot;&gt;如何做出好复盘-m9w1 周会&lt;/a&gt; 。&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot;&gt;
+      &lt;p&gt;指 2018 年我刻意练习写作技能的两篇文章：&lt;a href=&quot;https://ishanshan.im/murmur/Letter2XY4Year2017.html&quot;&gt;《谢谢你给她的时光》&lt;/a&gt; 和 &lt;a href=&quot;https://ishanshan.im/selfedu/Review2017LunarCalendar.html&quot;&gt;《你丁酉年的故事》&lt;/a&gt; 。&amp;nbsp;&lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">前几周和师友交流，我更体会到，应该及时复盘及时闭环，促进自己进入增强回路。 正好 gap 也两个月了，是时候整体盘点并汇报一下进展和经验教训，以便获得更多反馈，及时调整行动，也方便有需要的伙伴参考。所以无论你有任何疑问建议，都欢迎随时和我交流，也促进我完善想法：D</summary></entry><entry><title type="html">启动新项目，如何设定项目目标？| 项目需求采集问题清单</title><link href="http://localhost:4000/tool/infoq_projectmanagement_pre" rel="alternate" type="text/html" title="启动新项目，如何设定项目目标？| 项目需求采集问题清单" /><published>2021-04-08T00:00:00+08:00</published><updated>2021-04-08T00:00:00+08:00</updated><id>http://localhost:4000/tool/infoq_projectmanagement_pre</id><content type="html" xml:base="http://localhost:4000/tool/infoq_projectmanagement_pre">&lt;p&gt;对于项目管理来说，搞清楚干系人（&lt;a href=&quot;https://opentextbc.ca/projectmanagement/chapter/chapter-5-project-stakeholders-project-management/&quot;&gt;stakeholders&lt;/a&gt;）的需求、预期至关重要，事关项目成败。就如做产品，如果没搞清楚用户是谁、用户需求是什么，就根据自己的臆想开干，你觉得做出用户喜爱的产品概率有多大？&lt;/p&gt;
+
+&lt;p&gt;作为项目经理时，我一般会在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、对于项目管理四要素（时间质量成本范围）的期待、关于风险的提醒建议等信息，同时快速研究业界同类项目的优秀实践，然后形成项目OKR、初步规划，快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期。&lt;/p&gt;
 
 &lt;h2 id=&quot;访谈问题清单&quot;&gt;访谈问题清单&lt;/h2&gt;
 
@@ -24,10 +543,13 @@
   &lt;/li&gt;
   &lt;li&gt;关于&lt;strong&gt;项目范围&lt;/strong&gt;：你觉得怎样算是这个项目结束了——
     &lt;ul&gt;
-      &lt;li&gt;比如经营管理层及干部层面，对 战略达成共识？&lt;/li&gt;
-      &lt;li&gt;全员对于战略的反馈呈现出来？&lt;/li&gt;
-      &lt;li&gt;根据战略调整完组织架构？&lt;/li&gt;
-      &lt;li&gt;关键干系人对这个项目的复盘完成？&lt;/li&gt;
+      &lt;li&gt;比如经营管理层及干部层面，对 战略达成共识？
+        &lt;ul&gt;
+          &lt;li&gt;全员对于战略的反馈呈现出来？&lt;/li&gt;
+          &lt;li&gt;根据战略调整完组织架构？&lt;/li&gt;
+          &lt;li&gt;关键干系人对这个项目的复盘完成？&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
       &lt;li&gt;或是时间优先：在某个日期前，尽力做到最好即可；接受有损，不要加时？&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -42,8 +564,7 @@
     &lt;ul&gt;
       &lt;li&gt;对于你的角色来说，在这轮迭代战略上，你觉得花多少小时合适？你能接受的上限是？&lt;/li&gt;
       &lt;li&gt;对于 其他角色呢？&lt;/li&gt;
-      &lt;li&gt;你觉得这个项目，最好什么时候结束？&lt;/li&gt;
-      &lt;li&gt;最晚什么时候结束，是你能接受的底线？&lt;/li&gt;
+      &lt;li&gt;你觉得这个项目，最好什么时候结束？最晚什么时候结束，是你能接受的底线？&lt;/li&gt;
       &lt;li&gt;我们能否引入外部咨询公司或顾问？预算范围是？&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
@@ -58,23 +579,26 @@
     &lt;ol&gt;
       &lt;li&gt;访谈前，我一般会把这个问题清单提前发给对方，以便对方提前了解和酝酿。但现场访谈时，不一定完全按顺序来，但会确保每个要素都能采集到。&lt;/li&gt;
       &lt;li&gt;访谈后，注意及时小结要点发给对方确认，避免理解偏差。&lt;/li&gt;
-      &lt;li&gt;采集到预期后，使用 OKR 来对齐预期比较省力。关于如何设定优质 OKR ，可参考我在小年糕时梳理的这份新人培训材料 &lt;a href=&quot;https://docs.qq.com/slide/DVXlMWnlFcUdnck96&quot;&gt;「目标管理 OKR」幻灯 V2.0&lt;/a&gt;。&lt;/li&gt;
+      &lt;li&gt;把干系人预期都采集到后，使用 OKR 来多边对齐预期比较省力。关于如何设定优质 OKR ，我在小年糕时梳理的这份新人培训材料里有梳理，供参考 &lt;a href=&quot;https://docs.qq.com/slide/DVXlMWnlFcUdnck96&quot;&gt;「目标管理 OKR」幻灯 V2.0&lt;/a&gt;。&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
   &lt;li&gt;其它：
     &lt;ol&gt;
-      &lt;li&gt;随着项目推进，关键干系人可能会有变化，尤其进入新的项目阶段时。请注意根据项目进展及时盘点名单，并持续关注他们的需求变化、做好预期管理。&lt;/li&gt;
-      &lt;li&gt;如果是你个人发起的项目，基本不涉及他人，也可以用这个问题清单来帮助自己梳理目标和规划。&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;随着项目推进，关键干系人可能会有变化，尤其进入新的项目阶段时&lt;/strong&gt;。请注意根据项目进展及时盘点名单，并持续关注他们的需求变化、做好预期管理。&lt;/li&gt;
+      &lt;li&gt;如果项目是你个人的、不涉及其他人，也可以用这个问题清单梳理目标和规划。&lt;/li&gt;
+      &lt;li&gt;更多关于项目管理和协作的实践经验、模板，可到这个 GitHub 仓库挖掘： &lt;a href=&quot;https://github.com/ishanshan/CollaborationGuide4Shaper&quot;&gt;ishanshan/CollaborationGuide4Shaper: For shaper, by shaper, help you be a shaper 🌱&lt;/a&gt; 。&lt;/li&gt;
     &lt;/ol&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
+
+&lt;p&gt;如果你有疑问、建议等任何反馈，欢迎留言告诉我，一起完善迭代这个问题清单：D&lt;/p&gt;
 
 &lt;h2 id=&quot;changelog&quot;&gt;CHANGELOG&lt;/h2&gt;
 
 &lt;ul&gt;
   &lt;li&gt;210408 增补注意事项，迁移到博客 1h&lt;/li&gt;
   &lt;li&gt;210407 从 WorkFlowy 整理到仓库里 1h&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">对于项目管理来说，搞清楚干系人（stakeholders）的需求、预期至关重要，事关项目成败。 作为项目经理时，我一般会在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、关于时间质量成本范围的期待、对于风险的提醒建议等信息，形成项目OKR、初步规划，然后快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期。 访谈问题清单 以下是项目启动初期，我常用的访谈问题清单，供参考（这是「战略迭代项目」的版本，你把相关内容换成自己项目的即可）：</summary></entry><entry><title type="html">这座线上心理健身房，你，值得拥有</title><link href="http://localhost:4000/tool/selfedu/ebp_happiness" rel="alternate" type="text/html" title="这座线上心理健身房，你，值得拥有" /><published>2021-04-03T00:00:00+08:00</published><updated>2021-04-03T00:00:00+08:00</updated><id>http://localhost:4000/tool/selfedu/ebp_happiness</id><content type="html" xml:base="http://localhost:4000/tool/selfedu/ebp_happiness">&lt;p&gt;这两个月我个人状态发生了些自己特别欣喜的变化——&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">对于项目管理来说，搞清楚干系人（stakeholders）的需求、预期至关重要，事关项目成败。就如做产品，如果没搞清楚用户是谁、用户需求是什么，就根据自己的臆想开干，你觉得做出用户喜爱的产品概率有多大？ 作为项目经理时，我一般会在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、对于项目管理四要素（时间质量成本范围）的期待、关于风险的提醒建议等信息，同时快速研究业界同类项目的优秀实践，然后形成项目OKR、初步规划，快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期。 访谈问题清单 以下是项目启动初期，我常用的访谈问题清单，供参考（这是「战略迭代项目」的版本，你把相关内容换成自己项目的即可）：</summary></entry><entry><title type="html">这座线上心理健身房，你，值得拥有</title><link href="http://localhost:4000/tool/selfedu/ebp_happiness" rel="alternate" type="text/html" title="这座线上心理健身房，你，值得拥有" /><published>2021-04-03T00:00:00+08:00</published><updated>2021-04-03T00:00:00+08:00</updated><id>http://localhost:4000/tool/selfedu/ebp_happiness</id><content type="html" xml:base="http://localhost:4000/tool/selfedu/ebp_happiness">&lt;p&gt;这两个月我个人状态发生了些自己特别欣喜的变化——&lt;/p&gt;
 &lt;ol&gt;
   &lt;li&gt;&lt;strong&gt;更清楚自己想要怎样的生活，也慢慢找回热望，逐步回到充满干劲和希望的状态&lt;/strong&gt;。&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;更清楚哪些事情会让自己更易开心、幸福，也更能接纳自己、品味生活、发现乐趣&lt;/strong&gt;。&lt;/li&gt;
@@ -292,12 +816,11 @@
 
 &lt;h2 id=&quot;线上碰头会议流程&quot;&gt;线上碰头会议流程：&lt;/h2&gt;
 
-&lt;h3 id=&quot;进展同步每人最多90秒简要分享上期进展风险下期目标---7mins&quot;&gt;【进展同步】每人最多90秒，简要分享上期进展、风险、下期目标 - 7mins&lt;/h3&gt;
+&lt;h3 id=&quot;进展同步交流各人输出目标的进展风险下期目标---7mins&quot;&gt;【进展同步】交流各人输出目标的进展、风险、下期目标 - 7mins&lt;/h3&gt;
 &lt;ul&gt;
-  &lt;li&gt;原则：快速更新，&lt;strong&gt;突出重点&lt;/strong&gt;。积极倾听，不清楚就问。&lt;/li&gt;
-  &lt;li&gt;这个环节主要是对自己的梳理，&lt;strong&gt;过程欢迎简单回应和澄清，但不讨论&lt;/strong&gt;。有想展开讨论的，可先自行记下，放到「议题讨论」环节处理。&lt;/li&gt;
-  &lt;li&gt;建议&lt;strong&gt;分享进展前，先用 1-2 句话简单分享当下心情、状态&lt;/strong&gt;，用这个小仪式助自己把注意力收拢到本次会议，也促进彼此相互了解。&lt;/li&gt;
-  &lt;li&gt;未来看情况可能尝试文字更新进展，现场主要用于澄清。&lt;/li&gt;
+  &lt;li&gt;原则：快速更新，&lt;strong&gt;突出重点&lt;/strong&gt;。积极探寻，互帮互助。&lt;/li&gt;
+  &lt;li&gt;这个环节主要是对自己的梳理，&lt;strong&gt;过程欢迎简单回应和澄清，而且是围绕更好地帮助彼此达成目标的提问澄清和反馈，但不讨论&lt;/strong&gt;。有想展开讨论的，可先自行记下，放到「议题讨论」环节处理。&lt;/li&gt;
+  &lt;li&gt;建议在会前抽 5-10 分钟，把内容更新到会议文档里，现场主要用于默读和澄清。&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;议题讨论依次处理各自的需求如交流收获困惑所需支持等---20mins&quot;&gt;【议题讨论】依次处理各自的需求，如交流收获/困惑/所需支持等 - 20mins&lt;/h3&gt;
@@ -515,6 +1038,7 @@
 &lt;h1 id=&quot;changelog&quot;&gt;CHANGELOG&lt;/h1&gt;
 
 &lt;ul&gt;
+  &lt;li&gt;210414 根据近期实践迭代「进展同步」的规则&lt;/li&gt;
   &lt;li&gt;210407 增补「一次只处理一个议题，专注于满足议题提出者的需求」的出处&lt;/li&gt;
   &lt;li&gt;210402 根据新一轮反馈迭代完善，让新读者也易把握要点；增补正式报名表 2.5h&lt;/li&gt;
   &lt;li&gt;210401 根据反馈迭代完善 6h&lt;/li&gt;
@@ -759,7 +1283,7 @@
     &lt;ul&gt;
       &lt;li&gt;其实本来没想推荐这个课程，因为觉得关键点就是舌头姿势(tounge posture)，B站上也有不少视频。但这几天看了一圈中文世界的材料，发现一般只讲顶上颚，很少讲吞咽，而且内容单薄、零散，好些注意事项都没讲。所以还是推荐一下，何况只要不到 300 块——相较你和亲友能省下的正畸或整形钱，这投资真是太值了。点&lt;a href=&quot;http://ishanshan.zoomquiet.top/share/qr_mewing_discount.png&quot;&gt;这里&lt;/a&gt;还可以领 10 元优惠券。&lt;/li&gt;
       &lt;li&gt;当初我是先看了公众号的文章，然后报了课以更系统了解，再全网查不同声音来评估这套理论的可靠程度。课程有 50 节，但别被吓到，每节也就几分钟，当时我集中精力一个早上就倍速看完了。&lt;/li&gt;
-      &lt;li&gt;如果你从上述链接购买，我会获得自带的推广奖励。所以如果你觉得分享的内容对你有帮助，欢迎从上述链接报名，算是对我继续分享实践反思的鼓励：）&lt;/li&gt;
+      &lt;li&gt;如果你从上述链接购买，我会获得老学员自带的推广奖励。所以如果你觉得分享的内容对你有帮助，欢迎从上述链接报名，算是对我继续分享实践反思的鼓励：）&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
 &lt;/ol&gt;
@@ -802,11 +1326,15 @@
   &lt;/ol&gt;
 &lt;/div&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">愿你我都长出基因里 最健康最美的样子 过去大半年，我发生了一些肉眼可见的可喜变化。 嗯，真的是肉眼可见。虽然发出来过往照片很毁形象，但无图无真相，为了让你直观感受，还是上图看一下：</summary></entry><entry><title type="html">由“拥抱变化”引发的羞愧和反思</title><link href="http://localhost:4000/selfedu/murmur/TipsEmbraceChange" rel="alternate" type="text/html" title="由“拥抱变化”引发的羞愧和反思" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/murmur/TipsEmbraceChange</id><content type="html" xml:base="http://localhost:4000/selfedu/murmur/TipsEmbraceChange">&lt;p&gt;&lt;strong&gt;“拥抱变化”&lt;/strong&gt;，是不少公司的价值观。之前我只理解为心态开放地面对变化，最近越发意识到，这其实&lt;strong&gt;不只关乎心态、意愿（commitment），更关乎能力（competence）&lt;/strong&gt;——如果只是有意愿迎接变化，将远难“拥抱变化”。毕竟欠了拥抱变化的能力，面对变化极易遇挫，长此以往，难免磨去意愿。&lt;/p&gt;
 
-&lt;p&gt;那再进一步，“拥抱变化的能力”是啥？&lt;!-- more --&gt; 依我之见，这非单一技能，而是一套技能集（a set of skills）：&lt;strong&gt;包括可靠的资源协调能力，或能积累厚实的社会/文化/经济资本，而能触及很多资源；以及足够的认知带宽，从容关注海量信息，并能敏锐地识别出来有价值的信号；然后能全局长期动态本质系统思考，高效决策更有利于达成大目标的下一步行动&lt;/strong&gt;。如此，当变化来临时，才有更多主动权，甚至主导变化。&lt;/p&gt;
+&lt;p&gt;那再进一步，“拥抱变化的能力”是啥？&lt;!-- more --&gt; 在我看来，这非单一技能，而是一套技能集（a set of skills）：&lt;strong&gt;包括可靠的资源协调能力，或能积累厚实的社会/文化/经济资本，从而触及很多资源；以及足够的认知带宽，从容关注海量信息，并能敏锐地识别出来有价值的信号；然后能全局长期动态本质系统思考，高效决策更有利于达成大目标的下一步行动&lt;/strong&gt;。如此，当变化来临时，才有更多主动权，甚至主导变化。&lt;/p&gt;
 
-&lt;p&gt;意识到这些后，感觉挺羞愧的——刚工作那会儿，我们常开老大玩笑，给他封号“坑王”，戏说他变化太快，总在给我们挖坑，我们要快速跟上去填坑。现在才知道，那样被动的体感，其实不是因为他多变，而是我俩段位相差悬殊——无论资源协调能力、社会/文化/经济资本、能触及的资源，或是认知带宽、信息处理效率，还是系统思考能力，他都比我强太多。假如我和他段位接近、能同时做出类似决策，想必不会感到自己总在被动变化、需费劲跟上变化。&lt;/p&gt;
+&lt;p&gt;意识到这些后，感觉挺羞愧的——&lt;/p&gt;
 
-&lt;p&gt;这也让我想起海波聊过的细节：任何时候要给王鹏和崔老师压担子、加任务，都加得下去。当时我只感觉他们好强，但不清楚哪里强。现在想来，和他们拥抱变化的能力密切相关吧——差不多同时和关键干系人识别到了同样的信号，并有意识或无意识地开始做准备。待关键干系人提出变化，他们的准备度（Performance Readiness）正好基本匹配：）&lt;/p&gt;
+&lt;p&gt;刚工作那会儿，我们常开老大玩笑，给他封号“坑王”，戏说他变化太快，总在给我们挖坑，我们要快速跟上去填坑。现在才知道，那样被动的体感，其实不是因为他多变，而是我俩段位相差悬殊——无论资源协调能力、社会/文化/经济资本、能触及的资源，或是认知带宽、信息处理效率，还是系统思考能力，他都比我强太多。假如我和他段位接近、能同时做出类似决策，想必不会感到自己总在被动变化、需费劲跟上变化。&lt;/p&gt;
+
+&lt;p&gt;这也让我想起海波聊过的细节：任何时候要给王鹏和崔老师压担子、加任务，都加得下去。当时我只感觉他们好强，但不清楚哪里强。现在想来，和他们拥抱变化的能力密切相关吧——&lt;/p&gt;
+
+&lt;p&gt;差不多同时和关键干系人（key stakeholders）识别到了同样的信号，并有意识或无意识地开始做准备。待关键干系人提出变化，他们的准备度（Performance Readiness）正好基本匹配：）&lt;/p&gt;
 
 &lt;p&gt;越想越佩服，也由此打算以后&lt;strong&gt;多加练习这个习惯：遇到关键干系人提出变化，不再产生抗拒，而是把这当作提升机会，主动了解对方决策逻辑——比如是从哪些信息识别出了怎样的信号、如何分析出要做这个变化&lt;/strong&gt;。如此这般，找出自己忽略或薄弱之处并加以练习，争取能和关键干系人同频，甚至引领变化 ;-)&lt;/p&gt;
 
@@ -1339,334 +1867,4 @@
   &lt;li&gt;180722 修改行文思路、动图 1.5h&lt;/li&gt;
   &lt;li&gt;180721 累计快写慢改 12h ，发布；根据 @ZoomQuiet 反馈优化， 1h&lt;/li&gt;
   &lt;li&gt;180720 创建&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">近期陆续遇到几个 MarkDown 码字发文棘手问题，最后却都轻松化解： 某张图片已用于十多篇文章，但图片有误需要更新。拿到新图，半分钟就替换完毕。 辛苦写了几篇文章，同步到 App 中发现加载太慢，原来是图片最好不超过 100k/张，但宽度至少 750 。几十张图片啊……眼睛一转，5 分钟就优化完毕。 之前的图床地址失效，图片无法显示，几年的文章都需更新配图，愁煞人。翻了翻本地图片，20 分钟就更新完毕。 想来多归功这三年的插图习惯。再看周围朋友，陆续遭遇以下插图困扰，耗于烦心琐碎而自拔不能，很是不值。 正好最近有空，分享出来助更多朋友少走弯路，也能一人百人、五年十年，都优雅从容，轻松省心：） MarkDown 码字发文插图困扰 常在河边走，怎能不湿鞋。使用 MarkDown 码字发文，迟早遭遇以下烦恼： 好不容易找到看着不错的图床，上传图片、顺利发文，结果过段时间，图片无法显示……想重新再传，可眼瞅这乱码 URL 怎么都没法识别当初用的哪张图……不想就此不管破罐破摔，也不想花时间重新找图作图，怎么办？ 总算找到满意图片，可实在太大，为了图文浏览体验必须压缩。问题来了——压缩后，本地保留哪个版本？高清压缩都保留，占空间；只保留一个，留哪个？留大的，那下回再用又得压缩一遍；留小的，那高清场合又得再找…… 那看情况吧，先缩了再说。无奈烦恼也不少：得调试好多次才能找到合适参数；调试过程，难免保存导出，判断是否清晰合用，不行又得删掉重来。若是网页处理工具（比如美图秀秀），上传下载也挺烦。TinyPng、SmartResize 是快捷，但没法限定输出大小，比如每张 100k 以下…… 越高产，新烦恼来得越快：是一篇图文一个文件夹，里头装 MarkDown 文档和所用图片；还是所有图片一个文件夹，文档一个文件夹？到底怎么管理更省心，五年十年不添堵？ 团队编辑图文，各编各文各找各图。怎么做，才能提高效率，减少重复劳动？怎样做，才能便于多人调用、未来复用？ …… 要解决这些怎么办的问题，先要了解 MarkDown 配图机制—— MarkDown 配图机制 传统文档，是把图片复制了一份搁文档里。 MarkDown 文档，则是把图片搁云端（俗称图床），映射在文档里。什么意思？你可以把文章想象成一个画廊，传统画廊，是把画直接放画框里；MarkDown 画廊，则是存画于线上资源库，把画投影到画框。 这样有什么好处？大大降低文档大小，轻盈畅快。且图片管理方便：既然是把画投影在画框，那理论上只要改变投影参数，比如焦距、投影距离等，就可改变画框中画面的大小、清晰程度，不需调整原画。 更大优势，是需求更复杂时，管理复杂度却变化不大：比如想让多个画框出现该画，投影过去就好，不会多占 N 倍空间；不同位置所需画面大小、清晰程度不同，调整投影参数就好；如需替换各处的这幅画，直接更换原画就好，不必挨个替换画框。 理论挺美，如何实现？需要这套习惯—— 如何插图优雅又省心 1. 使用稳定且支持图片在线处理的图床 「稳定」好理解，登录才能传图的大厂图床，一般都有保障。 「支持图片在线处理」，则鲜为人知。还记得前面打的比方吗——改变投影参数，比如焦距、投影距离等，就可改变画框中画面的大小、清晰程度。实际操作，就是直接在图片地址后添加对应参数，即可简单处理图片，如限制宽高、大小，转换图片格式等。 举个例子： 本来宽 910 的图片：http://ishanshan.zoomquiet.top/clipping/scientific_method.png 我希望最宽 400 ，于是在地址上加上限制宽度的参数 ?imageView2/2/w/400 ，图片地址变为 http://ishanshan.zoomquiet.top/clipping/scientific_method.png?imageView2/2/w/400 即可： 但这并非所有图床都可实现，找了一圈，发现目前只有七牛云支持。 七牛对用户也大方，注册并实名认证，便可获得标准用户权益：无上限免费上传流量，10GB 永久免费存储空间，10万次/月 PUT/DELETE 请求，100万次/月 GET 请求，10GB/月免费 CDN 下载流量。一般个人博客足够了。 美中不足，是他们最近调整了外链策略——需你有已备案的域名才可稳定使用。但想想未来省心省力，还是忍一时麻烦备案吧。稳妥起见，建议你备案和博客不一样的域名，万一博客有违规内容被取消备案，也不影响图床。 此外，七牛属面向技术人士的平台，对非技术人士不太友好：官方上传工具图形界面体验不佳，甚至没有；帮助文档繁杂且技术气息浓郁，容易懵圈。 好在也得益于这是面向技术人士的平台，不少热心工程师已自行开发上传应用，解决普通用户上传问题。还有不少热心又懂点技术的伙伴，整理了图文指南示范关键步骤。 如何高效上传文件至七牛云 图床上传工具繁多，为了应对愈发复杂的需求，我有以下要求： 支持使用原文件名，URL 能保留原语义，而非转译成数字 支持批量上传 支持设定上传前缀，以便区分不同类型内容，比如 ../share/image1.jpg &amp;amp; ../clipping/image2.jpg 支持多个存储账号，以便灵活切换个人及公司图床 左看右看，Mac GUI 工具，只发现 Dropzone 3 搭配 这款适用于 Dropzone 3的七牛上传工具 能全满足。配置好后使用也方便，拖动即可上传并获取图片地址。后者免费，前者收费，不过不贵—— 60 块，不到一顿饭就能拿下。 CLI 工具，官方的即可，参见 命令行工具(qshell) - 七牛开发者中心 。 如何获取配置七牛上传工具所需的 Bucket 、Access Key（下文简称 AK）、Secret Key（下文简称 SK） 等账号信息，见快速入门 - 七牛开发者中心 、怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心。 如果你只有前俩要求，选择范围会广些，比如： Mac: Mac七牛图床与文件批量上传工具 - 简书 利用Alfred Workflow快速上传粘贴板图片至七牛图床并在Markdown中引用 - 作业部落 Cmd Markdown 编辑阅读器 Win: MPic-图床神器-免费图床,不限流量,专业图床工具 七牛 Markdown 图片快速上传工具 - Veritas501’s Blog 但这难保一人百人、五年十年依然优雅省心，你根据个人情况掂量吧：） 如何高效在线处理图片 如何在线处理图片，七牛给出了详细的文档 图片处理使用说明 - 七牛开发者中心 。 不过每次处理图片都去翻这文档、排列组合不同参数，就如定向越野，好不容易有捷径可走，结果看捷径地图比不抄近路还花时间，岂不南辕北辙？ 好在办法总比困难多——我做了份 cheat sheet ，MarkDown 码字发文专用：Hb7niuImageEditOnline · OpenMindClub/Share Wiki 。 凭此 cheat sheet ，只需判断原图是什么格式、是否大于 2M ，即可选择对应参数，限制图片大小。 如果效果不满意，可直接调整 URL 参数，在浏览器中查看结果，满意后把该 URL 更新到文档中即可： 为了效率，编辑时我一般批处理：把一篇或几篇文章的图片都上传到对应位置后，再统一处理大小。增加参数时，先判断用得最多的参数，批量替换，再微调。 比如，某五个文档所用图片，多是 &amp;lt; 2M 的 jpg 。我便在可多文档查找替换的编辑器（比如 Atom）里，用 search in directory 批量检索出这些文档里的 .jpg) 字段，批量换成 .jpg?imageMogr2/size-limit/100k!) ，再手动修改原图大于 2M 的图片 URL 参数，改为 ?imageView2/2/w/1000|imageslim 。 2. 图片放同一文件夹 若想未来管理省心，需要尽量把配图放同一文件夹。不仅减少存储时不必要的决策、取用时查找的麻烦，还利于应对万一。 比如对于个人博客的图片，我一般都放本地 share 文件夹，同步时选 share/ 前缀，比如 http://ishanshan.zoomquiet.top/share/cardsample1.png 那些收集来的有价值的图片，则放 clipping 文件夹，选 clipping/ 前缀，比如 http://ishanshan.zoomquiet.top/clipping/scientific_method.png 。 如此，万一原图床地址失效，便可直接把这俩路径下的图片立马上传新图床，再批量替换对应文档里的图片主域名。比如把 ishanshan.zoomquiet.top 替换成新域名即可。 团队使用同理。再借本地同步盘，同步对应文件夹就好。这样一来，新人初来乍到，也能平滑接入，使用原有片源、贡献新片源。 需要注意的是，此处所用并非云盘，是本地同步盘，能实时同步本地指定文件夹的那种。Dropbox、坚果云、亿方云等都可实现。 3. 图片名用英文标注绝对属性 为何命名要用英文，见我老文 《命名用英文，烦恼少大半 · 团队文档命名指南》。 成，那就不用中文。于是有朋友这么来给图片命名 2017-11-09-l-stone-0-3-pic4-new.jpg …… 这有什么后果？如果只是个人文章，未来几乎不会再用这些图，你也不计较识别时得多花点时间点开预览，都好说。但如果发生在团队图库呢？同事若想使用，是不是就得翻看到底是啥，逐个查阅确认？假设每张图得花 1.5s 预览，每天由于名称无法马上识别得多预览 10 张图，10 位同事得多花多少时间？100 位同事呢？……好心情和心流都是被这些琐碎小事给打飞的…… 那图片怎样命名，才不易给自己和团队找事？ 以绝对属性而非相对属性命名，令图片树状排列。具体来说，命名规则为 绝对属性主题代号+图片序号。 为什么要这样？相信你多少有体会，团队文件管理，最好少用文件夹、减少层级降低管理复杂度。那文件怎么分类？最好以名称字母自动排序区分各主题文件。若大主题下还想细分，则在大主题代号后加细分名称。如「家庭场景画面」为 family，「有爸爸的家庭画面」，命名则在 family 后加 dad ，即 familydad 。 如果还没感觉，可瞅瞅这个例子： - 序号 1~9999 - 主题代号举例 - family 家庭场景 - familydad 有爸爸的家庭画面 - familymom 有妈妈的家庭画面 - familyplay 家庭玩耍 - housework 做家务 - injury 受伤场景 - learning 学习场景 - object 物品 - objectcup 水杯 - objectbag 书包 - objecttoy 玩具 - unhappy 不开心的场景 - unhappydad 不开心的爸爸 - unhappyparents 不开心的家长 - book 图书封面： - 规则：`book_书名首字母缩写` - 注意：有英文名的优先使用英文名，没有的话用中文名首字母缩写 - 举例：《The Very Hungry Caterpillar》 封面图片命名 `book_tvhc` 如果你们团队作业，还请不要轻易改动里头的文件名。毕竟改动后，就难快速在 MarkDown 文档里搜出这此图。此外，保存图片尽量清晰大图，以便未来用于其它场合（比如易拉宝、网站等）。 FAQ 新文件会覆盖原图不？ 为了你少出乱子，七牛默认上传策略不能覆盖原图。所以如果你想剪裁图片后再上传，最好修改文件名，比如在文件名后加1。 实在不想更改图片地址，只想直接显示新图，也成——可自行检索 七牛 上传策略 覆盖 等关键词解决。反正我瞅了瞅就溜回来改文件名重新上传了，祝你好运：P 如何拥有优雅的图床域名？ 标准用户新创建存储空间后，会获得这类*.bkt.clouddn.com 系统自动生成的测试域名。 如果有条件，建议在中国大陆备案一个域名，图床专用。这样就可以自定义七牛空间域名 ，更稳定，图片 URL 也更干净清晰。 文章发到公众号和自建网站，如何不必重复传图？ 在 MarkDown 编辑器写完图文，想一键排版到公众号，可参考 markdown 高效撰写微信公众号文章 - 简书 。 划重点：在 MarkDown Here 渲染后，「剪切排版内容，再粘贴」，并等一会儿，图片才能正常显示。 如果你嫌原配的 CSS 丑，可以自己改，或直接用别人改好的。后者在网上能搜到不少，比如 huanxi007/markdown-here-css。 。 团队如何优雅共用七牛空间？ 七牛不支持团队账号，登录即有最高权限。这要是谁手滑改了什么配置，岂不乱套？ 莫担心，还记得你前面获取的 AK SK 等配置信息吧？每个标准账号可设置两对 AK SK ，以及 N 个不同空间——不同角色使用不同的配置信息就好。 比如内容同事使用 AK_1 SK_1 和 content_1 空间，内容志愿者使用 AK_2 SK_2 和 content_1 空间；这样即使换了一届志愿者，想保证信息安全，直接更新 AK_2 SK_2 为 AK_3 SK_3 就好。如果还有团队也想用 content_1 空间，并想来单独一套 AK SK ，可把空间授权别的账号读写，这样你就可以有多对 AK SK 了，详见空间授权 - 七牛开发者中心 。 星移斗转，工具必会推陈出新，但省心原则大体如上。 工具使用问题请自行检索或联系客服，习惯疑问欢迎留言交流。 愿你也远离烦心琐碎，多多拥抱心流：） 关键链接汇总 七牛注册：https://portal.qiniu.com/signup?code=3lb1qrq25es0i 上传工具： Mac GUI: Dropzone 3 + 适用于 Dropzone 3的七牛上传工具 CLI: 命令行工具(qshell) - 七牛开发者中心 获取配置信息： 快速入门 - 七牛开发者中心 怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心 如何进行网站公安备案和查询公安备案信息 - 七牛开发者中心 七牛图片在线处理 cheat sheet: Hb7niuImageEditOnline · OpenMindClub/Share Wiki 官方文档：图片处理使用说明 - 七牛开发者中心 批量查找替换多个文档内容的编辑器：Atom 更多小众但实用的 MarkDown 技巧见 HbMarkdownTrick.md at master · ishanshan/CollaborationGuide4Shaper 。 CHANGELOG 180816 增加需要备案域名的说明及其它 MarkDown 技巧链接 180722 修改行文思路、动图 1.5h 180721 累计快写慢改 12h ，发布；根据 @ZoomQuiet 反馈优化， 1h 180720 创建</summary></entry><entry><title type="html">卡片助力输出， MarkDown + GitHub + LOFTER 有轻功</title><link href="http://localhost:4000/selfedu/tool/HbOutputOwetoCards" rel="alternate" type="text/html" title="卡片助力输出， MarkDown + GitHub + LOFTER 有轻功" /><published>2018-07-15T00:00:00+08:00</published><updated>2018-07-15T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/tool/HbOutputOwetoCards</id><content type="html" xml:base="http://localhost:4000/selfedu/tool/HbOutputOwetoCards">&lt;blockquote class=&quot;blockquote-center&quot;&gt;作品和作品的差别，源于卡片。&lt;br /&gt;人和人的差异，垒于习惯。&lt;/blockquote&gt;
-
-&lt;p&gt;最近复盘，发现这大半年如有神助，几乎每月发布一个作品或项目，拿下个人探索路上一个又一个&lt;a href=&quot;#jump&quot;&gt;小里程碑&lt;/a&gt;。&lt;/p&gt;
-
-&lt;p&gt;相较过往，这输出密集程度算是突飞猛进。不禁好奇为何如此。得益于一群良师益友，叫我见贤思齐？可之前他们就在呀。因为工作节奏没有前两年紧张？或许，但光多点时间肯定不够。&lt;/p&gt;
-
-&lt;p&gt;思来想去，发现主要区别源于去年 9 月——那会儿我已有良好读写习惯打底，又幸运习得一套新的输出习惯，难怪如虎添翼。&lt;/p&gt;
-
-&lt;p&gt;好东西我向来不独自掖着。加之最近卡片写作、卡片大法传播越广，南辕北辙的输出姿势越多，体胖（pan）如我都看不下去了，撸起袖子就想……&lt;/p&gt;
-
-&lt;p&gt;说干就干！&lt;/p&gt;
-
-&lt;p&gt;咳，优雅习惯推介会，现在开始~
-&lt;!-- more --&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;升级输出习惯&quot;&gt;升级输出习惯&lt;/h2&gt;
-
-&lt;p&gt;如果看过我 &lt;a href=&quot;https://ishanshan.im/selfedu/HbOutputOwetoWorkFlowy.html&quot;&gt;《卡片助力输入输出，工具我选 WorkFlowy 》&lt;/a&gt; 这篇文章，你应该知道若想畅快输出作品，为何卡片层级重要，以及如何挑选卡片工具。甚至你已尝试我推荐的方法，借 WorkFlowy 优化工作生活。&lt;/p&gt;
-
-&lt;p&gt;过去几年那套方法的确令我受益匪浅。但去年夏天，我工作情感生活状况频出，仅靠原有输出习惯，越来越不能满足诉求：&lt;/p&gt;
-
-&lt;p&gt;脑海中闪过无数思绪、观察，无论是为了记住还是为了忘记，都想及时捕捉，从大脑工作记忆（&lt;a href=&quot;https://en.wikipedia.org/wiki/Working_memory&quot;&gt;working memory&lt;/a&gt;）内存切换到外部载体；线上与人交流，输入界面常不友好，我喜欢到 MarkDown 编辑器里写好再发出，每次思考写哪、存否、存哪、命名也挺麻烦；打出不错内容未来要调取复用，再去对话界面搜寻实在繁琐，想不起在哪儿发布、意外丢失聊天记录更是徒增烦恼……&lt;/p&gt;
-
-&lt;p&gt;贪心如我，还想有个地儿作「&lt;a href=&quot;https://www.yangzhiping.com/psy/quiet.html&quot;&gt;一个人的微博&lt;/a&gt;」，同我&lt;a href=&quot;https://www.yangzhiping.com/psy/savoring-10.html&quot;&gt;「品味（savoring）」生活&lt;/a&gt;，或分担难过失意等当下不宜为熟人知的时光。不仅积累个人故事，录下欣然成长的自己，还能倒逼写作练习——毕竟不是私人笔记，不由得照顾读者观感琢磨文字嘛。&lt;/p&gt;
-
-&lt;p&gt;于是，我开始摸索更舒畅的输出姿势。结合已有的「 WorkFlowy 酝酿 + MarkDown 书写/编辑 + GitHub 托管/发布 」工作流，优化后的理想情况当如此：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;想写就写&lt;/strong&gt;。无论沟通发言、朋友圈状态、写作练手，还是观察反思、日记灵感，只要想写，打开即写，不必纠结存否、存哪、命名。&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;方便检索调取，及时取用&lt;/strong&gt;。
-    &lt;ul&gt;
-      &lt;li&gt;时间维度：三年五年甚至十年后，依然可以调取；积累三年五年甚至十年后，搜索加载依然快。&lt;/li&gt;
-      &lt;li&gt;空间维度：在不同电脑切换，比如工作电脑和个人电脑上，都能随时调取和更新。在移动设备也能调取并更新更好，不行也无妨，毕竟多数时候我电脑随身。&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;可作「一个人的微博」，方便积累个人故事及练习写作&lt;/strong&gt;。这需要内容发布后可修改，才不阻断「慢改」；鲜有广告，也不会被强推内容，没啥噪音分散注意力；支持 MarkDown ，可平滑接入原有读写发布工作流；可设置自由设定访问权限，比如分享给特定朋友或公开访问。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;需求列完，眼瞅这坑我心里特没底，灌了两桶酸奶仍不见底……&lt;/p&gt;
-
-&lt;p&gt;好在倒腾俩月，终把坑填——&lt;/p&gt;
-
-&lt;h2 id=&quot;markdown--github--lofter-有轻功&quot;&gt;MarkDown + GitHub + LOFTER 有轻功&lt;/h2&gt;
-
-&lt;p&gt;庞杂需求如上，只靠一款工具难以满足。摸索再三，这套组合拳最得我心：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;有目录视图、支持文件管理的 MarkDown 编辑器&lt;/strong&gt;：MWeb&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;云端同步工具&lt;/strong&gt;：GitHub&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;一个人的微博&lt;/strong&gt;：LOFTER&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;工具不稀奇，关键在用法。领会要点，再依已有习惯自选趁手工具，更是妙哉。&lt;/p&gt;
-
-&lt;h3 id=&quot;以周为单位记忆外部化&quot;&gt;以「周」为单位记忆外部化&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;日常以「周」为单位新建 MarkDown 文档，这周任何想写的内容，都写在当周文档里&lt;/strong&gt;。文档命名也省心，&lt;code class=&quot;highlighter-rouge&quot;&gt;文档类别代号+年月+周数&lt;/code&gt;即可，比如这是我养成这个习惯至今的记录：&lt;/p&gt;
-
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Mur1709w37.md Mur1711w45.md Mur1801w01.md Mur1802w09.md Mur1804w17.md Mur1806w25.md
-Mur1709w38.md Mur1711w46.md Mur1801w02.md Mur1803w10.md Mur1804w18.md Mur1806w26.md
-Mur1709w39.md Mur1711w47.md Mur1801w03.md Mur1803w11.md Mur1805w19.md Mur1807w27.md
-Mur1710w40.md Mur1711w48.md Mur1801w04.md Mur1803w12.md Mur1805w20.md Mur1807w28.md
-Mur1710w41.md Mur1712w49.md Mur1801w05.md Mur1803w13.md Mur1805w21.md Mur1807w29.md
-Mur1710w42.md Mur1712w50.md Mur1802w06.md Mur1804w14.md Mur1805w22.md
-Mur1710w43.md Mur1712w51.md Mur1802w07.md Mur1804w15.md Mur1806w23.md
-Mur1710w44.md Mur1712w52.md Mur1802w08.md Mur1804w16.md Mur1806w24.md
-&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;strong&gt;文档里，按天划分组块&lt;/strong&gt;，时间是一级标题，正文概要作二级标题，&lt;strong&gt;按时间倒序排列&lt;/strong&gt;。如此便可凭目录栏随心跳转，快速修改已有内容：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/mwebtoc3.png&quot; alt=&quot;mwebtoc3.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;为了区分内容类型以便查找复用，我还建了套标记规则，加在内容概要之前，一目了然各条状态：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;0&lt;/code&gt;：未发出&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;1&lt;/code&gt;：已发出、已使用&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;-1&lt;/code&gt;：已发布后又修改，但还未同步更新到发布界面（由于我习惯多次修改，改后不会马上更新到发布界面，而是等个一两天没什么还想改的再更新，所以需要这个标记提醒自己）&lt;/li&gt;
-  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;0-&lt;/code&gt;：尚未发布，但有价值，适合继续修改以备未来使用&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;如此，写意来临，便可立马打出 &lt;code class=&quot;highlighter-rouge&quot;&gt;## 0&lt;/code&gt; 而后开写，方便时再加标题。甚至一天忙完，该 commit 到 GitHub 私有库，才把当天各标题补上。
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;如果你像我一样懒，还可借这仨技巧能省则省：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;一级标题所需的「当天时间」，用输入法自带的当前时间。比如在搜狗拼音输入 &lt;code class=&quot;highlighter-rouge&quot;&gt;sj&lt;/code&gt; ，候选项就会出现当前时间，选择即可输入。如此，不仅可作一级组块区分标记，还可记录当天遐思何时开始：&lt;/p&gt;
-
-    &lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/mwebtricks1.gif&quot; alt=&quot;mwebtricks1.gif&quot; /&gt;&lt;/p&gt;
-
-    &lt;p&gt;对了，当天时间最好选全 ASCII 字符的表达方式，不带汉字，未来若想跑个脚本分析也省心。比如我习惯晨间日记，可借此分析某阶段早上何时进入状态。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;## 0&lt;/code&gt; 等常用字符，使用 aText 这类工具设置缩写规则，比如 &lt;code class=&quot;highlighter-rouge&quot;&gt;;0 == ## 0&lt;/code&gt; ，简化输入流程。当天遐思的同步到 GitHub 所用的 commit message，当然也设缩写，比如 &lt;code class=&quot;highlighter-rouge&quot;&gt;uft == update for today&lt;/code&gt; ：&lt;/p&gt;
-
-    &lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/mwebtricks3.gif&quot; alt=&quot;mwebtricks3.gif&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;其它 MarkDown 标记比如 &lt;code class=&quot;highlighter-rouge&quot;&gt;#&lt;/code&gt; ，以及各视图切换等常用操作，用 &lt;a href=&quot;http://ishanshan.zoomquiet.top/share/mwebtricks7.png&quot;&gt;MWeb 快捷键&lt;/a&gt;简化输入流程。&lt;/p&gt;
-
-    &lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/mwebtricks4.gif&quot; alt=&quot;mwebtricks4.gif&quot; /&gt;&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;这样下来，每周文档只含字符，图像影音托管给七牛云，单个文档即使万字，也就十来 k 。如此这般，该文档常开也不费劲儿，我想写的现在就写;-)&lt;/p&gt;
-
-&lt;p&gt;还有啥优势？&lt;strong&gt;轻盈省心、数据在自己手里，若想保持此输出习惯，十年百年不在话下&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;h3 id=&quot;用一个人的微博促进快写慢改&quot;&gt;用「一个人的微博」促进快写慢改&lt;/h3&gt;
-
-&lt;p&gt;记忆外部化搞定，该填贪心挖的坑。&lt;/p&gt;
-
-&lt;p&gt;多方测试，我发现 LOFTER 最适合作「一个人的微博」。不信你瞅 &lt;a href=&quot;http://mur42.lofter.com/&quot;&gt;http://mur42.lofter.com/&lt;/a&gt; ？&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/cardlofter3.gif&quot; alt=&quot;cardlofter3.gif&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;不仅版式优雅，需求还都满足：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;内容发布后可修改：满足，且所有设置，比如署名权限、浏览权限都可更改。&lt;/li&gt;
-  &lt;li&gt;鲜有广告，也不会被强推内容：有，但相较某博可以算是不存在，很少分散注意力。如果你没关注什么人，时间线里也不会出现乱七八糟的东西。&lt;/li&gt;
-  &lt;li&gt;支持 MarkDown ：半支持—— chrome 浏览器搭配 MarkDown here 插件即可。美中不足，是无法自动和 GitHub 同步融入我的发布流程。不过无妨，就当发朋友圈吧。
-  &lt;img src=&quot;http://ishanshan.zoomquiet.top/share/lofter-setting2.png?imageView2/2/w/700&quot; alt=&quot;lofter-setting2.png&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;可设置自由设定访问权限：满足。一个账号可设多个子空间，子空间可选择密码访问，或设定不能被站内及搜索引擎搜索。亦可设置单条内容仅自己可见。
-  &lt;img src=&quot;http://ishanshan.zoomquiet.top/share/lofter-setting1.png?imageView2/2/w/700&quot; alt=&quot;lofter-setting1.png&quot; /&gt;&lt;/li&gt;
-  &lt;li&gt;其它优势：有手机 App ；各类配置傻瓜级别，无需技术背景。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;或许还有更合适的，但&lt;strong&gt;最优解可遇不可求，找到满意解，先跑起来再说&lt;/strong&gt;：）&lt;/p&gt;
-
-&lt;p&gt;跑了大半年，发现不但好使，还有意外收获：我总是发布后，才很快想到要修改哪里。如果说以周为单位想写就写的「记忆外部化」习惯利于「快写」，那发到「一个人的微博」这套习惯，无疑加速了我练习「慢改」。而&lt;strong&gt;「快写慢改」，正是调和人类自主心智（&lt;a href=&quot;http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf&quot;&gt;Autonomous Mind&lt;/a&gt;）和算法心智（&lt;a href=&quot;http://www.keithstanovich.com/Site/Research_on_Reasoning_files/Stanovich_Two_MInds.pdf&quot;&gt;Algorithmic Mind&lt;/a&gt;）、创造动人作品的最佳范式&lt;/strong&gt;啊！&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;填坑完毕，还有几个心得同你分享：&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;如果想练习写作，那就&lt;strong&gt;尽量用对外口吻而非纯心理过程的日记口吻&lt;/strong&gt;。如此，未来更易用在正式作品中。&lt;/p&gt;
-
-    &lt;p&gt;什么意思？来份日记口吻你感受一下：&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;今天新人赛看得我直跺脚，真后悔没早点学 swing 啊。照这么推算，那开始学 swing 的最佳时机就是年度盛典：类比美国职业棒球队选秀，新人赛上「舞龄」更长的选手，更可能在新人赛出线。而且无论舞会、比赛、还是大师课，都更易进入高级别团体。&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;那对外口吻会如何表达？想象你在和朋友对话——表意清晰，并突出这事儿和对方的关系：&lt;/p&gt;
-
-    &lt;blockquote&gt;
-      &lt;p&gt;新人赛看得我直跺脚，恨学龄太短，只 swing 3 月多点儿。&lt;/p&gt;
-
-      &lt;p&gt;如果你要学 Swing ，现在就来吧！年度盛典后便是最好的时机——类比美国职业棒球队选秀，新人赛上「舞龄」更长的选手，更可能在新人赛上崭露头角。此外，无论舞会、比赛、还是大师课，你都更易进入高级别团体。&lt;/p&gt;
-    &lt;/blockquote&gt;
-
-    &lt;p&gt;未来稍加修改，就可用于文章。比如这段后来就用到了 &lt;a href=&quot;https://github.com/ishanshan/EnjoySwingDancing/blob/master/HbSwingBeginner.md&quot;&gt;Swing 新人指南&lt;/a&gt; 中。总之你&lt;strong&gt;想怎么用，平常就怎么练&lt;/strong&gt;，不会错。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;如果想录下个人成长，那&lt;strong&gt;难过失意一定要记&lt;/strong&gt;，不但有助排解，更令你舒缓理性，回看时还别有一番风味：P&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;如有同系列内容，可在&lt;strong&gt;发布时打上 tag&lt;/strong&gt;。Tag 最好用英文，这样未来若想分类查看，易凭网址直达。比如：&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;http://mur42.lofter.com/tag/dance&quot;&gt;http://mur42.lofter.com/tag/dance&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://mur42.lofter.com/tag/learning&quot;&gt;http://mur42.lofter.com/tag/learning&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;http://mur42.lofter.com/tag/collaborate&quot;&gt;http://mur42.lofter.com/tag/collaborate&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;如果你乐意被人偶遇，却不想被人有意找到，那就&lt;strong&gt;使用子空间、设置不可被外部及站内搜索引擎检索&lt;/strong&gt;。此外，用空间里的内容形成作品后，及时隐藏痕迹——删掉或设为仅自己可见，不怕一万只怕万一嘛。&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;从此，我便沉浸在这样舒爽的输出习惯中自拔不能：当周 MarkDown 文档常开，随时记忆外部化。那些需要发布的，就贴到对应渠道发出。如果想到要修改，就在 MarkDown 编辑器里改好，再更新到对应渠道。每天 commit 同步到 GitHub 一次；若有值得保存的版本对比，则改动后立即 commit 一次留备后用。&lt;/p&gt;
-
-&lt;h2 id=&quot;友情提示&quot;&gt;友情提示&lt;/h2&gt;
-
-&lt;h3 id=&quot;所用工具扫盲&quot;&gt;所用工具扫盲&lt;/h3&gt;
-
-&lt;p&gt;机敏如你肯定已经发现，&lt;strong&gt;增进作品质、量的关键，在以「周」为单位记忆外部化，并用「一个人的微博」促进快写慢改&lt;/strong&gt;。能实现这个效果的工具不少，我推荐 MWeb + GitHub + LOFTER ，是基于已有工作流（WorkFlowy 酝酿 + MarkDown 书写/编辑 + GitHub 托管/发布）。你完全可以根据已有习惯选择工具，能三年五年甚至十年五十年，持续使用促进输出，你满意就好：）&lt;/p&gt;
-
-&lt;p&gt;如果你未满意，并相信我的品位，还乐意走出舒适区，路在这里：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.mweb.im/&quot;&gt;MWeb&lt;/a&gt;：我最常用的 MarkDown 编辑器，刚发布 3.x 版本。Mac 付费软件，从得到的心流体验来看个人觉得很值；费用也不高，100+ CNY，当少到外头聚次餐就好。&lt;a href=&quot;https://typora.io/&quot;&gt;Typora — a markdown editor, markdown reader.&lt;/a&gt; 也不错，Mac/Win 均支持，免费，带目录栏、支持加载本地文件夹、可自行设定 CSS 渲染样式。&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;：我最常用的文档托管平台。它可供性极强，且内置很多专家级的内隐模式，如果使用得当，能极大降低个人创作复杂度。如果你之前没接触过，别被不明觉厉的操作吓退，可看我梳理的这份 &lt;a href=&quot;https://ishanshan.im/tool/HbGitHubPre&quot;&gt;给文字工作者的 GitHub 上手攻略&lt;/a&gt;。实在难以学会也别勉强，可用下文云端同步的替代方案，甚至只保存在本地。&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://lofter.com/&quot;&gt;LOFTER&lt;/a&gt;：网易旗下的轻博客平台。 &lt;a href=&quot;http://mur42.lofter.com/&quot;&gt;http://mur42.lofter.com/&lt;/a&gt; 这个示例使用的主题模板是「悦」。&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://markdown-here.com/&quot;&gt;Markdown Here&lt;/a&gt; ：chrome 上的插件。能把 MarkDown 未渲染的内容粘贴到网页输入框后，一键渲染成定制的 MarkDown 样式。&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://workflowy.com/&quot;&gt;WorkFlowy&lt;/a&gt; ：我用了快 5 年的卡片层级工具。真爱一生推，玩转指引见 &lt;a href=&quot;https://ishanshan.im/selfedu/HbOutputOwetoWorkFlowy.html&quot;&gt;《卡片助力输入输出，工具我选 WorkFlowy 》&lt;/a&gt;。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;这套习惯灵感来源参见：&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;知识创造层级：&lt;a href=&quot;https://mp.weixin.qq.com/s/j6fqcvzER6gv1JnPBqnYkA&quot;&gt;构建优雅的知识创造系统&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;快写慢改：&lt;a href=&quot;https://www.yangzhiping.com/psy/writers-model.html&quot;&gt;快速写作模式谈 - 阳志平的网志&lt;/a&gt;、&lt;a href=&quot;https://www.yangzhiping.com/psy/YangToWriter003.html&quot;&gt;致新同学 —— 认知写作学周岁小记 - 阳志平的网志&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;一个人的微博：&lt;a href=&quot;https://www.yangzhiping.com/psy/quiet.html&quot;&gt;一个人的微博 - 阳志平的网志&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;品味生活：&lt;a href=&quot;https://www.yangzhiping.com/psy/savoring-10.html&quot;&gt;品味（2）：“品味”生活的10种策略 - 阳志平的网志&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;「if…then…」&amp;amp;WOOP：&lt;a href=&quot;https://www.characterlab.org/woop/&quot;&gt;WOOP — Character Lab&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;知其然又知其所以然，你将领会这套习惯为何优雅有效，如何持久高效。&lt;/p&gt;
-
-&lt;h3 id=&quot;省钱及移动端读写替补方案&quot;&gt;省钱及移动端读写替补方案&lt;/h3&gt;
-
-&lt;p&gt;手快的朋友估计已经发现，这套工具只适合 Mac 用户。如果你恰属此类，恭喜，无论你是否常在移动端读写，都可找到应对姿势——&lt;/p&gt;
-
-&lt;p&gt;如果你不常在移动端读写，且有 GitHub 隐私库或不差钱，可像我一样应对万一：移动端若要查找，直接在手机浏览器登录 GitHub 搜索。若要写点什么，就用与电脑自动同步的 App 先写，比如 iOS 的 Notes 。写完想发布就发布，之后再迁移到当周 MarkDown 文档中。这样一来，未来若想复用，依然检索 MarkDown 文档即可。如果只找已发布的内容，那可直接到发布渠道查找，比如直接到 LOFTER 里检索。&lt;/p&gt;
-
-&lt;p&gt;如果你常在移动端读写，或想省下 GitHub 隐私库 $7/mon 的开销，那可只用 MWeb ，设置 iCloud 或 Dropbox 同步。详情参见 &lt;a href=&quot;https://zh.mweb.im/introducing-mweb-for-ios.html&quot;&gt;iOS 版 MWeb 正式发布及简介 - MWeb&lt;/a&gt;、&lt;a href=&quot;https://zh.mweb.im/how_to_use_library_in_ios.html&quot;&gt;在 iOS 中如何使用 MWeb for Mac 文档库 - MWeb&lt;/a&gt;。 # 我没试过，有问题请找 MWeb。&lt;/p&gt;
-
-&lt;p&gt;至于其它操作系统，找个带目录视图的 MarkDown 编辑器就好，比如 &lt;a href=&quot;https://www.zybuluo.com/cmd/&quot;&gt;Cmd Markdown 编辑阅读器&lt;/a&gt;。但肯定不如 MWeb 保护心流（&lt;a href=&quot;https://en.wikipedia.org/wiki/Flow_(psychology)&quot;&gt;flow&lt;/a&gt;）。&lt;/p&gt;
-
-&lt;p&gt;那咋整？老实讲，如果&lt;strong&gt;真想提升创作质&amp;amp;量&lt;/strong&gt;，我就算喝俩月西北风也咬牙换成 Apple 产品啊。毕竟换个&lt;a href=&quot;https://www.yangzhiping.com/psy/mac.html&quot;&gt;优雅舒畅的创作环境&lt;/a&gt;，很快就发觉真值当！&lt;/p&gt;
-
-&lt;h3 id=&quot;无需纠结如何写卡片&quot;&gt;无需纠结「如何写卡片」&lt;/h3&gt;
-
-&lt;p&gt;卡片新手窥豹一斑，难免犹疑卡片多大才合适，这载体是不是卡片，B6 是卡片，A4 是不是就不能用作卡片？……&lt;/p&gt;
-
-&lt;p&gt;此等问题真是自寻烦恼，看我嘴型：无需纠结。&lt;/p&gt;
-
-&lt;p&gt;要知道，在&lt;a href=&quot;https://mp.weixin.qq.com/s/j6fqcvzER6gv1JnPBqnYkA&quot;&gt;知识创造体系&lt;/a&gt;里，「卡片」只是一种粒度，而非形式。那些没到「文章」层级的零散思绪，都可算作「卡片」。&lt;/p&gt;
-
-&lt;p&gt;更何况咱们的目的，从来都不是「写卡片」，而是「更快输出更多、更美的完整作品」呐。&lt;strong&gt;一篓子完美卡片，也比不上一份完整作品&lt;/strong&gt;。所以，与其纠结卡片怎么写、写什么，不如思考你要输出什么作品吧——有了目标，你自会开始留心观察、思考，恨不得把那些灵感都摁住，就怕一不小心跑了呢。&lt;/p&gt;
-
-&lt;p&gt;至于如何积累零散思绪，那就见仁见智了。但万变不离其宗，能让你更高效自在地输出就成。&lt;/p&gt;
-
-&lt;p&gt;所以，如果你发现无论用&lt;a href=&quot;http://ishanshan.zoomquiet.top/share/cardnabcov7.png&quot;&gt;纳博科夫牌巴掌大的索引卡&lt;/a&gt;，还是&lt;a href=&quot;https://www.amazon.cn/dp/B003FGLVPO/ref=sr_1_1?ie=UTF8&amp;amp;qid=1531642792&amp;amp;sr=8-1&amp;amp;keywords=%E4%BA%AC%E5%A4%A7%E5%BC%8F&quot;&gt;梅棹忠夫牌 B6 大的京大式卡&lt;/a&gt;，怎么都不得劲，这很正常。继续尝试就好。&lt;/p&gt;
-
-&lt;p&gt;比如我，这卡那卡都体验了一把，还是钟情大二就开始的习惯：输出始于&lt;strong&gt;横着 A4 纸&lt;/strong&gt;捕捉灵感、梳理思路，写画不羁。一些长文如&lt;a href=&quot;https://ishanshan.im/murmur/Letter2XY4Year2017.html&quot;&gt;《谢谢你给她的时光》&lt;/a&gt;、&lt;a href=&quot;https://ishanshan.im/selfedu/Review2017LunarCalendar.html&quot;&gt;《你丁酉年的故事》&lt;/a&gt;以及本文，更是如此：不仅起念阶段，甚至每个组块都要好几张 A4 纸自由写画，梳理想传递什么、引发什么行动，才敲成字符。当然，还会混合其他姿势，比如本文提到的随时记忆外部化+一个人的微博、之前推荐的 WorkFlowy 等。&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/cardsample3.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/100k!&quot; alt=&quot;cardsample3.png&quot; /&gt;&lt;/p&gt;
-&lt;center&gt;👆🏻A4 纸配板夹，走遍天下都不怕&lt;/center&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;要而言之，&lt;strong&gt;「卡片」更多是一种粒度，绝不能当作形式，更不能标为目的&lt;/strong&gt;。&lt;/p&gt;
-
-&lt;p&gt;但话说回来，就算八仙过海，我也严正提醒你&lt;strong&gt;别用 GitHub Issues 积累零散思绪&lt;/strong&gt;：数据不好迁移，且不便移动重组、调取复用，网页加载还不稳定。总之不利于形成作品。不信你想想自己由此输出的作品质、量？&lt;/p&gt;
-
-&lt;h3 id=&quot;如何积累人名术语反常识等卡片&quot;&gt;如何积累人名术语反常识等卡片&lt;/h3&gt;
-
-&lt;p&gt;熟悉开智文化的朋友应该对&lt;a href=&quot;https://mp.weixin.qq.com/s/jaFmXBPEjGr0QoVJz8BR7w&quot;&gt;术语卡、反常识卡、人名卡等&lt;/a&gt;都不陌生，我也在积累。&lt;/p&gt;
-
-&lt;p&gt;对于人名，我用表格整理相关信息，比如：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/cardsample2.png?imageView2/2/w/900&quot; alt=&quot;cardsample2.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;不过尚未用得满意，无实践案例可举……你若有满意心法记得和我分享~&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;反常识和术语倒是可以聊个五毛钱的。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;遇到反常识，确认可信后，我便会问自己这个问题：基于这个信息，我应停止做、开始做或继续保持什么？然后转成「if…then…」提升执行几率。&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;比如查论文得知「&lt;a href=&quot;https://link.springer.com/chapter/10.1007/978-90-481-2354-4_10&quot;&gt;一个人的快乐程度，和他经历的快乐次数正相关，而非经历的快乐强度&lt;/a&gt;」，更要继续保持「&lt;a href=&quot;https://ishanshan.im/selfedu/YouNeedSwing.html&quot;&gt;专注一小时，swing 十分钟&lt;/a&gt;」的小憩节奏。&lt;/p&gt;
-
-&lt;p&gt;再如上网听闻「&lt;a href=&quot;https://ishanshan.im/murmur/TipsEfficiencyMorningExercise&quot;&gt;初级商业人士拼体能，中级拼技能，高级又回到拼体能&lt;/a&gt;」，发觉应加大有氧运动量，但自己经常偷懒，便有了「如果私教训练完很累想偷懒，就先喝点水，在健身房外的楼道里来回慢走 5 分钟后，再开始做有氧」的行动脚本。&lt;/p&gt;
-
-&lt;p&gt;又如看《超越智商》发现原来通常诊断假阳性概率不低，便提醒自己，如果面对阳性结果，别急难过，先了解发病率。&lt;/p&gt;
-
-&lt;p&gt;还如从《哈佛商业评论》了解到&lt;a href=&quot;http://www.hbrchina.org/2016-08-10/4411.html&quot;&gt;饮食也会影响自律，低血糖饮食利于自律&lt;/a&gt;，便打算继续保持天天健康餐，如果外出就餐，也少摄入碳水和脂肪；又想起决定你我人生的决策也就二十多个，便找了家定期换菜谱、可以提前两周排餐的健康餐外卖充了 10000 块一直吃，省去考虑「今天吃啥」的麻烦释放决策内存……&lt;/p&gt;
-
-&lt;p&gt;随着「if…then…」增多，我开始汇集整理，成体系的集为指南，比如 &lt;a href=&quot;https://github.com/ishanshan/ForFamily/blob/master/HbParenting.md&quot;&gt;如果我来陪你走一程·养娃清单&lt;/a&gt;、&lt;a href=&quot;https://github.com/ishanshan/CollaborationGuide4Shaper&quot;&gt;CollaborationGuide4Shaper&lt;/a&gt; ，零散的先汇到 WorkFlowy 特定节点「&lt;a href=&quot;https://workflowy.com/s/CO_N.rltyKgPOoe&quot;&gt;随手复盘&lt;/a&gt;」，不时翻看、更新：&lt;/p&gt;
-
-&lt;iframe width=&quot;700&quot; height=&quot;500&quot; frameborder=&quot;1&quot; scrolling=&quot;no&quot; src=&quot;https://workflowy.com/s/CO_N.rltyKgPOoe&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;你可能好奇，我哪来的动力给大脑编这老多脚本？很简单，知道「信息关键不在输入多少，而在影响行动转成输出」，并深信「&lt;strong&gt;这个世界不缺反常识，缺的是行动，以及能让自己行动的行动&lt;/strong&gt;」罢。&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;至于陌生术语，除了上述行动，我还会把这个术语的概念、出处等信息整理到 WorkFlowy 或 zotero 对应节点。比如：&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;http://ishanshan.zoomquiet.top/share/cardsample1.png&quot; alt=&quot;cardsample1.png&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;如何用自己的话进一步表述，则是文中要用时，再结合语境整理成文，并深入查证确认使用正确。以「认知闭合」和「科学素养」这俩术语为例：&lt;/p&gt;
-
-&lt;p&gt;之前搜集的&lt;a href=&quot;https://workflowy.com/s/CO_N.I0UGEwbZEL&quot;&gt;术语释义&lt;/a&gt; ：&lt;/p&gt;
-
-&lt;iframe width=&quot;700&quot; height=&quot;500&quot; frameborder=&quot;1&quot; scrolling=&quot;no&quot; src=&quot;https://workflowy.com/s/CO_N.I0UGEwbZEL&quot;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;最后用在文章里：&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;人都追求认知闭合(need for cognitive closure)，给行为找一个合理解释。&lt;/p&gt;
-
-  &lt;p&gt;你越来越喜欢向科学求解：每理解一个术语、理论或范式，世界就会愈简单清晰，你也拥有更大的自由，离低水平的重复更远。生活，是神秘岛；科学素养，是躲在暗处帮你的老船长。而这里，有国内教育领域最雄厚的脑与认知科学背景，叫老船长为你开路。&lt;/p&gt;
-
-  &lt;p&gt;在科学领域探索越多，你会越认同一定要站上前人肩膀，才能远离低水平重复，不重复造轮子，获得可叠加的进步。面对新出现的解释体系，你会下意识地按这套思路思考：提出这个理论是为了解决什么问题或解释什么现象，解决这个问题或解释这个现象的意义何在？已有理论是如何解决这个问题或解释这个现象的，有什么不足？新提出的理论有何优势，如何巧妙解决这些不足，证据是什么？新的理论还存在哪些可完善之处？&lt;/p&gt;
-
-  &lt;p&gt;你还会养成很多助你越跑越快的习惯：比如读书先翻版权页，看首次出版年份，判断其处于学术脉络的什么位置，是认知科学诞生前还是诞生后？处于历史时代的什么位置，是互联网普及前还是普及后？或如喜欢翻论文，借助这些高度结构化的文本，高效寻找解答，无论是结论的限制条件，或是研究空白，还是可继续按图索骥的参考文献。又如条件反射地查作者学术背景、h 指数，助力判断其观点靠谱程度。还如经常主题阅读，利用大脑强大的模式识别能力促进你知识体系构建；老实积累术语、人名，勾画你认识世界的地图；及时把反常识信息化为「if…then…」，修养你探索世界的马达。甚至把「定义-验证-质疑」这套思路，不自觉地用于工作生活……&lt;/p&gt;
-
-  &lt;p&gt;——&lt;a href=&quot;https://ishanshan.im/selfedu/Review2017LunarCalendar.html&quot;&gt;《你丁酉年的故事》&lt;/a&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;小结&quot;&gt;小结&lt;/h2&gt;
-
-&lt;p&gt;作品和作品的差别，源于卡片。人和人的差异，垒于习惯。一切皆时间的函数，时间最可怕的是复利效应。&lt;/p&gt;
-
-&lt;p&gt;怎么做？小女子我已先干为敬，你看着办;-)&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;span id=&quot;jump&quot;&gt;附：这半年的里程碑&lt;/span&gt;&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;十二月：发出&lt;a href=&quot;https://ishanshan.im/murmur/Letter2XY4Year2017.html&quot;&gt;《谢谢你给她的时光》&lt;/a&gt;。第一次全篇写故事，终于有底气说自己从「逻辑」「文采」，爬上了「故事」这座写作第三峰。&lt;/li&gt;
-  &lt;li&gt;一月：发布 &lt;a href=&quot;https://github.com/ishanshan/EnjoySwingDancing&quot;&gt;EnjoySwingDancing 指南&lt;/a&gt;。头一遭有使命感地分享个人爱好，这也是 GitHub 这个全球最大同性交友网站上头一回有人分享舞蹈项目吧。&lt;/li&gt;
-  &lt;li&gt;二月：发布个人年度回顾&lt;a href=&quot;https://ishanshan.im/selfedu/Review2017LunarCalendar.html&quot;&gt;《你丁酉年的故事》&lt;/a&gt;。尝试换个视角记录生活：用预言的方式写回顾，呈现自评反思更自然；并发现自己已能谋篇布局万字故事。还在写作过程更清晰自己要去何方。&lt;/li&gt;
-  &lt;li&gt;三月：发布 &lt;a href=&quot;https://github.com/ishanshan/CollaborationGuide4Shaper&quot;&gt;CollaborationGuide4Shaper 仓库&lt;/a&gt;。终于集结分享对「如何高效共创」的观察思索，从此被问相关问题可甩资料。&lt;/li&gt;
-  &lt;li&gt;四月：完成集团新人入职机制和学习资料（&lt;a href=&quot;https://docs.google.com/spreadsheets/d/1xdfbrkQgvuV0FvD5uGFEQ070GC2Ybi2yenDEQAmRj9o/edit#gid=0&quot;&gt;团队协作技能自学&amp;amp;自检清单&lt;/a&gt; 是其一）的重大升级，了却一桩心愿：没我在，这些事情也易跑得不错。且第一次划定各技能进阶标准「存活」、「感觉良好」、「更快更好更强」，以便用户按需取用。还摸索出用表格做检查清单的优雅模式，给下个阶段的输出帮了大忙。&lt;/li&gt;
-  &lt;li&gt;五月：输出&lt;a href=&quot;https://ishanshan.gitbooks.io/road2strategypm/content/&quot;&gt;策略产品经理训练营作业手记&lt;/a&gt;。第一次正儿八经地参加线上付费课程。并拿到优秀学员（5/145），点亮新技能树。且 &lt;a href=&quot;https://road2strategypm.ishanshan.im/CONTENT/Chap5Task.html&quot;&gt;网易蜗牛读书增长方案&lt;/a&gt; 被评为精选，是当期课程里唯一一份精选作业，也是课程至今这章作业的唯一精选。&lt;/li&gt;
-  &lt;li&gt;六月：对外较逊色，只完成博客三年来第一次改版，并更换域名清除这两年的困扰：博客在微信访问不畅，被安全警示及重排。不过酝酿了本文及接下来几篇重要博文。&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;changelog&quot;&gt;CHANGELOG&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;181231 增加 Windows MarkDown 编辑器推荐（&lt;a href=&quot;https://typora.io/&quot;&gt;Typora&lt;/a&gt;），把开头内容移到附录&lt;/li&gt;
-  &lt;li&gt;180720 和 MWeb 开发者确认目录视图调整方案后，修改 MWeb 推荐说明&lt;/li&gt;
-  &lt;li&gt;180717 根据反馈增补内容，强调增进作品质、量的关键，在以「周」为单位记忆外部化，并用「一个人的微博」促进快写慢改，而非具体哪个 App&lt;/li&gt;
-  &lt;li&gt;180716 优化样式和表达&lt;/li&gt;
-  &lt;li&gt;180715 累计快写慢改近 50h 终于发布&lt;/li&gt;
-  &lt;li&gt;180707 创建&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">作品和作品的差别，源于卡片。人和人的差异，垒于习惯。 最近复盘，发现这大半年如有神助，几乎每月发布一个作品或项目，拿下个人探索路上一个又一个小里程碑。 相较过往，这输出密集程度算是突飞猛进。不禁好奇为何如此。得益于一群良师益友，叫我见贤思齐？可之前他们就在呀。因为工作节奏没有前两年紧张？或许，但光多点时间肯定不够。 思来想去，发现主要区别源于去年 9 月——那会儿我已有良好读写习惯打底，又幸运习得一套新的输出习惯，难怪如虎添翼。 好东西我向来不独自掖着。加之最近卡片写作、卡片大法传播越广，南辕北辙的输出姿势越多，体胖（pan）如我都看不下去了，撸起袖子就想…… 说干就干！ 咳，优雅习惯推介会，现在开始~</summary></entry></feed>
+&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">近期陆续遇到几个 MarkDown 码字发文棘手问题，最后却都轻松化解： 某张图片已用于十多篇文章，但图片有误需要更新。拿到新图，半分钟就替换完毕。 辛苦写了几篇文章，同步到 App 中发现加载太慢，原来是图片最好不超过 100k/张，但宽度至少 750 。几十张图片啊……眼睛一转，5 分钟就优化完毕。 之前的图床地址失效，图片无法显示，几年的文章都需更新配图，愁煞人。翻了翻本地图片，20 分钟就更新完毕。 想来多归功这三年的插图习惯。再看周围朋友，陆续遭遇以下插图困扰，耗于烦心琐碎而自拔不能，很是不值。 正好最近有空，分享出来助更多朋友少走弯路，也能一人百人、五年十年，都优雅从容，轻松省心：） MarkDown 码字发文插图困扰 常在河边走，怎能不湿鞋。使用 MarkDown 码字发文，迟早遭遇以下烦恼： 好不容易找到看着不错的图床，上传图片、顺利发文，结果过段时间，图片无法显示……想重新再传，可眼瞅这乱码 URL 怎么都没法识别当初用的哪张图……不想就此不管破罐破摔，也不想花时间重新找图作图，怎么办？ 总算找到满意图片，可实在太大，为了图文浏览体验必须压缩。问题来了——压缩后，本地保留哪个版本？高清压缩都保留，占空间；只保留一个，留哪个？留大的，那下回再用又得压缩一遍；留小的，那高清场合又得再找…… 那看情况吧，先缩了再说。无奈烦恼也不少：得调试好多次才能找到合适参数；调试过程，难免保存导出，判断是否清晰合用，不行又得删掉重来。若是网页处理工具（比如美图秀秀），上传下载也挺烦。TinyPng、SmartResize 是快捷，但没法限定输出大小，比如每张 100k 以下…… 越高产，新烦恼来得越快：是一篇图文一个文件夹，里头装 MarkDown 文档和所用图片；还是所有图片一个文件夹，文档一个文件夹？到底怎么管理更省心，五年十年不添堵？ 团队编辑图文，各编各文各找各图。怎么做，才能提高效率，减少重复劳动？怎样做，才能便于多人调用、未来复用？ …… 要解决这些怎么办的问题，先要了解 MarkDown 配图机制—— MarkDown 配图机制 传统文档，是把图片复制了一份搁文档里。 MarkDown 文档，则是把图片搁云端（俗称图床），映射在文档里。什么意思？你可以把文章想象成一个画廊，传统画廊，是把画直接放画框里；MarkDown 画廊，则是存画于线上资源库，把画投影到画框。 这样有什么好处？大大降低文档大小，轻盈畅快。且图片管理方便：既然是把画投影在画框，那理论上只要改变投影参数，比如焦距、投影距离等，就可改变画框中画面的大小、清晰程度，不需调整原画。 更大优势，是需求更复杂时，管理复杂度却变化不大：比如想让多个画框出现该画，投影过去就好，不会多占 N 倍空间；不同位置所需画面大小、清晰程度不同，调整投影参数就好；如需替换各处的这幅画，直接更换原画就好，不必挨个替换画框。 理论挺美，如何实现？需要这套习惯—— 如何插图优雅又省心 1. 使用稳定且支持图片在线处理的图床 「稳定」好理解，登录才能传图的大厂图床，一般都有保障。 「支持图片在线处理」，则鲜为人知。还记得前面打的比方吗——改变投影参数，比如焦距、投影距离等，就可改变画框中画面的大小、清晰程度。实际操作，就是直接在图片地址后添加对应参数，即可简单处理图片，如限制宽高、大小，转换图片格式等。 举个例子： 本来宽 910 的图片：http://ishanshan.zoomquiet.top/clipping/scientific_method.png 我希望最宽 400 ，于是在地址上加上限制宽度的参数 ?imageView2/2/w/400 ，图片地址变为 http://ishanshan.zoomquiet.top/clipping/scientific_method.png?imageView2/2/w/400 即可： 但这并非所有图床都可实现，找了一圈，发现目前只有七牛云支持。 七牛对用户也大方，注册并实名认证，便可获得标准用户权益：无上限免费上传流量，10GB 永久免费存储空间，10万次/月 PUT/DELETE 请求，100万次/月 GET 请求，10GB/月免费 CDN 下载流量。一般个人博客足够了。 美中不足，是他们最近调整了外链策略——需你有已备案的域名才可稳定使用。但想想未来省心省力，还是忍一时麻烦备案吧。稳妥起见，建议你备案和博客不一样的域名，万一博客有违规内容被取消备案，也不影响图床。 此外，七牛属面向技术人士的平台，对非技术人士不太友好：官方上传工具图形界面体验不佳，甚至没有；帮助文档繁杂且技术气息浓郁，容易懵圈。 好在也得益于这是面向技术人士的平台，不少热心工程师已自行开发上传应用，解决普通用户上传问题。还有不少热心又懂点技术的伙伴，整理了图文指南示范关键步骤。 如何高效上传文件至七牛云 图床上传工具繁多，为了应对愈发复杂的需求，我有以下要求： 支持使用原文件名，URL 能保留原语义，而非转译成数字 支持批量上传 支持设定上传前缀，以便区分不同类型内容，比如 ../share/image1.jpg &amp;amp; ../clipping/image2.jpg 支持多个存储账号，以便灵活切换个人及公司图床 左看右看，Mac GUI 工具，只发现 Dropzone 3 搭配 这款适用于 Dropzone 3的七牛上传工具 能全满足。配置好后使用也方便，拖动即可上传并获取图片地址。后者免费，前者收费，不过不贵—— 60 块，不到一顿饭就能拿下。 CLI 工具，官方的即可，参见 命令行工具(qshell) - 七牛开发者中心 。 如何获取配置七牛上传工具所需的 Bucket 、Access Key（下文简称 AK）、Secret Key（下文简称 SK） 等账号信息，见快速入门 - 七牛开发者中心 、怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心。 如果你只有前俩要求，选择范围会广些，比如： Mac: Mac七牛图床与文件批量上传工具 - 简书 利用Alfred Workflow快速上传粘贴板图片至七牛图床并在Markdown中引用 - 作业部落 Cmd Markdown 编辑阅读器 Win: MPic-图床神器-免费图床,不限流量,专业图床工具 七牛 Markdown 图片快速上传工具 - Veritas501’s Blog 但这难保一人百人、五年十年依然优雅省心，你根据个人情况掂量吧：） 如何高效在线处理图片 如何在线处理图片，七牛给出了详细的文档 图片处理使用说明 - 七牛开发者中心 。 不过每次处理图片都去翻这文档、排列组合不同参数，就如定向越野，好不容易有捷径可走，结果看捷径地图比不抄近路还花时间，岂不南辕北辙？ 好在办法总比困难多——我做了份 cheat sheet ，MarkDown 码字发文专用：Hb7niuImageEditOnline · OpenMindClub/Share Wiki 。 凭此 cheat sheet ，只需判断原图是什么格式、是否大于 2M ，即可选择对应参数，限制图片大小。 如果效果不满意，可直接调整 URL 参数，在浏览器中查看结果，满意后把该 URL 更新到文档中即可： 为了效率，编辑时我一般批处理：把一篇或几篇文章的图片都上传到对应位置后，再统一处理大小。增加参数时，先判断用得最多的参数，批量替换，再微调。 比如，某五个文档所用图片，多是 &amp;lt; 2M 的 jpg 。我便在可多文档查找替换的编辑器（比如 Atom）里，用 search in directory 批量检索出这些文档里的 .jpg) 字段，批量换成 .jpg?imageMogr2/size-limit/100k!) ，再手动修改原图大于 2M 的图片 URL 参数，改为 ?imageView2/2/w/1000|imageslim 。 2. 图片放同一文件夹 若想未来管理省心，需要尽量把配图放同一文件夹。不仅减少存储时不必要的决策、取用时查找的麻烦，还利于应对万一。 比如对于个人博客的图片，我一般都放本地 share 文件夹，同步时选 share/ 前缀，比如 http://ishanshan.zoomquiet.top/share/cardsample1.png 那些收集来的有价值的图片，则放 clipping 文件夹，选 clipping/ 前缀，比如 http://ishanshan.zoomquiet.top/clipping/scientific_method.png 。 如此，万一原图床地址失效，便可直接把这俩路径下的图片立马上传新图床，再批量替换对应文档里的图片主域名。比如把 ishanshan.zoomquiet.top 替换成新域名即可。 团队使用同理。再借本地同步盘，同步对应文件夹就好。这样一来，新人初来乍到，也能平滑接入，使用原有片源、贡献新片源。 需要注意的是，此处所用并非云盘，是本地同步盘，能实时同步本地指定文件夹的那种。Dropbox、坚果云、亿方云等都可实现。 3. 图片名用英文标注绝对属性 为何命名要用英文，见我老文 《命名用英文，烦恼少大半 · 团队文档命名指南》。 成，那就不用中文。于是有朋友这么来给图片命名 2017-11-09-l-stone-0-3-pic4-new.jpg …… 这有什么后果？如果只是个人文章，未来几乎不会再用这些图，你也不计较识别时得多花点时间点开预览，都好说。但如果发生在团队图库呢？同事若想使用，是不是就得翻看到底是啥，逐个查阅确认？假设每张图得花 1.5s 预览，每天由于名称无法马上识别得多预览 10 张图，10 位同事得多花多少时间？100 位同事呢？……好心情和心流都是被这些琐碎小事给打飞的…… 那图片怎样命名，才不易给自己和团队找事？ 以绝对属性而非相对属性命名，令图片树状排列。具体来说，命名规则为 绝对属性主题代号+图片序号。 为什么要这样？相信你多少有体会，团队文件管理，最好少用文件夹、减少层级降低管理复杂度。那文件怎么分类？最好以名称字母自动排序区分各主题文件。若大主题下还想细分，则在大主题代号后加细分名称。如「家庭场景画面」为 family，「有爸爸的家庭画面」，命名则在 family 后加 dad ，即 familydad 。 如果还没感觉，可瞅瞅这个例子： - 序号 1~9999 - 主题代号举例 - family 家庭场景 - familydad 有爸爸的家庭画面 - familymom 有妈妈的家庭画面 - familyplay 家庭玩耍 - housework 做家务 - injury 受伤场景 - learning 学习场景 - object 物品 - objectcup 水杯 - objectbag 书包 - objecttoy 玩具 - unhappy 不开心的场景 - unhappydad 不开心的爸爸 - unhappyparents 不开心的家长 - book 图书封面： - 规则：`book_书名首字母缩写` - 注意：有英文名的优先使用英文名，没有的话用中文名首字母缩写 - 举例：《The Very Hungry Caterpillar》 封面图片命名 `book_tvhc` 如果你们团队作业，还请不要轻易改动里头的文件名。毕竟改动后，就难快速在 MarkDown 文档里搜出这此图。此外，保存图片尽量清晰大图，以便未来用于其它场合（比如易拉宝、网站等）。 FAQ 新文件会覆盖原图不？ 为了你少出乱子，七牛默认上传策略不能覆盖原图。所以如果你想剪裁图片后再上传，最好修改文件名，比如在文件名后加1。 实在不想更改图片地址，只想直接显示新图，也成——可自行检索 七牛 上传策略 覆盖 等关键词解决。反正我瞅了瞅就溜回来改文件名重新上传了，祝你好运：P 如何拥有优雅的图床域名？ 标准用户新创建存储空间后，会获得这类*.bkt.clouddn.com 系统自动生成的测试域名。 如果有条件，建议在中国大陆备案一个域名，图床专用。这样就可以自定义七牛空间域名 ，更稳定，图片 URL 也更干净清晰。 文章发到公众号和自建网站，如何不必重复传图？ 在 MarkDown 编辑器写完图文，想一键排版到公众号，可参考 markdown 高效撰写微信公众号文章 - 简书 。 划重点：在 MarkDown Here 渲染后，「剪切排版内容，再粘贴」，并等一会儿，图片才能正常显示。 如果你嫌原配的 CSS 丑，可以自己改，或直接用别人改好的。后者在网上能搜到不少，比如 huanxi007/markdown-here-css。 。 团队如何优雅共用七牛空间？ 七牛不支持团队账号，登录即有最高权限。这要是谁手滑改了什么配置，岂不乱套？ 莫担心，还记得你前面获取的 AK SK 等配置信息吧？每个标准账号可设置两对 AK SK ，以及 N 个不同空间——不同角色使用不同的配置信息就好。 比如内容同事使用 AK_1 SK_1 和 content_1 空间，内容志愿者使用 AK_2 SK_2 和 content_1 空间；这样即使换了一届志愿者，想保证信息安全，直接更新 AK_2 SK_2 为 AK_3 SK_3 就好。如果还有团队也想用 content_1 空间，并想来单独一套 AK SK ，可把空间授权别的账号读写，这样你就可以有多对 AK SK 了，详见空间授权 - 七牛开发者中心 。 星移斗转，工具必会推陈出新，但省心原则大体如上。 工具使用问题请自行检索或联系客服，习惯疑问欢迎留言交流。 愿你也远离烦心琐碎，多多拥抱心流：） 关键链接汇总 七牛注册：https://portal.qiniu.com/signup?code=3lb1qrq25es0i 上传工具： Mac GUI: Dropzone 3 + 适用于 Dropzone 3的七牛上传工具 CLI: 命令行工具(qshell) - 七牛开发者中心 获取配置信息： 快速入门 - 七牛开发者中心 怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心 如何进行网站公安备案和查询公安备案信息 - 七牛开发者中心 七牛图片在线处理 cheat sheet: Hb7niuImageEditOnline · OpenMindClub/Share Wiki 官方文档：图片处理使用说明 - 七牛开发者中心 批量查找替换多个文档内容的编辑器：Atom 更多小众但实用的 MarkDown 技巧见 HbMarkdownTrick.md at master · ishanshan/CollaborationGuide4Shaper 。 CHANGELOG 180816 增加需要备案域名的说明及其它 MarkDown 技巧链接 180722 修改行文思路、动图 1.5h 180721 累计快写慢改 12h ，发布；根据 @ZoomQuiet 反馈优化， 1h 180720 创建</summary></entry></feed>

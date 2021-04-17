@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 启动新项目，如何设定项目目标？| 项目需求采集问题清单
+title: 启动新项目，如何设定项目目标 · 项目需求采集问题清单
 categories:
 - tool
 ---

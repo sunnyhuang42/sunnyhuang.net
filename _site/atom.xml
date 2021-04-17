@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-17T08:35:06+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">从迷茫焦虑到从容踏实，这两个月我干了啥？· 万字复盘</title><link href="http://localhost:4000/selfedu/review2021Q1" rel="alternate" type="text/html" title="从迷茫焦虑到从容踏实，这两个月我干了啥？· 万字复盘" /><published>2021-04-13T00:00:00+08:00</published><updated>2021-04-13T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/review2021Q1</id><content type="html" xml:base="http://localhost:4000/selfedu/review2021Q1">&lt;p&gt;前几周和师友交流，我更体会到，应该及时复盘及时闭环，促进自己进入增强回路。&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.5.2">Jekyll</generator><link href="http://localhost:4000/atom.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-04-17T09:13:37+08:00</updated><id>http://localhost:4000/</id><title type="html">ishanshan’s blog</title><subtitle>Be a shaper.</subtitle><author><name>闪闪 | ishanshan</name></author><entry><title type="html">从迷茫焦虑到从容踏实，这两个月我干了啥？· 万字复盘</title><link href="http://localhost:4000/selfedu/review2021Q1" rel="alternate" type="text/html" title="从迷茫焦虑到从容踏实，这两个月我干了啥？· 万字复盘" /><published>2021-04-13T00:00:00+08:00</published><updated>2021-04-13T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/review2021Q1</id><content type="html" xml:base="http://localhost:4000/selfedu/review2021Q1">&lt;p&gt;前几周和师友交流，我更体会到，应该及时复盘及时闭环，促进自己进入增强回路。&lt;/p&gt;
 
 &lt;p&gt;正好 gap 也两个月了，是时候整体盘点并汇报一下进展和经验教训，以便获得更多反馈，及时调整行动，也方便有需要的伙伴参考。所以无论你有任何疑问建议，都欢迎随时和我交流，也促进我完善想法：D&lt;/p&gt;
 
@@ -463,19 +463,23 @@
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;人生如定投，时间是不可再生的资源，也是最大的成本。选择投资标的时，分清楚它是指数增长还是对数增长，是幂律分布还是正态分布，很有助于提升投资回报率。&lt;/li&gt;
-  &lt;li&gt;学习一项新技能时，尽量保障自己做到以下几点：
+  &lt;li&gt;想掌握一项新技能时，尽量保障做到以下几点，事半功倍：
     &lt;ul&gt;
-      &lt;li&gt;多接触精通这项技能的朋友&lt;/li&gt;
+      &lt;li&gt;多接触精通这项技能的朋友，最好创造机会贴身观察&lt;/li&gt;
       &lt;li&gt;了解这项技能的进阶标准&lt;/li&gt;
-      &lt;li&gt;加入相关实践社区&lt;/li&gt;
+      &lt;li&gt;加入相关实践社区/学习共同体&lt;/li&gt;
       &lt;li&gt;记录分享练习感想收获&lt;/li&gt;
-      &lt;li&gt;借助外力促进自己度过新手区&lt;/li&gt;
+      &lt;li&gt;借助外力促进自己度过新手期
+        &lt;ul&gt;
+          &lt;li&gt;比如主动创造一些外部 trigger 或敦促机制&lt;/li&gt;
+          &lt;li&gt;PS. 写到这里我也更理解为什么 &lt;code class=&quot;highlighter-rouge&quot;&gt;Behavior=Motivation*Ability*Trigger&lt;/code&gt; 这个上瘾模型里，把 Trigger 专门拎出来&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;要想客观评价事物、看待自己及他人的状态和所处位置，离不开选对参考系（情境、目标可比）、正确认识事物发展的客观规律、保持全局长期动态本质的视角。这些也对决策质量至关重要。&lt;/li&gt;
-  &lt;li&gt;在成长的路上，感到表现（performance）或收获不如之前也不必难过，因为投入和表现或收获的关系，肯定不是线性的，很可能是波动上扬的复利曲线。甚至出现指数基金价格曲线中的周期现象，牛熊交替，牛短熊长。如此，其实只要还在用科学的方法继续投入，没有离场，无论一时表现或收获如何，都是在往前走，是在跨越必经之路，是在进步。&lt;/li&gt;
+  &lt;li&gt;在成长路上，感到表现（performance）或收获不如之前也不必难过，因为投入和表现或收获的关系，肯定不是线性的，很可能是波动上扬的复利曲线。甚至出现指数基金价格曲线中的周期现象，牛熊交替，牛短熊长。如此，其实只要还在用科学的方法继续投入，没有离场，无论一时表现或收获如何，都是在往前走，是在跨越必经之路，是在进步。&lt;/li&gt;
   &lt;li&gt;「自律、不拖延」，是我们的追求，但这其实偏滞后指标。相较之下，「理清人生大目标、找到当下和大目标的关联」则是领先指标——理清人生大目标，并找到当下和大目标的关联，很多事情就对我们有吸引力，然后我们会自然去做，变得自律、不再拖延。&lt;/li&gt;
-  &lt;li&gt;如果有可能借助外力，还是借助一下。尤其如果想让自己迅速做某事，可以主动创造一些外部 trigger 或敦促机制，增进行动意愿。（写到这里我也更理解为什么 &lt;code class=&quot;highlighter-rouge&quot;&gt;Behavior=Motivation*Ability*Trigger&lt;/code&gt; 这个上瘾模型里，把 Trigger 专门拎出来）&lt;/li&gt;
   &lt;li&gt;直觉可以让我们缩短决策时长、快速行动起来。但如果想让行动坚定且持续，最好还是把决策逻辑写下来。抱侥幸心理，迟早会吃亏。&lt;/li&gt;
 &lt;/ol&gt;
 
@@ -527,7 +531,7 @@
       &lt;p&gt;指 2018 年我刻意练习写作技能的两篇文章：&lt;a href=&quot;https://ishanshan.im/murmur/Letter2XY4Year2017.html&quot;&gt;《谢谢你给她的时光》&lt;/a&gt; 和 &lt;a href=&quot;https://ishanshan.im/selfedu/Review2017LunarCalendar.html&quot;&gt;《你丁酉年的故事》&lt;/a&gt; 。&amp;nbsp;&lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">前几周和师友交流，我更体会到，应该及时复盘及时闭环，促进自己进入增强回路。 正好 gap 也两个月了，是时候整体盘点并汇报一下进展和经验教训，以便获得更多反馈，及时调整行动，也方便有需要的伙伴参考。所以无论你有任何疑问建议，都欢迎随时和我交流，也促进我完善想法：D</summary></entry><entry><title type="html">启动新项目，如何设定项目目标？| 项目需求采集问题清单</title><link href="http://localhost:4000/tool/infoq_projectmanagement_pre" rel="alternate" type="text/html" title="启动新项目，如何设定项目目标？| 项目需求采集问题清单" /><published>2021-04-08T00:00:00+08:00</published><updated>2021-04-08T00:00:00+08:00</updated><id>http://localhost:4000/tool/infoq_projectmanagement_pre</id><content type="html" xml:base="http://localhost:4000/tool/infoq_projectmanagement_pre">&lt;p&gt;对于项目管理来说，搞清楚干系人（&lt;a href=&quot;https://opentextbc.ca/projectmanagement/chapter/chapter-5-project-stakeholders-project-management/&quot;&gt;stakeholders&lt;/a&gt;）的需求、预期至关重要，事关项目成败。就如做产品，如果没搞清楚用户是谁、用户需求是什么，就根据自己的臆想开干，你觉得做出用户喜爱的产品概率有多大？&lt;/p&gt;
+&lt;/div&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">前几周和师友交流，我更体会到，应该及时复盘及时闭环，促进自己进入增强回路。 正好 gap 也两个月了，是时候整体盘点并汇报一下进展和经验教训，以便获得更多反馈，及时调整行动，也方便有需要的伙伴参考。所以无论你有任何疑问建议，都欢迎随时和我交流，也促进我完善想法：D</summary></entry><entry><title type="html">启动新项目，如何设定项目目标 · 项目需求采集问题清单</title><link href="http://localhost:4000/tool/infoq_projectmanagement_pre" rel="alternate" type="text/html" title="启动新项目，如何设定项目目标 · 项目需求采集问题清单" /><published>2021-04-08T00:00:00+08:00</published><updated>2021-04-08T00:00:00+08:00</updated><id>http://localhost:4000/tool/infoq_projectmanagement_pre</id><content type="html" xml:base="http://localhost:4000/tool/infoq_projectmanagement_pre">&lt;p&gt;对于项目管理来说，搞清楚干系人（&lt;a href=&quot;https://opentextbc.ca/projectmanagement/chapter/chapter-5-project-stakeholders-project-management/&quot;&gt;stakeholders&lt;/a&gt;）的需求、预期至关重要，事关项目成败。就如做产品，如果没搞清楚用户是谁、用户需求是什么，就根据自己的臆想开干，你觉得做出用户喜爱的产品概率有多大？&lt;/p&gt;
 
 &lt;p&gt;作为项目经理时，我一般会在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、对于项目管理四要素（时间质量成本范围）的期待、关于风险的提醒建议等信息，同时快速研究业界同类项目的优秀实践，然后形成项目OKR、初步规划，快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期。&lt;/p&gt;
 
@@ -617,7 +621,7 @@
   &lt;li&gt;&lt;strong&gt;终于开始行动&lt;/strong&gt;，发起线上&lt;a href=&quot;https://ishanshan.im/community/selfedu/info_facilitate_output&quot;&gt;定期碰头交流的小组&lt;/a&gt;，&lt;strong&gt;增强自己的社会支持系统，也促进自己输出&lt;/strong&gt;。&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;能有这些变化，离不开近期参加的「暂停实验室」。这家线上心理健身房，已成我最喜欢的陪伴型学习产品。独乐乐不如众乐乐，之前已在朋友圈多次推荐，也陆续收到朋友参与后分享的收获、喜悦和感谢。&lt;/p&gt;
+&lt;p&gt;能有这些变化，离不开近期参加的「暂停实验室」。这家线上心理健身房，已成我最喜欢的陪伴型学习产品。独乐乐不如众乐乐，之前已在朋友圈多次推荐，也陆续收到朋友参与后分享的收获、喜悦和感谢，甚至还有朋友给自己的妈妈也报了。&lt;/p&gt;
 
 &lt;p&gt;现把使用经历和经验教训整理到博客上，以便更多伙伴&lt;strong&gt;早点获得如此优质的服务开始练习，寻找人生热望，并给自己编织人生降落伞、更从容地面对人生起伏和挑战，从而释放更大潜力、创造更大价值，让人生更加幸福&lt;/strong&gt; —— 一想到这个我就打心底里鼓舞欢喜哇 😋&lt;/p&gt;
 
@@ -747,7 +751,7 @@
   &lt;li&gt;210404 根据收到的反馈增补 FAQ 1h&lt;/li&gt;
   &lt;li&gt;210403 迭代完善 6h&lt;/li&gt;
   &lt;li&gt;210324 整理初稿 3h&lt;/li&gt;
-&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">这两个月我个人状态发生了些自己特别欣喜的变化—— 更清楚自己想要怎样的生活，也慢慢找回热望，逐步回到充满干劲和希望的状态。 更清楚哪些事情会让自己更易开心、幸福，也更能接纳自己、品味生活、发现乐趣。 每天有更多时间专注当下，累的时候能更迅速地恢复状态——以前困倦时会找个地方躺十五二十分钟，或者做做放松敲击操。现在主要是正念了，虽然还经常走神，但十分钟左右就复活七八成、一身轻松。日常做饭吃饭搞家务也不时正念，舒坦满足。总之心流时长和幸福感高了不少。 逐步上手一项受益终生，且适合我这样懒人的生活策略——五六年前第一次尝试正念冥想到现在，历经多次不到一周就不了了之，现在终于把正念冥想变成日常习惯。虽然远没到专家水平，但乐意且正在持续练习——这对于我来说，是巨大进步；对于掌握正念冥想这项技能来说，也成功了大半。 终于开始行动，发起线上定期碰头交流的小组，增强自己的社会支持系统，也促进自己输出。 能有这些变化，离不开近期参加的「暂停实验室」。这家线上心理健身房，已成我最喜欢的陪伴型学习产品。独乐乐不如众乐乐，之前已在朋友圈多次推荐，也陆续收到朋友参与后分享的收获、喜悦和感谢。 现把使用经历和经验教训整理到博客上，以便更多伙伴早点获得如此优质的服务开始练习，寻找人生热望，并给自己编织人生降落伞、更从容地面对人生起伏和挑战，从而释放更大潜力、创造更大价值，让人生更加幸福 —— 一想到这个我就打心底里鼓舞欢喜哇 😋</summary></entry><entry><title type="html">「输出实验室」玩法介绍&amp;amp;报名入口（长期有效）</title><link href="http://localhost:4000/community/selfedu/info_facilitate_output" rel="alternate" type="text/html" title="「输出实验室」玩法介绍&amp;报名入口（长期有效）" /><published>2021-03-31T00:00:00+08:00</published><updated>2021-03-31T00:00:00+08:00</updated><id>http://localhost:4000/community/selfedu/info_facilitate_output</id><content type="html" xml:base="http://localhost:4000/community/selfedu/info_facilitate_output">&lt;p&gt;最近我在尝试职业转型，探索把自己一份时间卖出多次的可能。接下来前进路上下一个最大风险，在于「能否持续输出」。毕竟 &lt;strong&gt;有效实验频次=迭代速度=学习速度=找到满意解的概率&lt;/strong&gt; ，而我最近输出比较磨蹭。&lt;/p&gt;
+&lt;/ul&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">这两个月我个人状态发生了些自己特别欣喜的变化—— 更清楚自己想要怎样的生活，也慢慢找回热望，逐步回到充满干劲和希望的状态。 更清楚哪些事情会让自己更易开心、幸福，也更能接纳自己、品味生活、发现乐趣。 每天有更多时间专注当下，累的时候能更迅速地恢复状态——以前困倦时会找个地方躺十五二十分钟，或者做做放松敲击操。现在主要是正念了，虽然还经常走神，但十分钟左右就复活七八成、一身轻松。日常做饭吃饭搞家务也不时正念，舒坦满足。总之心流时长和幸福感高了不少。 逐步上手一项受益终生，且适合我这样懒人的生活策略——五六年前第一次尝试正念冥想到现在，历经多次不到一周就不了了之，现在终于把正念冥想变成日常习惯。虽然远没到专家水平，但乐意且正在持续练习——这对于我来说，是巨大进步；对于掌握正念冥想这项技能来说，也成功了大半。 终于开始行动，发起线上定期碰头交流的小组，增强自己的社会支持系统，也促进自己输出。 能有这些变化，离不开近期参加的「暂停实验室」。这家线上心理健身房，已成我最喜欢的陪伴型学习产品。独乐乐不如众乐乐，之前已在朋友圈多次推荐，也陆续收到朋友参与后分享的收获、喜悦和感谢，甚至还有朋友给自己的妈妈也报了。 现把使用经历和经验教训整理到博客上，以便更多伙伴早点获得如此优质的服务开始练习，寻找人生热望，并给自己编织人生降落伞、更从容地面对人生起伏和挑战，从而释放更大潜力、创造更大价值，让人生更加幸福 —— 一想到这个我就打心底里鼓舞欢喜哇 😋</summary></entry><entry><title type="html">「输出实验室」玩法介绍&amp;amp;报名入口（长期有效）</title><link href="http://localhost:4000/community/selfedu/info_facilitate_output" rel="alternate" type="text/html" title="「输出实验室」玩法介绍&amp;报名入口（长期有效）" /><published>2021-03-31T00:00:00+08:00</published><updated>2021-03-31T00:00:00+08:00</updated><id>http://localhost:4000/community/selfedu/info_facilitate_output</id><content type="html" xml:base="http://localhost:4000/community/selfedu/info_facilitate_output">&lt;p&gt;最近我在尝试职业转型，探索把自己一份时间卖出多次的可能。接下来前进路上下一个最大风险，在于「能否持续输出」。毕竟 &lt;strong&gt;有效实验频次=迭代速度=学习速度=找到满意解的概率&lt;/strong&gt; ，而我最近输出比较磨蹭。&lt;/p&gt;
 
 &lt;p&gt;所以上周在朋友圈征集了三组伙伴，尝试摸索促进自己持续输出的办法。得益于这几天的高频实验和小组伙伴的交流反馈，我对接下来想张罗的小组和玩法日渐清晰。现整理成文，如果你有任何疑问、建议、反馈，都欢迎随时和我交流。&lt;/p&gt;
 
@@ -1064,7 +1068,7 @@
       &lt;p&gt;「一次只处理一个议题，专注于满足议题提出者的需求」这个原则，来自合弄制战术会的议题处理环节。具体可见 &lt;a href=&quot;https://www.holacracy.org/tactical-meetings#:~:text=Tactical%20Meetings%20are%20focused%20on,scheduled%20by%20the%20circle's%20Secretary.&quot;&gt;Tactical Meetings – Holacracy&lt;/a&gt; 中「TRIAGE ISSUES」 模块。&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">最近我在尝试职业转型，探索把自己一份时间卖出多次的可能。接下来前进路上下一个最大风险，在于「能否持续输出」。毕竟 有效实验频次=迭代速度=学习速度=找到满意解的概率 ，而我最近输出比较磨蹭。 所以上周在朋友圈征集了三组伙伴，尝试摸索促进自己持续输出的办法。得益于这几天的高频实验和小组伙伴的交流反馈，我对接下来想张罗的小组和玩法日渐清晰。现整理成文，如果你有任何疑问、建议、反馈，都欢迎随时和我交流。 友情提示： 内容较长，建议在电脑上查看，这样可通过左侧目录快速了解整体结构、查看自己感兴趣的内容。 如果没时间细看，可尝试手机「朗读屏幕」功能，在通勤或家务时听读。iOS 可参考这篇文章《听读生产力：iPhone「朗读屏幕」功能的9种高效用法》， Android 可检索类似 App . 这个页面会持续迭代更新，感兴趣的伙伴可以收藏一下，以便随时取用最新内容。</summary></entry><entry><title type="html">我如何成为换头最快的1%？| 过去8个月的面容调整复盘</title><link href="http://localhost:4000/selfedu/tool/ReviewFacialGrowth" rel="alternate" type="text/html" title="我如何成为换头最快的1%？| 过去8个月的面容调整复盘" /><published>2021-03-08T00:00:00+08:00</published><updated>2021-03-08T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/tool/ReviewFacialGrowth</id><content type="html" xml:base="http://localhost:4000/selfedu/tool/ReviewFacialGrowth">&lt;blockquote class=&quot;blockquote-center&quot;&gt; 愿你我都长出基因里&lt;br /&gt; 最健康最美的样子 &lt;/blockquote&gt;
+&lt;/div&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">最近我在尝试职业转型，探索把自己一份时间卖出多次的可能。接下来前进路上下一个最大风险，在于「能否持续输出」。毕竟 有效实验频次=迭代速度=学习速度=找到满意解的概率 ，而我最近输出比较磨蹭。 所以上周在朋友圈征集了三组伙伴，尝试摸索促进自己持续输出的办法。得益于这几天的高频实验和小组伙伴的交流反馈，我对接下来想张罗的小组和玩法日渐清晰。现整理成文，如果你有任何疑问、建议、反馈，都欢迎随时和我交流。 友情提示： 内容较长，建议在电脑上查看，这样可通过左侧目录快速了解整体结构、查看自己感兴趣的内容。 如果没时间细看，可尝试手机「朗读屏幕」功能，在通勤或家务时听读。iOS 可参考这篇文章《听读生产力：iPhone「朗读屏幕」功能的9种高效用法》， Android 可检索类似 App . 这个页面会持续迭代更新，感兴趣的伙伴可以收藏一下，以便随时取用最新内容。</summary></entry><entry><title type="html">我如何成为换头最快的1%？· 过去8个月的面容调整复盘</title><link href="http://localhost:4000/selfedu/tool/ReviewFacialGrowth" rel="alternate" type="text/html" title="我如何成为换头最快的1%？· 过去8个月的面容调整复盘" /><published>2021-03-08T00:00:00+08:00</published><updated>2021-03-08T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/tool/ReviewFacialGrowth</id><content type="html" xml:base="http://localhost:4000/selfedu/tool/ReviewFacialGrowth">&lt;blockquote class=&quot;blockquote-center&quot;&gt; 愿你我都长出基因里&lt;br /&gt; 最健康最美的样子 &lt;/blockquote&gt;
 
 &lt;p&gt;过去大半年，我发生了一些肉眼可见的可喜变化。&lt;/p&gt;
 
@@ -1236,7 +1240,7 @@
 &lt;p&gt;回顾整个过程，我发现关键是这几点，而且可以复用到任何领域：&lt;/p&gt;
 
 &lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;对于陌生领域，保持开放保持好奇，而不是马上拒绝。&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;对于陌生领域，保持开放保持好奇，而不是马上拒绝。尤其是上行收益喜人、下行风险可控的机会，不妨一试。&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;审慎思考之后，取大概率能为己所用之处，快速设计方案验证假设、迭代调整。&lt;/strong&gt;&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;用心管理风险，提前做好预案。&lt;/strong&gt;&lt;/li&gt;
 &lt;/ol&gt;
@@ -1334,7 +1338,7 @@
       &lt;p&gt;「干部七项」是小年糕认为如果想成为优秀的 FTO(Feature Team Owner)，需要具备的七项基本技能：OKR目标管理、项目管理、复盘、情境领导、教练技术、精益创业、识人断人。&amp;nbsp;&lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
   &lt;/ol&gt;
-&lt;/div&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">愿你我都长出基因里 最健康最美的样子 过去大半年，我发生了一些肉眼可见的可喜变化。 嗯，真的是肉眼可见。虽然发出来过往照片很毁形象，但无图无真相，为了让你直观感受，还是上图看一下：</summary></entry><entry><title type="html">由“拥抱变化”引发的羞愧和反思</title><link href="http://localhost:4000/selfedu/murmur/TipsEmbraceChange" rel="alternate" type="text/html" title="由“拥抱变化”引发的羞愧和反思" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/murmur/TipsEmbraceChange</id><content type="html" xml:base="http://localhost:4000/selfedu/murmur/TipsEmbraceChange">&lt;p&gt;&lt;strong&gt;“拥抱变化”&lt;/strong&gt;，是不少公司的价值观。之前我只理解为心态开放地面对变化，最近越发意识到，这其实&lt;strong&gt;不只关乎心态、意愿（commitment），更关乎能力（competence）&lt;/strong&gt;——如果只是有意愿迎接变化，将远难“拥抱变化”。毕竟欠了拥抱变化的能力，面对变化极易遇挫，长此以往，难免磨去意愿。&lt;/p&gt;
+&lt;/div&gt;</content><author><name>闪闪 | ishanshan</name></author><summary type="html">愿你我都长出基因里 最健康最美的样子 过去大半年，我发生了一些肉眼可见的可喜变化。 嗯，真的是肉眼可见。虽然发出来过往照片很毁形象，但无图无真相，为了让你直观感受，还是上图看一下：</summary></entry><entry><title type="html">由“拥抱变化”引发的羞愧和反思 · 杂记</title><link href="http://localhost:4000/selfedu/murmur/TipsEmbraceChange" rel="alternate" type="text/html" title="由“拥抱变化”引发的羞愧和反思 · 杂记" /><published>2020-04-04T00:00:00+08:00</published><updated>2020-04-04T00:00:00+08:00</updated><id>http://localhost:4000/selfedu/murmur/TipsEmbraceChange</id><content type="html" xml:base="http://localhost:4000/selfedu/murmur/TipsEmbraceChange">&lt;p&gt;&lt;strong&gt;“拥抱变化”&lt;/strong&gt;，是不少公司的价值观。之前我只理解为心态开放地面对变化，最近越发意识到，这其实&lt;strong&gt;不只关乎心态、意愿（commitment），更关乎能力（competence）&lt;/strong&gt;——如果只是有意愿迎接变化，将远难“拥抱变化”。毕竟欠了拥抱变化的能力，面对变化极易遇挫，长此以往，难免磨去意愿。&lt;/p&gt;
 
 &lt;p&gt;那再进一步，“拥抱变化的能力”是啥？&lt;!-- more --&gt; 在我看来，这非单一技能，而是一套技能集（a set of skills）：&lt;strong&gt;包括可靠的资源协调能力，或能积累厚实的社会/文化/经济资本，从而触及很多资源；以及足够的认知带宽，从容关注海量信息，并能敏锐地识别出来有价值的信号；然后能全局长期动态本质系统思考，高效决策更有利于达成大目标的下一步行动&lt;/strong&gt;。如此，当变化来临时，才有更多主动权，甚至主导变化。&lt;/p&gt;
 

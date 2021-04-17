@@ -11,7 +11,7 @@ post-reward: true
 
 
 
-[@闪闪-ishanshan](https://github.com/ishanshan)，一枚在不断打开盲区的小女子，喜欢探索分享优雅有效、能跨越大时间周期的工具方法，期待过上[「健康自在 自信从容」的幸福生活](https://github.com/ishanshan/collaborate_ishanshan/blob/master/ideallife_ishanshan.md)。
+[@闪闪-ishanshan](https://github.com/ishanshan)，一枚在不断打开盲区的小女子，目前坐标北京。喜欢探索分享优雅有效、能跨越大时间周期的工具方法，期待过上[「健康自在 自信从容」的幸福生活](https://github.com/ishanshan/collaborate_ishanshan/blob/master/ideallife_ishanshan.md)。
 
 之前六年一直在互联网行业，做过教研、运营、学习与发展教练、产品。虽然他们看似不同职务，但在我眼里都是相通的——**传播 meme（模因）影响人，帮助人更易发生行为改变**。目前处于职业转型阶段，在探索把自己一份时间卖出多次的可能。
 
@@ -31,13 +31,13 @@ post-reward: true
 ### 能提供的帮助：
 
 1. 交流关于「健康自在 自信从容」生活的经验教训、工具方法
-2. 交流下列「About My Mentors」模块涉及行事风格、心智模式、习惯偏好的探索实践、资源推荐
+2. 交流下文「About My Mentors」模块所提行事风格、心智模式、习惯偏好的探索实践、资源推荐
 
 ### 近期需要的帮助：
 
 通过交流捋清思路、激发灵感、促进输出。
 
-所以如果你有具体的实践疑难，欢迎和我交流 🤗 联系方式见文末。
+所以如果你有**具体的实践疑难**，欢迎和我交流，线上线下都可以 🤗 联系方式见文末。
 
 
 

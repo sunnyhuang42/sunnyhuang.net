@@ -35,7 +35,10 @@ permalink: /community/:title:output_ext
 
 简明的命名，能省不少识别取用的时间。命名时尽量注意：
 
-- [采用大驼峰式命名法](https://zh.wikipedia.org/wiki/%E9%A7%9D%E5%B3%B0%E5%BC%8F%E5%A4%A7%E5%B0%8F%E5%AF%AB)，比如 `HbDocName`；尽量不要混用多种命名法，错误例子比如 `HbDoc_Name`
+- ~~[采用大驼峰式命名法](https://zh.wikipedia.org/wiki/%E9%A7%9D%E5%B3%B0%E5%BC%8F%E5%A4%A7%E5%B0%8F%E5%AF%AB)，比如 `HbDocName`~~ 210422 更新：采用**下划线命名法（underscore case）**，比如 hb_docname
+    - 驼峰命名在一些情况下容易出错，比如有时候会被自动转为全小写，容错性不如下划线命名法好
+    - 下面的例子就不一一修改了，你能理解意思就好
+- 尽量不要混用多种命名法，错误例子比如 `HbDoc_Name`
 - 日期使用 6 位数字标注，默认忽略年份前两位以减少字符，比如 `151203`（2015年 12 月 3 日）
 - 避免语意重复，比如面对用户的 wiki 里 `HbAppUserGuide` 文档，命名简写为 `HbApp` 也并不会影响理解，加上 `UserGuide` 反倒叫人多反应一会儿，还让这个 wiki 链接长了不少，大可放心去掉
 
@@ -181,6 +184,7 @@ permalink: /community/:title:output_ext
 
 ## CHANGELOG
 
+- 210422 删去大驼峰命名法，改为推荐下划线命名法
 - 180327 更新命名示例
 - 170826 增补 `请勿出现「@」「#」符号` 组块
 - 170318 删减细节修订措辞

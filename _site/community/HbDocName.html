@@ -519,7 +519,7 @@
                   <span class="post-meta-item-text">Words count</span>
                 
                 <span title="Words count">
-                  3847
+                  3961
                 </span>
               
 
@@ -603,7 +603,13 @@
 <p>简明的命名，能省不少识别取用的时间。命名时尽量注意：</p>
 
 <ul>
-  <li><a href="https://zh.wikipedia.org/wiki/%E9%A7%9D%E5%B3%B0%E5%BC%8F%E5%A4%A7%E5%B0%8F%E5%AF%AB">采用大驼峰式命名法</a>，比如 <code class="highlighter-rouge">HbDocName</code>；尽量不要混用多种命名法，错误例子比如 <code class="highlighter-rouge">HbDoc_Name</code></li>
+  <li><del><a href="https://zh.wikipedia.org/wiki/%E9%A7%9D%E5%B3%B0%E5%BC%8F%E5%A4%A7%E5%B0%8F%E5%AF%AB">采用大驼峰式命名法</a>，比如 <code class="highlighter-rouge">HbDocName</code></del> 210422 更新：采用<strong>下划线命名法（underscore case）</strong>，比如 hb_docname
+    <ul>
+      <li>驼峰命名在一些情况下容易出错，比如有时候会被自动转为全小写，容错性不如下划线命名法好</li>
+      <li>下面的例子就不一一修改了，你能理解意思就好</li>
+    </ul>
+  </li>
+  <li>尽量不要混用多种命名法，错误例子比如 <code class="highlighter-rouge">HbDoc_Name</code></li>
   <li>日期使用 6 位数字标注，默认忽略年份前两位以减少字符，比如 <code class="highlighter-rouge">151203</code>（2015年 12 月 3 日）</li>
   <li>避免语意重复，比如面对用户的 wiki 里 <code class="highlighter-rouge">HbAppUserGuide</code> 文档，命名简写为 <code class="highlighter-rouge">HbApp</code> 也并不会影响理解，加上 <code class="highlighter-rouge">UserGuide</code> 反倒叫人多反应一会儿，还让这个 wiki 链接长了不少，大可放心去掉</li>
 </ul>
@@ -769,6 +775,7 @@
 <h2 id="changelog">CHANGELOG</h2>
 
 <ul>
+  <li>210422 删去大驼峰命名法，改为推荐下划线命名法</li>
   <li>180327 更新命名示例</li>
   <li>170826 增补 <code class="highlighter-rouge">请勿出现「@」「#」符号</code> 组块</li>
   <li>170318 删减细节修订措辞</li>

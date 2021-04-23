@@ -151,7 +151,7 @@ categories:
 
 ---
 
-很开心你耐心看到这里，再放一次入手链接以便取用：[人生彩虹本](https://shop7233577.m.youzan.com/wscgoods/detail/27085d8laf2gx?banner_id=f.77441815~tag_list_left.3~5.1~cwWD31qw&alg_id=0&slg=0&components_style_layout=undefined&reft=1619063222062&spm=f.77441815) 
+很开心你耐心看到这里，再放一次入手链接，以便希望人生更从容且有方向的你取用：[人生彩虹本](https://shop7233577.m.youzan.com/wscgoods/detail/27085d8laf2gx?banner_id=f.77441815~tag_list_left.3~5.1~cwWD31qw&alg_id=0&slg=0&components_style_layout=undefined&reft=1619063222062&spm=f.77441815) 
 
 # CHANGELOG 
 

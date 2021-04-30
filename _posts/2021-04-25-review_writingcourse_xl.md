@@ -189,7 +189,7 @@ PS:
 
 # PS. 如何报名？
 
-最新一期课程周期是 5.7-6.3 ，**报名截止时间是 4.30（周五） 20:00**。详情可见 [笑来写作训练营安排](https://www.yuque.com/ishanshan/practice_writing/lhd95g#Xi2Ul) 。
+最新一期课程周期是 5.7-6.3 ，**报名截止时间是 5.1（周六） 20:00**。详情可见 [笑来写作训练营安排](https://www.yuque.com/ishanshan/practice_writing/lhd95g#Xi2Ul) 。
 
 如何加入？
 1. 下载新生大讲堂 App‬ [https://www.firesbox.com/app/](https://www.firesbox.com/app/)

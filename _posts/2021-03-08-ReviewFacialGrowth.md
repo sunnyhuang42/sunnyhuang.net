@@ -17,7 +17,7 @@ categories:
 <!-- more -->
 
 ![前后变化对比图](http://ishanshan.zoomquiet.top/share/facechange003.png)
-<center> 最新的对比见这里：http://ishanshan.zoomquiet.top/share/facialgrowth2103.jpg </center>
+<center> 最新的对比见这里：http://ishanshan.zoomquiet.top/share/facialgrowth2104.jpg </center>
 
 <br> 
 
@@ -123,8 +123,8 @@ categories:
 
 然后很快，就发生了更多变化，甚至最开始几个月，连 face ID 都不认得我了，两三周就要更新一次。当时还有位一两个月见我一次的同事说，每次看到我都感觉比以前更漂亮了，但又说不上来哪里变了，还以为是自己的错觉；直到看到我对比照记录，才知道不是错觉，是真在变化。
 
-![facialgrowth2102.jpg](http://ishanshan.zoomquiet.top/share/facialgrowthlist2103.jpg?imageView2/2/w/500)
-<center> ▶ 大图可看这里：http://ishanshan.zoomquiet.top/share/facialgrowthlist2103.jpg </center>
+![facialgrowth2102.jpg](http://ishanshan.zoomquiet.top/share/facialgrowthlist2104.jpg?imageView2/2/w/500)
+<center> ▶ 大图可看这里：http://ishanshan.zoomquiet.top/share/facialgrowthlist2104.jpg </center>
 
 
 
@@ -252,6 +252,7 @@ categories:
 
 ## CHANGELOG 
 
+- 210430 添加本月最新对比图
 - 210330 添加本月最新对比图
 - 210316 添加优惠券领取地址
 - 210308 更新细节，发布到博客 4h

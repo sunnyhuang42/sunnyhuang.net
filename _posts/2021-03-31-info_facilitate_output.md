@@ -112,11 +112,11 @@ categories:
 
 ## 往期用户反馈：
 
-日常的一些反馈，可参考「输出实验室」在知识星球的 公开交流区 ： https://t.zsxq.com/2jaMjyr 
+日常的一些反馈，可参考「输出实验室」在知识星球的 公开交流区 ： https://t.zsxq.com/2jaMjyr
 
-每期结营时的反馈：
+每期结营时的反馈（采集的问题见[反馈采集表](http://ishanshan.mikecrm.com/1xLukDg)）：
 
-- M5： 待更新
+- M5：[part1](http://ishanshan.zoomquiet.top/share/fb_fom5-1.png)、[part2](http://ishanshan.zoomquiet.top/share/fb_fom5-2.png)
 - M4：http://ishanshan.zoomquiet.top/share/fb_fom4.jpg
 
 # 如何报名？

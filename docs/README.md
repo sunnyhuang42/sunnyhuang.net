@@ -30,16 +30,16 @@ Hi, 欢迎来访。
 
 ### 如何及时了解这个博客的更新？
 
-这个博客的内容，托管在六七个不同主题的 GitHub 仓库。如果你有比较关注的主题，希望及时了解更新，欢迎到 GitHub watch 对应 repository ：[https://github.com/ishanshan](https://github.com/ishanshan)
+这个博客的内容，来自六七个不同主题的 GitHub 仓库。如果你有比较关注的主题，希望及时了解更新，欢迎到 GitHub watch 对应 repository ：[https://github.com/ishanshan](https://github.com/ishanshan)
 
 如果你希望了解整个博客主要有哪些更新，可以留意这个页面：
 
 [内容更新列表](index_update) 
 
-接下来如果有较大更新，比如发布了新博文，或者对已有博文做了较大迭代，我都会更新到那里。
+接下来如果有较大更新，比如发布了新博文，或者对已有博文做了较大迭代，我都会更新到上述「内容更新列表」。
 
 如果你想及时了解这些更新，可以：
-1. watching 上述页面对应的 GitHub 仓库：https://github.com/ishanshan/blog_upd/blob/master/index_upd.md 
+1. watching 「内容更新列表」对应的 GitHub 仓库：https://github.com/ishanshan/blog_upd/blob/master/index_upd.md 
 2. 配置自己喜欢的消息提醒的方式：[Configuring notifications - GitHub Docs](https://docs.github.com/en/github/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications)
 
 

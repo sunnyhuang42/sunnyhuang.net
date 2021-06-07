@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <title>ishanshan's blog</title>
+  <link rel="icon"
+        href="http://ishanshan.zoomquiet.top/share/favicon.ico">
+
+  <link rel="stylesheet"
+        href="//cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/style.css" />
+  <!--  <link rel="stylesheet" href="https://unpkg.com/docsify-toc@1.0.0/dist/toc.css">-->
+
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/themes/vue.css">
+
+  <meta http-equiv="X-UA-Compatible"
+        content="IE=edge,chrome=1" />
+  <meta name="google-site-verification"
+        content="" />
+  <meta name="keywords"
+        content="输出,协作,健康,幸福,从容,工具方法,博客,ishanshan,blog">
+  <meta name="description"
+        content="记录分享 令人「健康蓬勃 温暖从容」的工具方法">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <!--<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/themes/vue.css" /> -->
+
+
+
+
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/sidebar.min.css" />
+
+
+
+
+
+<style>
+  nav.app-nav li ul {
+    min-width: 100px;
+  }
+
+  .page_toc .lv2 span {
+    text-indent: 0 !important;
+    padding-left: 5px !important;
+    white-space: initial !important;
+  }
+
+  .page_toc .lv3 span {
+    text-indent: 0 !important;
+    padding-left: 20px !important;
+    white-space: initial !important;
+  }
+
+  .page_toc .lv4 span {
+    text-indent: 0 !important;
+    padding-left: 30px !important;
+    white-space: initial !important;
+  }
+
+  .page_toc .lv5 span {
+    text-indent: 0 !important;
+    padding-left: 40px !important;
+    white-space: initial !important;
+  }
+
+
+
+
+
+
+    #TOPBANNER {
+      z-index: 111;
+      height: initial;
+      font-size: 10px;
+      text-align: center;
+    }
+
+    .markdown-section {
+      padding-right: 60px;
+      font-size: 16px;
+    }
+
+    .markdown-section h4{
+      font-size: 18px;
+    }
+
+    #gitalk-container {
+      /* max-width: 300px; */
+    }
+
+  </style>
+
+
+
+
+  <script>
+    ; (function(win) {
+      function isFunction(functionToCheck) {
+        return functionToCheck && {}.toString.call(functionToCheck) === '[object Function]'
+      }
+
+      win.EditOnGithubPlugin = {}
+
+      function create(docBase, docEditBase, title) {
+        title = title || 'Edit on github'
+        docEditBase = docEditBase || docBase.replace(/\/blob\//, '/edit/')
+
+        function editDoc(event, vm) {
+          var docName = vm.route.file
+
+          if (docName) {
+            var editLink = docEditBase + docName
+            window.open(editLink)
+            event.preventDefault()
+            return false
+          } else {
+            return true
+          }
+        }
+
+        win.EditOnGithubPlugin.editDoc = editDoc
+
+        function generateHeader(title) {
+          return header = [
+            '<div style="overflow: auto">',
+            '<p style="float: right"><a style="text-decoration: underline; cursor: pointer"',
+            'onclick="EditOnGithubPlugin.onClick(event)">',
+            title,
+            '</a ></p >',
+            '</div>'
+          ].join('')
+        }
+
+        return function(hook, vm) {
+          win.EditOnGithubPlugin.onClick = function(event) {
+            EditOnGithubPlugin.editDoc(event, vm)
+          }
+
+          if (isFunction(title)) {
+
+            hook.afterEach(function(html) {
+              return html + generateHeader(title(vm.route.file))
+            })
+          } else {
+            var header = generateHeader(title)
+
+            hook.afterEach(function(html) {
+              return header + html
+            })
+          }
+
+
+        }
+      }
+
+      win.EditOnGithubPlugin.create = create
+    })(window)
+  </script>
+</head>
+
+<body>
+<div id="bTOPBANNER"></div>
+<div id="app">正在拼命加载，请稍等……
+  <aside class="sidebar">
+        <span id="aTOPBANNER">
+
+        </span>
+</div>
+</aside>
+
+<a class="to-top"
+   style="cursor: pointer; position: fixed; right: 15px; bottom: 30px; display: inline;">↑</a >
+
+
+
+<script>
+  window.$docsify = {
+    count: {
+      margin: "50px",
+      language:'chinese',
+    },
+    // search: 'auto', // default
+
+    alias: {
+
+      '.*?/index_update':
+        'https://raw.githubusercontent.com/ishanshan/blog_upd/master/index_upd.md',
+      '.*?/family/(.*)':
+        'https://raw.githubusercontent.com/ishanshan/ForFamily/master/docs/$1',
+      '.*?/about/(.*)':
+        'https://raw.githubusercontent.com/ishanshan/collaborate_ishanshan/master/$1',
+      '.*?/devpro/(.*)':
+        'https://raw.githubusercontent.com/ishanshan/Road2StrategyPM/master/$1',
+      '.*?/swing/(.*)':
+        'https://raw.githubusercontent.com/ishanshan/EnjoySwingDancing/master/$1',
+      '.*?/wr/(.*)':
+        'https://raw.githubusercontent.com/ishanshan/writing_hub/master/content/$1',
+      '.*?/cmty/(.*)':
+        'https://raw.githubusercontent.com/ishanshan/CollaborationGuide4Shaper/v2/CONTENT/$1',
+      '.*?/f_output/(.*)':
+        'https://raw.githubusercontent.com/facilitate-output/blog/main/content/$1',
+
+
+    },
+    notFoundPage: true,
+
+    repo: '',
+    // repo: '', // set the docsify show the corner
+    corner: {
+      // the icon link url to another site
+      url: "https://gitlab.com/gitlab-org/gitlab-svgs",
+      // the default preset icon in docsify-corner
+      icon: "gitlab",
+    },
+    plugins: [
+      // EditOnGithubPlugin.create(
+              // 'https://github.com/ishanshan/facilitate_output/tree/main/docs/',
+              // null,
+              // function(file) {
+                // if (file.indexOf('en') === -1) {
+                  // return '[编辑本页]'
+                // } else {
+                  // return '无法获取源地址'
+                // }
+              // }
+      // ),
+
+
+      function(hook) {
+        const footnote_elements = new Map();
+        var footer = [
+          '<footer style="text-align: center;margin-top: 20px;color: gray;">',
+          '<footer>',
+          '<span>如果内容对你有帮助，那就来杯酸奶助我继续分享吧 (＾－＾)V <a href="http://ishanshan.zoomquiet.top/share/rewardblogwechatpay-3.jpeg?imageView2/2/w/280"> 赠酸奶 </strong></a> </span><br>',
+          '<span>&copy;2015-2021 ♥ <a href="https://github.com/ishanshan"> 闪闪 | ishanshan</a>, </span>',
+          'under <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC-SA 4.0</a>.<br>',
+          '转载或引用，请保留链接并申明来源',
+/*                    '<span id="busuanzi_container_site_pv" style=\'display:none\'>\n' +
+                '    本站总访问量<span id="busuanzi_value_site_pv"></span>次|\n' +
+                '    👀本站访客数：<span id="busuanzi_value_site_uv"></span>人次<br>\n' +
+                '</span>',*/
+          '</footer>'
+        ].join('');
+
+        hook.afterEach(function(html) {
+          const urlPrefix = window.location.href.substring(0, window.location.href.indexOf('?') > 0 ? window.location.href.indexOf('?') : undefined);
+          if (urlPrefix.endsWith('/#/')) {
+            window.location.href += 'README';
+            window.location.reload();
+          }
+          const beforeFooter = html.replaceAll(
+                  /\[\^([^\]]*)\]/g,
+                  function(match,footnoteId){
+                    // if(true) return match;
+                    if (!footnote_elements.has(footnoteId)) {
+                      footnote_elements.set(footnoteId, footnote_elements.size + 1);
+                      return `<a id="footnote_ref_${footnote_elements.size}" href="${urlPrefix}?id=footnote_${footnote_elements.size}"><sup>${footnote_elements.size}</sup></a>`
+                    } else {
+                      return `<br class="footnote_splitter"/><a id="footnote_${footnote_elements.get(footnoteId)}" href="${urlPrefix}?id=footnote_ref_${footnote_elements.get(footnoteId)}"><span>[${footnote_elements.get(footnoteId)}]</span></a>`
+                    }
+                  }
+          );
+          const reference_h2_index = beforeFooter.indexOf('h2 id="reference"');
+          if (reference_h2_index === -1) {
+            return beforeFooter + footer;
+          }
+          const footnote_start_index = beforeFooter.indexOf('<p>', reference_h2_index) + 3;
+          const footnote_end_index = beforeFooter.indexOf('</p>', reference_h2_index);
+          if (footnote_start_index === -1 || footnote_end_index === -1) {
+            return beforeFooter + footer;
+          }
+          const footnote =  beforeFooter.substring(footnote_start_index, footnote_end_index);
+          const sorted_footnote = footnote.split('<br class=\"footnote_splitter\"/>').slice(1).sort((item1, item2) => item1.substring(16,item1.indexOf("\" ")) - item2.substring(16,item2.indexOf("\" "))).join('<br/>')
+          // return beforeFooter + footer;
+          return beforeFooter.substring(0, footnote_start_index) + sorted_footnote + beforeFooter.substring(footnote_end_index) + footer;
+        });
+      }
+    ],
+    auto2top: true,
+    // themeColor: '#3F51B7',
+    mergeNavbar: false,
+    executeScript: true,
+    loadSidebar: true,
+    loadNavbar: true,
+    maxLevel: 1,
+    subMaxLevel: 6,
+    sidebarDisplayLevel: 0,
+    name: 'ishanshan\'s blog',
+    nameLink: 'https://ishanshan.im/',
+    topBanner: {
+      content: '测试 banner，为什么看不到？(没注释掉也看不到)',
+      defaultTag: 'span',
+      position: 'fixed',
+      backgroundColor: '#deebff',
+      zIndex: 99,
+      textColor: '#091E42',
+      linkColor: '#091E42',
+      textAlign: 'center',
+
+    },
+
+
+    // toc: { // for https://github.com/justintien/docsify-plugin-toc
+    //   tocMaxLevel: 5,
+    //   target: 'h2, h2, h3, h4, h5, h6'
+    // },
+    search: {
+      noData: {
+        '/': '暂无相关内容，换个关键词试试？'
+      },
+      maxAge: 10, // Expiration time, the default one day
+      paths: 'auto',
+      placeholder: {
+        '/': '搜索'
+      }
+    },
+    // formatUpdated: '{MM}/{DD}',
+
+    // formatUpdated: function(time) {
+      // ...
+
+    //  return time;
+    // },
+  }
+</script>
+
+</script>
+
+<link rel="stylesheet" href="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.css">
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/gitalk.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/gitalk/dist/gitalk.min.js"></script>  <!--rel src这几个记得要写在body内，并且要放在该<script>以上 否则会出现gitalk no defined的报错-->
+<script>
+  const gitalk = new Gitalk({
+    clientID: 'c136fac9b4edc60a1bce',
+    clientSecret: '3167d7c32bbd36cf020486a54f08254f44f72ae9',
+    repo: 'blog_comment',
+    owner: 'ishanshan',
+    admin: ['ishanshan'],
+    // language: 'zh-CN',
+    // facebook-like distraction free mode
+    distractionFreeMode: false
+  })
+</script>
+
+
+
+
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-bash.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-markdown.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/prismjs/components/prism-nginx.min.js"></script>
+<!--  <script src="https://cdn.jsdelivr.net/npm/docsify-top-banner-plugin@latest/dist/index.js"></script>-->
+
+
+
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/zoom-image.min.js"></script>
+
+<!-- <script src="//unpkg.com/docsify-plugin-toc"></script> -->
+
+<!-- 置顶插件 -->
+<script src="https://cdn.jsdelivr.net/npm/jquery@1.11.3/dist/jquery.min.js"></script>
+<script src="js/jquery.toTop.min.js"></script>
+<script>
+  $('.to-top').toTop();
+</script>
+
+
+<script src="//unpkg.com/docsify-count/dist/countable.js"></script>
+<!-- <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>-->
+
+<!-- docsify-themeable (latest v0.x.x) -->
+<script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
+
+
+<script src="//cdn.jsdelivr.net/npm/docsify-corner/dist/docsify-corner.js"></script>
+<!--  <script src="https://unpkg.com/docsify-toc@1.0.0/dist/toc.js"></script>-->
+
+<script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+
+
+</body>
+
+</html>

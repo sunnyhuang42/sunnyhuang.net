@@ -132,15 +132,6 @@
 - [近期规划](https://docs.qq.com/doc/DVWlSYW53c1dtanB4)
 - [养娃清单](family/hb_parenting.md)
 - [关爱家人行动清单](family/TipsCare4Parents.md)
-- 杂记/mur  
-    * [进展两则：博客将要升级，「输出实验室」周日早10点截止报名](mur/upd2105.md)
-    * [博客在升级 · 主页提示](mur/welcome_blogupding.md)
-    * [不要评判某事好坏 · 杂记](mur/depend_on_your_goal.md)
-    * [由“拥抱变化”引发的羞愧和反思 · 杂记](mur/TipsEmbraceChange.md)
-    * [如果你也在天上挑妈妈 · 家书 000](mur/LetterFamily000Baby.md)
-    * [体能 不能落 · 杂记](mur/TipsMorningExercise.md)
-    * [活动主持人如何快速进入状态？如何从源头避免编程初级错误？· 170311 见 @ZoomQuiet 小记](mur/LogMeetup170311ZqBJ.md)
-
 - 自我教育/selfedu
     * [好奇带来奇妙旅程 · 笑来写作训练营结业手记](wr/review_course_xl.md)
     * [希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记](selfedu/tips_rainbowbook.md)
@@ -158,3 +149,11 @@
     * [改变我玩耍习惯的 10 场活动](selfedu/IdxActivity.md)
     * [讲座控，控住你的人生 · 学习自传（一）](selfedu/SelfEduOwetoJZK.md)
     * [入职第一天，我失眠了](selfedu/NewLifeinOMC.md)
+- 杂记/mur  
+    * [进展两则：博客将要升级，「输出实验室」周日早10点截止报名](mur/upd2105.md)
+    * [博客在升级 · 主页提示](mur/welcome_blogupding.md)
+    * [不要评判某事好坏 · 杂记](mur/depend_on_your_goal.md)
+    * [由“拥抱变化”引发的羞愧和反思 · 杂记](mur/TipsEmbraceChange.md)
+    * [如果你也在天上挑妈妈 · 家书 000](mur/LetterFamily000Baby.md)
+    * [体能 不能落 · 杂记](mur/TipsMorningExercise.md)
+    * [活动主持人如何快速进入状态？如何从源头避免编程初级错误？· 170311 见 @ZoomQuiet 小记](mur/LogMeetup170311ZqBJ.md)

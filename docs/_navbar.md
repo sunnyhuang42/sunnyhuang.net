@@ -1,7 +1,7 @@
 
 
 
-- [导览](README.md)
+- [导览](/)
 - 输出实验室
   - [介绍](f_output/)
   - [报名入口](f_output/signup.md)

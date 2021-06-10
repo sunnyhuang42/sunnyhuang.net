@@ -82,7 +82,7 @@
         - [如何做竞品调研](devpdt/HbCI.md)
 - 杂记
     - [学习资源分享](devpdt/IdxLearningRes.md)
-    - [✪为什么「美团买菜」如此重视用户反馈并快速迭代改进？](devpdt/mur_strategy_mtfood.md)
+    - [✪为什么「美团买菜」如此重视用户反馈并快速迭代改进？](devpdt/mur_strat_mtfood.md)
     - [这波内容付费平台困境出路会在哪?](devpdt/TipsEduPdtCHAL.md)
     - [K12 头部产品如何高效增加复购？](devpdt/TipsEduK12Effect.md)
     - [先做大功能模块，还是优化型需求？](devpdt/mur_DevPriority.md)

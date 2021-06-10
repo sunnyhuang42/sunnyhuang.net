@@ -67,7 +67,8 @@
 <br>
 <center><strong>产品策划开发</strong></center>
 
-- [产品策划开发手记导览](devpdt/) 
+
+- [产品策划开发手记导览](devpdt/)
 - [最佳实践观察手记](devpdt/chBP.md)
     - 教育领域
         - [线上课程如何给用户良好的同侪环境](devpdt/BP_peer_envir.md)

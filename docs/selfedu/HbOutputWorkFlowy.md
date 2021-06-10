@@ -3,7 +3,7 @@
 
 发布于 2017-03-01
 
-<br> 
+<br>
 
 <blockquote class="blockquote-center">工具是辅助，输出作品才是目的。 </blockquote>
 
@@ -148,7 +148,7 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 ![动图展示](http://openmindclub.zoomquiet.top/ishanshan/blog/DemoWorkflowyTagUsage2.gif)
 （如果图片无法显示，可换为非 chrome 浏览器查看本文，或点击[这里](http://openmindclub.zoomquiet.top/ishanshan/blog/DemoWorkflowyTagUsage2.gif)看上述动图）  
 
-<br> 
+<br>
 
 还可把筛选出的内容直接 `export` ，便可理出每个角色的检查清单：
 
@@ -222,8 +222,8 @@ PS.
 
 1. 如果你看到这篇文章想注册 WorkFlowy ，欢迎使用这个邀请链接注册，哈哈你懂的：I've been using WorkFlowy to organize my life, and thought you might like it. If you want to check it out, here's an invite link that gets you 2x more free space: <https://workflowy.com/invite/5cabe311.lnx>
 2. 相关文章索引：
-    - 作品和作品的差别，源于卡片。人和人的差异，垒于习惯。想更优雅畅快地输出作品，这套习惯也助益颇大：[卡片助力输出， MarkDown + GitHub + LOFTER 有轻功 · ishanshan's blog](https://ishanshan.im/selfedu/tool/HbOutputOwetoCards) 。
-    - 周报怎么写，能更省力更受益更有动力？且看 [用心写周报的同事，绩效不会太差 · ishanshan's blog](https://ishanshan.im/selfedu/TipsWeekly.html) 。
+    - 作品和作品的差别，源于卡片。人和人的差异，垒于习惯。想更优雅畅快地输出作品，这套习惯也助益颇大：[卡片助力输出， MarkDown + GitHub + LOFTER 有轻功 · ishanshan's blog](wr/HbOutputbyCards.md) 。
+    - 周报怎么写，能更省力更受益更有动力？且看 [用心写周报的同事，绩效不会太差 · ishanshan's blog](selfedu/TipsWeekly.md) 。
 
 ## CHANGELOG
 

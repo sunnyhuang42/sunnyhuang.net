@@ -1,6 +1,6 @@
 # 训练营安排
 
-前两个月我参加了一门受益匪浅的课程「笑来写作训练营」，发出[《从迷茫焦虑到从容踏实，这两个月我干了啥？· 万字复盘》](https://ishanshan.im/selfedu/tool/review2021Q1) 后，陆续有朋友好奇课程情况。
+前两个月我参加了一门受益匪浅的课程「笑来写作训练营」，发出[《从迷茫焦虑到从容踏实，这两个月我干了啥？· 万字复盘》](selfedu/review2021Q1.md) 后，陆续有朋友好奇课程情况。
 
 
 趁着最近有空，把课程复盘和过往作业整理更新出来，以便有以下需求的朋友，不错过如此优质的学习资源：
@@ -26,7 +26,7 @@
 - 如果能回到开课前，会对自己说什么？
 
 详见：
-[好奇带来奇妙旅程 · 笑来写作训练营结业手记 | ishanshan's blog](https://ishanshan.im/tool/selfedu/review_writingcourse_xl)
+[好奇带来奇妙旅程 · 笑来写作训练营结业手记 | ishanshan's blog](wr/review_course_xl.md)
 
 
 
@@ -69,6 +69,6 @@ PS.
 ![image.png](https://cdn.nlark.com/yuque/0/2021/png/12371180/1619252228813-885a1e82-8aba-40c2-89aa-d6df1c94d445.png#align=left&display=inline&height=636&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1055&originWidth=746&size=498964&status=done&style=none&width=450)
 
 
-## CHANGELOG 
+## CHANGELOG
 
 - 210430 创建

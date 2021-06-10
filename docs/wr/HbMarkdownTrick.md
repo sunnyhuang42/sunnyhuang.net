@@ -38,7 +38,7 @@ MarkDown 编辑器有很多，推荐选择带目录栏、支持加载本地文�
 
 - [Typora — a markdown editor, markdown reader.](https://typora.io/)：Mac/Win 均支持，免费，界面美观
 - [MWeb](http://zh.mweb.im/)：Mac ，100+ CNY ，个人感觉很值
-- [Markdown Monster - A better Markdown Editor for Windows](https://markdownmonster.west-wind.com/)：Win ，免费，界面比较 geek 
+- [Markdown Monster - A better Markdown Editor for Windows](https://markdownmonster.west-wind.com/)：Win ，免费，界面比较 geek
 
 或者选择一些不错的全能编辑器，比如 [Atom](https://atom.io/) /  [TextMate](http://macromates.com/) 。总之挑 1-2 个你用得顺手的就好。
 
@@ -57,7 +57,7 @@ MarkDown 编辑器有很多，推荐选择带目录栏、支持加载本地文�
 
 ### 优雅又省心地插入图片
 
-技巧太多，另起一篇，详见 [这样用七牛，插图优雅又省心 · MarkDown 码字发文最佳实践 | ishanshan's blog](https://ishanshan.im/tool/community/HbMarkdownImage) 。
+技巧太多，另起一篇，详见 [这样用七牛，插图优雅又省心 · MarkDown 码字发文最佳实践 | ishanshan's blog](wr/HbMarkdownImage.md) 。
 
 ### 换行
 

@@ -46,7 +46,7 @@
     * [这样用七牛，插图优雅又省心 · MarkDown 码字发文最佳实践](wr/HbMarkdownImage.md)
     * [命名用英文，烦恼少大半 · 团队文档命名指南](cmty/HbDocName.md)
     * [实用但小众的 MarkDown 技巧 ](wr/HbMarkdownTrick.md)
-    * [给文字工作者的 GitHub 上手攻略](wr/HbGitHubPre)
+    * [给文字工作者的 GitHub 上手攻略](wr/HbGitHubPre.md)
 - 日常练习
     - [跟王烁「老婆推」学记趣和爱 · 杂记](wr/TipsFascinatingLife.md)
     * [你丁酉年的故事](selfedu/Review2017.md)

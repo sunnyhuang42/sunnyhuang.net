@@ -262,10 +262,10 @@
 
         hook.afterEach(function(html) {
           const urlPrefix = window.location.href.substring(0, window.location.href.indexOf('?') > 0 ? window.location.href.indexOf('?') : undefined);
-          if (urlPrefix.endsWith('/#/')) {
-            window.location.href += 'README';
-            window.location.reload();
-          }
+          // if (urlPrefix.endsWith('/#/')) {
+            // window.location.href += 'README';
+            // window.location.reload();
+          // }
           const beforeFooter = html.replaceAll(
                   /\[\^([^\]]*)\]/g,
                   function(match,footnoteId){
@@ -303,7 +303,7 @@
     maxLevel: 1,
     subMaxLevel: 6,
     sidebarDisplayLevel: 0,
-    name: 'ishanshan\'s blog',
+    name: '<span>ishanshan\'s blog</span>',
     nameLink: 'https://ishanshan.im/',
     topBanner: {
       content: '测试 banner，为什么看不到？(没注释掉也看不到)',

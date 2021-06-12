@@ -34,17 +34,15 @@ Hi, 欢迎来访。
 
 ### 如何及时了解这个博客的更新？
 
-这个博客的内容，来自五六个不同主题的 GitHub 仓库。如果你有比较关注的主题，希望及时了解更新，欢迎到 GitHub watch 对应仓库 ：[https://github.com/ishanshan](https://github.com/ishanshan)
+这个博客的内容，来自四五个不同主题的 GitHub 仓库。如果你有比较关注的主题，希望及时了解更新，欢迎到 GitHub watch 对应仓库 ：[https://github.com/ishanshan](https://github.com/ishanshan)
 
 如果你希望了解整个博客主要有哪些更新，可以留意这个页面：
 
-[内容更新列表](index_update)
+[内容更新列表](index_update.md)
 
 接下来如果有较大更新，比如发布了新博文，或者对已有博文做了较大迭代，我都会更新到上述「内容更新列表」。
 
-如果你想及时了解这些更新，可以：
-1. watching 「内容更新列表」对应的 GitHub 仓库：https://github.com/ishanshan/blog_upd/blob/master/index_upd.md
-2. 配置自己喜欢的消息提醒的方式：[Configuring notifications - GitHub Docs](https://docs.github.com/en/github/managing-subscriptions-and-notifications-on-github/setting-up-notifications/configuring-notifications)
+
 
 
 ### 发现页面脚注样式出错？
@@ -67,6 +65,7 @@ Hi, 欢迎来访。
 
 ## CHANGELOG
 
+- 210612 去掉博客更新专用仓库
 - 210609 更新无法加载的处理提示
 - 210607 添加 友情提示 和 FAQ
 - 210526 升级进度过半，发布导览提示

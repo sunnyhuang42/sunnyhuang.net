@@ -118,10 +118,10 @@
 
 - [Swing 吧！你的苦乐，swing 知道](selfedu/YouNeedSwing.md)
 - [摇摆舞（Swing）手记导览](swing/)   
-- [Swing 新人指南](swing/HbSwingBeginner.md)  
+- [Swing 新人指南](swing/HbBeginner.md)  
 - [Swing 舞会指南](swing/HbParty.md)  
-- [Swing 动作心得](swing/HbTechniquesAndSteps.md)  
-- [Swing 星标资源](swing/IdxHighLightResources.md)  
+- [Swing 动作心得](swing/TipsMovement)  
+- [Swing 星标资源](swing/ResHighLight.md)  
 
 
 <br>

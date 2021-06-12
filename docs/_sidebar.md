@@ -8,7 +8,7 @@
 <center><strong> - - - [ 主页 ] - - - </strong></center>
 
 - [博客导览](/)
-- [内容更新列表](index_update)
+- [内容更新列表](index_update.md)
 
 
 

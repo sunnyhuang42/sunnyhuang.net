@@ -36,7 +36,7 @@ Swing 是什么？为什么 swing 让人快乐？为什么 swing 点亮了我的
 
 ## FAQ
 
-### 为什么在 GitHub 这个如此 geek 的平台上分享？
+### 为什么在 [GitHub](https://github.com/ishanshan/EnjoySwingDancing) 这个如此 geek 的平台上分享？
 
 啊哈，好问题。
 

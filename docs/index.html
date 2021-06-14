@@ -239,25 +239,31 @@
                 '</span>',*/
           '</footer>'
         ].join('');
-
+        // footer = '';
         hook.afterEach(function(html) {
           const urlPrefix = window.location.href.substring(0, window.location.href.indexOf('?') > 0 ? window.location.href.indexOf('?') : undefined);
-          // if (urlPrefix.endsWith('/#/')) {
-            // window.location.href += 'README';
+          if (urlPrefix.endsWith('/#/')) {
+            window.location.href += 'README';
             // window.location.reload();
-          // }
-          const beforeFooter = html.replaceAll(
-                  /\[\^([^\]]*)\]/g,
-                  function(match,footnoteId){
-                    // if(true) return match;
-                    if (!footnote_elements.has(footnoteId)) {
-                      footnote_elements.set(footnoteId, footnote_elements.size + 1);
-                      return `<a id="footnote_ref_${footnote_elements.size}" href="${urlPrefix}?id=footnote_${footnote_elements.size}"><sup>${footnote_elements.size}</sup></a>`
-                    } else {
-                      return `<br class="footnote_splitter"/><a id="footnote_${footnote_elements.get(footnoteId)}" href="${urlPrefix}?id=footnote_ref_${footnote_elements.get(footnoteId)}"><span>[${footnote_elements.get(footnoteId)}]</span></a>`
+          }
+
+          let beforeFooter = html;
+          try {
+            beforeFooter = html.replace(
+                    /\[\^([^\]]*)\]/g,
+                    function (match, footnoteId) {
+                      // if(true) return match;
+                      if (!footnote_elements.has(footnoteId)) {
+                        footnote_elements.set(footnoteId, footnote_elements.size + 1);
+                        return `<a id="footnote_ref_${footnote_elements.size}" href="${urlPrefix}?id=footnote_${footnote_elements.size}"><sup>${footnote_elements.size}</sup></a>`
+                      } else {
+                        return `<br class="footnote_splitter"/><a id="footnote_${footnote_elements.get(footnoteId)}" href="${urlPrefix}?id=footnote_ref_${footnote_elements.get(footnoteId)}"><span>[${footnote_elements.get(footnoteId)}]</span></a>`
+                      }
                     }
-                  }
-          );
+            );
+          } catch (e){
+            alert (e);
+          }
           const reference_h2_index = beforeFooter.indexOf('h2 id="reference"');
           if (reference_h2_index === -1) {
             return beforeFooter + footer;

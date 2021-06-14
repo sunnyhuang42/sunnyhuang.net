@@ -241,15 +241,14 @@
         ].join('');
         // footer = '';
         hook.afterEach(function(html) {
-          const urlPrefix = window.location.href.substring(0, window.location.href.indexOf('?') > 0 ? window.location.href.indexOf('?') : undefined);
-          if (urlPrefix.endsWith('/#/')) {
-            window.location.href += 'README';
-            // window.location.reload();
-          }
-
-          let beforeFooter = html;
           try {
-            beforeFooter = html.replace(
+            const urlPrefix = window.location.href.substring(0, window.location.href.indexOf('?') > 0 ? window.location.href.indexOf('?') : undefined);
+            if (urlPrefix.endsWith('/#/')) {
+              window.location.href += 'README';
+              // window.location.reload();
+            }
+
+            let beforeFooter = html.replace(
                     /\[\^([^\]]*)\]/g,
                     function (match, footnoteId) {
                       // if(true) return match;
@@ -261,22 +260,22 @@
                       }
                     }
             );
+            const reference_h2_index = beforeFooter.indexOf('h2 id="reference"');
+            if (reference_h2_index === -1) {
+              return beforeFooter + footer;
+            }
+            const footnote_start_index = beforeFooter.indexOf('<p>', reference_h2_index) + 3;
+            const footnote_end_index = beforeFooter.indexOf('</p>', reference_h2_index);
+            if (footnote_start_index === -1 || footnote_end_index === -1) {
+              return beforeFooter + footer;
+            }
+            const footnote = beforeFooter.substring(footnote_start_index, footnote_end_index);
+            const sorted_footnote = footnote.split('<br class=\"footnote_splitter\"/>').slice(1).sort((item1, item2) => item1.substring(16, item1.indexOf("\" ")) - item2.substring(16, item2.indexOf("\" "))).join('<br/>')
+            // return beforeFooter + footer;
+            return beforeFooter.substring(0, footnote_start_index) + sorted_footnote + beforeFooter.substring(footnote_end_index) + footer;
           } catch (e){
             alert (e);
           }
-          const reference_h2_index = beforeFooter.indexOf('h2 id="reference"');
-          if (reference_h2_index === -1) {
-            return beforeFooter + footer;
-          }
-          const footnote_start_index = beforeFooter.indexOf('<p>', reference_h2_index) + 3;
-          const footnote_end_index = beforeFooter.indexOf('</p>', reference_h2_index);
-          if (footnote_start_index === -1 || footnote_end_index === -1) {
-            return beforeFooter + footer;
-          }
-          const footnote =  beforeFooter.substring(footnote_start_index, footnote_end_index);
-          const sorted_footnote = footnote.split('<br class=\"footnote_splitter\"/>').slice(1).sort((item1, item2) => item1.substring(16,item1.indexOf("\" ")) - item2.substring(16,item2.indexOf("\" "))).join('<br/>')
-          // return beforeFooter + footer;
-          return beforeFooter.substring(0, footnote_start_index) + sorted_footnote + beforeFooter.substring(footnote_end_index) + footer;
         });
       }
     ],

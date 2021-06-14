@@ -1,9 +1,8 @@
+
+
+
 # ishanshan's blog
 
-博客地址：https://ishanshan.im/
+http://ishanshan.im/ 这个博客的内容，托管在六七个不同主题的 GitHub 仓库。
 
-博客主题来自模板 http://theme-next.simpleyyt.com/ 。这个 Jekyll 模板不仅样式优雅，代码也很优雅，易读易改，易拓展易维护——连我这刚踏入编程大门一只脚的水平，都能自行定制。总之强烈推荐 ：）
-
-
-
-
+如果你有比较关注的主题，希望及时了解更新，欢迎到 GitHub watch 对应 repository ：https://github.com/ishanshan

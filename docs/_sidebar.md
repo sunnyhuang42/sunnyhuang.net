@@ -23,10 +23,9 @@
 - [报名入口](f_output/signup.md)
 - 参与指南
     - [常见疑问解答/FAQ](f_output/faq.md)
-    - [如何用好这里的资源？/各角色进阶标准](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=8bdky8)
+    - [如何用好这里的资源？/各角色进阶攻略](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=8bdky8)
     - [个人目标&规划参考](https://docs.qq.com/doc/DVUptSWJ2d2pKUGti)
-    - [主持人训练规划](https://docs.qq.com/doc/DVWZER1lLa1V0c0dh)
-    - [主持人指南](https://docs.qq.com/doc/DVXFFdEpRdVZJaG1T)
+    - [主持人指南](f_output/hb_host.md)
 - 发展记录
     - 用户反馈
     - 往期复盘

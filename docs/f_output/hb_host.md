@@ -1,5 +1,5 @@
 # 主持人指南
-最后更新于 210717
+最后更新于 2021-06-18
 
 <br> 
 
@@ -9,23 +9,40 @@
 
 ## 主持人目标&职责
 
-见[各角色进阶攻略_输出实验室](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=emd87f&_t=1622941945798)里这个标签页：各角色目标&职责
+见《各角色进阶攻略_输出实验室》里这个标签页：[各角色目标&职责](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=emd87f&_t=1622941945798)
 
+
+<details>
+<summary>点击可预览</summary>
+
+[各角色进阶攻略_输出实验室](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=emd87f&_t=1622941945798 ':include :type=iframe width=100% height=400px')
+
+</details>
 
 
 ## 工作清单
 
-见   [各角色进阶攻略_输出实验室](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=ksm50z&_t=1622941945798)里这个标签页：会前会后各角色攻略
+见《各角色进阶攻略_输出实验室》里这个标签页：[会前会后各角色攻略](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=ksm50z&_t=1622941945798)
 
+<details>
+<summary>点击可预览</summary>
 
+[各角色进阶攻略_输出实验室](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=ksm50z&_t=1622941945798 ':include :type=iframe width=100% height=700px')
+
+</details>
 
 ## 进阶标准
 
-见 [各角色进阶攻略_输出实验室](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=BB08J2)里这个标签页：主持人进阶标准
+见《各角色进阶攻略_输出实验室》里这个标签页：[主持人进阶标准](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=BB08J2)
 
 
 
+<details>
+<summary>点击可预览</summary>
 
+[各角色进阶攻略_输出实验室](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=BB08J2&_t=1622941945798 ':include :type=iframe width=100% height=700px')
+
+</details>
 
 
 
@@ -35,7 +52,7 @@
 
 ## FAQ
 
-欢迎你把自己的疑问和最后的解法自主分享到「[公开交流区_输出实验室](https://t.zsxq.com/2jaMjyr)」，一起共建 FAQ  ：D
+欢迎你把自己的疑问和最后的解法，自主分享到「输出实验室」在知识星球的 [公开交流区](https://t.zsxq.com/2jaMjyr) ，一起共建  😄
 
 
 

@@ -269,7 +269,9 @@
 
 随着「if…then…」增多，我开始汇集整理，成体系的集为指南，比如 [如果我来陪你走一程·养娃清单](family/hb_parenting.md)、[CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper) ，零散的先汇到 WorkFlowy 特定节点「[随手复盘](https://workflowy.com/s/CO_N.rltyKgPOoe)」，不时翻看、更新：
 
-<iframe  width='700' height='500' frameborder='1' scrolling='no' src="https://workflowy.com/s/CO_N.rltyKgPOoe"></iframe>
+
+
+[ebed website](https://workflowy.com/s/CO_N.rltyKgPOoe ':include :type=iframe width=100% height=500px')
 
 你可能好奇，我哪来的动力给大脑编这老多脚本？很简单，知道「信息关键不在输入多少，而在影响行动转成输出」，并深信「**这个世界不缺反常识，缺的是行动，以及能让自己行动的行动**」罢。
 
@@ -288,7 +290,7 @@
 
 之前搜集的[术语释义](https://workflowy.com/s/CO_N.I0UGEwbZEL) ：
 
-<iframe  width='700' height='500' frameborder='1' scrolling='no' src="https://workflowy.com/s/CO_N.I0UGEwbZEL"></iframe>
+[embed website](https://workflowy.com/s/CO_N.I0UGEwbZEL ':include :type=iframe width=100% height=500px') 
 
 最后用在文章里：
 

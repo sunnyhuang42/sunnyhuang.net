@@ -56,7 +56,9 @@
 
 如果你还没用过 WorkFlowy ，可以先去 <https://workflowy.com/demo/embed/> 体验 3 分钟。
 
-<iframe  width='670' height='380' frameborder='1' scrolling='no' src="https://workflowy.com/s/CO_N.vA3vHSrxk2?demo"></iframe>
+[embed website](https://workflowy.com/s/CO_N.vA3vHSrxk2?demo ':include :type=iframe width=100% height=600px')
+
+
 
 <center> WorkFlowy 功能简介（可用上下键查看，cmd+? 可查看快捷键） </center>
 
@@ -84,7 +86,10 @@
 
 这样一分析，于我，工作区最舒服的尺度，是以周为单位。便在 WorkFlowy 里创造单位节点，并逐步摸索出[工作用的每周 WorkFlowy 模板](https://workflowy.com/s/CO_N.9glcXYoyF4) ：结合周报所需内容，创建每周模板，以便随时积累记录，也便安排日程及检视。一些固定发生的日程，比如小组例会等，也直接放到模板里，提醒自己，也省去重复创建的麻烦。
 
-<iframe  width='670' height='500' frameborder='1' scrolling='no' src="https://workflowy.com/s/CO_N.9glcXYoyF4"></iframe>
+
+
+[embed website](https://workflowy.com/s/CO_N.9glcXYoyF4 ':include :type=iframe width=100% height=600px')
+
 
 <center>我每周工作梳理模板（可用上下键查看，cmd+? 可查看快捷键）</center>
 

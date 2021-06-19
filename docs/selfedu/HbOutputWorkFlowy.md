@@ -56,7 +56,7 @@
 
 如果你还没用过 WorkFlowy ，可以先去 <https://workflowy.com/demo/embed/> 体验 3 分钟。
 
-[embed website](https://workflowy.com/s/CO_N.vA3vHSrxk2?demo ':include :type=iframe width=100% height=600px')
+ [embed website](https://workflowy.com/s/CO_N.vA3vHSrxk2?demo ':include :type=iframe width=100% height=600px')
 
 
 
@@ -88,7 +88,7 @@
 
 
 
-[embed website](https://workflowy.com/s/CO_N.9glcXYoyF4 ':include :type=iframe width=100% height=600px')
+ [embed website](https://workflowy.com/s/CO_N.9glcXYoyF4 ':include :type=iframe width=100% height=600px')
 
 
 <center>我每周工作梳理模板（可用上下键查看，cmd+? 可查看快捷键）</center>

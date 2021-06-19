@@ -15,7 +15,7 @@
 <details>
 <summary>点击可预览</summary>
 
- [各角色进阶攻略_输出实验室](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=emd87f&_t=1622941945798 ':include :type=iframe width=100% height=400px')
+[各角色进阶攻略_输出实验室](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=emd87f&_t=1622941945798 ':include :type=iframe width=100% height=700px')
 
 </details>
 
@@ -24,12 +24,10 @@
 
 见《各角色进阶攻略_输出实验室》里这个标签页：[会前会后各角色攻略](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=ksm50z&_t=1622941945798)
 
-<details>
-<summary>点击可预览</summary>
+如果想预览，可直接在前文预览窗口底部，切换电子表格的标签页。
 
- [各角色进阶攻略_输出实验室](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=ksm50z&_t=1622941945798 ':include :type=iframe width=100% height=700px')
 
-</details>
+
 
 ## 进阶标准
 
@@ -37,12 +35,7 @@
 
 
 
-<details>
-<summary>点击可预览</summary>
-
- [各角色进阶攻略_输出实验室](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=BB08J2&_t=1622941945798 ':include :type=iframe width=100% height=700px')
-
-</details>
+如果想预览，可直接在前文预览窗口底部，切换电子表格的标签页。
 
 
 

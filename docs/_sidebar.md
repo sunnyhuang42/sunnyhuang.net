@@ -7,7 +7,7 @@
 
 <center><strong> - - - [ 主页 ] - - - </strong></center>
 
-- [博客导览](/)
+- [博客导览](README.md)
 - [内容更新列表](index_update.md)
 
 

@@ -63,7 +63,13 @@
     - [ch2 一切创作的前提都是选择 · 教程创作练习](wr/course_xl/ch2.md)
     - [ch1 文字的本质 · 圈词练习](wr/course_xl/ch1.md)
 
+<br>
 
+<center><strong>面部健康生长</strong></center>
+
+- [我如何成为换头最快的1%？· 过去8个月的面容调整复盘](selfedu/RevFacialGrowth.md)
+- [学习资源](family/ResFacialGrowth.md)
+- [常见疑问&练习锦囊](family/TipsFacialGrowth.md)
 
 <br>
 <center><strong>产品策划开发</strong></center>
@@ -107,6 +113,7 @@
     - [Chap1:了解策略和策略产品](devpdt/3jkSPM/ch1.md)
         - [Task:分析两个功能中的策略四要素](devpdt/3jkSPM/ch1Task.md)
         - [学习过程复盘](devpdt/3jkSPM/ch1Review.md)
+
 
 
 

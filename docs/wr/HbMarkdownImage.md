@@ -60,10 +60,12 @@
 举个例子：
 
 本来宽 910 的图片：http://ishanshan.zoomquiet.top/clipping/scientific_method.png
+
 ![scientific_method.png](http://ishanshan.zoomquiet.top/clipping/scientific_method.png)
 
 
 我希望最宽 400 ，于是在地址上加上限制宽度的参数 `?imageView2/2/w/400` ，图片地址变为 http://ishanshan.zoomquiet.top/clipping/scientific_method.png?imageView2/2/w/400 即可：
+
 ![](http://ishanshan.zoomquiet.top/clipping/scientific_method.png?imageView2/2/w/400)
 
 

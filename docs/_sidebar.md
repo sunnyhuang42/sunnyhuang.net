@@ -20,7 +20,7 @@
 
 
 - [输出实验室 玩法介绍](f_output/)
-- [报名入口](f_output/signup.md)
+- [报名入口<sup style="color:orange;">下期报名 6.23 开始 </sup>](f_output/signup.md)
 - 参与指南
     - [常见疑问解答/FAQ](f_output/faq.md)
     - [如何用好这里的资源？/各角色进阶攻略](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=8bdky8)

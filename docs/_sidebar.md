@@ -27,8 +27,9 @@
     - [个人目标&规划参考](https://docs.qq.com/doc/DVUptSWJ2d2pKUGti)
     - [主持人指南](f_output/hb_host.md)
 - 发展记录
-    - 用户反馈
-    - 往期复盘
+    - 里程碑手记
+        * [向世界交付自己的价值 · 有感于输出实验室又一里程碑](mur/happiness_devpdt_host.md)
+    - 用户反馈/往期复盘
     - 迭代记录
 
 <br>
@@ -160,7 +161,7 @@
     * [讲座控，控住你的人生 · 学习自传（一）](selfedu/SelfEduOwetoJZK.md)
     * [入职第一天，我失眠了](selfedu/NewLifeinOMC.md)
 - 杂记/mur  
-    * [进展两则：博客将要升级，「输出实验室」周日早10点截止报名](mur/upd2105.md)
+    * [向世界交付自己的价值 · 有感于输出实验室又一里程碑](mur/happiness_devpdt_host.md)
     * [博客在升级 · 主页提示](mur/welcome_blogupding.md)
     * [不要评判某事好坏 · 杂记](mur/depend_on_your_goal.md)
     * [由“拥抱变化”引发的羞愧和反思 · 杂记](mur/TipsEmbraceChange.md)

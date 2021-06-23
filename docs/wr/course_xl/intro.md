@@ -3,19 +3,8 @@
 前两个月我参加了一门受益匪浅的课程「笑来写作训练营」，发出[《从迷茫焦虑到从容踏实，这两个月我干了啥？· 万字复盘》](selfedu/review2021Q1.md) 后，陆续有朋友好奇课程情况。
 
 
-趁着最近有空，把课程复盘和过往作业整理更新出来，以便有以下需求的朋友，不错过如此优质的学习资源：
 
-1. 想**让自己人生更幸福**，尤其是**想和他人构建温暖健康关系、畅快合作共事**，且**开课期间能抽出时间（至少每天 15 分钟，有更多更好）**。
-1. 想**提升自己的进步速度**
-
-
-
-如果你还有以下需求，更值得一试：
-
-1. 想提升**写作技能**，无论是过往没怎么写作，还是有积累的
-1. 想观摩体验结业**作业完成率超过 75% 的线上课程**是怎样的，或者想学习如何**让不同起点、背景的学员都发生行为改变**
-
-
+[eb](_eb_targ_course_xl.md ':include')
 
 
 
@@ -60,14 +49,20 @@ PS.
 
 ## 课程安排
 ### 第二期
-![fa069420-2c4d-5186-bf13-63695cff3835.JPG](https://cdn.nlark.com/yuque/0/2021/jpeg/12371180/1619348130265-8ce14719-6fd3-4184-aad4-897b739a7064.jpeg#align=left&display=inline&height=5100&margin=%5Bobject%20Object%5D&name=fa069420-2c4d-5186-bf13-63695cff3835.JPG&originHeight=10200&originWidth=900&size=1238172&status=done&style=none&width=450)
 
-![writingcourse_xl.jpg](https://cdn.nlark.com/yuque/0/2021/jpeg/12371180/1619769935894-c3f3cdd8-a508-40e9-90a4-bf9543e5a6a9.jpeg#align=left&display=inline&margin=%5Bobject%20Object%5D&name=writingcourse_xl.jpg&originHeight=1161&originWidth=1080&size=115567&status=done&style=none&width=450)
+
+![course_xl.jpg](http://ishanshan.zoomquiet.top/share/course_xl.jpg ':size=450')
+
+
+![writingcourse_xl_2105.jpg](http://ishanshan.zoomquiet.top/share/writingcourse_xl_2105.jpg ':size=450')
+
+
 
 ### 第一期
-![IMG_6025.jpg](https://cdn.nlark.com/yuque/0/2021/jpeg/12371180/1619252725941-10a71786-8aed-4805-9724-cb56e4c34555.jpeg#align=left&display=inline&height=864&margin=%5Bobject%20Object%5D&name=IMG_6025.jpg&originHeight=2157&originWidth=1124&size=489309&status=done&style=none&width=450)
-![image.png](https://cdn.nlark.com/yuque/0/2021/png/12371180/1619252228813-885a1e82-8aba-40c2-89aa-d6df1c94d445.png#align=left&display=inline&height=636&margin=%5Bobject%20Object%5D&name=image.png&originHeight=1055&originWidth=746&size=498964&status=done&style=none&width=450)
 
+![course_xl_toc.jpg](http://ishanshan.zoomquiet.top/share/course_xl_toc.jpg ':size=450')
+
+![writingcourse_xl_2102.png](http://ishanshan.zoomquiet.top/share/writingcourse_xl_2102.png ':size=450')
 
 ## CHANGELOG
 

@@ -2,7 +2,7 @@
 
 
 - [导览](/)
-- 输出实验室
+- 输出实验室<sup style="color:orange;">报名中</sup>
   - [介绍](f_output/)
   - [报名入口](f_output/signup.md)
   - [常见疑问解答/FAQ](f_output/faq.md)

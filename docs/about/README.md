@@ -10,7 +10,7 @@
 
 <br> 
 
-[embed](outputchannel_card.md ':include') 
+[embed](_eb_outputchannel_card.md ':include') 
 
 ### 最近 1-2 个月在关注/思考的主要问题：
 

@@ -46,7 +46,7 @@ Hi, 欢迎来访。
 
 <br> 
 
-[embed](about/outputchannel_card.md ':include') 
+[embed](about/_eb_outputchannel_card.md ':include') 
 
 ### 发现页面脚注样式出错？
 

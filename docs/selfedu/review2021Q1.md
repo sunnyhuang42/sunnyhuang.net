@@ -532,7 +532,7 @@ KR：找到接下来集中突破的方向和思路（“接下来”指 24-36 �
 
 BTW, 关于什么是 self-awareness，可参考 Harvard Business Review 这篇 1998 年的最佳文章 [what_makes_a_leader.pdf](http://ishanshan.zoomquiet.top/clipping/what_makes_a_leader_by_daniel_goleman.pdf) 里的描述：
 
->knowing ones strengths, weaknesses, drives, values, and goals-and their impact on others.
+>knowing ones strengths, weaknesses, drives, values, and goals - **and their impact on others**.
 
 
 

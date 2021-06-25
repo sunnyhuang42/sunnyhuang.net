@@ -76,11 +76,11 @@
 
 > 高频小沟通、增量同步，而非最终才分享一个大的结果。
 
-具体行动就是，一有新的进展就同步到公开界面，比如输出实验室的[公开交流区](https://t.zsxq.com/2jaMjyr)，或我的朋友圈，以便有需要的伙伴及时了解，降低报名时的认知负荷。
+具体行动是：一有新的进展就同步到公开界面，比如输出实验室的[公开交流区](https://t.zsxq.com/2jaMjyr)，或我的朋友圈，以便有需要的伙伴及时了解，降低报名时的认知负荷。
 
 从这回（M7 期）报名的反馈来看，这个预案已起作用 😄 。比如：
 
-![fb_fo_feedback.png](http://ishanshan.zoomquiet.top/share/fb_fo_feedback.png  ':size=350')
+![fb_fo_feedback.png](http://ishanshan.zoomquiet.top/share/fb_fo_feedback.png  ':size=320')
 
 
 ### Q4. 不需要付费吗，以及社区未来的发展有什么规划？

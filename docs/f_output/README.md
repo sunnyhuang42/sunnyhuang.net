@@ -258,7 +258,7 @@ PS. 这是一些[具体推演应用案例](https://t.zsxq.com/jmUvbmm)，供参�
 ### Reference
 
 [^1]: 「一个时段只处理一个议题，专注于满足议题提出者的需求」这个原则，来自合弄制战术会的议题处理环节。具体可见 [Tactical Meetings – Holacracy](https://www.holacracy.org/tactical-meetings#:~:text=Tactical%20Meetings%20are%20focused%20on,scheduled%20by%20the%20circle's%20Secretary.) 中「TRIAGE ISSUES」 模块。
-[^2]: OKR(Objectives & Key Results) 是一套严密的思考框架和持续的纪律要求，旨在确保团队紧密协作，把精力聚焦在能促进组织成长且可衡量的贡献上。个人也适合用这套框架来思考目标，寻找投入产出比最高的发力点。如果拿不准自己该怎样设置目标，或想了解 OKR 这套思考框架，可参考我 2019 年前后研究业界目标管理优秀实践，并结合团队实操情况起草的一些幻灯，快速了解如何设定好目标：[「目标管理OKR」](https://docs.qq.com/slide/DVXlMWnlFcUdnck96) 、[如何创造更大价值，提升个人 ROI](https://docs.qq.com/slide/DVVBzbVZ1UnFRZEhM)
+[^2]: OKR(Objectives & Key Results) 是一套严密的思考框架和持续的纪律要求，旨在确保团队紧密协作，把精力聚焦在能促进组织成长且可衡量的贡献上。个人也适合用这套框架来思考目标，寻找投入产出比最高的发力点。如果拿不准自己该怎样设置目标，或想了解 OKR 这套思考框架，可参考我 2019 年前后研究业界目标管理优秀实践，并结合团队实操情况起草的一些幻灯，快速了解如何设定好目标：[如何创造更大价值，提升个人 ROI](https://docs.qq.com/slide/DVVBzbVZ1UnFRZEhM)、[「目标管理OKR」](https://docs.qq.com/slide/DVXlMWnlFcUdnck96) 
 
 
 

@@ -135,14 +135,7 @@
 
 <br> 
 
-PS.
-
-「小组定期碰头时段」的资源特性是怎样的？
-- 小组成员背景各异
-- 大伙儿平常都有自己手头的工作
-- 现场碰头时间短暂（30 分钟左右）且难得
-
-这样的资源，处理哪些需求更合适？详见 [这个 FAQ](https://ishanshan.im/#/f_output/faq?id=welcome_need) 。
+PS.那小组例会适合处理哪些需求？详见这个 [ FAQ: 小组例会碰头欢迎哪些需求](https://ishanshan.im/#/f_output/faq?id=welcome_need) 。
 
 
 

@@ -25,7 +25,7 @@
     - [常见疑问解答/FAQ](f_output/faq.md)
     - [如何用好这里的资源/各角色进阶攻略](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=8bdky8)
     - [个人目标&规划参考](f_output/tips_MBO.md)
-    - [主持人指南](f_output/hb_host.md)
+    - [主持人指南](f_output/hb_facilitator.md)
 - 发展记录
     - 里程碑手记
         * [向世界交付自己的价值 · 有感于输出实验室又一里程碑](mur/happiness_devpdt_host.md)

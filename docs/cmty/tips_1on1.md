@@ -1,0 +1,96 @@
+# 1on1 问题清单
+
+
+为什么远程办公后，我带的团队成员在效率上没受影响？
+
+除了大伙儿本身基础好、工作条件支持远程，我想离不开长期定期进行**高质量的 1on1** —— 不仅**让彼此进入成长发展的增强回路，也积累了深厚信任**，不见面也易配合畅快、相互支持🤗
+
+总之这几年实践下来，越发觉得和上下级保持定期高质量 1on1 沟通，投入产出比超高。把我的方法分享出来，供希望团队配合更紧密、成长更迅猛、战斗力更强的伙伴参考🏄🏻‍♀️
+
+如果你有疑问建议，欢迎随时抛出交流：D
+
+## 1on1 候选问题
+
+1. **你这周感觉怎样，状态相较上周，是更好了还是变差了？为什么？**
+    - 你觉得这是你最佳状态了吗？
+    - 如果是最佳状态，你觉得让你进入最佳状态最必不可少的条件/因素是？如何分析出来的？
+    - 如果不是最佳状态，你觉得是什么阻碍了你？如何分析出来的？
+    - 有什么你觉得我可以帮上的？
+
+2. **你觉得自己本周有哪些 亮点/改进点 ？**
+    - 根据反馈进一步交流观察反思
+    - 争取助力对方明确 打算继续保持/开始做/停止做什么
+
+3. **你觉得团队整体状态如何，有什么担心吗？**
+
+4. **你有什么想给我的反馈吗？如果让你一定给我提一条改进建议，你会提什么？**
+
+
+
+## 注意
+
+* 这是候选问题清单，会根据当次交流情况随时调整。我一般会先问对方有什么希望先和我讨论的吗，如果没有需要先讨论的，就按这个候选清单来。
+
+* 持续定期 1on1 ，才会有效果明显。我一般每周和每位**班子成员**定期 1on1 20-45mins 。
+
+* 如果想避免 1on1 时价值感不足，一般需至少有一方用心准备。// 谁想让自己增益更大，谁就用心准备，嗯🐒
+    
+    当然，也有例外：如果一方教练技术很好，另一方觉察反思习惯很好，那双方都没专门提前准备也无妨。 
+
+* 开始前15分钟才发问题清单，可以避免对方有需要提前准备的心理压力。当然如果双方都已默认这套流程，
+
+## FAQ
+
+
+### Q：一周一次频率感觉有点高，即使 5 个人的团队就需要花掉manager至少一个工作日的时间（包括准备和谈话的时间） :id=frequency
+
+
+好问题，我当时是这么解决的：
+
+1. 一开始策划沟通机制时，需求里就包括“可长期持续”，所以问题清单的设计上，尽量对使用者用负担小。细看上述清单，你会发现那些问题基本都是教练问题，核心是**会问问题而不是给解法**。而一旦掌握如何问出好问题，对 leader 来说做这类沟通压力并不大 —— 
+
+    > **Building awareness, responsibility and self-belief** is the goal of a coach.
+    
+    以及我日常发现想给对方反馈的，也会及时给出或随手记下，所以基本无需专门花时间准备 1on1 内容（绩效反馈等非常规 1on1 除外）。
+    
+    实际实践下来，用这个问题清单交流，对我来说的确很少需要提前准备。尤其大伙儿的觉察反思习惯越来越好，感受到益处、进入成长发展的增强回路后，他们为了让自己收获更多，通常会自主提前准备想和我讨论的，我就更省心了。
+
+2. **关注搭班子**、带队伍。
+
+    上文有注明，我保持每周定期 1on1 的，是「班子成员」，即在 leadership 及业务能力上，能力和意愿准备度都更高的伙伴。同时团队里会再根据业务分小组，由班子成员作为组长，他们来负责小组的绩效和成长，包括每周定期 1on1 ；而且如果任何团队成员需要，都欢迎随时来约我单独沟通的时间。
+
+    这样一来，既保障每位团队成员的成长发展，都有人在关照，也避免自己压力太大，还让更多伙伴快速成长起来——他们不仅在带自己团队时得到练习，遇到困难了，也会更主动地把握和我 1on1 的机会，交流困惑和观察借鉴。
+
+    人数少的团队其实也可尝试这样的模式，比如 5 人的话，可以自己 1on1 其中 2 位，再由 2 位中的一位负责另外 2-3 位小组成员的绩效和成长。
+
+
+3. 观念上，每周花 1 天的时间来教练辅导团队成员，这在我看来是值得的——这其实是在给 leader 自己加能力杠杆啊。而且以正确的方法越持续投入，能力杠杆越高。
+
+    坦白说只花 20% 的时间我还觉得少了 😂 **理想的情况是所有事情都是「实事虚做 虚事实做」，也就是虚实结合：既在推进业务，也在提升团队战斗力和凝聚力**。
+
+## 附：更多 1on1 议题清单
+
+如果你希望有更多 1on1 交流清单，可从以下取用（来自会议工具 soapbox 统计的 2020 年度 1on1 高频问题）：
+
+
+* What are the biggest time wasters for you each week?
+* How can I better support you?
+* How can we improve the way our team works together?
+* What was a win that you had last week?
+* On a scale of 1-10, how happy are you at work?
+* What skills would you like to develop right now?
+* What does an ideal, productive workday look like to you? Walk me through it.
+* What's your outlook on this week?
+* What's one thing we can do to improve the performance of the team?
+* What's our biggest challenge as a team?
+* Are you happy in your role? What could make it better for you?
+* Are there any aspects of our culture you wish you could change?
+* What projects would you like to work on or be more involved in?
+* What, if anything, feels harder than it should in your day-to-day work?
+* Is your job what you expected when you accepted it? If not, where has it differed?
+
+
+## CHANGELOG 
+
+- 210706 分享到朋友圈、根据朋友反馈增补 FAQ 并整理到博客上，加上更多 1on1 问题候选 1.5h
+- 200215 根据近期实践整理到 WorkFlowy 

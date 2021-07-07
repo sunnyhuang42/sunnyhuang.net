@@ -144,7 +144,7 @@
 - [养娃清单](family/hb_parenting.md)
 - [关爱家人行动清单](family/TipsCare4Parents.md)
 - 自我教育/selfedu
-    * [1on1 问题清单](cmty/tips_1on1.md)
+    * [希望团队配合更紧密、成长更迅猛？试试这样1on1](cmty/tips_1on1.md)
     * [好奇带来奇妙旅程 · 笑来写作训练营结业手记](wr/review_course_xl.md)
     * [希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记](selfedu/tips_rainbowbook.md)
     * [从迷茫焦虑到从容踏实，这两个月我干了啥？· 万字复盘](selfedu/review2021Q1.md)

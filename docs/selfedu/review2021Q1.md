@@ -514,7 +514,9 @@ KR：找到接下来集中突破的方向和思路（“接下来”指 24-36 �
 # 学习与成长
 > 除了上面所列，还有哪些重要学习成长？
 
-## 1. SML[^3]三要素里，对个人成长来说，最关键的是什么？ :id=SML
+## 1. SML 三要素里，对个人成长来说，最关键的是什么？ :id=SML
+
+>  SML，是 Self-awareness, Motivation, Learning ability 的缩写代号。这是小年糕公司用于评估人才潜力的模型（也是我选伴侣很看重的要素哈哈）。
 
 一年半前，我认为是 **self-awareness** 。因为 you can't change what you don't notice. 而这又恰是很多人薄弱的。
 
@@ -586,4 +588,4 @@ BTW, 关于什么是 self-awareness，可参考 Harvard Business Review 这篇 1
 
 [^1]: 联想经典复盘模板，是指联想公司的复盘模板。使用要点和案例，可参见这份幻灯 [如何做出好复盘-m9w1 周会](https://docs.qq.com/slide/DZnpaeG5xUlNwQlZN) 。
 [^2]: 指 2018 年我刻意练习写作技能的两篇文章：[《你丁酉年的故事》](selfedu/Review2017.md) 和 [《谢谢你给她的时光》](selfedu/Letter2XY4y2017.md)。
-[^3]: SML，是 Self-awareness, Motivation, Learning ability 的缩写代号。这是小年糕公司用于评估人才潜力的模型（也是我选伴侣很看重的要素哈哈）。
+

@@ -1,4 +1,7 @@
 # 训练营安排
+最后更新于 2021-07-12
+
+<br> 
 
 今年 2-3 月，我参加了一门受益匪浅的课程「笑来写作训练营」，发出[《从迷茫焦虑到从容踏实，这两个月我干了啥？· 万字复盘》](selfedu/review2021Q1.md) 后，陆续有朋友好奇课程情况。
 
@@ -50,6 +53,9 @@ PS.
 
 ## 课程安排
 
+更详细的课程内容，可参考往期课程手册：
+[李笑来的写作课（2020版）第一期大纲 · 语雀](https://www.yuque.com/box1972/kbiyse/cbto9a_cxc7qd)
+
 ### 第三期
 
 ![course_xl_toc.jpg](http://ishanshan.zoomquiet.top/share/course_xl_toc.jpg ':size=450')
@@ -89,5 +95,6 @@ PS.
 
 ## CHANGELOG
 
+- 210712 添加往期课程手册
 - 210707 添加第三期课程介绍
 - 210430 创建

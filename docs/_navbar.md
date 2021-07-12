@@ -16,4 +16,5 @@
   - [个人简介](about/)
   - [理想生活](about/idealife.md)
   - [近期规划](https://docs.qq.com/doc/DVWlSYW53c1dtanB4)
+  - [约我时间](about/booking.md)
   - [关爱家人行动清单](family/TipsCare4Parents.md)

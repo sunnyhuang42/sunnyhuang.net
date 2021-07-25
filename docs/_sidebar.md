@@ -53,9 +53,9 @@
     - [跟王烁「老婆推」学记趣和爱 · 杂记](wr/TipsFascinatingLife.md)
     * [你丁酉年的故事](selfedu/Review2017.md)
     * [谢谢你给她的时光](selfedu/Letter2XY4y2017.md)
-- 笑来写作训练营手记<sup style="color:orange;"> 报名中 </sup>
+- 笑来写作训练营手记<sup style="color:orange;"></sup>
     - [好奇带来奇妙旅程 · 结业手记](wr/review_course_xl.md)
-    - [训练营介绍<sup style="color:orange;">7.25 20:00 报名截止</sup>](wr/course_xl/intro.md)
+    - [训练营介绍<sup style="color:orange;"></sup>](wr/course_xl/intro.md)
     - [ch7 超级专业 · 梳理练习规划](wr/course_xl/ch7.md)
     - [ch6 输入为本 · 输入练习](wr/course_xl/ch6.md)
     - [ch5 修辞正义 · 《围城》类比赏析](wr/course_xl/ch5.md)

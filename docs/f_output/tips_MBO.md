@@ -1,9 +1,9 @@
 # 目标&规划参考 ·  [输出实验室](f_output/)
 最后更新于 2021-07-03
 
-<br> 
+<br>
 
-**如果你希望自己促进自己输出**，不妨设定阶段性目标、风险预案和规划，让自己的行动更**结果导向、以终为始**。
+**如果你希望自己促进自己输出价值**，不妨设定阶段性目标、风险预案和规划，让自己的行动更**结果导向、以终为始**。
 
 至于如何设定阶段性目标、风险预案和规划，**先按自己偏好的方式起步**，过程中不断通过现实结果和同侪交流的反馈，**持续复盘迭代**就好。
 
@@ -31,7 +31,7 @@
 
 > 建议用 OKR 的框架表达，促进自己思考到底想解决什么问题、如何评估问题解决成效、有哪些有意义的里程碑，也利于接下来放到小组例会系统上追踪
 
-<br> 
+<br>
 
 
 
@@ -39,17 +39,17 @@
 
 > 请尽情想象会有哪些好处，以便增强达成目标的动力
 
-<br> 
+<br>
 
 #### Obstacle：要实现那些结果，我可能会遇到这些挑战：
 
-<br> 
+<br>
 
 #### Plan：我提前想到了这些应对方法：
 
-> 建议使用 if…then… 的方式，来梳理防范措施和应急预案，提升目标达成概率 
+> 建议使用 if…then… 的方式，来梳理防范措施和应急预案，提升目标达成概率
 
-<br> 
+<br>
 
 
 
@@ -97,19 +97,19 @@
 
 或拿不准自己该怎样设置目标，或想了解 OKR 这套思考框架，可参考闪闪 2019 年前后研究业界目标管理优秀实践，并结合团队实操情况起草的这些幻灯：
 
- 
+
 
 <details>
 <summary> 《如何创造更大价值，提升个人 ROI》 （点击可展开查看） </summary>
 
 
-[embed website](https://docs.qq.com/slide/DVVBzbVZ1UnFRZEhM ':include :type=iframe width=100% height=500px') 
+[embed website](https://docs.qq.com/slide/DVVBzbVZ1UnFRZEhM ':include :type=iframe width=100% height=500px')
 
 原文见 [如何创造更大价值，提升个人 ROI](https://docs.qq.com/slide/DVVBzbVZ1UnFRZEhM)
 
 
-</details> 
- 
+</details>
+
 
 
 <details>
@@ -117,12 +117,12 @@
 
 
 
-[embed website](https://docs.qq.com/slide/DVXlMWnlFcUdnck96 ':include :type=iframe width=100% height=500px') 
+[embed website](https://docs.qq.com/slide/DVXlMWnlFcUdnck96 ':include :type=iframe width=100% height=500px')
 
 
 原文见[「目标管理OKR」幻灯 V2.0](https://docs.qq.com/slide/DVXlMWnlFcUdnck96)
 
-</details> 
+</details>
 
 
 ## FAQ
@@ -152,7 +152,7 @@ from 闪闪：
 
 这是我开始关注目标管理这几年来，看到过的**关于（团队）目标管理、追踪讲得最实操的材料。尤其如何选一个好目标、如何选一个好的引领性指标，如何激励大家落实引领性指标**。
 
-<br> 
+<br>
 
 没推荐 OKR 直接相关的书籍，是因为目前市面上关于 OKR 的图书都相对空泛，对制定出具体优质的 OKR 帮助不大。
 
@@ -180,7 +180,7 @@ from 闪闪：
 [^2]: 渐进明细，[progressive elaboration](https://project-management.info/progressive-elaboration-in-project-management/) ，是美国项目管理协会PMI编制的PMBOK中，一种对进度计划编制的技术。指在项目进程中，随着信息越来越详细，估算越来越准确，持续改进和细化计划。
 
 
-## CHANGELOG 
+## CHANGELOG
 
 - 210703 把内容从腾讯文档迁移至博客并迭代完善
 - 2104 创建

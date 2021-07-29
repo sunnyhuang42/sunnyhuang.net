@@ -1,5 +1,5 @@
 # 用户反馈/往期复盘
-最后更新于 2021-07-25
+最后更新于 2021-07-29
 
 <br>
 
@@ -13,6 +13,17 @@
 
 
 每期结营时的反馈（采集的问题见[反馈采集表](http://ishanshan.mikecrm.com/MRFUWxM)）：
+
+注：4/7 表示符合预期
+
+<details>
+<summary>M7：(点击可展开详情)</summary>
+
+![fb_fom7-1.png](http://ishanshan.zoomquiet.top/share/fb_fom7-1.png)
+![fb_fom7-2.png](http://ishanshan.zoomquiet.top/share/fb_fom7-2.png)
+![fb_fom7-4.png](http://ishanshan.zoomquiet.top/share/fb_fom7-4.png)
+
+</details>
 
 
 
@@ -48,5 +59,6 @@
 
 ## CHANGELOG
 
+- 210729 添加 M7 期复盘反馈
 - 210725 添加核心价值探寻链接
 - 210625 迁移到单独文档

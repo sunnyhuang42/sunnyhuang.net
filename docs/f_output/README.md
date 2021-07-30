@@ -153,7 +153,7 @@
 
 更多攻略：
 1. 快速扫盲：[输出实验室玩法扫盲问卷](https://ks.wjx.top/vj/w8LK1Cp.aspx)
-2. 详细攻略：[例会流程&各角色攻略_输出实验室](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=eokmjh&_t=1622941945798)
+2. 详细攻略：[例会流程&各角色攻略_输出实验室](https://mzm628l8fj.feishu.cn/sheets/shtcnoXwVSubIPneYvgIptMtISf)
 
 ?>**Tips**：<br> 建议先看看其它介绍，基本明确自己大概率需要「输出实验室」这样的资源后，再翻攻略。
 

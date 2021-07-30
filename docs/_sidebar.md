@@ -23,8 +23,8 @@
 - [报名入口<sup style="color:orange;">8.1 早10点 报名截止</sup>](f_output/signup.md)
 - 参与指南
     - [常见疑问解答/FAQ](f_output/faq.md)
-    - [如何用好这里的资源/各角色进阶攻略](https://docs.qq.com/sheet/DVVd5eXNrVUlaTmh3?tab=8bdky8)
-    - [个人目标&规划参考](f_output/tips_MBO.md)
+    - [如何用好这里的资源/各角色进阶攻略](https://mzm628l8fj.feishu.cn/sheets/shtcnoXwVSubIPneYvgIptMtISf)
+    - [如何梳理有助于达成长期目标的行动规划](f_output/tips_MBO.md)
     - [主持人指南](f_output/hb_facilitator.md)
 - 发展记录
     - 里程碑手记

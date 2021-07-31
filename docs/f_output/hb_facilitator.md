@@ -13,7 +13,7 @@
 
 
 <details>
-<summary>点击可预览</summary>
+<summary>点击可预览（移动端可能无法显示）</summary>
 
 [各角色进阶攻略_输出实验室](https://mzm628l8fj.feishu.cn/sheets/shtcnoXwVSubIPneYvgIptMtISf?sheet=1xLjvs ':include :type=iframe width=100% height=700px')
 

@@ -1,4 +1,4 @@
-# 如何梳理有助于自己达成长期目标的行动规划 ·  [输出实验室](f_output/)
+# 如何梳理有助于达成长期目标的行动规划 ·  [输出实验室](f_output/)
 最后更新于 2021-07-30
 
 <br>
@@ -7,7 +7,7 @@
 
 [filename](blank.md ':include')
 
-以下是一些我实践下来帮助较大的行动锦囊，供参考：
+以下是一些我实践下来帮助较大的行动攻略，供参考(移动端如果无法显示，可点击[这里](https://mzm628l8fj.feishu.cn/docs/doccnOLc3Yfuw1kZj0xPIDP94oc#)查看攻略原文)：
 
 
 [embed website](https://mzm628l8fj.feishu.cn/docs/doccnOLc3Yfuw1kZj0xPIDP94oc# ':include :type=iframe width=100% height=600px')
@@ -15,7 +15,7 @@
 
 
 
-如果是初次处理模板规划，可**先列出一个最小版本**，过程中不断通过同侪交流和现实结果的反馈，**持续复盘迭代**。
+如果是初次处理目标规划，可**先列出一个最小版本**，过程中不断通过同侪交流和现实结果的反馈，**持续复盘迭代**。
 
 
 ## Tips

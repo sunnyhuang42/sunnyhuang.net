@@ -20,7 +20,7 @@
 
 
 - [输出实验室 玩法介绍](f_output/)
-- [报名入口<sup style="color:orange;">8.1 早10点 报名截止</sup>](f_output/signup.md)
+- [报名入口<sup style="color:orange;"></sup>](f_output/signup.md)
 - 参与指南
     - [常见疑问解答/FAQ](f_output/faq.md)
     - [如何用好这里的资源/各角色进阶攻略](https://mzm628l8fj.feishu.cn/sheets/shtcnoXwVSubIPneYvgIptMtISf)

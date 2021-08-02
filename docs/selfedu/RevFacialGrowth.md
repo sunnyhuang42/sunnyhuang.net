@@ -1,7 +1,7 @@
 
 # 我如何成为换头最快的1%？· 过去8个月的面容调整复盘
 
-发布于 2021-03-08
+发布于 2021-03-08，最后更新于 2021-08-02
 
 <br>
 
@@ -21,7 +21,7 @@
 <details>
 <summary>最新的对比见这里(点击展开)：</summary>
 
-![前后变化对比图](http://ishanshan.zoomquiet.top/share/facialgrowth2106.jpg?imageslim ':size=500')
+![前后变化对比图](http://ishanshan.zoomquiet.top/share/facialgrowth2107.jpg?imageslim ':size=500')
 
 </details>
 
@@ -132,7 +132,7 @@
 
 然后很快，就发生了更多变化，甚至最开始几个月，连 face ID 都不认得我了，两三周就要更新一次。当时还有位一两个月见我一次的同事说，每次看到我都感觉比以前更漂亮了，但又说不上来哪里变了，还以为是自己的错觉；直到看到我对比照记录，才知道不是错觉，是真在变化。
 
-![facialgrowth2102.jpg](http://ishanshan.zoomquiet.top/share/facialgrowthlist2106.jpg?imageslim ':size=200')
+![facialgrowth2102.jpg](http://ishanshan.zoomquiet.top/share/facialgrowthlist2107.jpg?imageslim ':size=200')
 
 
 
@@ -242,6 +242,7 @@
 
 ## CHANGELOG
 
+- 210802 添加 7 月对比图
 - 210702 添加 6 月对比图
 - 210621 把练习材料拆到单独文档
 - 210602 添加 5 月对比图

@@ -5,6 +5,7 @@
 注：4/7 表示符合预期
 
 <details>
+<summary>M7：(点击可展开详情)</summary>
 
 ![fb_fom7-5.png](http://ishanshan.zoomquiet.top/share/fb_fom7-5.png)
 ![fb_fom7-2.png](http://ishanshan.zoomquiet.top/share/fb_fom7-2.png)

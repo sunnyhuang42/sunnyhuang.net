@@ -27,11 +27,13 @@
     - [如何梳理有助于达成长期目标的行动规划](f_output/tips_MBO.md)
     - [主持人指南](f_output/hb_facilitator.md)
 - 发展记录
-    - 里程碑手记
+    - 开发手记
+        - [愈发感觉输出实验室的玩法，太爽了](mur/happiness_f_o_organizer.md)
         * [向世界交付自己的价值 · 有感于输出实验室又一里程碑](mur/happiness_devpdt_host.md)
-    - [用户反馈](f_output/feedback.md)
-        - [各期结营反馈](f_output/review.md)
+    - 各方交流反馈
+        - [用户反馈/往期成员结营复盘](f_output/feedback.md)
         - [关于输出实验室玩法的讨论@xk_210729](f_output/feedback_xk.md)
+        - [身边都是正反馈，会不会让你误以为输出实验室是可以服务大部分人的？@六一_210804](f_output/feedback_61_remindbias.md)
     - 迭代记录
 
 <br>

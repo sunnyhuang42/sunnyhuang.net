@@ -29,7 +29,9 @@
 - 发展记录
     - 里程碑手记
         * [向世界交付自己的价值 · 有感于输出实验室又一里程碑](mur/happiness_devpdt_host.md)
-    - [用户反馈/往期复盘](f_output/feedback.md)
+    - [用户反馈](f_output/feedback.md)
+        - [各期结营反馈](f_output/review.md)
+        - [关于输出实验室玩法的讨论@xk_210729](f_output/feedback_xk.md)
     - 迭代记录
 
 <br>

@@ -1,4 +1,4 @@
-# 用户反馈/往期复盘
+# 用户反馈/往期成员结营复盘
 最后更新于 2021-07-29
 
 <br>
@@ -12,7 +12,7 @@
 
 <br>
 
-每期结营时的反馈（采集的问题见[反馈采集表](http://ishanshan.mikecrm.com/MRFUWxM)）：
+往期成员结营复盘（采集的问题见[反馈采集表](http://ishanshan.mikecrm.com/MRFUWxM)）：
 
 注：4/7 表示符合预期
 
@@ -52,7 +52,6 @@
 
 
 </details>
-每期反馈，见[各期成员结营复盘](f_output/review.md)。
 
 
 <br>

@@ -102,7 +102,7 @@
 
 进一步梳理，下个阶段想解决到什么程度、如何解决，整理成目标规划（下图原文见 https://workflowy.com/s/8/qUajo7cB8fRnRXMA ）：
 
-
+![mbo_1.png](http://ishanshan.zoomquiet.top/share/mbo_1.png  ':size=150')
 
 
 
@@ -159,6 +159,13 @@
 - 对个人感兴趣的候选发展方向进行市场研究
 
 具体见 [想探索的问题清单_闪闪](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed) 
+
+<details>
+<summary> 预览版（PC 端适用）  </summary>
+
+[embed website](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed ':include :type=iframe width=100% height=700px') 
+
+</details> 
 
 
 

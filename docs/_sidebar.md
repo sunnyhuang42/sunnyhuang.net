@@ -20,6 +20,7 @@
 
 
 - [输出实验室 玩法介绍](f_output/)
+- [关于输出实验室的常见误解](f_output/misunderstanding.md)
 - [输出实验室 需要哪些支持？](f_output/helpwanted.md)
 - [报名入口<sup style="color:orange;"></sup>](f_output/signup.md)
 - 参与指南

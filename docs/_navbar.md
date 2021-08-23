@@ -3,7 +3,9 @@
 
 - [导览](/)
 - 输出实验室<sup style="color:orange;"></sup>
-  - [介绍](f_output/)
+  - [玩法介绍](f_output/)
+  - [常见误解](f_output/misunderstanding.md)
+  - [所需支持](f_output/helpwanted.md)
   - [报名入口](f_output/signup.md)
   - [常见疑问解答/FAQ](f_output/faq.md)
 - 主题实践手记

@@ -2,7 +2,7 @@
 
 
 - [导览](/)
-- 输出实验室<sup style="color:orange;"></sup>
+- 输出实验室<sup style="color:orange;">报名中</sup>
   - [玩法介绍](f_output/)
   - [常见误解](f_output/misunderstanding.md)
   - [所需支持](f_output/helpwanted.md)

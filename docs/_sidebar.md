@@ -30,6 +30,7 @@
     - [主持人指南](f_output/hb_facilitator.md)
 - 发展记录
     - 开发手记
+        - [U MADE MY DAY！· 有感于输出实验室又一里程碑](f_output/mst_got2partners.md)
         - [愈发感觉输出实验室的玩法，太爽了](mur/happiness_f_o_organizer.md)
         * [向世界交付自己的价值 · 有感于输出实验室又一里程碑](mur/happiness_devpdt_host.md)
     - 各方交流反馈

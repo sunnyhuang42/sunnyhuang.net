@@ -151,6 +151,7 @@
 - [约我时间](about/booking.md)
 - [养娃清单](family/hb_parenting.md)
 - [关爱家人行动清单](family/TipsCare4Parents.md)
+- [投资决策框架：如何评估一项资产是否值得长期持有？](selfedu/tips_invest.md)
 - 自我教育/selfedu
     * [希望团队配合更紧密、成长更迅猛？试试这样1on1](cmty/tips_1on1.md)
     * [好奇带来奇妙旅程 · 笑来写作训练营结业手记](wr/review_course_xl.md)

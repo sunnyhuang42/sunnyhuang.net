@@ -1,5 +1,5 @@
 # 如何更易约到我？
-发布于 2021-07-12，最后更新于 2021-08-11
+发布于 2021-07-12，最后更新于 2021-08-25
 
 <br>
 
@@ -15,7 +15,8 @@
 
     我的目标规划，见：
     1. 理想生活：https://ishanshan.im/#/about/idealife
-    2. 近期目标规划：https://mzm628l8fj.feishu.cn/docs/doccnljPAh9xJll6wM7hLBjkhof
+    2. 发展规划：https://mzm628l8fj.feishu.cn/docs/doccnljPAh9xJll6wM7hLBjkhof
+    3. 需要的支持：[输出实验室 需要哪些支持？](https://ishanshan.im/#/f_output/helpwanted)
 
 
 ## 以下需求一般不约
@@ -79,6 +80,7 @@
 
 ## CHANGELOG
 
+- 210825 更新近期需要的支持
 - 210811 更新目标规划地址，增补想探索的问题
 - 210713 增补更多相处锦囊 15mins
 - 210712 根据近期情况创建 1.5h

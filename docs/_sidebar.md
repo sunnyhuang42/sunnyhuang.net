@@ -36,7 +36,7 @@
     - 各方交流反馈
         - [用户反馈/往期成员结营复盘](f_output/feedback.md)
         - [关于输出实验室玩法的讨论@xk_210729](f_output/feedback_xk.md)
-        - [身边都是正反馈，会不会让你误以为输出实验室是可以服务大部分人的？@六一_210804](f_output/feedback_61_remindbias.md)
+        - [身边都是正反馈，会不会让你误以为输出实验室是可以服务大部分人的？@六一_210804](f_output/fb_61_remindbias.md)
         - [为什么不单独打磨定OKR或做复盘的产品/工具包？@立人 210716](f_output/fb_lr_devseparate.md)
     - 迭代记录
 

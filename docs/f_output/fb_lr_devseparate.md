@@ -28,19 +28,22 @@
 往更大尺度看，这和企业战略管理也是相通的：
 在思考战略时，常用“想做、可做、能做”这套思考框架（见下图）做选择，其实也是分析我们想去哪儿（想做-使命/愿景，可做-大势/规律），现状是怎样的（能做-绝对优势/相对优势），然后思索投入产出比最高的切入点。
 
-![](http://ishanshan.zoomquiet.top/share/goal_strategy1.png  ':size=400' )
+![](http://ishanshan.zoomquiet.top/share/goal_strategy1.png  ':size=350' )
 
 之后进一步拆解执行，根据市场反馈迅速复盘，综合内外各方最新输入，继续思索接下来投入产出比最高的发力点，并继续拆解执行、验证假设、复盘迭代（见下图）。这个闭环跑得越快，便越快到达想去的地方。
 
-![goal_strategy2.png](http://ishanshan.zoomquiet.top/clipping/goal_strategy2.png)
+![goal_strategy2.png](http://ishanshan.zoomquiet.top/clipping/goal_strategy2.png  ':size=500' )
 
-在创业早期更是如此：那些高速增长的初创企业，Build-Measure-Learn 的回路（见图五六）通常谨慎又畅快，飞速找出并低成本地验证高风险假设，高效打造可持续增长的业务。
+在创业早期更是如此：那些高速增长的初创企业，Build-Measure-Learn 的回路（见下图）通常谨慎又畅快，飞速找出并低成本地验证高风险假设，高效打造可持续增长的业务。
+
 ![leanst1.png](http://ishanshan.zoomquiet.top/clipping/leanst1.png  ':size=300')
 ![leanst2.png](http://ishanshan.zoomquiet.top/clipping/leanst2.png ':size=300')
 
 此外，这套思考框架，还可以用于帮助他人实现目标——和教练技术也是相通的：
+
 教练技术，其实是在通过问问题，助力对方更好地觉察自己到底想去哪里，现状是怎样的，有哪些候选行动或解法，这些解法有哪些优劣势，哪个更适合自己、投入产出比更高，如何提升行动成功的概率。
 
+<br> 
 
 总之在我眼里，定目标和做复盘，底层思考框架是相通的，不是两项单独的技能，而是一个整体，且**这套思考框架是可以运用于不同时空尺度的整体**，用一通百通来形容都不为过：D
 

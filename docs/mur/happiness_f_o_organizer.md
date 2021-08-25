@@ -1,16 +1,16 @@
 # 愈发感觉输出实验室的玩法，太爽了
-发布于 2021-07-14
+最后更新于 2021-08-25，发布于 2021-07-14
 
-<br> 
+<br>
 
 越来越感觉 #输出实验室 的玩法，对我这样的情况来说真的太爽了。
 
-我这样是什么样？<br> 
-首先，很想快速打造用户喜爱的产品服务。<br> 
-其次，会不自觉地追求完备，有些完美主义。<br> 
+我这样是什么样？<br>
+首先，很想快速打造用户喜爱的产品服务。<br>
+其次，会不自觉地追求完备，有些完美主义。<br>
 以及还没有一起做这款产品的正式团队。
 
-<br> 
+<br>
 
 那爽在哪儿？
 
@@ -27,30 +27,40 @@
 
 且我快速推进想法和迭代的过程，也让不少伙伴印象深刻、见贤思齐，开始行动起来。而这个过程积累的信任，也令我在需要时，更易获得帮助。
 
-<br> 
+<br>
 
 更关键的是，这不仅让我能近距离观察和了解不同背景的目标用户、获取一手信息、增强用户体感，还让我即使没有正式团队，也有很多热心又真诚的队友，在帮出谋划策。
 
-比如，图一图二，是我昨天才慢慢形成思路、今早赶紧花了10来分钟整理成文字的当前挑战和解法 proposal。然后会上花了不到20分钟的时间，快速了解现场伙伴的反馈、打开盲区。会后花了大概20分钟的时间，就迭代出了一个新版本，见图三（红框圈出来为主要迭代的部分）。
+比如，下图一二，是我昨天才慢慢形成思路、今早赶紧花了10来分钟整理成文字的当前挑战和解法 proposal。
+
+
+![fo_issue_challenge1.png](http://ishanshan.zoomquiet.top/share/fo_issue_challenge1.png ':size=100')
+![fo_issue_challenge2.png](http://ishanshan.zoomquiet.top/share/fo_issue_challenge2.png ':size=100')
+
+然后会上花了不到20分钟的时间，快速了解现场伙伴的反馈、打开盲区。会后花了大概20分钟的时间，就迭代出了一个新版本，见下图（红框圈出来为主要迭代的部分）。
+
+![fo_issue_challenge3.png](http://ishanshan.zoomquiet.top/share/fo_issue_challenge3.png ':size=100')
 
 虽然还不完美，但已让往前走的风险又降低一截。接下来我又可在此基础上，继续思想实验或去做研究，探索怎么往前走。明天又可以进一步迭代。
 
 而这个实验和迭代过程，整体不超过一个小时。
 
-<br> 
+<br>
 
-这也让我想起精益创业方法论里的两句提醒：
-* The best way to find your next big idea is by systematically testing lots of ideas.
-* Speed of learning is the new unfair advantage.
+这也让我想起[精益创业方法论](https://leanstack.com/new-rules)里的两句提醒：
+
+> * The best way to find your next big idea is by systematically testing lots of ideas.
+> * Speed of learning is the new unfair advantage.
 
 哈哈，总之目前的状态，对我这样的情况来说，真的太爽了😋
 
-<br> 
+<br>
 
 嗯，也更有动力继续打磨迭代、降低上手成本，助更多有需要的伙伴，也加速实现个人目标、体会同样欢喜乐趣🤗
 
 
-## CHANGELOG 
+## CHANGELOG
 
+- 210825 添加图片
 - 210817 迁移到博客
-- 210714 梳理分享于知识星球 
+- 210714 梳理分享于知识星球

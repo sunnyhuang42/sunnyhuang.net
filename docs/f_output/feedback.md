@@ -1,5 +1,5 @@
 # 用户反馈/往期成员结营复盘
-最后更新于 2021-07-29
+最后更新于 2021-08-28
 
 <br>
 
@@ -15,6 +15,15 @@
 往期成员结营复盘（采集的问题见[反馈采集表](http://ishanshan.mikecrm.com/MRFUWxM)）：
 
 注：4/7 表示符合预期
+
+<details>
+<summary>M7：(点击可展开详情)</summary>
+![fb_fom8-1.png](http://ishanshan.zoomquiet.top/share/fb_fom8-1.png)
+![fb_fom8-2.jpeg](http://ishanshan.zoomquiet.top/share/fb_fom8-2.jpeg)
+![fb_fom8-3.png](http://ishanshan.zoomquiet.top/share/fb_fom8-3.png)
+
+</details>
+
 
 <details>
 <summary>M7：(点击可展开详情)</summary>
@@ -60,7 +69,7 @@
 
 ## CHANGELOG
 
-
+- 210828 添加 M8 期复盘反馈
 - 210729 添加 M7 期复盘反馈
 - 210725 添加核心价值探寻链接
 - 210625 迁移到单独文档

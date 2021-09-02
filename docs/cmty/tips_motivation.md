@@ -3,10 +3,10 @@
 
 <br> 
 
-任务达成不如预期怎么办？
-可从能力（competence）和意愿（commitment）两方面干预。
+> 任务达成不如预期怎么办？<br> 
+> 可从**能力（competence）**和**意愿（commitment）**两方面干预。
 
-2018 年接触「情景领导模型（situational leadership framework）」，了解到这点后，我便开始有意识地练习、积累各种提升意愿的方法。因为我相信，**意愿问题解决后，能力问题对大部分人来说，只是时间问题**。
+2018 年接触「情景领导模型（situational leadership framework）」，了解到上述要领后，我便开始有意识地练习、积累各种提升意愿的方法。因为我相信，**意愿问题解决后，能力问题对大部分人来说，只是时间问题**。
 
 ![leadership_situational.jpeg](http://ishanshan.zoomquiet.top/clipping/leadership_situational.jpeg  ':size=400')
 

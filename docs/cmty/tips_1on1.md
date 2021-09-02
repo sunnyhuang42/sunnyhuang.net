@@ -111,7 +111,7 @@
 * Is your job what you expected when you accepted it? If not, where has it differed?
 
 
-## footnote
+### footnote
 
 [^1]: SML，是 Self-awareness, Motivation, Learning ability 的缩写代号。这是小年糕公司用于评估人才潜力的模型（也是我选伴侣很看重的要素哈哈）。为什么我在定期 1on1 里会选择交流 SML 的变化？原因见 [SML三要素里，对个人成长来说，最关键的是什么？](https://ishanshan.im/#/selfedu/review2021Q1?id=sml)。
 

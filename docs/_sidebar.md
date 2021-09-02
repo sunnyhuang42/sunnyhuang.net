@@ -20,8 +20,8 @@
     - [如何更易获得有效帮助？· 困扰分析模板](cmty/hb_ask4help.md)
     - 职业发展
         - [如何做职业选择？ · STC 问题清单](cmty/tips_career_choice.md)
-        - [希望团队配合更紧密、成长更迅猛？试试这样1on1](cmty/tips_1on1.md)
         - [用心写周报的同事，绩效不会太差](selfedu/TipsWeekly.md)
+        - [希望团队配合更紧密、成长更迅猛？试试这样1on1](cmty/tips_1on1.md)
 - [内容更新列表](index_update.md)
 
 

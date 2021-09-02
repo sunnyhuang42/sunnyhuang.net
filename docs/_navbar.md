@@ -9,6 +9,7 @@
   - [报名入口](f_output/signup.md)
   - [常见疑问解答/FAQ](f_output/faq.md)
 - 主题实践手记
+  - [蓬勃人生/flourishing life](cmty/README.md)
   - [写作](wr/)
   - [面部健康生长](selfedu/RevFacialGrowth.md)   
   - [产品策划开发](devpdt/)

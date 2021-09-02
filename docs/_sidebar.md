@@ -8,7 +8,7 @@
 <center><strong> - - - [ 主页 ] - - - </strong></center>
 
 - [博客导览](README.md)
-- 蓬勃人生/flourishing life
+- [蓬勃人生/flourishing life](cmty/README.md)
     - 最幸福的人生是怎样的，有哪些模式？
     - 过上这样人生，投入产出比最高的切入点是什么？
     - 如何让自己进入通往幸福人生的增强回路？

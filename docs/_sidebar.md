@@ -11,7 +11,7 @@
 - [蓬勃人生/flourishing life](cmty/README.md)
     - 最幸福的人生是怎样的，有哪些模式？
     - 通往蓬勃人生，投入产出比最高的切入点是什么？
-    - 如何让自己进入通往幸福人生的增强回路？
+    - 如何让自己进入通往蓬勃人生的增强回路？
     - [希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记](selfedu/tips_rainbowbook.md)
     - [这座线上心理健身房，你，值得拥有](selfedu/ebp_happiness.md)
     - [如何梳理有助于达成长期目标的行动规划？](cmty/tips_MBO_fromend.md)

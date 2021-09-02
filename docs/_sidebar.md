@@ -14,7 +14,7 @@
     - 如何让自己进入通往幸福人生的增强回路？
     - [希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记](selfedu/tips_rainbowbook.md)
     - [这座线上心理健身房，你，值得拥有](selfedu/ebp_happiness.md)
-    - [如何梳理有助于达成长期目标的行动规划？](cmty/tips_MBO.md)
+    - [如何梳理有助于达成长期目标的行动规划？](cmty/tips_MBO_fromend.md)
     - [启动新项目，如何设定项目目标? · 项目需求采集问题清单](cmty/infoq_pm_pre.md)
     - [如何提升行动意愿？· 行动锦囊汇总](cmty/tips_motivation.md)
     - [如何更易获得有效帮助？· 困扰分析模板](cmty/hb_ask4help.md)

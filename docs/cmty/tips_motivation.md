@@ -9,6 +9,7 @@
 2018 年接触「情景领导模型（situational leadership framework）」，了解到这点后，我便开始有意识地练习、积累各种提升意愿的方法。因为我相信，**意愿问题解决后，能力问题对大部分人来说，只是时间问题**。
 
 ![leadership_situational.jpeg](http://ishanshan.zoomquiet.top/clipping/leadership_situational.jpeg  ':size=400')
+
 ^[situational leadership framework](https://www.inbody.es/2020/04/20/when-context-meets-challenge-an-approach-of-situational-leadership/)
 
 <br> 
@@ -53,11 +54,15 @@
 - 比如每天的三餐，不太喜欢叫外卖，每天请阿姨做饭又不经济。那可以每天都是水煮菜：豆腐、蘑菇、虾、鸡蛋、蛋饺、牛肉卷、蔬菜，一起放在水里煮，要么放点调料包，要么配点蘸酱。从准备到完成大概 15 分钟，保证营养均衡，不会摄入过多油盐，口味尚可。
 - 又如乔布斯、扎克伯格，衣柜里同样的衣服好几件，每天都穿同样的衣服出门，也是减少选择负担。
 
-##降低其他事情对自己的干扰 :id=lowerinterference
+## 降低其他事情对自己的干扰 :id=lowerinterference
 
 - 比如先把脑中纷繁思绪写下来，让自己知道这个事情不会忘记，也释放工作记忆带宽。
 - 或安排特定时段去完成那些事情。
 - 不评判，先接纳自己，允许自己处于这样的状态一段时间。
+
+<br> 
+
+如果尝试了上述锦囊，还是没能解决你的困扰，欢迎参考这个模板，快速梳理思路，对外求助：[如何更易获得有效帮助？· 困扰分析模板](cmty/hb_ask4help.md)
 
 
 ## CHANGELOG 

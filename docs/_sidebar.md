@@ -8,13 +8,19 @@
 <center><strong> - - - [ 主页 ] - - - </strong></center>
 
 - [博客导览](README.md)
-- 蓬勃人生
+- 蓬勃人生/flourishing life
     - 最幸福的人生是怎样的，有哪些模式？
     - 过上这样人生，投入产出比最高的切入点是什么？
     - 如何让自己进入通往幸福人生的增强回路？
+    - [希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记](selfedu/tips_rainbowbook.md)
+    - [这座线上心理健身房，你，值得拥有](selfedu/ebp_happiness.md)
     - [如何梳理有助于达成长期目标的行动规划？](f_output/tips_MBO.md)
+    - [启动新项目，如何设定项目目标? · 项目需求采集问题清单](cmty/infoq_pm_pre.md)
     - [如何提升行动意愿？· 行动锦囊汇总](cmty/tips_motivation.md)
     - [如何更易获得有效帮助？· 困扰分析模板](cmty/hb_ask4help.md)
+    - 职业发展
+        - [如何做职业选择？ · STC 问题清单](cmty/tips_career_choice.md)
+        - [希望团队配合更紧密、成长更迅猛？试试这样1on1](cmty/tips_1on1.md)
 - [内容更新列表](index_update.md)
 
 

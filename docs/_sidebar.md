@@ -8,6 +8,13 @@
 <center><strong> - - - [ 主页 ] - - - </strong></center>
 
 - [博客导览](README.md)
+- 蓬勃人生
+    - 最幸福的人生是怎样的，有哪些模式？
+    - 过上这样人生，投入产出比最高的切入点是什么？
+    - 如何让自己进入通往幸福人生的增强回路？
+    - [如何梳理有助于达成长期目标的行动规划？](f_output/tips_MBO.md)
+    - [如何提升行动意愿？· 行动锦囊汇总](cmty/tips_motivation.md)
+    - [如何更易获得有效帮助？· 困扰分析模板](cmty/hb_ask4help.md)
 - [内容更新列表](index_update.md)
 
 
@@ -26,7 +33,6 @@
 - 参与指南
     - [常见疑问解答/FAQ](f_output/faq.md)
     - [如何用好这里的资源/各角色进阶攻略](https://mzm628l8fj.feishu.cn/sheets/shtcnoXwVSubIPneYvgIptMtISf)
-    - [如何梳理有助于达成长期目标的行动规划](f_output/tips_MBO.md)
     - [主持人指南](f_output/hb_facilitator.md)
 - 发展记录
     - 开发手记
@@ -154,6 +160,8 @@
 - [关爱家人行动清单](family/TipsCare4Parents.md)
 - [投资决策框架：如何评估一项资产是否值得长期持有？](selfedu/tips_invest.md)
 - 自我教育/selfedu
+    * [如何更易获得有效帮助？· 困扰分析模板](cmty/hb_ask4help.md)
+    * [如何提升行动意愿？· 行动锦囊汇总](cmty/tips_motivation.md)
     * [希望团队配合更紧密、成长更迅猛？试试这样1on1](cmty/tips_1on1.md)
     * [好奇带来奇妙旅程 · 笑来写作训练营结业手记](wr/review_course_xl.md)
     * [希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记](selfedu/tips_rainbowbook.md)

@@ -28,6 +28,7 @@
 # 「暂停实验室」是干嘛的？
 
 简单来说，是一家提供陪伴型服务的线上心理健身房，带你刻意练习（deliberate practice）高效休息、照顾自己：
+
 ![ebphappinessfreshman.jpg](http://ishanshan.zoomquiet.top/clipping/ebphappinessfreshman.jpg?imageView2/2/w/380)
 
 

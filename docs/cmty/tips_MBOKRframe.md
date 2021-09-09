@@ -19,10 +19,10 @@ OKR（Objective & Key Result） 是什么？
 
 ## 这是怎样一套思考框架？
 
-书中给出的是：
+《OKR：源于英特尔和谷歌的目标管理利器》书中给出的是：
 O 是回答“我们想做什么”，KR 是回答“我们如何知道是否达成了 O”。
 
-结合这三年研究业界目标管理最佳实践并结合这几年的实践反思，我做了一些拓展。因为发现如果想更高效地实现目标/解决问题，最好先思考下面这些问题，并和关键干系人和对齐对这些问题的思考结果：
+结合这三年研究业界目标管理最佳实践的观察，并结合自己及周围伙伴的实践反思，我做了一些拓展——如果想更高效地实现目标/解决问题，其实最好先思考下面这些问题，并和关键干系人和对齐对这些问题的思考结果：
 
 > 1. 我想去哪里/我想解决什么问题？为什么？
 > 2. 怎么知道我到了那里/ 问题解决了？ 或 出现哪些现象，意味着我到了那里/问题解决了？ 会令自己及关键干系人拍手称赞的结果，长什么样？
@@ -36,7 +36,7 @@ O 是回答“我们想做什么”，KR 是回答“我们如何知道是否达
 > 3. 最少达成怎样的结果，对于解决问题就已经有意义/可以接受了？——**【0.4分】**
 > 4. 如果还有余力，再做到怎样的程度/交付怎样的结果，更有意义，且属于跳一跳才够得着的难度？——**【0.7分】**
 
-这便是我现在对“OKR 这套思考框架”是什么的理解。
+
 
 举个例子，下面是 5 月份我对上述问题思考的部分结果，用 OKR 这套框架来表达，便是：
     
@@ -74,7 +74,7 @@ O 是回答“我们想做什么”，KR 是回答“我们如何知道是否达
 
   这其实错过了这套思考框架的一大精髓——毕竟1分标准正常来说是非常有挑战的，很难完全实现。思考 0.4 分，其实是倒逼我们去思考 MVP（Minimum Viable Product） ，即到底到底最小要保证交付怎样的价值——最少交付怎样的结果，对于要解决的问题就已经有意义/可以接受了？这让我们能在有限的时间和资源下，更易**抓重点**。
 
-![img](https://mzm628l8fj.feishu.cn/space/api/box/stream/download/asynccode/?code=MmM3ZmQwOWJmYzZmNjQ0MzJhNTA0NWQyOTM0ZWM4Y2RfZVltUzRhT2RTQ1NZdjJSY25pZ04zOE1ueE5mVVpvWWdfVG9rZW46Ym94Y25COUFIZWNERWlpSUJ3OEh6WHdXOHliXzE2MzExOTM4NDQ6MTYzMTE5NzQ0NF9WNA)
+![mvp1.jpeg](http://ishanshan.zoomquiet.top/clipping/mvp1.jpeg)
 
 > A minimum viable product (MVP) is not always a smaller/cheaper version of your final product. It’s something that helps you validate the core.——Steve Blank
 

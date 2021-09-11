@@ -5,7 +5,7 @@
 
 如何提升遇到人生伴侣的概率？
 
-得到总编室[宣宣（宣明栋）在这条状态](https://m.igetget.com/share/note/detail/AaWVPxLgY8D5pMayPkXL91DqwEoXJ9)里，给出了相亲提升相亲成功率的建议：
+得到总编室[宣宣（宣明栋）在这条状态](https://m.igetget.com/share/note/detail/AaWVPxLgY8D5pMayPkXL91DqwEoXJ9)里，给出了提升相亲成功率的建议：
 
 1. **主动告知自己的路线图**：对齐不同阶段的角色预期，降低双方负担
 2. **主动发起一个事件**：通过共事来增进了解，而非只靠言语交流

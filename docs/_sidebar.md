@@ -165,6 +165,7 @@
 - [理想生活](about/idealife.md)
 - [发展规划](https://mzm628l8fj.feishu.cn/docs/doccnljPAh9xJll6wM7hLBjkhof)
 - [约我时间](about/booking.md)
+- [探寻人生伴侣的路线图](family/lifep_roadmap.md)
 - [养娃清单](family/hb_parenting.md)
 - [关爱家人行动清单](family/TipsCare4Parents.md)
 - [投资决策框架：如何评估一项资产是否值得长期持有？](selfedu/tips_invest.md)

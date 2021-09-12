@@ -17,7 +17,8 @@
 注：4/7 表示符合预期
 
 <details>
-<summary>M7：(点击可展开详情)</summary>
+<summary>M8：(点击可展开详情)</summary>
+
 ![fb_fom8-1.png](http://ishanshan.zoomquiet.top/share/fb_fom8-1.png)
 ![fb_fom8-2.jpeg](http://ishanshan.zoomquiet.top/share/fb_fom8-2.jpeg)
 ![fb_fom8-3.png](http://ishanshan.zoomquiet.top/share/fb_fom8-3.png)

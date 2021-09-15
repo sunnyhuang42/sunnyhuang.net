@@ -172,6 +172,7 @@
 - 自我教育/selfedu
     * [如何更易获得有效帮助？· 困扰分析模板](cmty/hb_ask4help.md)
     * [如何提升行动意愿？· 行动锦囊汇总](cmty/tips_motivation.md)
+    * [近三年来，你发生的主要变化有哪些？](selfedu/rev_3years.md)
     * [希望团队配合更紧密、成长更迅猛？试试这样1on1](cmty/tips_1on1.md)
     * [好奇带来奇妙旅程 · 笑来写作训练营结业手记](wr/review_course_xl.md)
     * [希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记](selfedu/tips_rainbowbook.md)

@@ -34,7 +34,7 @@
 
 上述四点之外，如果你还有以下特征，会更吸引我：
 
-* **有自己热爱的事业，并已持续投入至少 1.5 年** —— 对拥有内心热望并用心呵护的伙伴，我没免疫力
+* **有自己热爱的事业，并已持续投入至少 1.5 年** —— 对拥有内心热望并持续呵护的伙伴，我没抵抗力
 
 * **科学素养和学习能力不错** —— 要不我们可能聊不到一块去
 
@@ -154,7 +154,7 @@ PS.
 ## footnotes
 
 [^0]: 我对外貌要求不高，且可助你降低外界干扰、让基因充分表达，长出最健康顺眼的样子。此话怎讲？且看 [我如何成为换头最快的1%？· 过去8个月的面容调整复盘](selfedu/RevFacialGrowth.md)。
-[^1]: 我更关注长期成长潜力，而非当前物质基础，且希望咱们不要买房买车——我没这方面需求，且希望咱们不要有负债，并把钱这种排他性资源，花在投资回报率更高的地方。当然，这样的重大决策需要咱们一起商量：）
+[^1]: 我更关注长期成长潜力，而非短期物质水平，且希望咱们不要买房买车——我没这方面需求，且希望咱们不要有负债，并把钱这种排他性资源，花在投资回报率更高的地方。当然，这样的重大决策需要咱们一起商量：）
 [^2]: 何为创造型快乐？可参考[创造快乐 - 生而有幸 - 知乎书店](https://www.zhihu.com/pub/reader/19550816/chapter/873650259174227968)。我近期的一些创造型快乐记录，见 [向世界交付自己的价值 · 有感于输出实验室又一里程碑](mur/happiness_devpdt_host.md)，[愈发感觉输出实验室的玩法，太爽了](mur/happiness_f_o_organizer.md)。
 [^3]: 大五模型/五因素模型（Five-factor Model or OCEAN Model）是心理学界最具影响力的人格模型，也是我们能用最少的特征去全面描绘出一个人个性特点的可靠方式。更多可参考 [Big Five personality traits - Wikipedia](https://en.wikipedia.org/wiki/Big_Five_personality_traits)。
 [^4]: 观点来自 [Is it better to be like your partner? - BBC Future](https://www.bbc.com/future/article/20181011-are-relationships-better-if-partners-are-more-similar)。

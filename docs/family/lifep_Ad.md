@@ -36,9 +36,9 @@
 
 * **科学素养和学习能力不错** —— 要不我们可能聊不到一块去
 
-* **大五人格特质上，宜人性**（agreeableness）、**尽责性**（conscientiousness）、**开放性**（openness）**高，神经质**（neuroticism）**低；同是晨型人**（morning person）—— 在这些特质上相似的伴侣，更易持久幸福[^3] 
+* **大五[^3]人格特质上，宜人性**（agreeableness）、**尽责性**（conscientiousness）、**开放性**（openness）**高，神经质**（neuroticism）**低；同是晨型人**（morning person）—— 在这些特质上相似的伴侣，更易持久幸福[^4] 
 
-* **感恩**（感激美好事物的发生，花时间表达感激和感恩），**利他**（友善，常帮助和关照他人）—— 这两项特质，会让咱们更幸福，也更易成事
+* **感恩**（感激美好事物的发生，花时间表达感激和感恩），**利他**（友善，常帮助和关照他人），**真诚**（诚恳真挚，不虚伪）—— 这些特质，会让咱们更幸福，也更易成事
 
 * **擅长编程、写作** —— 出能黑客虚拟世界，入能黑客心灵世界，帅呆
 
@@ -154,11 +154,12 @@ PS.
 [^0]: 我对外貌要求不高，且可助你降低外界干扰、让基因充分表达，长出最健康顺眼的样子。此话怎讲？且看 [我如何成为换头最快的1%？· 过去8个月的面容调整复盘](selfedu/RevFacialGrowth.md)。
 [^1]: 我更关注长期成长潜力，而非当前物质基础，且希望咱们不要买房买车——我没这方面需求，且希望咱们不要有负债，并把钱这种排他性资源，花在投资回报率更高的地方。当然，这样的重大决策需要咱们一起商量：）
 [^2]: 何为创造型快乐？可参考[创造快乐 - 生而有幸 - 知乎书店](https://www.zhihu.com/pub/reader/19550816/chapter/873650259174227968)。我近期的一些创造型快乐记录，见 [向世界交付自己的价值 · 有感于输出实验室又一里程碑](mur/happiness_devpdt_host.md)，[愈发感觉输出实验室的玩法，太爽了](mur/happiness_f_o_organizer.md)。
-[^3]: 观点来自 [Is it better to be like your partner? - BBC Future](https://www.bbc.com/future/article/20181011-are-relationships-better-if-partners-are-more-similar)。
+[^3]: 大五模型/五因素模型（Five-factor Model or OCEAN Model）是心理学界最具影响力的人格模型，也是我们能用最少的特征去全面描绘出一个人个性特点的可靠方式。更多可参考 [Big Five personality traits - Wikipedia](https://en.wikipedia.org/wiki/Big_Five_personality_traits)。
+[^4]: 观点来自 [Is it better to be like your partner? - BBC Future](https://www.bbc.com/future/article/20181011-are-relationships-better-if-partners-are-more-similar)。
 
 
 ## CHANGELOG 
 
-- 210917 修订细节、添加朋友视角 1.5h
+- 210917 修订细节、添加朋友视角 3h
 - 210916 迁移到博客上并迭代完善 4h
 - 210911 梳理需求和问题清单 2h

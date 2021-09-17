@@ -153,7 +153,7 @@ PS.
 
 [^0]: 我对外貌要求不高，且可助你降低外界干扰、让基因充分表达，长出最健康顺眼的样子。此话怎讲？且看 [我如何成为换头最快的1%？· 过去8个月的面容调整复盘](selfedu/RevFacialGrowth.md)。
 [^1]:  而且我希望咱们不要买房买车——我没这方面需求，且希望咱们不要有负债，并把钱这种排他性资源，花在投资回报率更高的地方。当然，这样的重大决策需要咱们一起商量：）
-[^2]: 何为创造型快乐？可参考[创造快乐 - 生而有幸 - 知乎书店](https://www.zhihu.com/pub/reader/19550816/chapter/873650259174227968)。
+[^2]: 何为创造型快乐？可参考[创造快乐 - 生而有幸 - 知乎书店](https://www.zhihu.com/pub/reader/19550816/chapter/873650259174227968)。我近期的一些创造型快乐记录，见 [向世界交付自己的价值 · 有感于输出实验室又一里程碑](mur/happiness_devpdt_host.md)，[愈发感觉输出实验室的玩法，太爽了](mur/happiness_f_o_organizer.md)。
 [^3]: 观点来自 [Is it better to be like your partner? - BBC Future](https://www.bbc.com/future/article/20181011-are-relationships-better-if-partners-are-more-similar)。
 
 

@@ -10,7 +10,7 @@
 
 没选好，则既无铠甲还添软肋，烦扰纠结不消停，常欠爱与信任，甚至自我也日渐凋零。
 
-如果你也想找个靠谱伴侣一起探索世界共面风雨、降低人生复杂度，欢迎往下看，看看咱们有无可能**互为值得托付后背的好战友** ^_^
+如果你也想找个靠谱伴侣一起探索世界共面风雨、降低人生复杂度，且往下看，看看咱们有无可能**互为值得托付后背的好战友** ^_^
 
 
 ![ishanshan1409-2.png](http://ishanshan.zoomquiet.top/share/ishanshan1409-2.png?imageView2/2/w/400 ':size=100')
@@ -151,7 +151,7 @@ PS.
 
 ## footnotes
 
-[^0]: 我对外貌要求不高，且可助你降低外界干扰、让基因充分表达，长出最健康顺眼的样子。底气何来？见 [我如何成为换头最快的1%？· 过去8个月的面容调整复盘](selfedu/RevFacialGrowth.md)。
+[^0]: 我对外貌要求不高，且可助你降低外界干扰、让基因充分表达，长出最健康顺眼的样子。此话怎讲？且看 [我如何成为换头最快的1%？· 过去8个月的面容调整复盘](selfedu/RevFacialGrowth.md)。
 [^1]:  而且我希望咱们不要买房买车——我没这方面需求，且希望咱们不要有负债，并把钱这种排他性资源，花在投资回报率更高的地方。当然，这样的重大决策需要咱们一起商量：）
 [^2]: 何为创造型快乐？可参考[创造快乐 - 生而有幸 - 知乎书店](https://www.zhihu.com/pub/reader/19550816/chapter/873650259174227968)。
 [^3]: 观点来自 [Is it better to be like your partner? - BBC Future](https://www.bbc.com/future/article/20181011-are-relationships-better-if-partners-are-more-similar)。

@@ -166,6 +166,7 @@
 - [发展规划](https://mzm628l8fj.feishu.cn/docs/doccnljPAh9xJll6wM7hLBjkhof)
 - [约我时间](about/booking.md)
 - [招亲帖：这位男同学你好，如果你也想找个靠谱伴侣降低人生复杂度…](family/lifep_Ad.md)
+- [招亲帖问题思索回答@闪闪](family/lifep_QAishanshan.md)
 - [探寻人生伴侣的路线图](family/lifep_roadmap.md)
 - [关爱家人行动清单](family/TipsCare4Parents.md)
 - [投资决策框架：如何评估一项资产是否值得长期持有？](selfedu/tips_invest.md)

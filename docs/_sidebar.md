@@ -179,7 +179,7 @@
     * [希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记](selfedu/tips_rainbowbook.md)
     * [从迷茫焦虑到从容踏实，这两个月我干了啥？· 万字复盘](selfedu/review2021Q1.md)
     * [这座线上心理健身房，你，值得拥有](selfedu/ebp_happiness.md)
-    * [幸福再体验：我生活中最美好的经历是？](selfedu/savor_happiestevent.md)
+    * [幸福再体验：我生活中最美好的经历](selfedu/savor_happiestevent.md)
     * [我如何成为换头最快的1%？· 过去8个月的面容调整复盘](selfedu/RevFacialGrowth.md)
     * [如何带出和自己一样能干的团队 · 半年摸爬小记](selfedu/TipsTeamLead101.md)
     * [你丁酉年的故事](selfedu/Review2017.md)

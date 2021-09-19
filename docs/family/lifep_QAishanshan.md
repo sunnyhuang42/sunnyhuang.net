@@ -1,5 +1,5 @@
 # 对招亲帖问题的思索@闪闪
-创建于 2021-09-18
+最后更新于 2021-09-19，创建于 2021-09-18
 
 <br> 
 
@@ -149,7 +149,7 @@
 
 #### 2. 个人简介/主页/作品
 
-- blog&个人简介： https://ishanshan.im/#/about/
+- 个人简介/blog： https://ishanshan.im/#/about/
 - 知识星球： [闪闪的人生实验室](https://t.zsxq.com/Vrzji2B)
 - GitHub： https://github.com/ishanshan
 - 所做产品服务
@@ -174,4 +174,5 @@
 
 ## CHANGELOG 
 
+- 210919 增补 4h
 - 210918 起草 4h

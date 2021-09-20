@@ -4,7 +4,7 @@
 
 发布于 2015-06-02
 
-<br> 
+<br>
 
 
 ```
@@ -89,3 +89,15 @@
 --
 
 2015.6.2清晨于北京
+
+
+<br>
+
+---
+
+
+读者留言：
+
+![blogcomment_1stdayofwork.png](http://ishanshan.zoomquiet.top/share/blogcomment_1stdayofwork.png)
+
+^截图于 210525

@@ -48,7 +48,7 @@
 
 好在倒腾俩月，终把坑填——
 
-[embed website](blank.md ':include') 
+[embed website](blank.md ':include')
 
 ## MarkDown + GitHub + LOFTER 有轻功
 
@@ -60,7 +60,7 @@
 
 工具不稀奇，关键在用法。领会要点，再依已有习惯自选趁手工具，更是妙哉。
 
-[embed website](blank.md ':include') 
+[embed website](blank.md ':include')
 
 
 ### 以「周」为单位记忆外部化
@@ -296,7 +296,7 @@
 
 之前搜集的[术语释义](https://workflowy.com/s/CO_N.I0UGEwbZEL) ：
 
-[embed website](https://workflowy.com/s/CO_N.I0UGEwbZEL ':include :type=iframe width=100% height=500px') 
+[embed website](https://workflowy.com/s/CO_N.I0UGEwbZEL ':include :type=iframe width=100% height=500px')
 
 最后用在文章里：
 
@@ -333,8 +333,20 @@
 - 五月：输出[策略产品经理训练营作业手记](devpdt/)。第一次正儿八经地参加线上付费课程。并拿到优秀学员（5/145），点亮新技能树。且 [网易蜗牛读书增长方案](devpdt/3jkSPM/ch5Task.md) 被评为精选，是当期课程里唯一一份精选作业，也是课程至今这章作业的唯一精选。
 - 六月：对外较逊色，只完成博客三年来第一次改版，并更换域名清除这两年的困扰：博客在微信访问不畅，被安全警示及重排。不过酝酿了本文及接下来几篇重要博文。
 
+<br>
+
+---
+
+
+读者留言：
+
+![blogcomment_outputflow.png](http://ishanshan.zoomquiet.top/share/blogcomment_outputflow.png)
+
+^截图于 210525
+
 ## CHANGELOG
 
+- 210920 附上过往读者留言
 - 181231 增加 Windows MarkDown 编辑器推荐（[Typora](https://typora.io/)），把开头内容移到附录
 - 180720 和 MWeb 开发者确认目录视图调整方案后，修改 MWeb 推荐说明
 - 180717 根据反馈增补内容，强调增进作品质、量的关键，在以「周」为单位记忆外部化，并用「一个人的微博」促进快写慢改，而非具体哪个 App

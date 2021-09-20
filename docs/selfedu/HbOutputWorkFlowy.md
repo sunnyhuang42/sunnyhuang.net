@@ -230,8 +230,21 @@ PS.
     - 作品和作品的差别，源于卡片。人和人的差异，垒于习惯。想更优雅畅快地输出作品，这套习惯也助益颇大：[卡片助力输出， MarkDown + GitHub + LOFTER 有轻功 · ishanshan's blog](wr/HbOutputbyCards.md) 。
     - 周报怎么写，能更省力更受益更有动力？且看 [用心写周报的同事，绩效不会太差 · ishanshan's blog](selfedu/TipsWeekly.md) 。
 
+
+<br>
+
+---
+
+
+读者留言：
+
+![blogcomment_workflowy.png](http://ishanshan.zoomquiet.top/share/blogcomment_workflowy.png)
+
+^截图于 210525
+
 ## CHANGELOG
 
+- 210920 附上过往读者留言
 - 210315 更新图片地址，以便 chrome 浏览器查看
 - 210216 修订一些措辞
 - 180726 增补同类文章地址

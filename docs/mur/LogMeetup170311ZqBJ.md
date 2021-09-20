@@ -3,13 +3,13 @@
 
 发布于 2017-04-12
 
-<br> 
+<br>
 
 上月大妈（[@ZoomQuiet](http://zoomquiet.io/#)） 来京，Python 班同学答疑撸串，我又见识了一些专家级姿势，并有些许改变，愉快记之：P
 
-<!-- more --> 
+<!-- more -->
 
-## 主持活动必用（自带）BGM 
+## 主持活动必用（自带）BGM
 
 在一个陌生空间，面对一群陌生的人，活动组织者（尤其主持人）如何快速进入状态找到掌控的感觉？—— 播放自己熟悉的 BGM ，张罗过上千场活动的大妈选了这个套路。Py102 每周广州交流活动，大妈现场必放 BGM ，哪怕他得独自同时操控 5 台以上设备：
 
@@ -54,9 +54,20 @@ BTW, 当晚庆幸之余，我还默默往男友标准里加了一条：不用盗
 
 
 
-## CHANGELOG 
+<br>
 
+---
+
+
+读者留言：
+
+![blogcomment_logmeetup170311zqbj.png](http://ishanshan.zoomquiet.top/share/blogcomment_logmeetup170311zqbj.png)
+
+^截图于 210525
+
+## CHANGELOG
+
+- 210920 附上过往读者留言
 - 210315 更新图片地址，以便 chrome 浏览器查看
 - 180716 整理发布到 blog
 - 170412 创建
-

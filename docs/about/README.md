@@ -95,12 +95,20 @@
 
 欢迎指教;-)
 
+<br> 
+
+---
 
 
+读者留言：
 
+![blogcomment_about.png](http://ishanshan.zoomquiet.top/share/blogcomment_about.png)
+
+^截图于 210525
 
 ## CHANGELOG
 
+- 210920 附上过往读者留言
 - 210825 把[输出实验室 需要哪些支持？](https://ishanshan.im/#/f_output/helpwanted)添加到需要的帮助里
 - 210812 更新最近在关注思考的问题
 - 210712 添加约我时间的锦囊

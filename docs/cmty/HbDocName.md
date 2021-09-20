@@ -3,7 +3,7 @@
 
 发布于 2016-02-10
 
-<br> 
+<br>
 
 文件命名看似简单，但其实体现**你对你的对象在当前体系中的关系/作用的理解**，往大了说，命名还直接反映**你对整个资源结构的理解**。
 
@@ -177,9 +177,20 @@
 
 祝你远离「各人用词、命名习惯不一样，难以形成共识，徒增团队协作成本」的烦恼（比如俺在[《GitHub 协作五大业余姿势》](https://ishanshan.im/community/HbGitHubCooperate.html) 提到的现象）！
 
+<br>
+
+---
+
+
+读者留言：
+
+![blogcomment_hbdocname.png](http://ishanshan.zoomquiet.top/share/blogcomment_hbdocname.png)
+
+^截图于 210525
 
 ## CHANGELOG
 
+- 210920 附上过往读者留言
 - 210422 删去大驼峰命名法，改为推荐下划线命名法
 - 180327 更新命名示例
 - 170826 增补 `请勿出现「@」「#」符号` 组块

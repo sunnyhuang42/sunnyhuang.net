@@ -74,7 +74,7 @@ PS. @浚宇的[公众号](https://mp.weixin.qq.com/s/s1EG4FVonFvjdHlQcRHIow)
 下笔之前，我其实在犹豫，担心写不好，担心无法描述闪闪在我心中的形象～聊到这里，再补充一句，她其实就是非常不普通的普通女孩，她有自己的好恶，她有自己的悲欢，和你我一样，我们都是对生命充满好奇的独立个体，期待你可以认识闪闪。
 
 
-PS. @六一的[播客](https://www.xiaoyuzhoufm.com/podcast/60703d786875857cbdef9ac8)
+PS. @六一的[播客](https://www.xiaoyuzhoufm.com/podcast/60703d786875857cbdef9ac8)/[公众号](https://mp.weixin.qq.com/s/P2PRB029lFeqDNxTjSmAPA)
 
 ## CHANGELOG 
 

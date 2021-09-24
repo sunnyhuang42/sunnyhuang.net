@@ -170,6 +170,7 @@
 - [探寻人生伴侣的路线图](family/lifep_roadmap.md)
 - [关爱家人行动清单](family/TipsCare4Parents.md)
 - [投资决策框架：如何评估一项资产是否值得长期持有？](selfedu/tips_invest.md)
+- [他人眼中的闪闪](about/view_others.md)
 - [养娃清单](family/hb_parenting.md)
 - 自我教育/selfedu
     * [如何更易获得有效帮助？· 困扰分析模板](cmty/hb_ask4help.md)

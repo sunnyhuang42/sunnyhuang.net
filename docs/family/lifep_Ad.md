@@ -169,7 +169,7 @@
     1. 推荐用飞书文档，这样咱们互动方便：D
     2. 可以使用加密链接分享，或者[加我为飞书好友](https://www.feishu.cn/invitation/page/add_contact/?token=633i13c9-f04e-429f-ad0b-09410fd2cd28&amp;unique_id=tqNs3cXgGLLurl2wapAxug==)，直接共享文档
 
-2. 上述问题在持续更新，如果想取用最新版，需先刷新本页面
+2. 上述问题在持续更新，如果想取用最新版，需先绕过缓存刷新本页面（shift+cmd/ctrl+R）
 
 3. 如果你想提升勾搭成功率，可先多翻翻我博客甚至知识星球 —— 人对在意并主动了解自己的伙伴，通常更有好感：P
 

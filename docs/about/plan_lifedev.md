@@ -88,13 +88,13 @@ PS. 上述期待背后的考虑：
 
 #### 2021.9
 
-目标规划：https://workflowy.com/s/d90096b1fac8/jxJ0vsVDBOuFMk26
+月度目标规划：https://workflowy.com/s/d90096b1fac8/jxJ0vsVDBOuFMk26
 
 #### 2021.8
 
 最需要重点关注和解决的，还是进一步捋顺人生三问，让行动更坚定并更易获得帮助。
 
-目标规划见：
+月度目标规划见：
 https://workflowy.com/s/7-8/M7XFHoBuYxv5lnwx
 
 

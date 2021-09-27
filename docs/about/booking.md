@@ -15,7 +15,7 @@
 
     我的目标规划，见：
     1. 理想生活：https://ishanshan.im/#/about/idealife
-    2. 发展规划：https://mzm628l8fj.feishu.cn/docs/doccnljPAh9xJll6wM7hLBjkhof
+    2. 发展规划：https://ishanshan.im/#/about/plan_lifedev
     3. 需要的支持：[输出实验室 需要哪些支持？](https://ishanshan.im/#/f_output/helpwanted)
 
 

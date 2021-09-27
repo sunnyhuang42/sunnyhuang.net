@@ -163,7 +163,7 @@
 
 - [简介](about/)
 - [理想生活](about/idealife.md)
-- [发展规划](https://mzm628l8fj.feishu.cn/docs/doccnljPAh9xJll6wM7hLBjkhof)
+- [发展规划](about/plan_lifedev.md)
 - [约我时间](about/booking.md)
 - [招亲帖：这位男同学你好，如果你也想找个靠谱伴侣降低人生复杂度…](family/lifep_Ad.md)
 - [答招亲帖「相识十五问」_闪闪](family/lifep_QAishanshan.md)

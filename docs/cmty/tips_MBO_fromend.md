@@ -147,7 +147,7 @@
 
 ![mbo_1.png](http://ishanshan.zoomquiet.top/share/mbo_1.png)
 
-原文见 [闪闪面临的挑战&解法 - 飞书文档](https://mzm628l8fj.feishu.cn/docs/doccnljPAh9xJll6wM7hLBjkhof#mZkRno)
+原文见 [输出实验室 需要哪些支持？](f_output/helpwanted?id=background) 中背景介绍的部分
 
 
 

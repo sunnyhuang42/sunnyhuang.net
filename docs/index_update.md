@@ -70,7 +70,7 @@ OKR是什么？一套严密的思考框架和持续的纪律要求。
 
 ---
 
-### 08-23 [关于输出实验室的常见误解](f_output/misunderstanding.md)
+### 08-23 [对输出实验室的七大误解，你中了几个？](f_output/misunderstanding.md)
 
 误解速览：
 

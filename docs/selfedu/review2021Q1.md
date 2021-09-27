@@ -572,7 +572,10 @@ BTW, 关于什么是 self-awareness，可参考 Harvard Business Review 这篇 1
 
 也在此感谢每位关注我进展、给我提醒建议和支持的伙伴，你们真诚的反馈让我更有动力和勇气，继续探索分享令人「健康自在 自信从容」的工具方法🤗
 
+# Footnotes
 
+[^1]: 联想经典复盘模板，是指联想公司的复盘模板。使用要点和案例，可参见这份幻灯 [如何做出好复盘-m9w1 周会](https://docs.qq.com/slide/DZnpaeG5xUlNwQlZN) 。
+[^2]: 指 2018 年我刻意练习写作技能的两篇文章：[《你丁酉年的故事》](selfedu/Review2017.md) 和 [《谢谢你给她的时光》](selfedu/Letter2XY4y2017.md)。
 
 # CHANGELOG
 
@@ -584,8 +587,5 @@ BTW, 关于什么是 self-awareness，可参考 Harvard Business Review 这篇 1
 - 210406~13 陆续复盘反思、增补迭代 40h 后，整理到博客上
 - 210405 梳理初稿 6h
 
-# Footnotes
 
-[^1]: 联想经典复盘模板，是指联想公司的复盘模板。使用要点和案例，可参见这份幻灯 [如何做出好复盘-m9w1 周会](https://docs.qq.com/slide/DZnpaeG5xUlNwQlZN) 。
-[^2]: 指 2018 年我刻意练习写作技能的两篇文章：[《你丁酉年的故事》](selfedu/Review2017.md) 和 [《谢谢你给她的时光》](selfedu/Letter2XY4y2017.md)。
 

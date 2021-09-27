@@ -100,13 +100,20 @@ https://workflowy.com/s/7-8/M7XFHoBuYxv5lnwx
 
 ## 附：
 
-### 1. 过往一些目标规划
+### 1. 上述大方向和三年规划是怎么梳理出来的
 
+思考和探索过程，可参考：
+
+- [答师友：升级个人博客背后的思考](mur/logOD_TRIZblogupd.md)
 - 2021.02-2021.07  这半年的 OKR 和规划 https://docs.qq.com/doc/DVWlSYW53c1dtanB4
+
+
+### 2. 过往一些目标规划
+
 - 2020.2 梳理的中长期规划 https://workflowy.com/s/9021bfe92832/B450ao8R9h1ekkNT
 - 2018.6 梳理的[长期发展方向和三年目标规划](about/InfoVocationREQ.md) 
 
-### 2. 我梳理拆解目标规划的方法
+### 3. 我梳理拆解目标规划的方法
 
 - [如何梳理有助于达成长期目标的行动规划？](cmty/tips_MBO_fromend.md)
 - [OKR是一套严密的思考框架？这是啥意思？](cmty/tips_MBOKRframe.md)

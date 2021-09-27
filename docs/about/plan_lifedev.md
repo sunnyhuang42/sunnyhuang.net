@@ -105,6 +105,7 @@ https://workflowy.com/s/7-8/M7XFHoBuYxv5lnwx
 思考和探索过程，可参考：
 
 - [答师友：升级个人博客背后的思考](mur/logOD_TRIZblogupd.md)
+- [起步初期的一些心路](selfedu/review2021Q1?id=supportsys)
 - 2021.02-2021.07  这半年的 OKR 和规划 https://docs.qq.com/doc/DVWlSYW53c1dtanB4
 
 

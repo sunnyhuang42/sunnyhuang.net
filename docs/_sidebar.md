@@ -196,6 +196,7 @@
     * [入职第一天，我失眠了](selfedu/NewLifeinOMC.md)
 - 杂记/mur  
     * [向世界交付自己的价值 · 有感于输出实验室又一里程碑](mur/happiness_devpdt_host.md)
+    * [答师友：升级个人博客背后的思考](mur/logOD_TRIZblogupd.md)
     * [如何高效解决难题 ·《创新算法》学习有感&资源索引](mur/res_ARIZ.md)
     * [进展两则：博客将要升级，「输出实验室」周日早10点截止报名](mur/upd2105.md)
     * [博客在升级 · 主页提示](mur/welcome_blogupding.md)

@@ -32,7 +32,7 @@
 * 完成 GRE TOFEL 考试
 
 
-最终的选择，需契合 [STC 算子的思想实验](cmty/tips_career_choice.md) 的结果。
+最终的选择，需契合 [STC 算子思想实验](cmty/tips_career_choice.md) 的结果。
 
 ## CHANGELOG 
 

@@ -202,6 +202,7 @@
     * [博客在升级 · 主页提示](mur/welcome_blogupding.md)
     * [不要评判某事好坏 · 杂记](mur/depend_on_your_goal.md)
     * [由“拥抱变化”引发的羞愧和反思 · 杂记](mur/TipsEmbraceChange.md)
+    * [对新发展机会的期待 · 杂记](about/InfoVocationREQ.md)
     * [如果你也在天上挑妈妈 · 家书 000](mur/LetterFamily000Baby.md)
     * [体能 不能落 · 杂记](mur/TipsMorningExercise.md)
     * [活动主持人如何快速进入状态？如何从源头避免编程初级错误？· 170311 见 @ZoomQuiet 小记](mur/LogMeetup170311ZqBJ.md)

@@ -195,6 +195,7 @@
     * [讲座控，控住你的人生 · 学习自传（一）](selfedu/SelfEduOwetoJZK.md)
     * [入职第一天，我失眠了](selfedu/NewLifeinOMC.md)
 - 杂记/mur  
+    * [答师友：我的个人发展规划是怎么梳理出来的？](cmty/tips_MBOlifeplan.md)
     * [向世界交付自己的价值 · 有感于输出实验室又一里程碑](mur/happiness_devpdt_host.md)
     * [答师友：升级个人博客背后的思考](mur/logOD_TRIZblogupd.md)
     * [如何高效解决难题 ·《创新算法》学习有感&资源索引](mur/res_ARIZ.md)

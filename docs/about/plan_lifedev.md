@@ -1,5 +1,5 @@
 # 个人发展规划_闪闪
-最后更新于 2021-09-27，起草于 2021-06-20
+最后更新于 2021-09-28，起草于 2021-06-20
 
 <br> 
 
@@ -159,7 +159,7 @@ https://workflowy.com/s/7-8/M7XFHoBuYxv5lnwx
 
 ## CHANGELOG 
 
-- 210928 增补为什么想推进上述方向 2h
+- 210928 增补为什么想推进上述方向、修改附录 2h
 - 210927 迁移到博客上 3h
 - 210714 迁移到[飞书](https://mzm628l8fj.feishu.cn/docs/doccnljPAh9xJll6wM7hLBjkhof#O2KCDT)上，持续迭代完善
 - 210620 在师友提问下，把一些关于目标规划的思考起草成文（[答师友：升级个人博客背后的思考](mur/logOD_TRIZblogupd.md)） 1.5h

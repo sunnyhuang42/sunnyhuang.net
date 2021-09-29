@@ -9,10 +9,12 @@
 
 今天输出实验室例会后，@章鱼狗 分享了以下参会感触：
 
-![fb_fo_od_hope.png](http://ishanshan.zoomquiet.top/share/fb_fo_od_hope.png  ':size=300')
+![fb_fo_od_hope.png](http://ishanshan.zoomquiet.top/share/fb_fo_od_hope.png  ':size=100')
 
 
 这激发了我对不少思考，回复如下。分享出来供有需要的伙伴参考，在自组织模式下更好地实现自己的需求或期待。
+
+如果你疑问建议，欢迎随时交流，也加速迭代完善这些想法：）
 
 ---
 

@@ -2,7 +2,7 @@
 
 ## 2021
 
-### 09-30 [如何给自己找 mentor ？关键有四步](cmty/hb_getmentors.md)
+### 09-30 [如何给自己找 mentor 加速成长？关键有四步](cmty/hb_getmentors.md)
 
 
 本月复盘时，我提到自己最希望的改进的地方是：

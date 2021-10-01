@@ -20,10 +20,10 @@
     - [启动新项目，如何设定项目目标? · 项目需求采集问题清单](cmty/infoq_pm_pre.md)
     - [如何提升行动意愿？· 行动清单汇总](cmty/tips_motivation.md)
     - [如何更易获得有效帮助？· 困扰分析模板](cmty/hb_ask4help.md)
+    - [如何给自己找 mentor ？关键有四步](cmty/hb_getmentors.md)
     - 职业发展
         - [如何做职业选择？· STC 问题清单](cmty/tips_career_choice.md)
         - [用心写周报的同事，绩效不会太差](selfedu/TipsWeekly.md)
-        - [如何给自己找 mentor ？关键有四步](cmty/hb_getmentors.md)
         - [希望团队配合更紧密、成长更迅猛？试试这样1on1](cmty/tips_1on1.md)
 - [内容更新列表](index_update.md)
 

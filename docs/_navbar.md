@@ -1,7 +1,10 @@
 
 
 
-- [导览](/)
+- 导览
+  - [按主题查看](_sidebar.md)
+  - [按发布时间查看](index_update.md)
+  - [博客导览](/) 
 - 输出实验室<sup style="color:orange;">报名中</sup>
   - [玩法介绍](f_output/)
   - [常见误解](f_output/misunderstanding.md)

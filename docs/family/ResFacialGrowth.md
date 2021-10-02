@@ -2,7 +2,7 @@
 
 如果你想快速开始练习让脸健康生长，可以直接搜「orthotropics」或 「mewing」，或参考以下材料：
 
-## 如果你可以阅读英文材料：
+## 如果你方便阅读英文材料：
 
 1. 推荐直接看这篇：[Proper Tongue Posture Guide 2021 – Mewingpedia](https://mewingpedia.com/proper-tongue-posture-guide/)
 2. 想了解更多，可以看这些：

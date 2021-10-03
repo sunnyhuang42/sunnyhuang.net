@@ -105,7 +105,7 @@
 
 ## FAQ
 
-### 1. 相较[宣宣（宣明栋）在这条状态](https://m.igetget.com/share/note/detail/AaWVPxLgY8D5pMayPkXL91DqwEoXJ9)，为什么没设玩伴、床友这些阶段？
+### 1. 相较[宣宣原本的路线图](https://m.igetget.com/share/note/detail/AaWVPxLgY8D5pMayPkXL91DqwEoXJ9)，为什么去掉玩伴、床友这些阶段？
 
 对我来说不需要：
 

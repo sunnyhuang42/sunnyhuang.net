@@ -7,7 +7,7 @@
 
 如果你也有相关资源，欢迎和我分享：D
 
-## 1. 蓬勃人生（flourishing） 
+## 1. 蓬勃人生（flourishing） :id=flourishing
 
 人生最幸福的状态是怎样的？
 

@@ -9,7 +9,7 @@
 
 - [博客导览](README.md)
 - [蓬勃人生/flourishing life](cmty/README.md)
-    - [最幸福的人生是怎样的，有哪些模式？](cmty/model_idealife.md)
+    - [理想人生是怎样的，有哪些模式？](cmty/model_idealife.md)
     - 通往蓬勃人生，投入产出比最高的切入点是什么？
     - 如何让自己进入通往蓬勃人生的增强回路？
     - [希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记](selfedu/tips_rainbowbook.md)

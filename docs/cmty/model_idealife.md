@@ -61,7 +61,7 @@
     
     ![flourishing_pks.png](http://ishanshan.zoomquiet.top/share/flourishing_pks.png)
 
-1. 笑来长期研究多次践行后，基于此演化出了自己的模型，这个版本简洁很多：
+1. 笑来长期研究多次践行后，基于成功万花筒策略演化出了自己的模型，这个版本简洁很多：
     - 只关注三个要素：
         - 长期持续地成长
         - 帮助他人成长

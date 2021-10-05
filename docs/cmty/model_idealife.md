@@ -34,7 +34,7 @@
 
 马丁·塞利格曼在《持续的幸福》一书中提到，全面的蓬勃人生（well-being或flourishing）有五个支柱——积极情绪（Positive emotions）、投入（Engagement）、人际关系（Relationships）、意义（Meaning & purpose）和成就（Accomplishment） ，而这些支柱的基石，则是品格优势和美德。在蓬勃人生理论里，24个优势支撑着五个元素，该理论旨在帮助我们运用自身最强的优势获得更多的积极情绪、意义、成就，以及发展更好的社会关系。这些元素的关系塞利格曼用下图示意：
 
-![flourishing_permasv.png](http://ishanshan.zoomquiet.top/clipping/flourishing_permasv.png  ':size=400')
+![flourishing_permasv.png](http://ishanshan.zoomquiet.top/clipping/flourishing_permasv.png  ':size=350')
 
 如果你想进一步了解蓬勃人生理论，可参考这门公开课：[The Science of Well-Being | Coursera](https://www.coursera.org/learn/the-science-of-well-being)。
 
@@ -74,7 +74,7 @@
     
     ![flourishing_pks.png](http://ishanshan.zoomquiet.top/share/flourishing_pks.png)
 
-1. 笑来长期研究多次践行后，基于成功万花筒策略演化出了自己的模型，这个版本简洁很多：
+1. 笑来长期研究多年践行后，基于成功万花筒策略演化出了自己的策略，这个模型简洁很多：
     - 只关注三个要素：
         - 长期持续地成长
         - 帮助他人成长

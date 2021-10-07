@@ -59,7 +59,7 @@ Hi, 欢迎来访。
 [docsify](https://docsify.js.org/#/) + [GitHub](https://docsify.js.org/#/deploy?id=github-pages) 。
 
 
-超级感谢给我推荐 docsify 的 [@梁超](http://liangchao.site/)、耐心地帮我实现好些需求的 [@竹间漪](https://weibo.com/u/1219497082) 。
+超级感谢给我推荐 docsify 的 [@梁超](http://liangchao.site/)、耐心地帮我实现好些需求的 [@竹间漪](https://mp.weixin.qq.com/s/cfDiyg8K5jsH3MWvo2whaQ) 。
 
 没有他们，估计很难这么快用上：D
 

@@ -210,7 +210,7 @@
 
 这套玩法能日渐成型，离不开首批参与实验的伙伴（排名不分先后）：
 
-@藤小曼 @柳白猿 [@李明](https://sunoonlee.com/) [@竹间漪](https://weibo.com/u/1219497082) [@4+](http://ishanshan.zoomquiet.top/clipping/qr_wechat4%2B.png) [@猛犸](https://www.douban.com/people/mammoth2008/) @辰辰 @笑笑 @济州
+@藤小曼 @柳白猿 [@李明](https://sunoonlee.com/) [@竹间漪](https://mp.weixin.qq.com/s/cfDiyg8K5jsH3MWvo2whaQ) [@4+](http://ishanshan.zoomquiet.top/clipping/qr_wechat4%2B.png) [@猛犸](https://www.douban.com/people/mammoth2008/) @辰辰 @笑笑 @济州
 
 超级感谢你们愿意帮我，坦诚布公交流碰撞，积极主动出谋划策、实验迭代，以及毫不吝啬的正反馈，给了我很大的信心和能力继续探索尝试😋
 

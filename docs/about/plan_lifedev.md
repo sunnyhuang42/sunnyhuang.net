@@ -144,16 +144,6 @@ PS. 为什么有上述期待？
 目标规划见 ：
 https://workflowy.com/s/m1011/9dmA0FNYr89MOSrr
 
-#### 2021.9
-
-月度目标规划：https://workflowy.com/s/d90096b1fac8/jxJ0vsVDBOuFMk26
-
-#### 2021.8
-
-最需要重点关注和解决的，还是进一步捋顺人生三问，让行动更坚定并更易获得帮助。
-
-月度目标规划见：
-https://workflowy.com/s/7-8/M7XFHoBuYxv5lnwx
 
 
 ## 附 :id=ps
@@ -166,6 +156,7 @@ https://workflowy.com/s/7-8/M7XFHoBuYxv5lnwx
 
 ### 2. 过往一些目标规划
 
+- 2021.4-至今的OKR规划索引和简单复盘：[探索记录_闪闪 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcnjRNtz98znXf1Jj4gsS3eIf)
 - 2021.2-2021.7 这半年探索期的 OKR 和规划 https://docs.qq.com/doc/DVWlSYW53c1dtanB4
 - 2020.2 梳理的中长期规划 https://workflowy.com/s/9021bfe92832/B450ao8R9h1ekkNT
 - 2018.6 梳理的[长期发展方向和三年目标规划](about/InfoVocationREQ.md) 
@@ -173,7 +164,7 @@ https://workflowy.com/s/7-8/M7XFHoBuYxv5lnwx
 
 ## CHANGELOG 
 
-- 211007 增补 10~11 月的目标规划和关于增长假设的思考
+- 211007 增补 10~11 月的目标规划和关于增长假设的思考、2021.4 至今的探索记录汇总表
 - 210928 增补为什么想推进上述方向、修改附录 2h
 - 210927 迁移到博客上 3h
 - 210714 迁移到[飞书](https://mzm628l8fj.feishu.cn/docs/doccnljPAh9xJll6wM7hLBjkhof#O2KCDT)上，持续迭代完善

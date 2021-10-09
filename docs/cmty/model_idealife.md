@@ -77,7 +77,7 @@
 2. 笑来长期研究多年践行后，基于成功万花筒策略演化出了自己的策略，这个模型简洁很多：
     - 只关注三个要素：
         - 长期持续地成长
-        - 构建长期稳定关系
+        - 构建长期稳定的关系
         - 帮助他人成长
 
      ![flourishing_pks_xl.jpg](http://ishanshan.zoomquiet.top/clipping/flourishing_pks_xl.jpg  ':size=400')

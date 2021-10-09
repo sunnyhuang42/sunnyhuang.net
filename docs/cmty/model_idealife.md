@@ -1,5 +1,5 @@
 # 理想人生是怎样的，有哪些模式？
-最后更新于 2021-10-04，创建于 2021-07-16
+最后更新于 2021-10-09，创建于 2021-07-16
 
 <br> 
 
@@ -52,7 +52,7 @@
 
 ![infopersonalkaleidoscope.gif](http://ishanshan.zoomquiet.top/share/infopersonalkaleidoscope.gif)
 
-简单来说，如果你希望持续成功，核心是维护这四要素的平衡：
+简单来说，如果你希望持续成功，核心是维护这四要素的平衡，且是在社区（community）工作（work）家庭（family）自我（self）这几个维度上都平衡：
 
 
 * **快乐/happiness** ：feelings of pleasure or contentment about your life 
@@ -143,6 +143,7 @@
 
 ## CHANGELOG 
 
+- 211009 完善细节
 - 211004 增补蓬勃人生模型和 APA 关于健康长寿的研究 0.5h
 - 211003 增补完善，迁移到博客上 3h
 - 210717 在知识星球创建

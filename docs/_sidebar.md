@@ -46,9 +46,10 @@
     - [主持人指南](f_output/hb_facilitator.md)
 - 发展记录
     - 开发手记
+        - [有测量才易有进步 · 初次尝试信任增进小练习有感_211010](mur/fo_creditws1st.md)
         - [U MADE MY DAY！· 有感于输出实验室又一里程碑](f_output/mst_got2partners.md)
         - [愈发感觉输出实验室的玩法，太爽了](mur/happiness_f_o_organizer.md)
-        * [向世界交付自己的价值 · 有感于输出实验室又一里程碑](mur/happiness_devpdt_host.md)
+        - [向世界交付自己的价值 · 有感于输出实验室又一里程碑](mur/happiness_devpdt_host.md)
     - 各方交流反馈
         - [用户反馈/往期成员结营复盘](f_output/feedback.md)
         - [关于输出实验室玩法的讨论@xk_210729](f_output/feedback_xk.md)

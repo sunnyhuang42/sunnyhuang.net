@@ -7,7 +7,7 @@
 
 <center><strong> - - - [ 主页 ] - - - </strong></center>
 
-- [博客导览](README.md)
+- [内容更新列表](index_update.md)
 - [蓬勃人生/flourishing](cmty/README.md)
     - [理想人生是怎样的，有哪些模式？](cmty/model_idealife.md)
     - 通往蓬勃人生，投入产出比最高的切入点是什么？
@@ -25,8 +25,7 @@
         - [如何做职业选择？· STC 问题清单](cmty/tips_career_choice.md)
         - [用心写周报的同事，绩效不会太差](selfedu/TipsWeekly.md)
         - [希望团队配合更紧密、成长更迅猛？试试这样1on1](cmty/tips_1on1.md)
-- [内容更新列表](index_update.md)
-
+- [博客导览](README.md)
 
 
 

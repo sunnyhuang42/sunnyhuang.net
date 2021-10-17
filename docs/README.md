@@ -9,11 +9,12 @@
 
 Hi, 欢迎来访。
 
-目前我的博客接近升级尾声，可先凑合取用。
+目前我的博客接近升级尾声，可先凑合取用。原有博文均在，别担心 ＾_＾
 
-直接在`左侧目录顶部的搜索框`，搜索关键词就好。原有博文均能检索到，别担心 ＾_＾
-
-`左侧目录`和`顶部导航`也可查阅，不过还没迁移完，有些内容仍需跳到站外访问。
+- [按主题查看](_sidebar.md)
+- [按发布时间查看](index_update.md)
+- 或直接在「左侧目录顶部的搜索框」，搜索关键词
+- 「左侧目录」和「顶部导航」也可查阅，不过还没迁移完，有些内容仍需跳到站外访问
 
 
 
@@ -31,7 +32,13 @@ Hi, 欢迎来访。
 
 ## FAQ
 
+
 ### 如何及时了解内容更新？
+<details>
+<summary> 点击展开：  </summary>
+
+
+
 
 如果你希望了解整个博客主要有哪些更新，可以留意这个页面：
 
@@ -48,15 +55,28 @@ Hi, 欢迎来访。
 
 [embed](about/_eb_outputchannel_card.md ':include')
 
+</details>
+
 ### 发现页面脚注样式出错？
 
-如果遇到脚注序号或样式不对，可以刷新一下页面，通常刷新后就会正常。
+<details>
+<summary> 点击展开：  </summary>
 
-这个 bug 目前还在修复中。
+
+如果遇到脚注序号或样式不对，可刷新一下页面，通常刷新后就会正常。
+
+我只知道这是个 bug ，但不会修……如果你能帮修复，感激不尽：D
+
+这是源代码：https://github.com/ishanshan/ishanshan.github.io
+
+</details>
 
 ### 这个博客是用什么建的？
 
-[docsify](https://docsify.js.org/#/) + [GitHub](https://docsify.js.org/#/deploy?id=github-pages) 。
+<details>
+<summary> 点击展开：  </summary>
+
+是用 [docsify](https://docsify.js.org/#/) + [GitHub](https://docsify.js.org/#/deploy?id=github-pages) 。
 
 
 超级感谢给我推荐 docsify 的 [@梁超](http://liangchao.site/)、耐心地帮我实现好些需求的 [@竹间漪](https://mp.weixin.qq.com/s/cfDiyg8K5jsH3MWvo2whaQ) 。
@@ -64,10 +84,15 @@ Hi, 欢迎来访。
 没有他们，估计很难这么快用上：D
 
 
+</details>
+
+
+
 
 
 ## CHANGELOG
 
+- 211017 增补索引页面、折叠 FAQ
 - 210616 增补想更及时了解进展的建议
 - 210612 去掉博客更新专用仓库
 - 210609 更新无法加载的处理提示

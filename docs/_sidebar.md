@@ -7,7 +7,7 @@
 
 <center><strong> - - - [ 主页 ] - - - </strong></center>
 
-- [内容更新列表](index_update.md)
+- [内容更新列表/按更新时间查看](index_update.md)
 - [蓬勃人生/flourishing](cmty/README.md)
     - [理想人生是怎样的，有哪些模式？](cmty/model_idealife.md)
     - 通往蓬勃人生，投入产出比最高的切入点是什么？

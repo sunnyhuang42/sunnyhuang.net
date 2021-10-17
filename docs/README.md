@@ -11,11 +11,20 @@ Hi, 欢迎来访。
 
 目前我的博客接近升级尾声，可先凑合取用。原有博文均在，别担心 ＾_＾
 
+如何取用？
+
 - [按主题查看](_sidebar.md)
 - [按发布时间查看](index_update.md)
-- 或直接在「左侧目录顶部的搜索框」，搜索关键词
-- 「左侧目录」和「顶部导航」也可查阅，不过还没迁移完，有些内容仍需跳到站外访问
+- 直接在「左侧目录顶部的搜索框」，搜索关键词
+- 查阅「左侧目录」和「顶部导航」 //还没迁移完，有些内容仍需跳到站外访问
 
+回访率较高的博文：
+
+* [OKR是一套严密的思考框架？这是啥意思？](cmty/tips_MBOKRframe.md)
+* [用心写周报的同事，绩效不会太差](selfedu/TipsWeekly.md)
+* [卡片助力输入输出，工具我选 WorkFlowy](selfedu/HbOutputWorkFlowy.md)
+* [卡片助力输出， MarkDown + GitHub + LOFTER 有轻功](wr/HbOutputbyCards.md)
+* [我如何成为换头最快的1%？· 过去8个月的面容调整复盘](selfedu/RevFacialGrowth.md)
 
 
 

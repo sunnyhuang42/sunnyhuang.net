@@ -43,6 +43,20 @@
     - [常见疑问解答/FAQ](f_output/faq.md)
     - [如何用好这里的资源/各角色进阶攻略](https://mzm628l8fj.feishu.cn/sheets/shtcnoXwVSubIPneYvgIptMtISf)
     - [主持人指南](f_output/hb_facilitator.md)
+    - 梳理优质目标规划
+        - [理想人生是怎样的，有哪些模式？](cmty/model_idealife.md)
+        - [希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记](selfedu/tips_rainbowbook.md)
+        - [如何梳理有助于达成长期目标的行动规划？](cmty/tips_MBO_fromend.md)
+        - [OKR是一套严密的思考框架？这是啥意思？](cmty/tips_MBOKRframe.md)
+        - [如何从容应对新挑战？·研究最佳实践通用问题清单](cmty/tips_RES_BP.md)
+        - [启动新项目，如何设定项目目标? · 项目需求采集问题清单](cmty/infoq_pm_pre.md)
+        - [常做复盘·用心写周报的同事，绩效不会太差](selfedu/TipsWeekly.md)
+        - [如何做职业选择？· STC 问题清单](cmty/tips_career_choice.md)
+    - 应对消极情绪/进展不畅，提升成功概率
+        - [如何更易获得有效帮助？· 困扰分析模板](cmty/hb_ask4help.md)
+        - [如何提升行动意愿？· 行动清单汇总](cmty/tips_motivation.md)
+        - [如何给自己找 mentor 加速成长？关键有四步](cmty/hb_getmentors.md)
+        - [这座线上心理健身房，你，值得拥有](selfedu/ebp_happiness.md)
 - 发展记录
     - 开发手记
         - [有测量才易有进步 · 初次尝试信任增进小练习有感_211010](mur/fo_creditws1st.md)

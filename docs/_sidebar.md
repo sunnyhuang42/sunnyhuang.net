@@ -39,11 +39,11 @@
 - [对输出实验室的七大误解，你中了几个？](f_output/misunderstanding.md)
 - [输出实验室 需要哪些支持？](f_output/helpwanted.md)
 - [报名入口<sup style="color:orange;"></sup>](f_output/signup.md)
-- 参与指南
+- 参与攻略
     - [常见疑问解答/FAQ](f_output/faq.md)
     - [如何用好这里的资源/各角色进阶攻略](https://mzm628l8fj.feishu.cn/sheets/shtcnoXwVSubIPneYvgIptMtISf)
     - [主持人指南](f_output/hb_facilitator.md)
-    - 梳理优质目标规划
+    - 梳理优质目标规划，聚焦要事
         - [理想人生是怎样的，有哪些模式？](cmty/model_idealife.md)
         - [希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记](selfedu/tips_rainbowbook.md)
         - [如何梳理有助于达成长期目标的行动规划？](cmty/tips_MBO_fromend.md)

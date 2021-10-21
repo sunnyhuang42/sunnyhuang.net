@@ -72,12 +72,14 @@ Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
 
 
 
-这半年拾级而上，有许多发现许多思考，真希望半年前自己就知晓。秉承三年来忽悠我司用户学习的优良传统[^8]，我把这些一得之见汇成教程，给六个月前的自己，教她如何少走弯路，进阶更畅。**这份教程，结合我对认知科学、学习科学和脑科学的粗浅理解，给出初涉 swing 到踏入舞池甚至筹办舞会的行动建议。毕竟是给自己的教程，自然毫无保留，持续更新。😉**
+这半年拾级而上，有许多发现许多思考，真希望半年前自己就知晓。秉承三年来倡导我司用户学习的优良传统[^8]，我把这些一得之见汇成教程，给六个月前的自己，教她如何少走弯路，进阶更畅。**这份教程，结合我对认知科学、学习科学和脑科学的粗浅理解，给出初涉 swing 到踏入舞池甚至筹办舞会的行动建议。毕竟是给自己的教程，自然毫无保留，持续更新。😉**
 
 独乐不如众乐，也把她同你分享，助要探索 swing 丛林的你，摇摆更畅；也期待能抛砖引玉 —— 如果你有思考发现，欢迎一起交流，互塑共建：
 
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/ishanshan/EnjoySwingDancing/blob/master/README.md">ishanshan/EnjoySwingDancing</a></h4><p>EnjoySwingDancing - 谨以此籍，送给六个月前低落彷徨的自己，也送给脑力工作的你，伏案久坐的你 -- swing 吧！你的苦乐，swing 知道 💃🏻🕺🏻</p></blockquote>
-<script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+> [摇摆舞（Swing）手记](swing/) 
+> 
+> EnjoySwingDancing - 谨以此籍，送给六个月前低落彷徨的自己，也送给脑力工作的你，伏案久坐的你 -- swing 吧！你的苦乐，swing 知道 💃🏻🕺🏻
+
 
 
 Swing 是什么？为什么要 Swing ？看再多资源也只能窥豹一斑，她对你来说意味着什么，你得亲自体验 ——

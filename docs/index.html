@@ -225,7 +225,6 @@
 
 
       function(hook) {
-        const footnote_elements = new Map();
         var footer = [
           '<footer style="text-align: center;margin-top: 20px;color: gray;font-size: 14px">',
           '<footer>',
@@ -242,6 +241,7 @@
         ].join('');
         // footer = '';
         hook.afterEach(function(html) {
+          const footnote_elements = new Map();
           try {
             const urlPrefix = window.location.href.substring(0, window.location.href.indexOf('?') > 0 ? window.location.href.indexOf('?') : undefined);
             if (urlPrefix.endsWith('/#/')) {

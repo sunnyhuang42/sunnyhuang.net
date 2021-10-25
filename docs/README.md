@@ -41,6 +41,7 @@ Hi, 欢迎来访。
 
 ## FAQ
 
+[filename](blank.md ':include')
 
 ### 如何及时了解内容更新？
 <details>

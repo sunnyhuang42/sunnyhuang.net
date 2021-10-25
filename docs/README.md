@@ -66,22 +66,7 @@ Hi, 欢迎来访。
 
 </details>
 
-### 发现页面脚注样式出错？
 
-<details>
-<summary> 点击展开：  </summary>
-
-
-
-如果遇到脚注序号或样式不对（如下图所示），可刷新一下页面，通常刷新后就会正常。
-
-![bugfootnote.jpeg](http://ishanshan.zoomquiet.top/share/bugfootnote.jpeg?imageslim  ':size=450')
-
-我只知道这是个 bug ，但还不会修……如果你能帮忙修复，感激不尽：D
-
-这是源代码：https://github.com/ishanshan/ishanshan.github.io
-
-</details>
 
 ### 这个博客是用什么建的？
 
@@ -104,6 +89,7 @@ Hi, 欢迎来访。
 
 ## CHANGELOG
 
+- 211025 删去脚注样式出错提示 ~ 得益于[ichuns](https://github.com/ichuns) 的帮助，脚注问题已修复
 - 211021 增补脚注出错样式
 - 211017 增补索引页面、折叠 FAQ
 - 210616 增补想更及时了解进展的建议

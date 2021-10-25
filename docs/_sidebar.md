@@ -10,7 +10,7 @@
 - [内容更新列表/按更新时间查看](index_update.md)
 - [蓬勃人生/flourishing](cmty/README.md)
     - [理想人生是怎样的，有哪些模式？](cmty/model_idealife.md)
-    - [通往蓬勃人生，投入产出比最高的切入点是什么？](cmty/keypoint_flourish.md)
+    - [通往蓬勃人生，投入产出比最高的发力点是什么？](cmty/keypoint_flourish.md)
     - 如何让自己进入通往蓬勃人生的增强回路？
     - [希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记](selfedu/tips_rainbowbook.md)
     - [这座线上心理健身房，你，值得拥有](selfedu/ebp_happiness.md)
@@ -45,7 +45,7 @@
     - [主持人指南](f_output/hb_facilitator.md)
     - 梳理优质目标规划，聚焦要事
         - [理想人生是怎样的，有哪些模式？](cmty/model_idealife.md)
-        - [通往蓬勃人生，投入产出比最高的切入点是什么？](cmty/keypoint_flourish.md)
+        - [通往蓬勃人生，投入产出比最高的发力点是什么？](cmty/keypoint_flourish.md)
         - [希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记](selfedu/tips_rainbowbook.md)
         - [如何梳理有助于达成长期目标的行动规划？](cmty/tips_MBO_fromend.md)
         - [OKR是一套严密的思考框架？这是啥意思？](cmty/tips_MBOKRframe.md)

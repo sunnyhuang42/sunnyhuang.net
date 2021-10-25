@@ -22,14 +22,17 @@
 * 和家人（伴侣父母孩子）的关系很好，彼此是好朋友，相互陪伴成长，一起面对生活的挑战。即使艰难，也能苦中作乐，享受这个过程。
 * 能轻松看见不同人的诉求，并找到合适的解决方案去满足。并做出了 1-3 款用户喜爱且可持续发展的产品。
 
-具体到每天，是这样的节律（移动端可能无法预览，可点击[这里](https://mzm628l8fj.feishu.cn/sheets/shtcnHFWWrxtucnzTHXFmNlW9hd?sheet=0QWBTa)直接查看）：
+具体到每天，是这样的节律（移动端可能无法预览，可点击[这里](https://mzm628l8fj.feishu.cn/sheets/shtcnHFWWrxtucnzTHXFmNlW9hd)直接查看）：
 
-[每周节律](https://mzm628l8fj.feishu.cn/sheets/shtcnHFWWrxtucnzTHXFmNlW9hd?sheet=0QWBTa ':include :type=iframe width=100% height=700px')
+[每周节律](https://mzm628l8fj.feishu.cn/sheets/shtcnHFWWrxtucnzTHXFmNlW9hd ':include :type=iframe width=100% height=700px')
 
 
 
 我给这个画面起的标题是：「健康蓬勃 温暖从容」的幸福生活
 
+## 葬礼想象/墓志铭
+
+详见[葬礼想象/墓志铭](about/?id=epitaph)
 
 ## 个人发展规划
 
@@ -37,11 +40,11 @@
 
 ## footnote
 
-[^1]: SML 是我前东家用于评估人才潜力的模型。更多介绍，可参考[这里](selfedu/review2021Q1?id=sml)。
+[^1]: SML 是我前东家用于评估人才潜力的模型。更多信息，可参考[这里](selfedu/review2021Q1?id=sml)。
 
 ## CHANGELOG
 
-- 211025 更新对财务的期待
+- 211025 更新对财务的期待和葬礼想象
 - 210927 增加个人发展规划的文档地址
 - 210807 更新节律表的地址
 - 210612 根据心流理论增补关于复杂的乐趣部分

@@ -13,16 +13,16 @@
 
 
 1. 先结合自己的[理想生活](about/idealife.md)画面，梳理出 12 年这个尺度下，自己想实现的大目标/有所成就的方向，1-3 个即可
-    - 比如这是我得出的版本：[想推进的大方向-发展规划](about/plan_lifedev?id=longterm)
-    - 得出这个方向前，是先梳理出了自己想[搞明白的问题清单](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=7e122f)，以此为指导逐步研究、实验，探索自己打算为谁创造怎样的价值
-    - 当时探索过程的目标规划和简要的实践反思，见 [探索记录_闪闪 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm&range=QTU6TDEw)  
+    - 比如这是我的版本：[想推进的大方向-发展规划](about/plan_lifedev?id=longterm)
+        - 得出这个方向前，是先梳理出了自己想[搞明白的问题清单](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=7e122f)，以此为指导逐步研究、实验，探索自己打算为谁创造怎样的价值
+        - 当时探索过程的目标规划和简要的实践反思，见 [探索记录_闪闪 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm&range=QTU6TDEw)  
     - 所花时长：当时大概花了三四个月的时间       
    
 2. 基于此倒推梳理 3 年左右想实现的目标，再拆解 18 个月、6 个月的目标
     - 注意：
         - 3 年、6 个月的目标，一般能有比较明确的期待
         - 18 个月的，可能比较模糊；不过这没关系，一开始都是先有个大概轮廓，后续继续探索、渐进明细
-    - 这是我的版本：[中短期规划-发展规划](about/plan_lifedev?id=shorterm)
+    - 我的版本：[中短期规划-发展规划](about/plan_lifedev?id=shorterm)
     - 所花时长：大概一两个月的时间
    
 3. 然后思考近 1-3 个月的目标时，把 3 年、6 个月 的目标作为终态，按[《如何梳理有助于达成长期目标的行动规划？

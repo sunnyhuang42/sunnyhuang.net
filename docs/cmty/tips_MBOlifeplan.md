@@ -1,5 +1,5 @@
 # 答师友：我的个人发展规划是怎么梳理出来的？
-起草于 2021-09-28
+最后更新于 2021-10-29，创建于 2021-09-28
 
 <br> 
 
@@ -12,9 +12,11 @@
 ## 思索过程
 
 
-1. 先结合自己的理想生活画面，梳理出 12 年这个尺度下，自己想实现的大目标/有所成就的方向，1-3 个即可
+1. 先结合自己的[理想生活](about/idealife.md)画面，梳理出 12 年这个尺度下，自己想实现的大目标/有所成就的方向，1-3 个即可
     - 比如这是我得出的版本：[想推进的大方向-发展规划](about/plan_lifedev?id=longterm)
-    - 所花时长：当时大概花了三四个月的时间，来研究、实验，探索自己打算为谁创造怎样的价值
+    - 得出这个方向前，是先梳理出了自己想[搞明白的问题清单](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=7e122f)，以此为指导逐步研究、实验，探索自己打算为谁创造怎样的价值
+    - 当时探索过程的目标规划和简要的实践反思，见 [探索记录_闪闪 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm&range=QTU6TDEw)  
+    - 所花时长：当时大概花了三四个月的时间       
    
 2. 基于此倒推梳理 3 年左右想实现的目标，再拆解 18 个月、6 个月的目标。这是我的版本：[中短期规划-发展规划](about/plan_lifedev?id=shorterm)，花了大概一两个月的时间
     - 3 年、6 个月的目标，一般能有比较明确的期待
@@ -28,6 +30,7 @@
 
 
 ## Tips
+
 
 ### 1. 定出目标规划，不是终点，只是一个节点
 
@@ -66,7 +69,7 @@
 ## 附：更多思索过程记录
 
 - [起步初期的一些心路](selfedu/review2021Q1?id=supportsys)
-- 2021.2-2021.7 这半年探索期的 OKR 和规划 https://docs.qq.com/doc/DVWlSYW53c1dtanB4
+- 探索过程的目标规划和简要的实践反思，见 [探索记录_闪闪 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm)  
 - [答师友：升级个人博客背后的思考](mur/logOD_TRIZblogupd.md)
 
 
@@ -74,4 +77,5 @@
 
 ## CHANGELOG 
 
+- 211029 增补链接材料
 - 210928 创建 3h

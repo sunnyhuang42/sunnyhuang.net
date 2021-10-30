@@ -168,7 +168,7 @@ OKR是什么？一套严密的思考框架和持续的纪律要求。
 
 ---
 
-### 09-02 [如何提升行动意愿？· 行动锦囊汇总](cmty/tips_motivation.md)
+### 09-02 [如何提升行动意愿？· 行动清单汇总](cmty/tips_motivation.md)
 
 目标达成不如预期怎么办？
 可从能力（competence）和意愿（commitment）两方面干预。

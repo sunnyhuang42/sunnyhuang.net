@@ -185,7 +185,7 @@
 - [约我时间](about/booking.md)
 - [招亲帖：这位男同学，如果你也想找个偏好创造型快乐的靠谱伴侣…](family/lifep_Ad.md)
 - [答招亲帖「相识十五问」_闪闪](family/lifep_QAishanshan.md)
-- [他人眼中的我](about/view_others.md)
+- [我是怎样的人？那些认识三年以上的老友，给出的答案是…](about/view_others.md)
 - [探寻人生伴侣的路线图](family/lifep_roadmap.md)
 - [关爱家人行动清单](family/TipsCare4Parents.md)
 - [投资决策框架：如何评估一项资产是否值得长期持有？](selfedu/tips_invest.md)

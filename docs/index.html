@@ -270,10 +270,10 @@
           const footnote_elements = new Map();
           try {
             const urlPrefix = window.location.href.substring(0, window.location.href.indexOf('?') > 0 ? window.location.href.indexOf('?') : undefined);
-            if (urlPrefix.endsWith('/#/')) {
-              window.location.href += 'README';
-              // window.location.reload();
-            }
+            // if (urlPrefix.endsWith('/#/')) {
+            //   window.location.href += 'README';
+            //   // window.location.reload();
+            // }
 
             let beforeFooter = html.replace(
                     /\[\^([^\]]*)\]/g,

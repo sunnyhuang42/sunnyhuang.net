@@ -81,11 +81,6 @@
     white-space: initial !important;
   }
 
-
-
-
-
-
     #TOPBANNER {
       z-index: 111;
       height: initial;
@@ -105,6 +100,37 @@
     #gitalk-container {
       /* max-width: 300px; */
     }
+
+  @media screen and (max-width: 640px) {
+    main {
+      z-index: unset;
+    }
+
+    .app-nav > ul li:first-of-type ul {
+      right: unset;
+    }
+
+    .app-nav.no-badge,
+    .app-nav > ul,
+    .app-nav > ul > li {
+      margin: 0;
+      padding: 0;
+    }
+
+    .app-nav > ul {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      width: 100vw;
+      padding: 16px;
+    }
+  }
+
+  @media screen and (max-width: 960px) {
+    .markdown-section > :first-child {
+      margin: 20px 0 20px 0 !important;
+    }
+  }
 
   </style>
 

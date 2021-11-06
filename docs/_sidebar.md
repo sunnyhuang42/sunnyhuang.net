@@ -192,6 +192,7 @@
 - [他人眼中的闪闪](about/view_others.md)
 - [养娃清单](family/hb_parenting.md)
 - 自我教育/selfedu
+    * [如何减少消极情绪？我的4项应急预案和5项防范措施](cmty/tips_happiness)
     * [如何给自己找 mentor 加速成长？关键有四步](cmty/hb_getmentors.md)
     * [如何更易获得有效帮助？· 困扰分析模板](cmty/hb_ask4help.md)
     * [如何提升行动意愿？· 行动清单汇总](cmty/tips_motivation.md)

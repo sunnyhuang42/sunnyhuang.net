@@ -50,7 +50,7 @@
 ![q_interview.png](http://ishanshan.zoomquiet.top/clipping/q_interview.png  ':size=300')
 
 
-当然，全程也在评估感受双方相互欣赏、认可契合的程度如何。比如这是那时面试的一个片段记录：[幸福再体验：我生活中最美好的经历](selfedu/savor_happiestevent) 
+当然，全程也在评估感受双方相互欣赏、认可契合的程度如何。比如这是那时面试的一个片段记录：[幸福再体验：我生活中最美好的经历](selfedu/savor_happiestevent?id=mystory) 
 
 
 <br> 

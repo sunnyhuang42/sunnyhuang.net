@@ -45,12 +45,12 @@
 
 能出现这样的结果，离不开面试过程选择志同道合的团队——
 
-当时我是在面到 CEO 那轮时，通过下图的问题，来**评估契合程度以及自己给团队创造巨大价值的可能性**：
+我会在面到 CEO 那轮时，通过下图的问题，来**评估契合程度以及自己给团队创造巨大价值的可能性**：
 
 ![q_interview.png](http://ishanshan.zoomquiet.top/clipping/q_interview.png  ':size=300')
 
 
-当然，全程也在评估感受双方相互欣赏、认可契合的程度如何。比如这是那时面试的一个片段记录：[幸福再体验：我生活中最美好的经历](selfedu/savor_happiestevent?id=mystory) 
+当然，全程也都在评估感受双方相互欣赏、认可契合的程度如何。比如这是那时面试的一个片段记录：[幸福再体验：我生活中最美好的经历](selfedu/savor_happiestevent?id=mystory) 
 
 
 <br> 

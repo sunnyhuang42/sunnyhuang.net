@@ -8,7 +8,7 @@
 <center><strong> - - - [ 主页 ] - - - </strong></center>
 
 - [内容更新列表/按更新时间查看](index_update.md)
-- [想让职业转型期的试错节奏快起来？「士别三日行动营」了解一下](f_output/f_test_1st)
+- [想让职业转型期的「试错节奏」快起来？「士别三日行动营」了解一下](f_output/f_test_1st)
 - [蓬勃人生/flourishing](cmty/README.md)
     - [理想人生是怎样的，有哪些模式？](cmty/model_idealife.md)
     - [通往蓬勃人生，「投入产出比」最高的发力点是什么？](cmty/keypoint_flourish.md)

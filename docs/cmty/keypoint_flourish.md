@@ -118,7 +118,7 @@ PS. 具体如何积累信任/声誉（credit），进入通往蓬勃人生的增
 
 ## footnotes
 
-[^1]: 怎样算是蓬勃人生？可参考这里的材料：[理想人生是怎样的，有哪些模式？](https://ishanshan.im/#/cmty/model_idealife)
+[^1]: 怎样算是蓬勃人生？可参考这里的材料：《理想人生是怎样的，有哪些模式？》 https://ishanshan.im/#/cmty/model_idealife
 [^2]: 引领性指标（lead measures）和滞后性指标（lag measures）的概念，出自[《高效能人士的执行4原则》](https://book.douban.com/subject/20493300/)，感兴趣可参考这篇短文快速了解：[Discipline 2: Act on the Lead Measures](https://www.franklincovey.com/the-4-disciplines-old/discipline-2-act/)
 
 ## CHANGELOG 

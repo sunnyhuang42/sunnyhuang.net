@@ -28,6 +28,7 @@ O 是回答“我(们)想做什么”，KR 是回答“我(们)如何知道是�
 
 
 ![what-is-the-okr-framework-how-it-all-started.png](http://ishanshan.zoomquiet.top/clipping/what-is-the-okr-framework-how-it-all-started.png)
+
 ^ 图片来自[How to Use the OKR Framework to Reach Your Life Goals](https://mint.intuit.com/blog/planning-2/okr-framework/)
 
 

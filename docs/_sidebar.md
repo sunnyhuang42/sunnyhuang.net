@@ -205,6 +205,7 @@
     * [这座线上心理健身房，你，值得拥有](selfedu/ebp_happiness.md)
     * [幸福再体验：我生活中最美好的经历](selfedu/savor_happiestevent.md)
     * [我如何成为换头最快的1%？· 过去8个月的面容调整复盘](selfedu/RevFacialGrowth.md)
+    * [如何提升企业绩效？研究杨国安思想体系后，我发觉的四大常见误区](cmty/tipsOD.md)
     * [如何带出和自己一样能干的团队 · 半年摸爬小记](selfedu/TipsTeamLead101.md)
     * [你丁酉年的故事](selfedu/Review2017.md)
     * [谢谢你给她的时光](selfedu/Letter2XY4y2017.md)

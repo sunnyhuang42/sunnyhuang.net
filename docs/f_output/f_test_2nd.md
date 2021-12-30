@@ -125,7 +125,7 @@
 
 ![f_test_model0.png](http://ishanshan.zoomquiet.top/share/f_test_model0.png)
 
-2. 每半周一次的小组「**闪电迭代会**」，助你持续「以终为始」地迭代行动方案初稿，聚焦下一步「投入产出比」最高的发力点，加速获得正反馈，积累继续行动尝试的自信。
+2. 每半周一次的小组「**闪电迭代会**」，助你持续「以终为始」地迭代行动方案，聚焦下一步「投入产出比」最高的发力点，加速获得正反馈，积累继续行动尝试的自信。
 
 ![f_test_model1.png](http://ishanshan.zoomquiet.top/share/f_test_model1.png  ':size=370')
 

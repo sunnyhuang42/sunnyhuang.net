@@ -121,7 +121,7 @@
 
 主要是一系列让自己更能「拥抱不确定」、加速职业转型的资源和机会。比如：
 
-1. 这里会提供基于我调研大量最佳实践形成的模板，以及同行者的鲜活案例，助你「以终为始」开始行动——从远期愿景逐步拆解到近期计划，产出可迭代的行动方案初稿。
+1. 这里会提供基于我调研大量最佳实践形成的模板，以及同行者的鲜活案例，助你「**以终为始**」开始行动——从远期愿景逐步拆解到近期计划，产出可迭代的行动方案初稿。
 
 ![f_test_model0.png](http://ishanshan.zoomquiet.top/share/f_test_model0.png)
 
@@ -130,7 +130,7 @@
 ![f_test_model1.png](http://ishanshan.zoomquiet.top/share/f_test_model1.png  ':size=370')
 
 
-3. 用稳定的行动节律，助你在复杂多变的时代，拥有确定的秩序感，持续探索人生可能性，「拥抱不确定」。
+3. 用稳定的行动节律，助你在复杂多变的时代，拥有「**确定的秩序感**」，持续探索人生可能性，「拥抱不确定」。
 
 ![f_test_model3.png](http://ishanshan.zoomquiet.top/share/f_test_model3.png)
 

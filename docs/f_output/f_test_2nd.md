@@ -294,7 +294,7 @@ PS. 梳理时不必有压力，可以把这当做一次练习小步快跑敏捷�
 
 ## footnote
 
-[^1]: 这来自 LEANSTACK 的这篇文章：https://leanstack.com/new-rules 。文章涉及「拥抱不确定」的关键原则，如果你想转型到高度不确定的方向，比如自由职业者、创业等，推荐反复查阅 
+[^1]: 这来自 LEANSTACK 的这篇文章：https://leanstack.com/new-rules 。文章涉及「拥抱不确定」的关键心法，如果你想转型到高度不确定的方向，比如自由职业者、创业等，推荐反复查阅 
 
 ## CHANGELOG 
 

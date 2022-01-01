@@ -35,13 +35,26 @@
 
 结合理论分析、实践及访谈，我发现原因大体可以归为以下几点：
 
-首先是缺方法，尤其是**缺内隐知识（implicit knowledge）**——而这通常只有和对应领域的高手合作共事，或在相似任务场景中对比觉察、讨教决策思路，才易了解。复杂技能更是如此，你懂的。
+首先是缺方法，尤其是**缺内隐知识（tacit knowledge）**——且这比外显知识（explicit knowledge）占比大得多，而这通常只有和对应领域的高手合作共事，或在相似任务场景中对比觉察、讨教决策思路，才易了解。复杂技能更是如此，你懂的。
+
+![tacitknowledge.jpeg](http://ishanshan.zoomquiet.top/clipping/tacitknowledge1.jpeg)
+
+^左图来自[Tacit Knowledge: Definition, Examples, and Importance](https://helpjuice.com/blog/tacit-knowledge)，右图来自[Knoco stories: The Knowledge Management Iceberg](http://www.nickmilton.com/2012/08/the-knowledge-management-iceberg_29.html)
+
+<br> 
 
 如果知道了正确方法，却依然没做到，则可能是意愿（commitment）准备度不足（不想做）和/或能力（competence）准备度不足（不会做）——
 
-如果行动**意愿准备度不足**，根据动机心理学的「价值-期望」理论，此时通常是
+如果行动**意愿准备度不足**，根据动机心理学的「价值-期望」理论，行为=期望*价值
+![hopevalue2.jpeg](http://ishanshan.zoomquiet.top/clipping/hopevalue3.jpeg)
+^ 截图来自[《动机心理学》](https://book.douban.com/subject/35012449/)
+
+如果行为没有发生，可能是由于
 - 缺「期望」——对自己或行动的成效缺乏信心；比如觉得按自己对以终为始的理解去做，也不一定能帮助自己提升决策质量、加速职业转型
 - 或没感受到这么做的「价值」——感觉这么做的「投入产出比」不高；比如觉得要做到以终为始，太难了，很难找到有效的实践方案启动起来，把时间花在这儿感觉不值
+
+
+<br> 
 
 如果**能力准备度不足**，通常是训练不够有效——没有训练目标、目标不合理或没有反馈，或有效训练的量不够。
 
@@ -272,6 +285,6 @@ PS. 梳理时不必有压力，可以把这当做一次练习小步快跑敏捷�
 
 ## CHANGELOG 
 
-- 220101 修订细节
+- 220101 修订细节 0.5h
 - 211231 修订细节 2h
 - 211230 创建 7h

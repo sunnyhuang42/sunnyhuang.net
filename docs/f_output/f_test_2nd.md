@@ -48,7 +48,7 @@
 
 结合理论分析、实践及访谈，我发现原因大体可以归为以下几点：
 
-首先是缺方法，尤其是**缺内隐知识（tacit knowledge）**——且这比外显知识（explicit knowledge）占比大得多，而这通常只有和对应领域的高手合作共事，或在相似任务场景中对比觉察、讨教决策思路，才易了解。复杂技能更是如此，你懂的。
+首先是缺方法，尤其是**缺内隐知识（tacit knowledge）**，且这比外显知识（explicit knowledge）占比大得多。而这通常只有和对应领域的高手合作共事，或在相似任务场景中对比觉察、讨教决策思路，才易了解。复杂技能更是如此，你懂的。
 
 ![tacitknowledge.jpeg](http://ishanshan.zoomquiet.top/clipping/tacitknowledge1.jpeg)
 

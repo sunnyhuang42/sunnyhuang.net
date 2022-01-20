@@ -6,21 +6,17 @@
 
 ###  01-18 [「以终为始 敏捷迭代」是怎样一种状态，专家级水平有哪些行为特征？](https://faciloutput.feishu.cn/sheets/shtcnCjUbsgCpYkWMWKxWMNTuNh?sheet=f08271)
 
-> **职业转型是一个试错过程，中间有很多的反复和纠结**。在这个过程中，你的计划通常派不上用场。**只有尝试的反馈能告诉你，你对未来职业的设想到底是对是错，如果要改进，更合适的路在哪里。**
 
-那如何提升试错效率，更快找到那条适合自己的转型之路？
-
-答案如精益创业方法论所说：
-
-> **The best way to find your next big idea is by systematically testing lots of ideas**
-
-简单来说，就是`以终为始 敏捷迭代`。
+`以终为始 敏捷迭代`是实现人生目标的诀窍，尤其面对高度不确定的情况，比如职业转型时。
 
 那「以终为始 敏捷迭代」是怎样一种状态，专家级水平有哪些行为特征？
 
-这几周我把过去几年观摩产品专家及个人实践过程，发觉的关键心智模式和行为模式，整理成了[《「敏捷迭代」水平分级标准》](https://faciloutput.feishu.cn/sheets/shtcnCjUbsgCpYkWMWKxWMNTuNh?sheet=AFxsZ8)。如果你想更从容地面对不确定、加速实现人生目标，欢迎瞅瞅有无启发借鉴。
+这几周我把过去几年观摩产品专家、研究业界最佳实践以及个人实践过程，发觉的关键心智模式和行为模式，整理成了[《「敏捷迭代」水平分级标准》](https://faciloutput.feishu.cn/sheets/shtcnCjUbsgCpYkWMWKxWMNTuNh?sheet=f08271)。
 
-如有疑问建议，欢迎随时评注交流，也加速我迭代完善这些想法：D
+如果你想更从容地面对不确定、探索适合自己的人生发展之路，欢迎瞅瞅有无启发借鉴。
+
+如有疑问建议，欢迎随时评注交流，也加速我迭代完善这些想法🤗
+
 
 
 

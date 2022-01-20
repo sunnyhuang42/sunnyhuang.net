@@ -73,7 +73,6 @@
 
 ### 11-24 [如何评估个人成长速度？我搞了份《成长速度自检表》](https://faciloutput.feishu.cn/sheets/shtcn8bCjOajRuprzF21XbDO43g?sheet=1JZTkz)
 
-最近又迎来一个小里程碑🤗：
 
 如何评估自己的成长速度？尤其在做那些难以迅速看到显著成效的事情时，如何知道自己是否在进步？如何加速觉察调整，让自己进步更快？
 

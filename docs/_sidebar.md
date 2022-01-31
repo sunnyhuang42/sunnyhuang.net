@@ -8,7 +8,7 @@
 <center><strong> - - - [ 主页 ] - - - </strong></center>
 
 - [内容更新列表/按更新时间查看](index_update.md)
-- [尝试产品商业化这两个月进展汇报 +「人生·敏捷迭代营」内测招募](f_output/f_test_3rd)
+- [尝试产品商业化这俩月的进展汇报 & 「人生·敏捷迭代营」内测招募](f_output/f_test_3rd)
 - [蓬勃人生/flourishing](cmty/README.md)
     - [理想人生是怎样的，有哪些模式？](cmty/model_idealife.md)
     - [通往蓬勃人生，「投入产出比」最高的发力点是什么？](cmty/keypoint_flourish.md)

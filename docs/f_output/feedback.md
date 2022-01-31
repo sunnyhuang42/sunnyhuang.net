@@ -1,5 +1,5 @@
 # 用户反馈/往期成员结营复盘
-最后更新于  2022-01-14
+最后更新于 2022-01-31
 
 <br>
 
@@ -12,9 +12,17 @@
 
 <br>
 
-往期成员结营复盘（采集的问题见[反馈采集表](http://ishanshan.mikecrm.com/IZykf3N)）：
+往期成员结营复盘（采集的问题见[反馈采集表](http://ishanshan.mikecrm.com/iasZfLT)）：
 
 注：4/7 表示符合预期
+
+<details>
+<summary> M1，即士别三日行动营第二期内测：(点击可展开详情)</summary>
+
+![fb_ft_m1_2022_1.png](http://ishanshan.zoomquiet.top/share/fb_ft_m1_2022_1.png?imageslim)
+![fb_ft_m1_2022_2.png](http://ishanshan.zoomquiet.top/share/fb_ft_m1_2022_2.png?imageslim)
+
+</details>
 
 <details>
 <summary> M12，即士别三日行动营第一期内测：(点击可展开详情)</summary>
@@ -109,6 +117,7 @@
 
 ## CHANGELOG
 
+- 220131 添加 士别三日行动营第二期复盘反馈
 - 220114 添加 士别三日行动营第一期复盘反馈
 - 211204 添加 M11 期复盘反馈
 - 211030 添加 M10 期复盘反馈和我的历次复盘记录

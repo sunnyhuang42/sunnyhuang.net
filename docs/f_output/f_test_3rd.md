@@ -267,7 +267,7 @@ PS. 工作坊后如果想加入其它模式，在还有名额的情况下可半�
 注意：
 1. 如果拿不准自己是否适合参加，可先
     1. 瞅瞅这份[案主模板](https://faciloutput.feishu.cn/docs/doccnzZy5LZibUoAWukFQAonbvb)，如果这些问题没让你感到想尝试，那这个「人生·敏捷迭代营」大概率不适合你
-    2. 或看看 [「拥抱不确定」水平的分级标准](https://faciloutput.feishu.cn/sheets/shtcnCjUbsgCpYkWMWKxWMNTuNh?sheet=AFxsZ8) ，如果没有你想具备的，那这个「人生·敏捷迭代营」也大概率不适合你
+    2. 或看看 [「敏捷迭代」水平的分级标准](https://faciloutput.feishu.cn/sheets/shtcnCjUbsgCpYkWMWKxWMNTuNh?sheet=AFxsZ8) ，如果没有你想具备的，那这个「人生·敏捷迭代营」也大概率不适合你
 2. 一旦售出概不退费，请谨慎报名哦
 
 

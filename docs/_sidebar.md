@@ -36,10 +36,7 @@
 
 - [职业转型路茫茫，怎么办？来士别三日行动营，一起「拥抱不确定」](f_output/f_test_2nd)
 - [想让职业转型的「试错节奏」快起来？「士别三日行动营」了解一下](f_output/f_test_1st)
-- [输出实验室 玩法介绍](f_output/)
 - [对输出实验室的七大误解，你中了几个？](f_output/misunderstanding.md)
-- [输出实验室 需要哪些支持？](f_output/helpwanted.md)
-- [报名入口<sup style="color:orange;"></sup>](f_output/signup.md)
 - 参与攻略
     - [常见疑问解答/FAQ](f_output/faq.md)
     - [如何用好这里的资源/各角色进阶攻略](https://mzm628l8fj.feishu.cn/sheets/shtcnoXwVSubIPneYvgIptMtISf)
@@ -72,8 +69,10 @@
         - [自组织实践：如对输出实验室有期待，怎么办？@章鱼狗_210704](f_output/fb_od_hopeselforg.md)
         - [身边都是正反馈，会不会让你误以为输出实验室是可以服务大部分人的？@六一_210804](f_output/fb_61_remindbias.md)
         - [为什么不单独打磨定OKR或做复盘的产品/工具包？@立人 210716](f_output/fb_lr_devseparate.md)
-    - 迭代记录
-
+    - 归档
+        - [输出实验室 玩法介绍](f_output/)   
+        - [输出实验室 需要哪些支持？](f_output/helpwanted.md)
+        - [报名入口<sup style="color:orange;"></sup>](f_output/signup.md)
 <br>
 
 <center><strong> - - - [ 主题实践手记 ] - - - </strong></center>

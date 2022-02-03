@@ -1,5 +1,5 @@
 # 如何高效解决难题 ·《创新算法》学习有感&资源索引
-发布于 2021-06-18
+最后更新于 2022-02-03，发布于 2021-06-18
 
 <br> 
 
@@ -10,20 +10,20 @@
 这两天终于比较系统全面地了解。
 
 
-![ariz1.jpeg](http://ishanshan.zoomquiet.top/share/ariz1.jpeg ':size=100')
-![ariz3.jpeg](http://ishanshan.zoomquiet.top/share/ariz3.jpeg ':size=100')
-![ariz2.jpeg](http://ishanshan.zoomquiet.top/share/ariz2.jpeg ':size=100')
+![ariz1.jpeg](http://ishanshan.zoomquiet.top/share/ariz1.jpeg ':size=220')
+![ariz3.jpeg](http://ishanshan.zoomquiet.top/share/ariz3.jpeg ':size=220')
+![ariz2.jpeg](http://ishanshan.zoomquiet.top/share/ariz2.jpeg ':size=220')
 
 
 <br> 
 
-开心，发现这套定义问题、解决问题的方法，的确很科学；且广泛适用，还正好能解决我前几天复盘近期推进“个人博客升级”发觉的改进点——辨识和精确定义问题。
+查阅《创新算法》的过程很多 AHA moment：发现这套定义问题、解决问题的方法，的确很科学，能有效突破惯性思维探寻创新解法；且广泛适用，还正好能解决我前几天复盘近期推进“个人博客升级”发觉的改进点——辨识和精确定义问题。
 
 
 作者行文也很符合认知规律：先讲不同级别问题的特征、创新的五大层次，令读者对要解决的问题一下建立起全局认知；再由此展开剖析创新为什么难、如何解。更贴心的是，还适时补以正反案例，辅助理解，且是从  250 多万份专利发明中挑选的典型正反案例。
 
 
-怪不得被前苏联雪藏 50 年——能比对手省下不少无谓试错的时间啊。不愧被阳志平先生列为「神作」。
+怪不得被前苏联雪藏 50 年——能比对手省下不少无谓试错的时间啊。不愧被阳志平先生列为`「神作」`。
 
 <br> 
 
@@ -71,6 +71,7 @@ PS. 那会儿想到用 STC 算子来辅助决策，源自当时面试官也是�
 
 ## CHANGELOG 
 
+- 220203 修订细节
 - 210622 迁移到博客上 1h
 - 210619 迭代完善 3h
 - 210618 主题学习过程有感而发快速起草，发布到知识星球 0.5h

@@ -5,7 +5,7 @@
   - [按主题查看](_sidebar.md)
   - [按发布时间查看](index_update.md)
   - [博客导览](/)
-- [人生·敏捷迭代营](f_output/f_test_3rd)<sup style="color:orange;">报名中</sup>
+- [人生·敏捷迭代营](f_output/f_test_3rd)<sup style="color:orange;"></sup>
 - 主题实践手记
   - [蓬勃人生/flourishing](cmty/README.md)
   - [写作](wr/)

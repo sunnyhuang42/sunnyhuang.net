@@ -13,6 +13,8 @@
     - [理想人生是怎样的，有哪些模式？](cmty/model_idealife.md)
     - [通往蓬勃人生，「投入产出比」最高的发力点是什么？](cmty/keypoint_flourish.md)
     - 如何让自己进入通往蓬勃人生的增强回路？
+    - [在 VUCA 时代，如何拥有期待的人生？|以终为始·工作坊幻灯分享](https://faciloutput.feishu.cn/file/boxcnsKs8DUT4BFMg7A2D7xuahf)
+    - [「以终为始 敏捷迭代」是怎样一种状态，专家级水平有哪些行为特征？](https://faciloutput.feishu.cn/sheets/shtcnCjUbsgCpYkWMWKxWMNTuNh?sheet=f08271)
     - [希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记](selfedu/tips_rainbowbook.md)
     - [这座线上心理健身房，你，值得拥有](selfedu/ebp_happiness.md)
     - [如何梳理有助于达成长期目标的行动规划？](cmty/tips_MBO_fromend.md)
@@ -44,6 +46,8 @@
     - 梳理优质目标规划，聚焦要事
         - [理想人生是怎样的，有哪些模式？](cmty/model_idealife.md)
         - [通往蓬勃人生，「投入产出比最高」的发力点是什么？](cmty/keypoint_flourish.md)
+        - [在 VUCA 时代，如何拥有期待的人生？|以终为始·工作坊幻灯分享](https://faciloutput.feishu.cn/file/boxcnsKs8DUT4BFMg7A2D7xuahf)
+        - [「以终为始 敏捷迭代」是怎样一种状态，专家级水平有哪些行为特征？](https://faciloutput.feishu.cn/sheets/shtcnCjUbsgCpYkWMWKxWMNTuNh?sheet=f08271)
         - [希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记](selfedu/tips_rainbowbook.md)
         - [如何梳理有助于达成长期目标的行动规划？](cmty/tips_MBO_fromend.md)
         - [OKR是一套严密的思考框架？这是啥意思？](cmty/tips_MBOKRframe.md)
@@ -58,6 +62,8 @@
         - [这座线上心理健身房，你，值得拥有](selfedu/ebp_happiness.md)
 - 发展记录
     - 开发手记
+        - [如果在「人生·敏捷迭代营」小组练习时，作为案主感觉收获不大，是什么情况？](mur/fo_practicemore.md)
+        - [开始把「获得顶级心流体验」的心法，融入小组练习·迎来又一个小里程碑_220218](f_output/mst_unitedby_agoal.md)
         - [有测量才易有进步 · 初次尝试信任增进小练习有感_211010](mur/fo_creditws1st.md)
         - [U MADE MY DAY！· 有感于输出实验室又一里程碑](f_output/mst_got2partners.md)
         - [愈发感觉输出实验室的玩法，太爽了](mur/happiness_f_o_organizer.md)

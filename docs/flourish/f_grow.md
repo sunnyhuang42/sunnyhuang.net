@@ -41,7 +41,7 @@
 
 **如果你也在探索适合自己的转型或人生发展之路，希望聚焦要事减少浪费、增强心灵秩序感，更省力地奔向人生愿景**，同时乐于尝试新事物，欢迎来瞅瞅是否匹配自己需求，也助我加速迭代完善 ^_^
 
-![fg_sunny.jpeg](http://ishanshan.zoomquiet.top/share/fg_sunny2.jpeg  ':size=500')
+![fg_sunny.jpeg](http://ishanshan.zoomquiet.top/share/fg_sunny3.jpeg  ':size=500')
 
 目录速览：
 

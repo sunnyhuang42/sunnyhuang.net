@@ -6,7 +6,7 @@
   - [按发布时间查看](index_update.md)
   - [博客导览](/)
 - 进阶服务<sup style="color:orange;">报名中</sup>
-    - [以终为始·工作坊](http://ishanshan.mikecrm.com/JUEDN1j)<sup style="color:orange;">3.4 早 9:00 截止</sup>
+    - [以终为始·工作坊](flourish/f_grow?id=workshop)<sup style="color:orange;">3.4 早 9:00 截止</sup>
     - [人生·敏捷迭代营](flourish/f_grow.md)<sup style="color:orange;">2.28 23:00 前早鸟价</sup>
 - 主题实践手记
   - [蓬勃人生/flourishing](cmty/README.md)

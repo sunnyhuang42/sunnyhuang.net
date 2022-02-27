@@ -1,6 +1,6 @@
 # 「人生·敏捷迭代营」是干嘛的？怎么玩？
 
-最后更新于 2022-02-26，创建于 2022-02-25
+最后更新于 2022-02-27，创建于 2022-02-25
 
 
 ## 「人生·敏捷迭代营」是干嘛的？
@@ -141,7 +141,8 @@
 
 这期日程如下：
 
-![fg_m3.jpeg](http://ishanshan.zoomquiet.top/share/fg_m3.jpeg  ':size=300')
+![fg_m3_1.jpeg](http://ishanshan.zoomquiet.top/share/fg_m3_1.jpeg ':size=350')
+
 
 日历版见：[M3 期碰头日历 - 人生·敏捷迭代营 - 飞书云文档](https://faciloutput.feishu.cn/sheets/shtcnJwgTiIWO2Tfe7gedxRPbIe?sheet=Nj3PE6)
 
@@ -272,5 +273,6 @@ PS. 月度工作坊后如果想加入其它模式，在还有名额的情况下�
 
 ## CHANGELOG  
 
+- 220227 迭代完善 2h
 - 220226 迭代完善 8h
 - 220225 创建 3h

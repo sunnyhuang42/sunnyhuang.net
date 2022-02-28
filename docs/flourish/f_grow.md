@@ -80,7 +80,7 @@
 
 ![fg_fromend1.png](http://ishanshan.zoomquiet.top/share/fg_fromend1.png  ':size=500')
 
-从而越来越聚能焦要事减少浪费、增强心灵秩序感，甚至拥有巅峰体验—— **`universal flow`** ：
+从而越来越聚能焦要事减少浪费、增强心灵秩序感，甚至拥有巅峰体验—— **universal flow** ：
 
 > **把一生的行动、思想都整合成一个心流体验**<br> **意识井然有序，生活乐趣无穷**
 

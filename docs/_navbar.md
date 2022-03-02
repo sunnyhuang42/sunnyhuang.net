@@ -5,9 +5,9 @@
   - [按主题查看](_sidebar.md)
   - [按发布时间查看](index_update.md)
   - [博客导览](/)
-- 进阶服务<sup style="color:orange;">报名中</sup>
-    - [人生·敏捷迭代营](flourish/f_grow.md)<sup style="color:orange;">3.4 早 9:00 截止</sup>
-    - [以终为始·工作坊](flourish/f_grow?id=workshop)<sup style="color:orange;">3.4 早 9:00 截止</sup>
+- 进阶服务<sup style="color:orange;"></sup>
+    - [人生·敏捷迭代营](flourish/f_grow.md)<sup style="color:orange;"></sup>
+    - [以终为始·工作坊](flourish/f_grow?id=workshop)<sup style="color:orange;"></sup>
     - [Sunny 同行计划](http://ishanshan.mikecrm.com/CBUuXFu)<sup style="color:orange;"></sup>
 - 主题实践手记
   - [蓬勃人生/flourishing](cmty/README.md)

@@ -8,7 +8,7 @@
 <center><strong> - - - [ 主页 ] - - - </strong></center>
 
 - [内容更新列表/按更新时间查看](index_update.md)
-- [在复杂多变的时代，如何更早拥有自己期待的人生？「人生·敏捷迭代营」等你来玩](flourish/f_grow.md)
+- [在复杂多变的时代，如何更早拥有自己期待的人生？像迭代产品一样迭代人生 |「人生·敏捷迭代营」内测招募](flourish/f_grow.md)
 - [蓬勃人生/flourishing](cmty/README.md)
     - [理想人生是怎样的，有哪些模式？](cmty/model_idealife.md)
     - [通往蓬勃人生，「投入产出比」最高的发力点是什么？](cmty/keypoint_flourish.md)

@@ -17,7 +17,7 @@
   - [协作共创/组织发展](https://github.com/ishanshan/CollaborationGuide4Shaper)
 - 关于我
   - [个人简介](about/)
-  - [理想生活](about/idealife.md)
   - [发展规划](about/plan_lifedev.md)
+  - [个人小传](about/lifestory2203.md)
   - [约我时间](about/booking.md)
   - [关爱家人行动清单](family/TipsCare4Parents.md)

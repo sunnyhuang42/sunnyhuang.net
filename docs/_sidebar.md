@@ -8,7 +8,7 @@
 <center><strong> - - - [ 主页 ] - - - </strong></center>
 
 - [内容更新列表/按更新时间查看](index_update.md)
-- [在复杂多变的时代，如何更早拥有自己期待的人生？像迭代产品一样迭代人生 |「人生·敏捷迭代营」内测招募](flourish/f_grow.md)
+- [十个片段，串成个人小传，探寻人生脉络 | 写在二字头最后一年](about/lifestory2203.md)
 - [蓬勃人生/flourishing](cmty/README.md)
     - [理想人生是怎样的，有哪些模式？](cmty/model_idealife.md)
     - [通往蓬勃人生，「投入产出比」最高的发力点是什么？](cmty/keypoint_flourish.md)
@@ -36,6 +36,7 @@
 
 <center><strong> - - - [ 输出实验室 ] - - - </strong></center>
 
+- [在复杂多变的时代，如何更早拥有自己期待的人生？像迭代产品一样迭代人生 |「人生·敏捷迭代营」内测招募](flourish/f_grow.md)
 - [尝试产品商业化这俩月的进展分享 & 「人生·敏捷迭代营」内测招募](f_output/f_test_3rd)
 - [职业转型路茫茫，怎么办？来士别三日行动营，一起「拥抱不确定」](f_output/f_test_2nd)
 - [想让职业转型的「试错节奏」快起来？「士别三日行动营」了解一下](f_output/f_test_1st)

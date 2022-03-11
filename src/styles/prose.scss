@@ -1,84 +1,3 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-:root {
-  --text-color: rgba(0, 0, 0, 0.85);
-  --text-secondary-color: rgba(0, 0, 0, 0.45);
-  --disable-color: rgba(0, 0, 0, 0.25);
-  --border-color: rgba(0, 0, 0, 0.15);
-  --dividers-color: rgba(0, 0, 0, 0.06);
-
-  --bg-color: #fff;
-  // #f2f2f7
-  --bg-secondary-color: #f3f5f7;
-
-  --accent-color: #dd4c4f;
-  --highlight-color: #d3ffa4;
-  --selection-color: #b4d8fe;
-
-  --code-comment-color: #65798c;
-  --code-constant-color: #0095c9;
-  --code-number-color: #0095c9;
-  --code-string-color: #d12f1b;
-  --code-entity-color: #4a838b;
-  --code-keyword-color: #ad3da4;
-  --code-function-color: #4a838b;
-  --code-variable-color: #4a838b;
-}
-
-.dark {
-  --text-color: rgba(255, 255, 255, 0.85);
-  --text-secondary-color: rgba(255, 255, 255, 0.45);
-  --disable-color: rgba(255, 255, 255, 0.3);
-  --border-color: rgba(255, 255, 255, 0.2);
-  --dividers-color: rgba(255, 255, 255, 0.12);
-
-  // #1d1e1f rgba(29, 30, 31, var(--tw-bg-opacity, 1))
-  --bg-color: #1c1c1e;
-  --bg-secondary-color: #2c2c2e;
-
-  --accent-color: #44a2e5;
-  --highlight-color: #3175a8;
-  --selection-color: #40628a;
-
-  --code-comment-color: #7f8c97;
-  --code-constant-color: #0095c9;
-  --code-number-color: #e6945e;
-  --code-string-color: #e6945e;
-  --code-entity-color: #70b8d7;
-  --code-keyword-color: #70b8d7;
-  --code-function-color: #aac97f;
-  --code-variable-color: #17a8db;
-
-  .prose img {
-    filter: brightness(0.8);
-  }
-}
-
-* {
-  border-color: var(--dividers-color);
-}
-
-::selection {
-  background-color: var(--selection-color);
-}
-
-body {
-  @apply text-primary bg-primary;
-}
-
-.header {
-  @apply sticky top-0 z-50 h-12 lg:h-14 border-b backdrop-saturate-150 backdrop-blur-xl;
-
-  background-color: rgba(255, 255, 255, 0.8);
-  backdrop-filter: saturate(180%) blur(20px);
-}
-
-.dark .header {
-  background-color: rgba(28, 28, 30, 0.7);
-}
-
 .prose {
   @apply text-primary;
 
@@ -284,4 +203,8 @@ body {
   .url {
     color: var(--code-entity-color);
   }
+}
+
+html[data-theme='dark'] .prose img {
+  filter: brightness(0.8);
 }

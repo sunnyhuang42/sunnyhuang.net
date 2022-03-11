@@ -1,0 +1,12 @@
+* {
+  border-color: var(--dividers-color);
+  -webkit-tap-highlight-color: transparent;
+}
+
+::selection {
+  background-color: var(--selection-color);
+}
+
+body {
+  @apply text-primary bg-primary;
+}

@@ -29,6 +29,10 @@ module.exports = {
         '.bg-secondary': {
           'background-color': 'var(--bg-secondary-color)',
         },
+        '.bg-blur': {
+          'background-color': 'var(--bg-transparent)',
+          'backdrop-filter': 'saturate(180%) blur(20px)',
+        },
       });
     }),
   ],

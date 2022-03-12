@@ -7,7 +7,12 @@ const Footer = () => (
       <Actions className="mb-2 md:hidden" />
       <div className="text-sm">
         {`遵循 `}
-        <a className="hover:text-accent" target="_blank" href={license.link}>
+        <a
+          target="_blank"
+          rel="noreferrer"
+          href={license.link}
+          className="hover:text-accent"
+        >
           {license.text}
         </a>
         <div className="mt-1">{copyright}</div>

@@ -1,13 +1,14 @@
-import '@/styles/globals.scss';
-
 import type { AppProps } from 'next/app';
 import { ThemeProvider } from 'next-themes';
-// import Layout from '@/components/layout';
+import Layout from '@/components/layout';
+import '@/styles/index.scss';
 
 function App({ Component, pageProps }: AppProps) {
   return (
     <ThemeProvider attribute="class">
-      <Component {...pageProps} />
+      <Layout>
+        <Component {...pageProps} />
+      </Layout>
     </ThemeProvider>
   );
 }

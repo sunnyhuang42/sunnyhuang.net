@@ -27,7 +27,7 @@
   --docsearch-text-color: var(--text-color);
 }
 
-html[data-theme='dark'] {
+.dark {
   --text-color: rgba(255, 255, 255, 0.85);
   --text-secondary-color: rgba(255, 255, 255, 0.45);
   --disable-color: rgba(255, 255, 255, 0.3);

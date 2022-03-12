@@ -14,7 +14,7 @@ export const base: Base = {
     { icon: 'rss', link: '/feed' },
   ],
   license: {
-    text: 'CC BY-NC 4.0',
+    text: 'CC BY-NC 4.0 协议',
     link: 'https://creativecommons.org/licenses/by-nc/4.0/deed.zh',
   },
   copyright: `Copyright © 2015-${new Date().getFullYear()} 黄姗`,

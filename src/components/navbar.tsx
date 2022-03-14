@@ -19,7 +19,7 @@ const NavLink: FC<LinkProps> = ({ href, children }) => (
 
 const Navbar = () => (
   <nav className="flex-1 md:pl-12 overflow-x-scroll">
-    <ul className="flex space-x-3 px-2 lg:space-x-6 text-sm font-medium">
+    <ul className="flex justify-end space-x-3 px-2 lg:space-x-6 text-sm font-medium">
       {navbar.map((i) => (
         <Fragment key={i.text}>
           {i.items ? (

@@ -11,6 +11,12 @@ module.exports = {
       colors: {
         accent: 'var(--accent-color)',
       },
+      maxWidth: {
+        '8xl': '90rem',
+      },
+      height: {
+        main: 'calc(100vh - 3.5rem)',
+      },
     },
   },
   plugins: [

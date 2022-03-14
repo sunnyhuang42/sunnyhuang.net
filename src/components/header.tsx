@@ -10,7 +10,7 @@ const Header = () => {
   const [visible, actions] = useBoolean();
   return (
     <header className="sticky top-0 z-50 h-12 lg:h-14 border-b bg-blur">
-      <div className="flex items-center justify-between max-w-6xl h-full mx-auto px-3 lg:px-0">
+      <div className="flex items-center justify-between max-w-8xl h-full mx-auto px-2 lg:px-0">
         <Link href="/">
           <a className="flex items-center hover:opacity-70">
             {logo && (

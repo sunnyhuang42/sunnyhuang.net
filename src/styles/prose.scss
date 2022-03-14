@@ -1,5 +1,5 @@
 .prose {
-  @apply text-primary;
+  @apply text-primary max-w-none;
 
   strong,
   ol > li::marker,

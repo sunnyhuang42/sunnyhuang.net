@@ -83,7 +83,7 @@
 
 1. 到我的知识星球提问或留言，入口见下文
 2. 邮件联系 ishanshan.huang#gmail.com
-3. 微信联系 ishanshan42 (请注明来意)
+3. 微信联系 sunnyhuang42 (请注明来意)
 
 
 若希望我快速响应你的需求，可参考这个小锦囊[《如何更易约到我？》](about/booking.md) 。

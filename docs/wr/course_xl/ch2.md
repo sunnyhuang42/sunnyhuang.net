@@ -80,7 +80,7 @@
 
 
 
-如果还有疑问，可微信 ishanshan42 和我交流：）
+如果还有疑问，可微信 sunnyhuang42 和我交流：）
 
 
 # D3  如何下载 Mixin 或新生大讲堂 App ？
@@ -116,7 +116,7 @@
 （1）可查阅官方文档，大部分你会遇到的问题这里都有说明：
    - [用户手册 - 新生大讲堂官方博客](https://cms.firesbox.com/category/manual-for-users/)
    - [Mixin Messenger 帮助中心](https://mixinmessenger.zendesk.com/hc/zh-cn)
-（2）咨询一位已经在用这俩 App 的伙伴，比如我哈哈。微信 ishanshan42 ，欢迎来询。我如果也解决不了，会协助你一起咨询官方人员：）
+（2）咨询一位已经在用这俩 App 的伙伴，比如我哈哈。微信 sunnyhuang42 ，欢迎来询。我如果也解决不了，会协助你一起咨询官方人员：）
 
 
 

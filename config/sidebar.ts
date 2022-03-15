@@ -2,7 +2,11 @@ import type { Sidebar } from './types';
 
 export const sidebar: Sidebar = [
   {
-    text: '蓬勃人生',
+    text: '理想人生是怎样的，有哪些模式？<sup style="color:red;margin-left: 2px;">hot</sup>',
+    link: '/cmty/model_idealife',
+  },
+  {
+    text: '蓬勃人生<sup style="color:orange;margin-left: 2px;">荐</sup>',
     items: [
       {
         text: '理想人生是怎样的，有哪些模式？',
@@ -468,6 +472,7 @@ export const sidebar: Sidebar = [
   },
   {
     text: '摇摆舞（Swing）',
+    collapsed: true,
     items: [
       {
         text: 'Swing 吧！你的苦乐，swing 知道',

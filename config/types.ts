@@ -33,11 +33,11 @@ type NavItem =
 export type Navbar = NavItem[];
 
 type SideItem =
-  | LinkItem
-  | {
-      text: string;
-      collapsed?: boolean;
-      items: LinkItem[];
-    };
+  {
+    text: string;
+    link?: string;
+    collapsed?: boolean;
+    items?: LinkItem[];
+  };
 
 export type Sidebar = SideItem[];

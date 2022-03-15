@@ -5,6 +5,9 @@ export {
   RiSunFill as Sun,
   RiMenuFill as Menu,
   RiCloseFill as Close,
-  RiArrowRightUpLine as ArrowRightUp,
+  RiArrowUpSLine as ArrowUp,
   RiArrowDownSLine as ArrowDown,
+  RiArrowRightUpLine as ArrowRightUp,
+  RiFile3Line as File,
+  RiExternalLinkLine as ExternalLink,
 } from 'react-icons/ri';

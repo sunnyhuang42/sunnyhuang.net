@@ -20,7 +20,7 @@ const Post = defineDocumentType(() => ({
   computedFields: {
     slug: {
       type: 'string',
-      resolve: (post) => `/${post._raw.flattenedPath.replace('/README', '')}`,
+      resolve: (post) => `/${post._raw.flattenedPath.replace(/\/?README/, '')}`,
     },
     flattenedPath: {
       type: 'string',

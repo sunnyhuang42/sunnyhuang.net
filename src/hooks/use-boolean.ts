@@ -1,6 +1,6 @@
 import { useState, useMemo } from 'react';
 
-type Action = {
+export type Action = {
   toggle: (value?: boolean) => void;
   setTrue: () => void;
   setFalse: () => void;

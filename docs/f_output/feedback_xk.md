@@ -1,5 +1,9 @@
-# 关于输出实验室玩法的讨论@xk_210729
-<br>
+---
+title: 关于输出实验室玩法的讨论@xk_210729
+date: 2021-07-29
+updated: 
+description: <p>我在朋友圈分享了<a href="http://ishanshan.mikecrm.com/TJoQZCg" target="_blank" rel="noopener">输出实验室 M8 报名表</a>，收到几年未联系 xiaokai 老师留言鼓励，便追问了一下具体觉得不错在哪里，以便知道可以继续保持什么。</p><p><img src="http://ishanshan.zoomquiet.top/share/fb_xk0.png" data-origin="http://ishanshan.zoomquiet.top/share/fb_xk0.png" alt="fb_xk3.png" width="400" class="medium-zoom-image"></p><p>没想到一小时后就收到 Xiaokai 老师小窗发来详细反馈，由此展开了一段高质量沟通，非常惊喜。</p><p>征得他同意后，我把关于玩法讨论的内容公开出来。因为感觉他提的几个问题都很好，我目前探索到的解法很可能还不是最合适的。而公开给更多人，有利于更快收到反馈、发现风险并迭代完善。</p><p>如果你有任何疑问建议，欢迎随时告诉我🤗</p>
+---
 
 
 ## 背景
@@ -210,3 +214,4 @@ BTW，目前对于没有目标的伙伴，先简单提供的是这样的指引�
 
 - 210817 迁移到博客
 - 210729 整理回应
+

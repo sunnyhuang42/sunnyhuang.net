@@ -1,4 +1,11 @@
-# 买保险的经验教训
+---
+title: 买保险的经验教训
+date: 
+updated: 
+description: 
+---
+
+
 
 ~ 持续汇总买保险的 learning ，以备未来取用，也让更多人少走弯路。欢迎增补修订，直接 pull request 就好：）
 

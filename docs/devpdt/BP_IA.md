@@ -1,5 +1,9 @@
-
-# 优秀实践集：Information Architecture
+---
+title: 优秀实践集：Information Architecture
+date: 2018-04-03
+updated: 
+description: 
+---
 
 ~ 持续汇总令自己舒坦的 Information Architecture 案例，以便越来越敏感哪种信息架构更优雅。
 
@@ -120,4 +124,5 @@
 - 180819 闪闪增补卡片层级输出工具反面案例之搜索效果
 - 180604 闪闪增补技能类课程界面动图
 - 180403 闪闪创建
+
 

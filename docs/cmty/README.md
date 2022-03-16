@@ -1,4 +1,9 @@
-# 蓬勃人生/flourishing life
+---
+title: 蓬勃人生/flourishing life
+date: 
+updated: 
+description: 
+---
 
 本目录主要汇集「蓬勃人生(flourishing life)」相关工具方法。
 

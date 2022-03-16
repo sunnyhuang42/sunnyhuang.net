@@ -1,9 +1,9 @@
-
-# 卡片助力输入输出，工具我选 WorkFlowy
-
-发布于 2017-03-01
-
-<br>
+---
+title: 卡片助力输入输出，工具我选 WorkFlowy
+date: 2017-03-01
+updated: 
+description: <p>工具是辅助，输出作品才是目的。</p>
+---
 
 <blockquote class="blockquote-center">工具是辅助，输出作品才是目的。 </blockquote>
 
@@ -256,3 +256,4 @@ PS.
 - 170301 初次起草一年后终于发布……
 - 170218 增补图片、修订措辞
 - 170212 完善使用心得部分
+

@@ -1,4 +1,9 @@
-# May You Enjoy Swing Dancing
+---
+title: May You Enjoy Swing Dancing
+date: 2018-01-14
+updated: 
+description: 
+---
 
 
 Swing 爱好者都希望把 Swing 的快乐传递给更多人，我亦如此。
@@ -84,3 +89,4 @@ BTW, 如果你周围有男士多的圈子，可否帮我个忙，顺手推荐给
 - 180118 闪闪增加 FAQ & CC BY-NC-SA 4.0 license
 - 180115 闪闪更新使用建议
 - 180114 闪闪创建
+

@@ -1,4 +1,11 @@
-# 策略产品经理上手资源
+---
+title: 策略产品经理上手资源
+date: 2018-08-16
+updated: 
+description: 
+---
+
+
 
 ~汇总对我帮助较大的资源。
 
@@ -53,3 +60,4 @@ SQL: [SQL Tutorial-w3schools.com](https://www.w3schools.com/sql/default.asp)
 
 - 180829 闪闪增补资源
 - 180816 闪闪创建
+

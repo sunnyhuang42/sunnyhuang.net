@@ -1,4 +1,10 @@
-# Swing 动作心得
+---
+title: Swing 动作心得
+date: 2018-01-24
+updated: 
+description: 
+---
+
 
 这里是日常积累的一些动作要点，供已经开始 swing 的你参考。欢迎一起增补，[提交 pull request 修订](https://guides.github.com/activities/forking/#making-changes)，或在 [Issues](https://github.com/ishanshan//issues) 交流均可~
 
@@ -85,4 +91,5 @@
 - 180204 闪闪增补通用建议
 - 180125 闪闪增补头部说明、修订措辞 
 - 180124 闪闪创建
+
 

@@ -1,9 +1,10 @@
+---
+title: 卡片助力输出， MarkDown + GitHub + LOFTER 有轻功
+date: 2018-07-15
+updated: 
+description: <p>作品和作品的差别，源于卡片。</p><p>人和人的差异，垒于习惯。</p>
+---
 
-# 卡片助力输出， MarkDown + GitHub + LOFTER 有轻功
-
-发布于 2018-07-15
-
-<br>
 
 <blockquote class="blockquote-center">作品和作品的差别，源于卡片。<br>人和人的差异，垒于习惯。</blockquote>
 
@@ -48,8 +49,6 @@
 
 好在倒腾俩月，终把坑填——
 
-[embed website](blank.md ':include')
-
 ## MarkDown + GitHub + LOFTER 有轻功
 
 庞杂需求如上，只靠一款工具难以满足。摸索再三，这套组合拳最得我心：
@@ -60,7 +59,6 @@
 
 工具不稀奇，关键在用法。领会要点，再依已有习惯自选趁手工具，更是妙哉。
 
-[embed website](blank.md ':include')
 
 
 ### 以「周」为单位记忆外部化
@@ -353,3 +351,4 @@
 - 180716 优化样式和表达
 - 180715 累计快写慢改近 50h 终于发布
 - 180707 创建
+

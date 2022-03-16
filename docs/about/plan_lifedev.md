@@ -1,7 +1,9 @@
-# 个人发展规划_闪闪
-最后更新于 2022-02-23，起草于 2021-06-20
-
-<br>
+---
+title: 个人发展规划_闪闪
+date: 2021-09-27
+updated: 2022-02-23
+description: <blockquote><ul><li>我想去哪儿？</li><li>为什么？</li><li>怎么去？</li></ul></blockquote><p>这些是我一直保持思考的问题。</p><p>之前散落在各处，现在汇总到博客上，方便有需要的伙伴查阅交流、相互支持 ^_^</p><p>内容在持续迭代，如果你有任何疑问、想法、资源机会，都欢迎交流，加速我迭代完善：D</p>
+---
 
 > - 我想去哪儿？
 > - 为什么？
@@ -253,3 +255,4 @@ https://workflowy.com/s/m1011/9dmA0FNYr89MOSrr
 - 210927 迁移到博客上 3h
 - 210714 迁移到[飞书](https://mzm628l8fj.feishu.cn/docs/doccnljPAh9xJll6wM7hLBjkhof#O2KCDT)上，持续迭代完善
 - 210620 在师友提问下，把一些关于目标规划的思考起草成文（[答师友：升级个人博客背后的思考](mur/logOD_TRIZblogupd.md)） 1.5h
+

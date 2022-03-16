@@ -1,4 +1,11 @@
-# Chap5：策略在其他业务上的应用
+---
+title: Chap5：策略在其他业务上的应用
+date: 
+updated: 
+description: 
+---
+
+
 
 1. 了解策略是如何在增长上进行应用的 
 2. 了解策略是如何在风控上进行应用的 
@@ -11,6 +18,7 @@
 
 
 From [策略产品经理的实战修炼－在线课堂-三节课](https://class.sanjieke.cn/course/3610846.html)
+
 
 
 

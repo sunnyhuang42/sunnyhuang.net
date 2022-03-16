@@ -1,8 +1,13 @@
-
+---
+title: 优秀实践 | 线上课程如何给用户良好的同侪环境？
+date: 2018-04-20
+updated: 
+description: 
+---
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# 优秀实践 | 线上课程如何给用户良好的同侪环境？
+
 
 ~ 持续积累利用同侪环境促进学习效果的优秀实践。
 
@@ -123,3 +128,4 @@
 - 180816 闪闪增补案例发布
 - 180805 闪闪整理成文、补充案例
 - 180420 闪闪梳理思路、整理素材
+

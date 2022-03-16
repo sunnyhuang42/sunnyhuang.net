@@ -1,7 +1,10 @@
-# 有测量才易有进步 · 初次尝试信任增进小练习有感_211010
-最后更新于 2021-10-20，发布于 2021-10-10
+---
+title: 有测量才易有进步 · 初次尝试信任增进小练习有感_211010
+date: 2021-10-10
+updated: 2021-10-20
+description: <p>今天感觉很欢乐，不仅迭代<a href="https://mzm628l8fj.feishu.cn/sheets/shtcnoXwVSubIPneYvgIptMtISf?sheet=4Qwhfo&amp;range=QTIzOkgzNA" target="_blank" rel="noopener">输出实验室第一次碰头会流程</a>的实验效果达成预期，还有超预期的体验——</p><p>……</p>
+---
 
-<br> 
 
 今天感觉很欢乐，不仅迭代[输出实验室第一次碰头会流程](https://mzm628l8fj.feishu.cn/sheets/shtcnoXwVSubIPneYvgIptMtISf?sheet=4Qwhfo&range=QTIzOkgzNA)的实验效果达成预期，还有超预期的体验——
 

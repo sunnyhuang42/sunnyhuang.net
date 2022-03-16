@@ -1,5 +1,9 @@
-# Swing Dancing 星标资源
-
+---
+title: Swing Dancing 星标资源
+date: 2018-01-15
+updated: 
+description: 
+---
 
 ## 推荐视频
 
@@ -49,4 +53,5 @@
 - 180331 闪闪增补 blues 自学资源
 - 180209 闪闪增补 swing 自学资源
 - 180115 闪闪创建
+
 

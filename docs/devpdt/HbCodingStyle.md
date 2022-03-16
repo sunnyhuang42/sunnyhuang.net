@@ -1,4 +1,11 @@
-# Collection of Elegant Coding Style
+---
+title: Collection of Elegant Coding Style
+date: 2018-07-16
+updated: 
+description: 
+---
+
+
 
 ~ 持续汇总优雅的代码、码代码姿势，减少给自己找事：
 
@@ -55,4 +62,5 @@
 ## CHANGELOG 
 
 - 180716 创建
+
 

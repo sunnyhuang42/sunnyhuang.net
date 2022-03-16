@@ -1,4 +1,11 @@
-# SQL 常用语句
+---
+title: SQL 常用语句
+date: 
+updated: 
+description: 
+---
+
+
 
 ## Some of The Most Important SQL Commands
 
@@ -141,6 +148,7 @@ WHERE CustomerID = 1;
 DROP TABLE customers;
         
 ``` 
+
 
 
 

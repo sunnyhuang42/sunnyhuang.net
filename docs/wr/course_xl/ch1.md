@@ -1,4 +1,11 @@
-# Chapter1 文字的本质 · 圈词练习
+---
+title: Chapter1 文字的本质 · 圈词练习
+date: 
+updated: 
+description: 
+---
+
+
 
 # 作业要求：
 阅读所给片段，用圆圈画出名词，用下划线画出名词前面的形容词，然后找出文中有用的抽象概念有哪些
@@ -76,3 +83,4 @@ BTW，有个小疑问，好奇:
 翻原书的前后文还没找到，有知道的同学方便分享一下吗:)
 
 ![course_xl_c1d1.jpeg](http://ishanshan.zoomquiet.top/share/course_xl_c1d1.jpeg  ':size=350')
+

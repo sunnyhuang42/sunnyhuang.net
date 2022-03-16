@@ -1,10 +1,9 @@
-
-
-# 启动新项目，如何设定项目目标 · 项目需求采集问题清单
-
-发布于2021-04-08
-
-<br>
+---
+title: 启动新项目，如何设定项目目标 · 项目需求采集问题清单
+date: 2021-04-08
+updated: 
+description: <p>对于项目管理来说，搞清楚干系人（<a href="https://opentextbc.ca/projectmanagement/chapter/chapter-5-project-stakeholders-project-management/" target="_blank" rel="noopener">stakeholders</a>）的需求、预期，至关重要，事关项目成败。<!-- more -->就如做产品，如果没搞清楚用户是谁、用户需求是什么，就根据自己的臆想开干，你觉得做出用户喜爱的产品概率有多大？</p><p>多次踩坑后，担任项目经理时，我必会在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、对于项目管理四要素（时间质量成本范围）的期待、关于风险的提醒建议等信息，同时快速研究业界同类项目的优秀实践，然后形成项目OKR、初步规划，快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期。</p>
+---
 
 对于项目管理来说，搞清楚干系人（[stakeholders](https://opentextbc.ca/projectmanagement/chapter/chapter-5-project-stakeholders-project-management/)）的需求、预期，至关重要，事关项目成败。<!-- more -->就如做产品，如果没搞清楚用户是谁、用户需求是什么，就根据自己的臆想开干，你觉得做出用户喜爱的产品概率有多大？
 
@@ -59,3 +58,4 @@
 
 - 210408 增补注意事项，迁移到博客 1h
 - 210407 从 WorkFlowy 整理到仓库里 1h
+

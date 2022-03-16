@@ -1,9 +1,9 @@
-
-# 我如何成为换头最快的1%？· 过去8个月的面容调整复盘
-
-最后更新于 2022-03-01，发布于 2021-03-08
-
-<br>
+---
+title: 我如何成为换头最快的1%？· 过去8个月的面容调整复盘
+date: 2021-03-08
+updated: 2022-03-01
+description: <p>过去大半年，我发生了一些肉眼可见的可喜变化。</p><p>嗯，真的是肉眼可见。虽然发出来过往照片很毁形象，但无图无真相，为了让你直观感受，还是上图看一下：</p><p><img src="http://ishanshan.zoomquiet.top/share/facechange003.png" data-origin="http://ishanshan.zoomquiet.top/share/facechange003.png" alt="前后变化对比图" width="400" class="medium-zoom-image"></p>
+---
 
 
 <blockquote class="blockquote-center"> 愿你我都长出基因里<br> 最健康最美的样子 </blockquote>
@@ -260,3 +260,4 @@
 - 210306~7 根据平常采集到的问题增补完善 13h
 - 210305 整理成文、在群里分享初稿 8h
 - 210302 起草思路 2h
+

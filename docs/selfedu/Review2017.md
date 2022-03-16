@@ -1,10 +1,9 @@
-
-
-# 你丁酉年的故事
-
-发布于 2018-02-17
-
-<br>
+---
+title: 你丁酉年的故事
+date: 2018-02-17
+updated: 
+description: <p>你要记住，你在心灵自由的路上，踌躇、挣扎、崩溃、慢跑、狂奔的样子。</p><p>那会是你，最美的回忆。</p>
+---
 
 <blockquote class="blockquote-center">你要记住，你在心灵自由的路上，踌躇、挣扎、崩溃、慢跑、狂奔的样子。<br>那会是你，最美的回忆。</blockquote>
 
@@ -363,3 +362,4 @@ PS.
 
 
 [^5-1]: The social clock is a concept proposed by the social psychologist Bernice Neugarten, which means a timetable determined by a culture or social structure, that specifies a proper time for certain events, like marriage, graduation, employment or social status. [[study](https://study.com/academy/lesson/the-social-clock-definition-theory.html)]
+

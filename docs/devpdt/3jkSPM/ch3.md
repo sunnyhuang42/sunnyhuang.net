@@ -1,4 +1,11 @@
-# chap3：策略产品工作的通用方法论（下）
+---
+title: chap3：策略产品工作的通用方法论（下）
+date: 
+updated: 
+description: 
+---
+
+
 
 
 1. 如何撰写策略的需求文档？ 
@@ -16,4 +23,5 @@
 	* 通过效果回归，了解 “搜索建议” 的效果优化
 
 From [策略产品经理的实战修炼－在线课堂-三节课](https://class.sanjieke.cn/course/3610846.html)
+
 

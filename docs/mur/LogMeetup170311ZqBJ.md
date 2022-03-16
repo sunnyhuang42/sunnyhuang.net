@@ -1,9 +1,10 @@
+---
+title: 活动主持人如何快速进入状态？如何从源头避免编程初级错误？· 170311 见 @ZoomQuiet 小记
+date: 2017-04-12
+updated: 
+description: <p>上月大妈（<a href="http://zoomquiet.io/#" target="_blank" rel="noopener">@ZoomQuiet</a>） 来京，Python 班同学答疑撸串，我又见识了一些专家级姿势，并有些许改变，愉快记之：P</p>
+---
 
-# 活动主持人如何快速进入状态？如何从源头避免编程初级错误？· 170311 见 @ZoomQuiet 小记
-
-发布于 2017-04-12
-
-<br>
 
 上月大妈（[@ZoomQuiet](http://zoomquiet.io/#)） 来京，Python 班同学答疑撸串，我又见识了一些专家级姿势，并有些许改变，愉快记之：P
 
@@ -71,3 +72,4 @@ BTW, 当晚庆幸之余，我还默默往男友标准里加了一条：不用盗
 - 210315 更新图片地址，以便 chrome 浏览器查看
 - 180716 整理发布到 blog
 - 170412 创建
+

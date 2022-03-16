@@ -1,4 +1,11 @@
-# chap1 学习复盘
+---
+title: chap1 学习复盘
+date: 2018-04-05
+updated: 
+description: 
+---
+
+
 
 ## 学习过程自评
 
@@ -24,3 +31,4 @@
 ## CHANGELOG
 
 - 180405 闪闪创建
+

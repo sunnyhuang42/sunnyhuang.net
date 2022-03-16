@@ -1,3 +1,10 @@
+---
+title: 
+date: 
+updated: 
+description: 
+---
+
 
 
 
@@ -239,3 +246,4 @@
     * [如果你也在天上挑妈妈 · 家书 000](mur/LetterFamily000Baby.md)
     * [体能 不能落 · 杂记](mur/TipsMorningExercise.md)
     * [活动主持人如何快速进入状态？如何从源头避免编程初级错误？· 170311 见 @ZoomQuiet 小记](mur/LogMeetup170311ZqBJ.md)
+

@@ -1,4 +1,11 @@
-# Chap2 复盘
+---
+title: Chap2 复盘
+date: 2018-04-23
+updated: 
+description: 
+---
+
+
 
 ## 学习过程反思
 
@@ -18,5 +25,6 @@
 ## CHANGELOG 
 
 - 180423 闪闪创建
+
 
 

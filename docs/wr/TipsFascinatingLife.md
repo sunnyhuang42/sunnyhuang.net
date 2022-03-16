@@ -1,9 +1,10 @@
+---
+title: 跟王烁「老婆推」学记趣和爱 · 杂记
+date: 2017-11-29
+updated: 
+description: <p>周末翻见财新主编王烁的老婆推，140 字讲家庭日常，爱不释手——</p><blockquote><p>今天一口气刷完财新主编<a href="http://blog.sina.com.cn/s/articlelist_1640307671_0_1.html" target="_blank" rel="noopener">王烁的老婆推</a>，拍案欢喜：可作认知写作学课程案例，示范故事文采；亦是新新夫妻相处典范，当即<a href="https://workflowy.com/s/CO_N.3qiR2I8Pry" target="_blank" rel="noopener">精选藏之</a>，磨刀霍霍。倏尔怅然：啊，还差个老公来试身手！</p></blockquote><p>现摘些片段同你分享：…</p>
+---
 
-# 跟王烁「老婆推」学记趣和爱 · 杂记
-
-发布于 2017-11-29
-
-<br> 
 
 周末翻见财新主编王烁的老婆推，140 字讲家庭日常，爱不释手——
 
@@ -141,3 +142,4 @@
 - 171129 早 补充各类细节，发布至 blog 0.5h
 - 171128 晚 慢改 3h
 - 171128 早 快写初稿发布于 [[5w] 分享你发现的 ch5 优秀资源／实践 · Issue #174 · AIWriter/Writer005](https://github.com/AIWriter/Writer005/issues/174#issuecomment-347141930) 0.5h
+

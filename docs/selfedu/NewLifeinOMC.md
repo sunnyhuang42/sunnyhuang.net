@@ -1,11 +1,9 @@
-
-# 入职第一天，我失眠了
-
-
-发布于 2015-06-02
-
-<br>
-
+---
+title: 入职第一天，我失眠了
+date: 2015-06-02
+updated: 
+description: <p>彷徨多发的毕业季，没经历千军万马的校招，我再一次因看似偶然的因缘际会，跳上了能给自己足够成长空间的平台，思绪万千辗转反侧。</p>
+---
 
 ```
 彷徨多发的毕业季，没经历千军万马的校招，
@@ -101,3 +99,4 @@
 ![blogcomment_1stdayofwork.png](http://ishanshan.zoomquiet.top/share/blogcomment_1stdayofwork.png)
 
 ^截图于 210525
+

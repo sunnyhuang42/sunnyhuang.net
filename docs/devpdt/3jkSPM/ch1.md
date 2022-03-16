@@ -1,4 +1,11 @@
-# Chap1：了解策略和策略产品
+---
+title: Chap1：了解策略和策略产品
+date: 
+updated: 
+description: 
+---
+
+
 
 1. 了解什么是策略
 2. 了解组成策略的四要素：待解决问题、输入、计算逻辑、输出
@@ -14,3 +21,4 @@
 
 
 From [策略产品经理的实战修炼－在线课堂-三节课](https://class.sanjieke.cn/course/3610846.html)
+

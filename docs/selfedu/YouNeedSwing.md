@@ -1,10 +1,9 @@
-
-
-# Swing 吧！你的苦乐，swing 知道
-
-发布于 2018-02-07
-
-<br>
+---
+title: Swing 吧！你的苦乐，swing 知道
+date: 2018-02-07
+updated: 
+description: <p>愿知识工作者如你，也欣闻归属。</p>
+---
 
 ![](http://ishanshan.zoomquiet.top/share/stb2017-1.jpg)
 
@@ -141,3 +140,4 @@ Swing 是什么？为什么要 Swing ？看再多资源也只能窥豹一斑，�
 - 180207 这几天陆续补资料、慢改，终于搞定发布，耗时 9h
 - 180204 查资料、重构 4h
 - 180128 创建，基本沿原仓库 readme 思路
+

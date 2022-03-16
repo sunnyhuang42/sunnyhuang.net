@@ -1,4 +1,11 @@
-# Chap4 复盘
+---
+title: Chap4 复盘
+date: 2018-06-03
+updated: 
+description: 
+---
+
+
 
 ## 学习过程反思
 
@@ -8,4 +15,5 @@
 ## CHANGELOG 
 
 - 180603 闪闪创建
+
 

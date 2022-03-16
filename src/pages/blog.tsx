@@ -7,10 +7,10 @@ const Blog = (props: InferGetStaticPropsType<typeof getStaticProps>) => {
   return (
     <>
       {years.map((year) => (
-        <div className="mb-6">
+        <div key={year} className="mb-6">
           <h2 className="mb-4 py-2 text-3xl font-bold border-b">{year}</h2>
           {postsByYear[year].map((post) => (
-            <Link href={post.slug}>
+            <Link key={post.slug} href={post.slug}>
               <a
                 key={post.title}
                 className="flex justify-between items-center mb-2 md:mb-0 p-1.5 md:px-3 rounded-md hover:bg-secondary"

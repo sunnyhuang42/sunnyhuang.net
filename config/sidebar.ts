@@ -2,8 +2,8 @@ import type { Sidebar } from './types';
 
 export const sidebar: Sidebar = [
   {
-    text: '理想人生是怎样的，有哪些模式？<sup style="color:red;margin-left: 2px;">hot</sup>',
-    link: '/cmty/model_idealife',
+    text: '博客导览',
+    link: '/blog',
   },
   {
     text: '蓬勃人生<sup style="color:orange;margin-left: 2px;">荐</sup>',

@@ -1,11 +1,15 @@
 import cls from 'clsx';
 import { Tab } from '@headlessui/react';
+import { useRouter } from 'next/router';
 import { useMenu } from '@/context/menu';
 import Sidebar from './sidebar';
 import Toc from './toc';
 
 const Aside = () => {
   const [visible] = useMenu();
+  const { pathname } = useRouter();
+  const isPost = pathname === '/[...slug]';
+
   return (
     <>
       <div className="flex-shrink-0 w-72 pt-6 hidden lg:block lg:border-r">
@@ -25,7 +29,7 @@ const Aside = () => {
           'xl:block xl:pl-8 xl:border-l',
         )}
       >
-        <Toc />
+        {isPost && <Toc />}
       </div>
       <div
         className={cls(
@@ -35,7 +39,7 @@ const Aside = () => {
       >
         <Tab.Group as="div" className="h-full overflow-y-scroll">
           <Tab.List className="sticky top-0 flex justify-center bg-primary py-2 space-x-6 text-sm">
-            {['文章目录', '站点目录'].map((text) => (
+            {[...(isPost ? ['文章目录'] : []), '站点目录'].map((text) => (
               <Tab
                 key={text}
                 className={({ selected }) =>
@@ -51,9 +55,11 @@ const Aside = () => {
             ))}
           </Tab.List>
           <Tab.Panels className="px-2">
-            <Tab.Panel>
-              <Toc />
-            </Tab.Panel>
+            {isPost && (
+              <Tab.Panel>
+                <Toc />
+              </Tab.Panel>
+            )}
             <Tab.Panel>
               <Sidebar />
             </Tab.Panel>

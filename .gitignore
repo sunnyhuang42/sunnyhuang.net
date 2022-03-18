@@ -21,6 +21,8 @@
 .DS_Store
 *.pem
 .idea
+robots.txt
+sitemap*
 
 # debug
 npm-debug.log*

@@ -15,7 +15,7 @@ const Aside = () => {
       <div className="flex-shrink-0 w-72 pt-6 hidden lg:block lg:border-r">
         <div
           className={cls(
-            'sticky top-12 lg:top-14 lg:pr-8 h-main overflow-y-scroll',
+            'sticky top-12 lg:top-14 px-4 lg:pr-8 h-main overflow-y-scroll',
             visible && 'lg:top-0',
           )}
         >

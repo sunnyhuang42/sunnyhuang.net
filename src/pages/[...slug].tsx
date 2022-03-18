@@ -25,7 +25,7 @@ const PostPage = (props: { post: Post & { readingTips: string } }) => {
   );
 };
 
-const excludes = ['/'];
+const excludes = ['/', '/404'];
 export const getStaticPaths = () => {
   const paths = allPosts
     .map((post) => post.slug)

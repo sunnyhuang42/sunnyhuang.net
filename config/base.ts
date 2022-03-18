@@ -3,6 +3,7 @@ import { Base } from './types';
 export const base: Base = {
   title: '黄姗',
   description: '记录分享令人「健康蓬勃 温暖从容」的工具方法',
+  url: 'https://sunnyhuang.net',
   logo: 'https://ishanshan.zoomquiet.top/share/ishanshan1409-2.png?imageView2/2/w/400',
   algolia: {
     appId: 'KNPXZI5B0M',

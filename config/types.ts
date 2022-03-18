@@ -6,8 +6,9 @@ type SocialLink = {
 };
 
 export type Base = {
-  title?: string;
+  title: string;
   description?: string;
+  url: string;
   logo?: string;
   algolia: DocSearchProps;
   socialLinks: SocialLink[];

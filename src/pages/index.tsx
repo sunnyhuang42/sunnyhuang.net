@@ -1,5 +1,5 @@
 import { InferGetStaticPropsType } from 'next';
-import { allPosts } from 'contentlayer/generated';
+import { allSortPosts } from '@/data';
 import { highlights } from 'config';
 import SEO from '@/components/seo';
 import List from '@/components/list';
@@ -23,20 +23,14 @@ export default function Home({
 }
 
 export const getStaticProps = async () => {
-  const post = allPosts.find((post) => post.slug === '/');
-  const latestPosts = allPosts
-    .sort(
-      (a, b) =>
-        Number(new Date(b.date as string)) - Number(new Date(a.date as string)),
-    )
-    .slice(0, 5)
-    .map(({ slug, title, date }) => ({
-      slug,
-      title,
-      date: date?.slice(5, 10),
-    }));
+  const post = allSortPosts.find((post) => post.slug === '/');
+  const latestPosts = allSortPosts.slice(0, 5).map(({ slug, title, date }) => ({
+    slug,
+    title,
+    date: date?.slice(5, 10),
+  }));
 
-  const highlightPosts = allPosts
+  const highlightPosts = allSortPosts
     .filter((i) => highlights.includes(i.slug))
     .map(({ slug, title, date }) => ({
       slug,

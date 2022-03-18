@@ -3,6 +3,7 @@ import { base } from './base';
 const {
   title,
   description,
+  url,
   logo,
   algolia,
   socialLinks,
@@ -16,6 +17,7 @@ export { sidebar } from './sidebar';
 export {
   title,
   description,
+  url,
   logo,
   algolia,
   socialLinks,

@@ -1,4 +1,4 @@
-import { allPosts, Post } from 'contentlayer/generated';
+import { allPosts, Post } from '@/data';
 import SEO from '@/components/seo';
 
 export default function Custom404({ post }: { post: Post }) {

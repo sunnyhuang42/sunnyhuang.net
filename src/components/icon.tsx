@@ -6,6 +6,7 @@ export {
   RiMenuFill as Menu,
   RiCloseFill as Close,
   RiArrowUpSLine as ArrowUp,
+  RiArrowRightSLine as ArrowRight,
   RiArrowDownSLine as ArrowDown,
   RiArrowRightUpLine as ArrowRightUp,
   RiFile3Line as File,

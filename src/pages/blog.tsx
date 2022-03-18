@@ -1,7 +1,7 @@
 import { InferGetStaticPropsType } from 'next';
-import Link from 'next/link';
 import { allPosts, Post } from 'contentlayer/generated';
 import SEO from '@/components/seo';
+import List from '@/components/list';
 
 const Blog = (props: InferGetStaticPropsType<typeof getStaticProps>) => {
   const { years, postsByYear } = props;
@@ -9,20 +9,7 @@ const Blog = (props: InferGetStaticPropsType<typeof getStaticProps>) => {
     <>
       <SEO title="博客" />
       {years.map((year) => (
-        <div key={year} className="mb-6">
-          <h2 className="mb-4 py-2 text-3xl font-bold border-b">{year}</h2>
-          {postsByYear[year].map((post) => (
-            <Link key={post.slug} href={post.slug}>
-              <a
-                key={post.title}
-                className="flex justify-between items-center mb-2 md:mb-0 p-1.5 md:px-3 rounded-md hover:bg-secondary"
-              >
-                <h3 className="flex-1">{post.title}</h3>
-                <time className="pl-8 text-secondary text-sm">{post.date}</time>
-              </a>
-            </Link>
-          ))}
-        </div>
+        <List key={year} title={year} data={postsByYear[year]} />
       ))}
     </>
   );

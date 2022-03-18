@@ -11,6 +11,7 @@ export type Base = {
   logo?: string;
   algolia: DocSearchProps;
   socialLinks: SocialLink[];
+  highlights: string[];
   license: {
     text: string;
     link: string;
@@ -32,12 +33,11 @@ type NavItem =
 
 export type Navbar = NavItem[];
 
-type SideItem =
-  {
-    text: string;
-    link?: string;
-    collapsed?: boolean;
-    items?: LinkItem[];
-  };
+type SideItem = {
+  text: string;
+  link?: string;
+  collapsed?: boolean;
+  items?: LinkItem[];
+};
 
 export type Sidebar = SideItem[];

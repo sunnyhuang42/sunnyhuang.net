@@ -13,6 +13,13 @@ export const base: Base = {
     { icon: 'github', link: 'https://github.com/ishanshan' },
     { icon: 'rss', link: '/feed' },
   ],
+  highlights: [
+    '/cmty/tips_MBOKRframe',
+    '/selfedu/TipsWeekly',
+    '/selfedu/HbOutputWorkFlowy',
+    '/wr/HbOutputbyCards',
+    '/selfedu/RevFacialGrowth',
+  ],
   license: {
     text: 'CC BY-NC 4.0 协议',
     link: 'https://creativecommons.org/licenses/by-nc/4.0/deed.zh',

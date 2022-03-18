@@ -1,10 +1,32 @@
-import type { NextPage, GetStaticPaths, GetStaticProps } from 'next';
 import { allPosts, Post } from 'contentlayer/generated';
 import SEO from '@/components/seo';
 
-const excludes = ['/'];
+const PostPage = (props: { post: Post & { readingTips: string } }) => {
+  const { post } = props;
 
-export const getStaticPaths: GetStaticPaths = () => {
+  return (
+    <article className="prose">
+      <SEO
+        title={post?.title}
+        description={post?.description}
+        keywords={post?.keywords}
+      />
+      <h1 className="mt-4 md:mt-6">{post.title}</h1>
+      <div className="flex flex-col md:flex-row space-y-1 md:space-y-0 justify-between text-sm text-secondary">
+        <div>{post.date}</div>
+        <div>{post.readingTips}</div>
+      </div>
+      <div
+        dangerouslySetInnerHTML={{
+          __html: post.body.html.replace('footnotes', ''),
+        }}
+      />
+    </article>
+  );
+};
+
+const excludes = ['/'];
+export const getStaticPaths = () => {
   const paths = allPosts
     .map((post) => post.slug)
     .filter((slug) => !excludes.includes(slug));
@@ -14,37 +36,34 @@ export const getStaticPaths: GetStaticPaths = () => {
   };
 };
 
-export const getStaticProps: GetStaticProps<{}, { slug: string[] }> = ({
-  params,
-}) => {
-  const post = allPosts.find(
-    (post) => post.slug === `/${params?.slug?.join('/')}`,
-  );
-  return {
-    props: {
-      post,
-    },
+type Params = {
+  params: {
+    slug: string[];
   };
 };
 
-const PostPage: NextPage<{ post: Post }> = (props) => {
-  const { post } = props;
+export const getStaticProps = async ({ params }: Params) => {
+  const slug = `/${params?.slug?.join('/')}`;
+  const {
+    date,
+    updated,
+    readingTime: { minutes, words },
+    ...rest
+  }: Post = allPosts.find((post) => post.slug === slug) as Post;
 
-  return (
-    <article className="prose">
-      <SEO
-        title={post.title}
-        description={post.description}
-        keywords={post.keywords}
-      />
-      <h1>{post.title}</h1>
-      <div>创建时间：{post.date}</div>
-      <div>更新时间：{post.updated}</div>
-      <div>阅读时间{post.readingTime.text}</div>
-      <div>文章字数{post.readingTime.words}</div>
-      <div dangerouslySetInnerHTML={{ __html: post.body.html }} />
-    </article>
-  );
+  const hasUpdate = updated && date !== updated;
+
+  return {
+    props: {
+      post: {
+        date: `${hasUpdate ? `${updated.slice(0, 10)} 更新 • ` : ''}${
+          date ? `${date?.slice(0, 10)} 发布` : ''
+        }`,
+        readingTips: `${words} 字 • ${Math.ceil(minutes)} 分钟`,
+        ...rest,
+      },
+    },
+  };
 };
 
 export default PostPage;

@@ -1,11 +1,13 @@
 import { InferGetStaticPropsType } from 'next';
 import Link from 'next/link';
 import { allPosts, Post } from 'contentlayer/generated';
+import SEO from '@/components/seo';
 
 const Blog = (props: InferGetStaticPropsType<typeof getStaticProps>) => {
   const { years, postsByYear } = props;
   return (
     <>
+      <SEO title="博客" />
       {years.map((year) => (
         <div key={year} className="mb-6">
           <h2 className="mb-4 py-2 text-3xl font-bold border-b">{year}</h2>

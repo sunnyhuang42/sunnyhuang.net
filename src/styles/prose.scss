@@ -40,6 +40,9 @@
 
   a {
     @apply text-accent font-normal no-underline hover:underline;
+
+    word-break: break-word;
+    word-wrap: break-word;
   }
 
   img {

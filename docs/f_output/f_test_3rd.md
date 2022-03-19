@@ -251,7 +251,7 @@ PS. 工作坊后如果想加入其它模式，在还有名额的情况下可半�
 
 
 
-### 报名入口 :id=signup
+### 报名入口 {#signup}
 
 上述 3 种模式的更多细节见下表对比（移动端可能无法预览，可点击[这里](https://faciloutput.feishu.cn/sheets/shtcnJwgTiIWO2Tfe7gedxRPbIe?sheet=IySOAP)直接查看）：
 

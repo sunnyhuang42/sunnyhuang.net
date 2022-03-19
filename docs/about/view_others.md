@@ -25,7 +25,7 @@ PS. @4+的公众号：[四是二飞](http://ishanshan.zoomquiet.top/clipping/qr_
 
 
 
-## @六一 :id=61
+## @六一 {#61}
 
 ### 简版
 
@@ -36,7 +36,7 @@ PS. @4+的公众号：[四是二飞](http://ishanshan.zoomquiet.top/clipping/qr_
 闪闪就没有想要逃避问题的时候吗？哦，也有的，比如「探寻人生伴侣这事一直被滞后」。但当她意识到重要的时候，就有了[这一篇招亲帖](family/lifep_Ad.md)。
 
 
-### 全文 :id=61all
+### 全文 {#61all}
 
 #### 人生的另一种可能：理性与热忱
 
@@ -77,7 +77,7 @@ PS. @六一的
 * 播客：[时而散步](https://www.xiaoyuzhoufm.com/podcast/60703d786875857cbdef9ac8)
 * 公众号：[遛ONE](https://mp.weixin.qq.com/s/P2PRB029lFeqDNxTjSmAPA)
 
-## @竹间漪 :id=zj
+## @竹间漪 {#zj}
 
 闪闪的闪光点太多，比如：
 
@@ -92,7 +92,7 @@ PS. @六一的
 
 PS. @竹间漪 的公众号 [竹间的涟漪](https://mp.weixin.qq.com/s/cfDiyg8K5jsH3MWvo2whaQ)
 
-## @龚攀 :id=gp
+## @龚攀 {#gp}
 
 ### 简版
 
@@ -153,7 +153,7 @@ PS. @龚攀的
 * B站：[导游老潘的个人空间_哔哩哔哩_bilibili](https://space.bilibili.com/43850713)
 * 知乎：[龚攀的 Live - 知乎 Live](https://www.zhihu.com/lives/users/f50940320925ff62587eff0f29a3d262)
 
-## @浚宇 :id=junyu
+## @浚宇 {#junyu}
 
 该怎么用词汇来形容闪闪呢，也许几个例子能说明问题：
 

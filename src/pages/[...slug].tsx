@@ -1,35 +1,44 @@
 import { useEffect } from 'react';
 import { allPosts, Post } from '@/data';
 import SEO from '@/components/seo';
+import { isUrl } from '@/utils';
 import { usePage } from '@/context/page';
 
 const PostPage = (props: { post: Post & { readingTips: string } }) => {
   const { post } = props;
+  const { slug, title, description, keywords, date, readingTips, body, link } =
+    post;
   const { setPage } = usePage();
 
   useEffect(() => {
     setPage({
       headings: post.headings,
     });
-  }, [post.slug]);
+  }, [slug]);
+
+  console.log(slug);
 
   return (
     <article className="prose">
-      <SEO
-        title={post?.title}
-        description={post?.description}
-        keywords={post?.keywords}
-      />
+      <SEO title={title} description={description} keywords={keywords} />
       <h1 className="mt-4 md:mt-6">{post.title}</h1>
       <div className="flex flex-col md:flex-row space-y-1 md:space-y-0 justify-between text-sm text-secondary">
-        <div>{post.date}</div>
-        <div>{post.readingTips}</div>
+        <div>{date}</div>
+        <div>{readingTips}</div>
       </div>
       <div
         dangerouslySetInnerHTML={{
-          __html: post.body.html.replace('footnotes', ''),
+          __html: body.html,
         }}
       />
+      {isUrl(link) && (
+        <div>
+          具体请见：
+          <a href={link} target="_blank" rel="noreferrer">
+            {link}
+          </a>
+        </div>
+      )}
     </article>
   );
 };

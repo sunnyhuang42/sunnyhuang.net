@@ -5,7 +5,7 @@ import { navbar } from 'config';
 import { ArrowRightUp } from '@/components/icon';
 import { isUrl } from '@/utils';
 
-const Item: FC<LinkProps> = ({ href, children, onClick }) => {
+const Item: FC<LinkProps> = ({ href, children }) => {
   const isExternal = isUrl(href);
   return (
     <Link href={href}>

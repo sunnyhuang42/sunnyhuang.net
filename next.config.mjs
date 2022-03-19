@@ -1,10 +1,6 @@
 import { withContentlayer } from 'next-contentlayer';
 
 export default withContentlayer()({
-  typescript: {
-    // contentlayer markdown
-    ignoreBuildErrors: true,
-  },
   webpack: (config, { dev, isServer }) => {
     // Replace React with Preact only in client production build
     if (!dev && !isServer) {

@@ -1,16 +1,16 @@
-import { useState, useEffect, useCallback, Fragment, FC } from 'react';
-import Link, { LinkProps } from 'next/link';
+import { useState, useEffect, useCallback, Fragment } from 'react';
 import cls from 'clsx';
+import Link from 'next/link';
 import { navbar } from 'config';
 import { ArrowRightUp } from '@/components/icon';
 import { isUrl } from '@/utils';
 
-const Item: FC<LinkProps> = ({ href, children }) => {
-  const isExternal = isUrl(href);
+const Item = ({ text = '', link = '' }) => {
+  const isExternal = isUrl(link);
   return (
-    <Link href={href}>
+    <Link href={link}>
       <a {...(isExternal ? { target: '_blank', rel: 'noreferrer' } : {})}>
-        {children}
+        <span dangerouslySetInnerHTML={{ __html: text }} />
         {isExternal && (
           <ArrowRightUp className="inline-block ml-1 text-secondary" />
         )}
@@ -55,7 +55,7 @@ const Navbar = () => {
                         key={ii.text}
                         className="font-normal hover:text-accent"
                       >
-                        <Item href={ii.link}>{ii.text}</Item>
+                        <Item {...ii} />
                       </li>
                     ))}
                   </ul>
@@ -63,7 +63,7 @@ const Navbar = () => {
               </li>
             ) : (
               <li className="whitespace-nowrap hover:text-accent">
-                <Item href={i.link || ''}>{i.text}</Item>
+                <Item {...i} />
               </li>
             )}
           </Fragment>

@@ -11,7 +11,7 @@ const PostPage = (props: { post: Post & { readingTips: string } }) => {
     setPage({
       headings: post.headings,
     });
-  }, []);
+  }, [post.slug]);
 
   return (
     <article className="prose">

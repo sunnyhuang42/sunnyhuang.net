@@ -45,7 +45,7 @@ D1~D4：
 - 如果能回到开课前，会对自己说什么？
 
 详见：
-[好奇带来奇妙旅程 · 笑来写作训练营结业手记 | ishanshan's blog](wr/review_course_xl.md)
+[好奇带来奇妙旅程 · 笑来写作训练营结业手记 | ishanshan's blog](wr/review_course_xl)
 
 
 # D4 如何把「刻意练习」做得久、想得深、干的狠？· 行动规划 v0.1

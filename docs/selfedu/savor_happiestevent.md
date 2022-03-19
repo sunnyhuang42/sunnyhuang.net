@@ -16,7 +16,7 @@ description:
 英文信息可检索 savoring 了解。
 
 
-以下是品味生活的一个小练习，叫做「幸福再体验」，练习指引来自[暂停实验室的积极心理学行动营](selfedu/ebp_happiness.md)
+以下是品味生活的一个小练习，叫做「幸福再体验」，练习指引来自[暂停实验室的积极心理学行动营](selfedu/ebp_happiness)
 
 
 

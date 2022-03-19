@@ -302,7 +302,7 @@ description: <blockquote><p>我是谁？我从哪来？我要去何方？</p></b
 
 [^0]: 这门课是开智的「行为分析课」，如果你想让自己或你爱的人有更好的人生，值得一上: https://mp.weixin.qq.com/s/amur3Y12nucj2eiuDacqJg
 [^0-1]: 这个练习包括 2 部分：记录这些片段、根据课程导师阳志平先生提出的「人性系统论」做分析以更好地认识自己；本文只是前者，并非练习全部
-[^1]: 这些关于玩耍的信念七八年前是如何形成的？见[改变我玩耍习惯的 10 场活动](selfedu/IdxActivity.md) 
+[^1]: 这些关于玩耍的信念七八年前是如何形成的？见[改变我玩耍习惯的 10 场活动](selfedu/IdxActivity) 
 [^2]: 这次产品商业化尝试的招募帖见 [想让职业转型的「试错节奏」快起来？「士别三日行动营」了解一下](f_output/f_test_1st)
 [^3]: 我的人生探索记录见[探索记录追踪表@黄姗 Sunny - 飞书云文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm)
 [^7]: 探索记录见上表

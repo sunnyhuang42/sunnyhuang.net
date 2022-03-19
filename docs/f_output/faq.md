@@ -59,7 +59,7 @@ description:
 
 ![ipo_process.png](http://ishanshan.zoomquiet.top/clipping/ipo_process.png  ':size=300')
 
-^上图来自[笑来写作训练营](wr/review_course_xl.md)
+^上图来自[笑来写作训练营](wr/review_course_xl)
 
 综上，命名为「输出实验室」，而不是「蓬勃人生实验室」。
 

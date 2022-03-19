@@ -14,7 +14,7 @@ description: <blockquote><p><a href="#/about/plan_lifedev">这份个人发展规
 ## 思索过程
 
 
-1. 先结合自己的[理想生活](about/idealife.md)画面，梳理出 12 年这个尺度下，自己想实现的大目标/有所成就的方向，1-3 个即可
+1. 先结合自己的[理想生活](about/idealife)画面，梳理出 12 年这个尺度下，自己想实现的大目标/有所成就的方向，1-3 个即可
     - 比如这是我的版本：[想推进的大方向-发展规划](about/plan_lifedev?id=longterm)
         - 得出这个方向前，是先梳理出了自己想[搞明白的问题清单](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=7e122f)，以此为指导逐步研究、实验，探索自己打算为谁创造怎样的价值
         - 当时探索过程的目标规划和简要的实践反思，见 [探索记录_闪闪 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm&range=QTU6TDEw)  
@@ -65,17 +65,17 @@ description: <blockquote><p><a href="#/about/plan_lifedev">这份个人发展规
     - [《精益创业实战》(豆瓣)](https://book.douban.com/subject/20505765/)
     - [《精益客户开发》(豆瓣)](https://book.douban.com/subject/26641506/)
 - 目标管理
-    - [如何梳理有助于达成长期目标的行动规划？](cmty/tips_MBO_fromend.md)
-    - [OKR是一套严密的思考框架？这是啥意思？](cmty/tips_MBOKRframe.md)
-    - [如何从容应对新挑战？·研究最佳实践通用问题清单](cmty/tips_RES_BP.md)
-    - [启动新项目，如何设定项目目标? · 项目需求采集问题清单](cmty/infoq_pm_pre.md)
+    - [如何梳理有助于达成长期目标的行动规划？](cmty/tips_MBO_fromend)
+    - [OKR是一套严密的思考框架？这是啥意思？](cmty/tips_MBOKRframe)
+    - [如何从容应对新挑战？·研究最佳实践通用问题清单](cmty/tips_RES_BP)
+    - [启动新项目，如何设定项目目标? · 项目需求采集问题清单](cmty/infoq_pm_pre)
 
 
 ## 附：更多思索过程记录
 
 - [起步初期的一些心路](selfedu/review2021Q1?id=supportsys)
 - 探索过程的目标规划和简要的实践反思，见 [探索记录_闪闪 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm)  
-- [答师友：升级个人博客背后的思考](mur/logOD_TRIZblogupd.md)
+- [答师友：升级个人博客背后的思考](mur/logOD_TRIZblogupd)
 
 
 

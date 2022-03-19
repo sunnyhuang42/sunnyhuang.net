@@ -144,7 +144,7 @@ Win:
 
 ### 3. 图片名用英文标注绝对属性
 
-为何命名要用英文，见我老文 [《命名用英文，烦恼少大半 · 团队文档命名指南》](cmty/HbDocName.md)。
+为何命名要用英文，见我老文 [《命名用英文，烦恼少大半 · 团队文档命名指南》](cmty/HbDocName)。
 
 成，那就不用中文。于是有朋友这么来给图片命名 `2017-11-09-l-stone-0-3-pic4-new.jpg` ……
 
@@ -241,7 +241,7 @@ Win:
 	- cheat sheet: [Hb7niuImageEditOnline · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/Hb7niuImageEditOnline)
 	- 官方文档：[图片处理使用说明 - 七牛开发者中心](https://developer.qiniu.com/dora/manual/3683/img-directions-for-use)
 - 批量查找替换多个文档内容的编辑器：[Atom](https://atom.io/)
-- 更多小众但实用的 MarkDown 技巧见 [HbMarkdownTrick.md at master · ishanshan/CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbMarkdownTrick.md) 。
+- 更多小众但实用的 MarkDown 技巧见 [HbMarkdownTrick.md at master · ishanshan/CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbMarkdownTrick) 。
 
 
 

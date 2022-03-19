@@ -33,7 +33,7 @@ PS. @4+的公众号：[四是二飞](http://ishanshan.zoomquiet.top/clipping/qr_
 
 理性是她善于梳理复杂现状，不被情绪左右，找到问题，并积极推动。热忱她对生活充满热情，保持好奇，时刻真诚。
 
-闪闪就没有想要逃避问题的时候吗？哦，也有的，比如「探寻人生伴侣这事一直被滞后」。但当她意识到重要的时候，就有了[这一篇招亲帖](family/lifep_Ad.md)。
+闪闪就没有想要逃避问题的时候吗？哦，也有的，比如「探寻人生伴侣这事一直被滞后」。但当她意识到重要的时候，就有了[这一篇招亲帖](family/lifep_Ad)。
 
 
 ### 全文 {#61all}
@@ -175,10 +175,10 @@ PS. @浚宇的公众号：[浚宇 John Yul](https://mp.weixin.qq.com/s/s1EG4FVon
 
 PS. 探寻人生伴侣系列博文：
 
-1. [招亲帖：这位男同学，如果你也想找个偏好创造型快乐的靠谱伴侣…](family/lifep_Ad.md)
-2. [答招亲帖「相识十五问」_闪闪](family/lifep_QAishanshan.md)
-3. [我是怎样的人？那些认识三年以上的老友，给出的答案是…](about/view_others.md)（即本文）
-4. [探寻人生伴侣的路线图](family/lifep_roadmap.md)
+1. [招亲帖：这位男同学，如果你也想找个偏好创造型快乐的靠谱伴侣…](family/lifep_Ad)
+2. [答招亲帖「相识十五问」_闪闪](family/lifep_QAishanshan)
+3. [我是怎样的人？那些认识三年以上的老友，给出的答案是…](about/view_others)（即本文）
+4. [探寻人生伴侣的路线图](family/lifep_roadmap)
 
 ## CHANGELOG 
 

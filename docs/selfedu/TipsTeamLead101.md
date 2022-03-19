@@ -68,11 +68,11 @@ description: <p>这份小记写于 2016 年秋，即使陆续修改，也没好�
 
 但个人和团队都在快速发展变化，之前匹配的分工指不定什么时候就不匹配了。**坐等问题暴露不如主动出击**，我开始定期和小组成员 **1 on 1 沟通，每 4~6 周碰头小结上阶段工作**。
 
-刚开始的定期沟通简单粗暴，沿用了我在[大学第一个 side project 担任负责人时](selfedu/SelfEduOwetoJZK.md)的做法：提前说明意图、话题，约个时间地点现场开聊。后来翻了些 [Harvard Business Review - Ideas and Advice for Leaders](https://hbr.org/) 和 [Medium – a place to read and write big ideas and important stories](https://medium.com/) 里的文章，发现这么做不够高效，便结合文中建议及团队特性，逐步迭代为**文字小结+当面沟通：组员先参考下述自评模板复盘上阶段工作，我了解他们自我评价的变化后，再给出工作观察意见，辅助细化下阶段提升目标和行动成果，提高输出效率**。
+刚开始的定期沟通简单粗暴，沿用了我在[大学第一个 side project 担任负责人时](selfedu/SelfEduOwetoJZK)的做法：提前说明意图、话题，约个时间地点现场开聊。后来翻了些 [Harvard Business Review - Ideas and Advice for Leaders](https://hbr.org/) 和 [Medium – a place to read and write big ideas and important stories](https://medium.com/) 里的文章，发现这么做不够高效，便结合文中建议及团队特性，逐步迭代为**文字小结+当面沟通：组员先参考下述自评模板复盘上阶段工作，我了解他们自我评价的变化后，再给出工作观察意见，辅助细化下阶段提升目标和行动成果，提高输出效率**。
 
 ![tepmonthlyreview2.png](http://ishanshan.zoomquiet.top/share/tepmonthlyreview2.png)
 
-(该模板全文见 [HbWorkReviewMonthly.md at master · ishanshan/CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbWorkReviewMonthly.md))
+(该模板全文见 [HbWorkReviewMonthly.md at master · ishanshan/CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbWorkReviewMonthly))
 
 虽是给别人做 1 on 1 沟通，我亦收获不小。如复盘时想不到有成就感的事，可回想倍感成长的事情，一样能找到接下来可多多投入的方向；再如看到对方探索方向转变，即使担心也不再评判，而是引导询问对方对这样的探索结果是否满意，为什么；又如给建议时，不说建议你怎么做，而是「如果换作我，我会怎么做，为什么」，这样对方更易接受；还如派任务时，不说「有劳这样这样」，而是「这样这样，对你来说 OK 吗」，比如「初稿下周二 14:00 前发给大伙查阅，对你来说 OK 吗？」，既获取对方承诺让结果更易达成，也给对方选择余地感觉更自主。
 
@@ -109,7 +109,7 @@ description: <p>这份小记写于 2016 年秋，即使陆续修改，也没好�
 
 有些诉求超出我能力范围，难以给出到位反馈，便牵线更合适的资源。
 
-一些不必及时给出的反馈，则留待每周固定时间处理。比如借助周报：一来时间稳定易成习惯，二来刚了然整体进展，易给出精准反馈；而且[提交周报，同事多少期待反馈](selfedu/TipsWeekly.md)，相较冷不丁收到更乐听受。
+一些不必及时给出的反馈，则留待每周固定时间处理。比如借助周报：一来时间稳定易成习惯，二来刚了然整体进展，易给出精准反馈；而且[提交周报，同事多少期待反馈](selfedu/TipsWeekly)，相较冷不丁收到更乐听受。
 
 于是每周再忙，我都抽时间处理小组成员周报，发现进步及时鼓励肯定，遇到优秀实践及时分享扩散。毕竟刚从新手阶段过来，深知投石有声下回再投更有动力。
 
@@ -132,7 +132,7 @@ description: <p>这份小记写于 2016 年秋，即使陆续修改，也没好�
 
 再一教训，来自偶然听到的问话：你说重视这事儿，那咱算算到底投入了多少时间？
 
-艰难地咽了咽口水，扭头我就开始[在工作日志中分类记录工时](selfedu/HbOutputWorkFlowy.md)，统计花在团队管理事务的时间。一算才发现，只有 1/10~1/8 。**重视某件事的程度和投入的时间精力正相关**。这结果多少意味着，我还未脱离管理个人阶段的工作理念和时间应用方式，更习惯自己完成工作而非带队伍做事。
+艰难地咽了咽口水，扭头我就开始[在工作日志中分类记录工时](selfedu/HbOutputWorkFlowy)，统计花在团队管理事务的时间。一算才发现，只有 1/10~1/8 。**重视某件事的程度和投入的时间精力正相关**。这结果多少意味着，我还未脱离管理个人阶段的工作理念和时间应用方式，更习惯自己完成工作而非带队伍做事。
 
 有句话说得好：You can't change what you don't notice. 反之亦然：You can change what you've noticed. 有了「工时」这个显而易见的标尺，我开始有意识地多做那些能增强团队战斗力的事情，每周检视。几周后，每周带队伍做事的时间终于稳定在 1/4~1/3 。
 

@@ -57,9 +57,9 @@ description: <p>有伙伴看了我博客，好奇上述问题。</p><p>估计也
 
 此外，当时还做了这些行动，以便找到自己欣赏信任、同频共振的团队：
 
-1. 收到入职邀约后，和直属 leader 申请和接下来可能密切协作的同事，都见面交流一圈，了解公司亚文化，感受契合程度。具体交流哪些问题？见 [新人找同事会谈，了解团队亚文化 | 问题清单](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/InfoQNewcomer2Partner.md)。
+1. 收到入职邀约后，和直属 leader 申请和接下来可能密切协作的同事，都见面交流一圈，了解公司亚文化，感受契合程度。具体交流哪些问题？见 [新人找同事会谈，了解团队亚文化 | 问题清单](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/InfoQNewcomer2Partner)。
 
-2. 确定入职前，和直属 leader 了解他对我工作的期待和协作方式偏好。具体方式见 [新人找 manager 会谈，了解期望 | 问题清单](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/InfoQNewcomer2Manager.md)
+2. 确定入职前，和直属 leader 了解他对我工作的期待和协作方式偏好。具体方式见 [新人找 manager 会谈，了解期望 | 问题清单](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/InfoQNewcomer2Manager)
 
 
 功夫不负有心人，接下来的共事证明我选到了一个特别好的团队：
@@ -93,7 +93,7 @@ description: <p>有伙伴看了我博客，好奇上述问题。</p><p>估计也
 
 这点有多关键？可参考 YC 创始人格雷厄姆的这篇文章：[格雷厄姆：为自己的事业而工作](https://mp.weixin.qq.com/s/fXGM-e-KcHFHjhLkb1K7GA)。
 
-而且在我看来，[有了强烈意愿，能力问题是时间的问题](cmty/tips_motivation.md)。
+而且在我看来，[有了强烈意愿，能力问题是时间的问题](cmty/tips_motivation)。
 
 这也是为什么我很重视思索人生三问，甚至在进入迷茫期后不着急开启下一段职业生涯，而是先去探索人生三问。总之对我来说，这样投入产出比更高：既有助于自己更好地发挥潜能，还可以避开很多本不该出现的障碍、麻烦。
 
@@ -107,11 +107,11 @@ description: <p>有伙伴看了我博客，好奇上述问题。</p><p>估计也
 ---
 
 更多相关内容：
-- [如何做职业选择？· STC 问题清单](cmty/tips_career_choice.md)
-- [新人磨合指南](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbNewcomer.md)
+- [如何做职业选择？· STC 问题清单](cmty/tips_career_choice)
+- [新人磨合指南](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbNewcomer)
 - [如何创造更大价值，提升个人投入产出比？](https://docs.qq.com/slide/DVVBzbVZ1UnFRZEhM)
 - [不同年龄的职业规划重点- 目标管理进阶攻略 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcn75qFbOHYzvEgBWLSvalPcb?sheet=1JZTkz)
-- [入职第一天，我失眠了](selfedu/NewLifeinOMC.md)
+- [入职第一天，我失眠了](selfedu/NewLifeinOMC)
 
 ---
 

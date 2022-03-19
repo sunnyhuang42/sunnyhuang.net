@@ -223,11 +223,11 @@ description: <p>过去大半年，我发生了一些肉眼可见的可喜变化�
 
 ### 练习材料
 
-详细可见[学习资源](family/ResFacialGrowth.md) 。
+详细可见[学习资源](family/ResFacialGrowth) 。
 
 ### FAQ
 
-练习过程难免有疑问，遂汇总练习过程常见疑难，供有需要的伙伴参考，持续更新中。见 [常见疑问&练习锦囊](family/TipsFacialGrowth.md) 。
+练习过程难免有疑问，遂汇总练习过程常见疑难，供有需要的伙伴参考，持续更新中。见 [常见疑问&练习锦囊](family/TipsFacialGrowth) 。
 
 目前已有这些 FAQ：
 * 自己只能舌尖顶上颚，很难舌根顶上颚，怎么办？

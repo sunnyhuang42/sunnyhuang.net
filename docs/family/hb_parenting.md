@@ -99,7 +99,7 @@ description:
 - 201004 闪闪增补健康生长部分
 - 180805 闪闪增补安全意识部分
 - 180801 闪闪增补分享和自主品质的培养内容
-- 180701 闪闪更新文档名为 HbParenting ，原修改记录[备份在此](https://github.com/ishanshan/ForFamily/commits/master/HbBreeding.md)
+- 180701 闪闪更新文档名为 HbParenting ，原修改记录[备份在此](https://github.com/ishanshan/ForFamily/commits/master/HbBreeding)
 - 180407 闪闪陆续增补清单细节，尤其语言培养部分
 - 171126 闪闪修订开头结尾 1h
 - 171125 闪闪把 WorkFlowy 中的条目整理到 MarkDown 文档中

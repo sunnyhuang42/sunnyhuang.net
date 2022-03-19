@@ -45,7 +45,7 @@ description: undefined
 
 这是我的版本，欢迎你根据自己的情况，迭代完善为自己的版本：
 
- [如何做职业选择 · STC 问题清单](cmty/tips_career_choice.md)
+ [如何做职业选择 · STC 问题清单](cmty/tips_career_choice)
 
 PS. 那会儿想到用 STC 算子来辅助决策，源自当时面试官也是我后来 leader  @BF 的提议。深感幸运&万分感谢：D
 

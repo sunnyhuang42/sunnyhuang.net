@@ -179,7 +179,7 @@ description: <p>本月复盘时，我提到自己最希望的改进的地方是�
 
 - 了解对方水平时的一些问题参考：[挖掘最佳实践的访谈清单](cmty/tips_RES_BP?id=askbestp)
 - [输出实验室](f_output/)的例会流程和攻略：[各角色进阶攻略_输出实验室 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcnoXwVSubIPneYvgIptMtISf?sheet=wIhKcI)
-- 关注个人发展的 1on1 会议锦囊：[希望团队配合更紧密、成长更迅猛？试试这样1on1](cmty/tips_1on1.md)
+- 关注个人发展的 1on1 会议锦囊：[希望团队配合更紧密、成长更迅猛？试试这样1on1](cmty/tips_1on1)
 
 
 ## CHANGELOG

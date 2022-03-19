@@ -203,9 +203,9 @@ description: <p>得益于过去几期内测伙伴的帮助支持，目前我对�
 
 ![fb_ft_m2_qj.png](http://ishanshan.zoomquiet.top/share/fb_ft_m2_qj.png  ':size=200')
 
-详情可见这篇记录[如果在「人生·敏捷迭代营」小组练习时，作为案主感觉收获不大，是什么情况？](mur/fo_practicemore.md)
+详情可见这篇记录[如果在「人生·敏捷迭代营」小组练习时，作为案主感觉收获不大，是什么情况？](mur/fo_practicemore)
 
-如果你想了解更多反馈，可参考：[用户反馈/往期成员结营复盘](f_output/feedback.md)
+如果你想了解更多反馈，可参考：[用户反馈/往期成员结营复盘](f_output/feedback)
 
 ## 4. 具体安排是怎样的？ {#agenda}
 
@@ -357,8 +357,8 @@ PS. 月度工作坊后如果想加入其它模式，在还有名额的情况下�
 
 [^0]: 这张图来自 [How to track progress in the Build-Measure-Learn Loop? — SWAN Ventures](https://www.swan.ventures/blog/2017/8/31/how-to-track-progress-in-the-build-measure-learn-loop)
 [^1]: 这来自 LEANSTACK 的这篇文章：https://leanstack.com/new-rules 。文章涉及「以终为始 敏捷迭代」的关键心法，如果你想转型到高度不确定的方向，比如自由职业者、创业等，推荐反复查阅
-[^1-1]: 这是如何实现的？可参考 [答师友：第一次换工作就涨薪200+%，我是如何实现的？](mur/tips_jobhunting.md)
-[^2]: 详情可见 [我如何成为换头最快的1%？· 过去8个月的面容调整复盘](selfedu/RevFacialGrowth.md)
+[^1-1]: 这是如何实现的？可参考 [答师友：第一次换工作就涨薪200+%，我是如何实现的？](mur/tips_jobhunting)
+[^2]: 详情可见 [我如何成为换头最快的1%？· 过去8个月的面容调整复盘](selfedu/RevFacialGrowth)
 [^3]: 具体探索进展，如果你感兴趣，可以看我的探索进展追踪表，有探索日志和每月 OKR 及简要复盘：[探索记录追踪表 - 飞书云文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm)
 [^4]: 前三次使命感满满的状态是什么情况？如果你感兴趣，可从这期播客了解：[闪闪 | 用理性和热忱，实验如何奔向蓬勃人生 -  小宇宙](https://www.xiaoyuzhoufm.com/episode/61585ce0ae1d32c4f86c18c5?s=eyJ1IjogIjYwZTI4NWQ4ZTBmNWU3MjNiYjlmNDVlNiJ9)
 

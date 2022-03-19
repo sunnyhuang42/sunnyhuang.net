@@ -36,7 +36,7 @@ description:
 
 ## 个人发展规划
 
-详见[发展规划](about/plan_lifedev.md) 。
+详见[发展规划](about/plan_lifedev) 。
 
 ## footnote
 

@@ -188,11 +188,11 @@ Tips：思考标准时，可从项目管理四要素「范围/时间/质量/成�
 
 以下是我在使用并持续完善的思考框架/问题清单：
 
-- [如何梳理有助于达成长期目标的行动规划？](cmty/tips_MBO_fromend.md)
-- [启动新项目，如何设定项目目标? · 项目需求采集问题清单](cmty/infoq_pm_pre.md)
-- [如何更易获得有效帮助？· 困扰分析模板](cmty/hb_ask4help.md)
-- [如何做职业选择？· STC 问题清单](cmty/tips_career_choice.md)
-- [希望团队配合更紧密、成长更迅猛？试试这样1on1](cmty/tips_1on1.md)
+- [如何梳理有助于达成长期目标的行动规划？](cmty/tips_MBO_fromend)
+- [启动新项目，如何设定项目目标? · 项目需求采集问题清单](cmty/infoq_pm_pre)
+- [如何更易获得有效帮助？· 困扰分析模板](cmty/hb_ask4help)
+- [如何做职业选择？· STC 问题清单](cmty/tips_career_choice)
+- [希望团队配合更紧密、成长更迅猛？试试这样1on1](cmty/tips_1on1)
 
 
 ## CHANGELOG 

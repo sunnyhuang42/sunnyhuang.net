@@ -24,12 +24,21 @@ const Aside = () => {
       </div>
       <div
         className={cls(
-          'flex-shrink-0 order-2 w-72 h-full hidden bg-primary',
+          'flex-shrink-0 order-2 w-72 pt-6 hidden bg-primary',
           visible ? 'w-80 lg:block lg:fixed lg:top-14 lg:right-0 lg:z-50' : '',
-          'xl:block xl:pl-8 xl:border-l',
+          'xl:block xl:pl-8 lg:border-l',
         )}
       >
-        {isPost && <Toc />}
+        {isPost && (
+          <div
+            className={cls(
+              'sticky top-12 lg:top-14 px-4 lg:pl-8 xl:pl-0 h-main',
+              visible && 'lg:top-0',
+            )}
+          >
+            {isPost && <Toc />}
+          </div>
+        )}
       </div>
       <div
         className={cls(

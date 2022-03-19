@@ -1,8 +1,17 @@
+import { useEffect } from 'react';
 import { allPosts, Post } from '@/data';
 import SEO from '@/components/seo';
+import { usePage } from '@/context/page';
 
 const PostPage = (props: { post: Post & { readingTips: string } }) => {
   const { post } = props;
+  const { setPage } = usePage();
+
+  useEffect(() => {
+    setPage({
+      headings: post.headings,
+    });
+  }, []);
 
   return (
     <article className="prose">

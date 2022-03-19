@@ -1,8 +1,8 @@
 import { defineDocumentType, makeSource } from 'contentlayer/source-files';
+import { parse } from 'node-html-parser';
 import readingTime from 'reading-time';
 import remarkGfm from 'remark-gfm';
-import rehypeSlug from 'rehype-slug';
-// import rehypeToc from '@jsdevtools/rehype-toc';
+import rehypeSlug from 'rehype-slug-custom-id';
 import rehypeCodeTitles from 'rehype-code-titles';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import rehypePrism from 'rehype-prism-plus';
@@ -30,6 +30,18 @@ const Post = defineDocumentType(() => ({
       type: 'json',
       resolve: (post) => readingTime(post.body.raw),
     },
+    headings: {
+      type: 'json',
+      resolve: (post) =>
+        parse(post.body.html)
+          .querySelectorAll('[id]')
+          .filter((node) => node.tagName.includes('H'))
+          .map(({ id, tagName, text }) => ({
+            id,
+            text,
+            depth: Number(tagName.replace('H', '')),
+          })),
+    },
   },
 }));
 
@@ -39,10 +51,16 @@ export default makeSource({
   markdown: {
     remarkPlugins: [remarkGfm],
     rehypePlugins: [
-      rehypeSlug,
-      // rehypeToc,
       rehypeCodeTitles,
       rehypePrism,
+      [
+        rehypeSlug,
+        {
+          maintainCase: true,
+          removeAccents: true,
+          enableCustomId: true,
+        },
+      ],
       [
         rehypeAutolinkHeadings,
         {

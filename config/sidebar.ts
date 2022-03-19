@@ -548,10 +548,6 @@ export const sidebar: Sidebar = [
         link: '/selfedu/tips_invest',
       },
       {
-        text: '他人眼中的闪闪',
-        link: '/about/view_others',
-      },
-      {
         text: '养娃清单',
         link: '/family/hb_parenting',
       },

@@ -1,8 +1,10 @@
 import cls from 'clsx';
 import { usePage } from '@/context/page';
+import { useMenu } from '@/context/menu';
 
 const Toc = () => {
   const { headings } = usePage();
+  const [, { setFalse }] = useMenu();
   return (
     <ul className="text-sm">
       {headings.map((heading) => (
@@ -18,6 +20,7 @@ const Toc = () => {
               heading.depth === 2 ? 'font-medium' : '',
             )}
             href={`#${heading.id}`}
+            onClick={setFalse}
           >
             {heading.text}
           </a>

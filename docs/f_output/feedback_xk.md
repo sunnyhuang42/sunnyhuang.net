@@ -76,7 +76,7 @@ wow ，如此细致且迅速，让我一下更清楚了这个项目值得继续�
 
 哈哈是的，而且这些也正是我作为项目发起人也非常需要的。
 
-其实最开始发起，是为了解决我自己的问题（见下图，内容来自 [输出实验室 玩法介绍](https://ishanshan.im/#/f_output/?id=why)）。
+其实最开始发起，是为了解决我自己的问题（见下图，内容来自 [输出实验室 玩法介绍](/f_output/?id=why)）。
 
 
 ![fb_xk0.png](http://ishanshan.zoomquiet.top/share/fb_xk1.png ':size=100')
@@ -130,7 +130,7 @@ PS.
 
 对，目前主要是在报同样时段的伙伴中，优先匹配目标相似的。
 
-例会的目的，不是为了讨论，是为了满足议题提出者的需求，支持他实现目标。例会适合处理的需求/议题如下（截图来自 [常见疑问解答/FAQ](https://ishanshan.im/#/f_output/faq?id=welcome_need)）：
+例会的目的，不是为了讨论，是为了满足议题提出者的需求，支持他实现目标。例会适合处理的需求/议题如下（截图来自 [常见疑问解答/FAQ](/f_output/faq?id=welcome_need)）：
 
 
 ![fb_xk4.png](http://ishanshan.zoomquiet.top/share/fb_xk4.png ':size=100')
@@ -188,7 +188,7 @@ PS.
 
 😄赞同，这个正好也是下一步打算做的，打磨各种典型场景的工具包，方便参与者更轻松地定出好目标和规划，解决相关问题/挑战。
 
-BTW，目前对于没有目标的伙伴，先简单提供的是这样的指引（截图来自 [输出实验室 玩法介绍](https://ishanshan.im/#/f_output/misunderstanding/?id=misu_nogoal )）：
+BTW，目前对于没有目标的伙伴，先简单提供的是这样的指引（截图来自 [输出实验室 玩法介绍](/f_output/misunderstanding/?id=misu_nogoal )）：
 
 ![fb_xk5.png](http://ishanshan.zoomquiet.top/share/fb_xk5.png ':size=100')
 

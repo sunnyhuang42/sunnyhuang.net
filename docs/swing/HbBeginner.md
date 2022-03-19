@@ -9,7 +9,7 @@ description:
 
 ## 如何使用
 
-1. 如果你还不太了解 swing ，请先抽些时间瞅瞅 [这些视频](https://ishanshan.im/#/swing/ResHighLight) ；如果可以，最好到 [附近最大的 swing 舞会](https://ishanshan.im/#/swing/ResHighLight) 亲身体验一下。此后再看这份指南，要不看了也没感觉哦。
+1. 如果你还不太了解 swing ，请先抽些时间瞅瞅 [这些视频](/swing/ResHighLight) ；如果可以，最好到 [附近最大的 swing 舞会](/swing/ResHighLight) 亲身体验一下。此后再看这份指南，要不看了也没感觉哦。
 2. 这份指南就如产品帮助文档，没必要一次看完，也易认知过载。建议你先通览下述目录心中有数，即将用到再查阅。
 
 ## 目录
@@ -58,7 +58,7 @@ description:
 
 **学双人舞，要掌握的主要有三大模块 1）Musicality ；2）Dance movement, moves and patterns ； 3）Partnering technique 。** 每项都需要花时间上手。如果你之前没舞蹈基础也没音乐基础，建议先可着 1-2 项练习，而非一下把三项都拿下。
 
-如果你有舞蹈基础，可以跟着线上资源（比如 [Swing 星标资源](https://ishanshan.im/#/swing/ResHighLight) 列出的这些）学，并多去舞会找人练。
+如果你有舞蹈基础，可以跟着线上资源（比如 [Swing 星标资源](/swing/ResHighLight) 列出的这些）学，并多去舞会找人练。
 
 如果没有舞蹈基础，建议直接报课，有搭档有氛围。Swing 课程多由 swing 爱好者业余教授，一般每次课不超过 150 元，一期课程（6-8 次课）700 元左右，有些课搭档报名还有优惠。这价格实在动人，个人推测就是 cover 场地成本，再象征性地收点。
 
@@ -166,7 +166,7 @@ Swing Beijng 的伙伴已为你准备了贴心的指南：[找不到男舞伴搭
 
 对了，如果你的舞伴让你很开心，请一定毫不吝啬地告诉他，表达欣赏和谢意，比如：
 
-- 和你跳舞很舒服！ —— 「舒服」在我看来是对一个舞伴的最高评价，原因见 [Swing 舞会指南](https://ishanshan.im/#/swing/HbParty)。
+- 和你跳舞很舒服！ —— 「舒服」在我看来是对一个舞伴的最高评价，原因见 [Swing 舞会指南](/swing/HbParty)。
 - 你的信号好明确~ —— 舞蹈是两人交流，信号是关键。
 - 你动作好流畅~！
 - ……

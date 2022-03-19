@@ -40,7 +40,7 @@ description: <p>误解速览：</p><ul><li>期待在小组例会获得个人难�
 
 <br>
 
-PS. 小组例会处理哪些需求更划算？详见这个 [ FAQ: 小组例会碰头欢迎哪些需求](https://ishanshan.im/#/f_output/faq?id=welcome_need) 。
+PS. 小组例会处理哪些需求更划算？详见这个 [ FAQ: 小组例会碰头欢迎哪些需求](/f_output/faq?id=welcome_need) 。
 
 
 

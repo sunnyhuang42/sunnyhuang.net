@@ -291,7 +291,7 @@ PS. 如何快速查看优秀作业？我当时是：
 
 ## 如何报名？
 
-最新一期课程周期是 7.30-8.28 ，报名 7.25 20:00 截止。课程详情，可参考 [笑来写作训练营安排](https://ishanshan.im/#/wr/course_xl/intro?id=%e8%af%be%e7%a8%8b%e5%ae%89%e6%8e%92) 。
+最新一期课程周期是 7.30-8.28 ，报名 7.25 20:00 截止。课程详情，可参考 [笑来写作训练营安排](/wr/course_xl/intro?id=%e8%af%be%e7%a8%8b%e5%ae%89%e6%8e%92) 。
 
 如何加入？
 1. 下载新生大讲堂 App‬ [https://www.firesbox.com/app/](https://www.firesbox.com/app/)

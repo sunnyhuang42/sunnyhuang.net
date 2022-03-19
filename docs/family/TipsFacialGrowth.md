@@ -9,7 +9,7 @@ description:
 
 
 
-2020 年夏天，机缘巧合我接触了 orthotropics 理论并开始练习后，面容发生了不小改变，堪比换头。具体可见[我如何成为换头最快的1%？- 过去8个月的面容调整复盘](https://ishanshan.im/#/selfedu/RevFacialGrowth) 。
+2020 年夏天，机缘巧合我接触了 orthotropics 理论并开始练习后，面容发生了不小改变，堪比换头。具体可见[我如何成为换头最快的1%？- 过去8个月的面容调整复盘](/selfedu/RevFacialGrowth) 。
 
 很开心看到越来越多朋友也加入到练习的队伍，逐步长出基因里最健康最美的样子。
 

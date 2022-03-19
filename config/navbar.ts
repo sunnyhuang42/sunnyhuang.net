@@ -2,27 +2,6 @@ import type { Navbar } from './types';
 
 export const navbar: Navbar = [
   {
-    text: '内部链接',
-    link: '/cmty/model_idealife',
-  },
-  {
-    text: '外部链接',
-    link: 'https://github.com/ishanshan',
-  },
-  {
-    text: '导览',
-    items: [
-      {
-        text: '按主题查看',
-        link: '/_sidebar',
-      },
-      {
-        text: '按发布时间查看',
-        link: '/index_update',
-      },
-    ],
-  },
-  {
     text: '进阶服务',
     items: [
       {

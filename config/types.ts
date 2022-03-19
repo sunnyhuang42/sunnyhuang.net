@@ -25,12 +25,11 @@ type LinkItem = {
   link: string;
 };
 
-type NavItem =
-  | LinkItem
-  | {
-      text: string;
-      items: LinkItem[];
-    };
+type NavItem = {
+  text: string;
+  link?: string;
+  items?: LinkItem[];
+};
 
 export type Navbar = NavItem[];
 

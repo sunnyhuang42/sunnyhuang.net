@@ -1,7 +1,7 @@
 ---
 title: 能令人快速成长的目标，有哪些特征？· 好目标特征和制定攻略
 date: 2021-11-11
-updated: 
+link: https://faciloutput.feishu.cn/sheets/shtcn8bCjOajRuprzF21XbDO43g?sheet=154140
 description: <p>当你想梳理出更易加速成长、创造价值的目标规划时，可参考这份攻略。</p><p>还在持续迭代中，欢迎留言交流，也促进我迭代完善：D</p><p class="warn">说明：此处「好目标」中的「好」，是对「飞速成长、创造价值、迈向蓬勃人生（flourishing life）」来说很有优势。如果不是这样的诉求，觉得里头的标准不适用，是正常的。</p>
 ---
 

@@ -50,22 +50,26 @@ const Post = defineDocumentType(() => ({
 export const rewrite: RehypeRewriteOptions['rewrite'] = (node) => {
   if (node.type === 'element' && node.tagName == 'img') {
     const { properties } = node;
-    const [src, attributesString] = properties?.src?.split('#') || [];
-    const attributes = (attributesString || '')
-      .split('&')
-      .reduce((attrs: string[], attr: string) => {
-        const [key, val] = attr.split('=');
-        if (!val || !key) return attrs;
-        return {
-          ...attrs,
-          [key]: val,
-        };
-      }, {});
-    node.properties = {
-      ...node.properties,
-      src,
-      ...attributes,
-    };
+    const [src, attributesString] =
+      (properties?.src as string)?.split('#') || [];
+    if (attributesString) {
+      const attributes = attributesString
+        .split('&')
+        .reduce((attrs: object, attr: string) => {
+          const [key, val] = attr.split('=');
+          if (!val || !key) return attrs;
+          return {
+            ...attrs,
+            [key]: val,
+          };
+        }, {});
+
+      node.properties = {
+        ...node.properties,
+        src,
+        ...attributes,
+      };
+    }
   }
 };
 

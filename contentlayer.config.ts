@@ -15,8 +15,8 @@ const Post = defineDocumentType(() => ({
     title: { type: 'string', required: false },
     keywords: { type: 'string', required: false },
     description: { type: 'string', required: false },
-    date: { type: 'date', required: false },
-    updated: { type: 'date', required: false },
+    date: { type: 'string', required: false },
+    updated: { type: 'string', required: false },
     link: { type: 'string', required: false },
   },
   computedFields: {

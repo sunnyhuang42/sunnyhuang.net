@@ -10,7 +10,7 @@ const Header = () => {
   const [visible, { toggle }] = useMenu();
   return (
     <header className="sticky top-0 z-50 h-12 lg:h-14 border-b bg-blur">
-      <div className="flex items-center justify-between w-screen max-w-8xl h-full mx-auto px-2 lg:px-0">
+      <div className="flex items-center justify-between w-screen max-w-8xl h-full mx-auto px-2">
         <Link href="/">
           <a className="flex items-center hover:opacity-70">
             {logo && (
@@ -25,8 +25,8 @@ const Header = () => {
         </Link>
         <NavBar />
         <div className="flex items-center space-x-0.5 lg:space-x-2">
-          <Actions className="hidden md:flex" />
           <Search />
+          <Actions className="hidden md:flex" />
           <div
             className="p-2 rounded-full lg:hover:bg-secondary block xl:hidden"
             onClick={() => toggle()}

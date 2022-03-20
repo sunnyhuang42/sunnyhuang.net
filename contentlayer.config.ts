@@ -5,6 +5,7 @@ import remarkGfm from 'remark-gfm';
 import rehypeSlug from 'rehype-slug-custom-id';
 import rehypeCodeTitles from 'rehype-code-titles';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
+import rehypeRewrite, { RehypeRewriteOptions } from 'rehype-rewrite';
 import rehypePrism from 'rehype-prism-plus';
 
 const Post = defineDocumentType(() => ({
@@ -46,6 +47,28 @@ const Post = defineDocumentType(() => ({
   },
 }));
 
+export const rewrite: RehypeRewriteOptions['rewrite'] = (node) => {
+  if (node.type === 'element' && node.tagName == 'img') {
+    const { properties } = node;
+    const [src, attributesString] = properties?.src?.split('#') || [];
+    const attributes = (attributesString || '')
+      .split('&')
+      .reduce((attrs: string[], attr: string) => {
+        const [key, val] = attr.split('=');
+        if (!val || !key) return attrs;
+        return {
+          ...attrs,
+          [key]: val,
+        };
+      }, {});
+    node.properties = {
+      ...node.properties,
+      src,
+      ...attributes,
+    };
+  }
+};
+
 export default makeSource({
   contentDirPath: 'docs',
   documentTypes: [Post],
@@ -54,6 +77,12 @@ export default makeSource({
     rehypePlugins: [
       rehypeCodeTitles,
       rehypePrism,
+      [
+        rehypeRewrite,
+        {
+          rewrite,
+        },
+      ],
       [
         rehypeSlug,
         {

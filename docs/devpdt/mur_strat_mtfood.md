@@ -5,11 +5,6 @@ updated:
 description: <p>收拾食材时瞥见购物小票，忽然更理解为什么「美团买菜」如此重视用户反馈并快速迭代改进了——</p>
 ---
 
-
-发布于 2021-02-26
-
-<br> 
-
 > 亲爱的会员，特别开心为您的第 40 次订单服务~请放心地把您的餐桌交给我们，下次见！
 
 ![ticket_meituanfood.jpg](https://ishanshan.zoomquiet.top/clipping/ticket_meituanfood.jpg?imageView2/2/w/500#width=200)

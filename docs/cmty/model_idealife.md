@@ -1,7 +1,7 @@
 # 理想人生是怎样的，有哪些模式？
 最后更新于 2021-10-09，创建于 2021-07-16
 
-<br> 
+<br>
 
 前段时间在梳理自己想过怎样的生活，发现业界对什么样的状态算理想人生、怎样利于实现理想人生，提出了好些模型或维度。汇总一些对我比较有帮助的，供有需要的伙伴参考。
 
@@ -28,17 +28,17 @@
 
 积极心理学创始人马丁·塞利格曼提出了 [PERMA 模型](https://www.viacharacter.org/pdf/Flourishing.pdf)。其他学者也有提出自己的评估方式，比如哈佛的 Human Flourishing Program 提出了一份量表[《Flourishing Measure》](https://hfh.fas.harvard.edu/files/pik/files/flourishing_measure_pdf.pdf)。
 
-<br> 
+<br>
 
 如何通往蓬勃人生（flourishing life）？
 
-马丁·塞利格曼在《持续的幸福》一书中提到，全面的蓬勃人生（well-being或flourishing）有五个支柱——积极情绪（Positive emotions）、投入（Engagement）、人际关系（Relationships）、意义（Meaning & purpose）和成就（Accomplishment） ，而这些支柱的基石，则是品格优势和美德。在蓬勃人生理论里，24个优势支撑着五个元素，该理论旨在帮助我们运用自身最强的优势获得更多的积极情绪、意义、成就，以及发展更好的社会关系。这些元素的关系塞利格曼用下图示意：
+马丁·塞利格曼在《持续的幸福》一书中提到，全面的蓬勃人生（well-being或flourishing）有五个支柱——PERMA，即积极情绪（Positive emotions）、投入（Engagement）、人际关系（Relationships）、意义（Meaning & purpose）和成就（Accomplishment） ，而这些支柱的基石，则是品格优势和美德。在蓬勃人生理论里，24个优势支撑着五个元素，该理论旨在帮助我们运用自身最强的优势获得更多的积极情绪、意义、成就，以及发展更好的社会关系。这些元素的关系塞利格曼用下图示意：
 
 ![flourishing_permasv.png](http://ishanshan.zoomquiet.top/clipping/flourishing_permasv.png  ':size=350')
 
 如果你想进一步了解蓬勃人生理论，可参考这门公开课：[The Science of Well-Being | Coursera](https://www.coursera.org/learn/the-science-of-well-being)。
 
-<br> 
+<br>
 
 除了上面的链接，这2篇文章里也有一些关于 flourishing 的实操建议，且是中文：
 
@@ -55,11 +55,11 @@
 简单来说，如果你希望持续成功，核心是维护这四要素的平衡，且是在社区（community）工作（work）家庭（family）自我（self）这几个维度上都平衡：
 
 
-* **快乐/happiness** ：feelings of pleasure or contentment about your life 
+* **快乐/happiness** ：feelings of pleasure or contentment about your life
 
 * **成就/achievement** ：accomplishments that compare favorably against similar goals others have strived for
 
-* **意义/significance** ：the sense that you’ve made a positive impact on people you care about 
+* **意义/significance** ：the sense that you’ve made a positive impact on people you care about
 
 * **传承/legacy** ：a way to establish your values or accomplishments so as to help others find future success
 
@@ -69,9 +69,9 @@
 1. 我之前的实践方法是，把上述模型整理成 4*4 的表格（见下图），然后：
     1. 定期查漏补缺：就着表格盘点成果，看看自己哪些格子薄弱、接下来可以调整哪些行动
     2. 在要去做某个花时间较多的事情时，对照表格看看自己怎样设定目标，能尽可能照顾这些格子，尤其是薄弱的格子
-    
+
     3. 在做选择时，尽量选那些能涉及更多格子，尤其能加强自己薄弱格子的机会
-    
+
     ![flourishing_pks.png](http://ishanshan.zoomquiet.top/share/flourishing_pks.png)
 
 2. 笑来长期研究多年践行后，基于成功万花筒策略演化出了自己的策略，这个模型简洁很多：
@@ -83,8 +83,8 @@
      ![flourishing_pks_xl.jpg](http://ishanshan.zoomquiet.top/clipping/flourishing_pks_xl.jpg  ':size=400')
 
     - 具体解说和实践分享，见这节[试听课](https://xuexi-courses.firesbox.com/?utm_source=share#/7000103731/courses/3104) 42 分钟开始的部分
-    
-   
+
+
 
 
 ## 3. 自我决定论/Self-Determination Theory :id=SDT
@@ -120,15 +120,15 @@
 2. [The real secrets to a longer life - APA](https://www.apa.org/monitor/2011/12/longer-life)
 
     > Howard S. Friedman says that eating vegetables and going to the gym are not as important to our long-term health as having a rich, productive life.
-    
+
     > We all know lots of things that are health-promoting — stop substance abuse, stay active, eat right, sleep well, don't gain weight, make friends — so why aren't most people healthy?
-    
-    > **our studies suggest that it is a society with more conscientious and goal-oriented citizens, well-integrated into their communities, that is likely to be important to health and long life.** 
+
+    > **our studies suggest that it is a society with more conscientious and goal-oriented citizens, well-integrated into their communities, that is likely to be important to health and long life.**
 
     翻译一下要点（以下摘自安人书院）：
-    
+
     对于我们的长期健康而言，吃蔬菜和去健身房，不如拥有丰富和富有成效的生活重要。
-    
+
     研究表明，那些看上去正确的健康清单——停止滥用药物、保持活跃、吃得好、睡得好、不增加体重、交朋友，其实对健康和长寿没那么重要。与之相反，更重要的是：**更有责任心和目标导向，更好地融入社区，这可能对健康和长寿很重要**。
 
 
@@ -138,10 +138,10 @@
 
 ## footnotes
 
-[^1]:如果访问不了上述页面，可以查看[这个 PDF](http://ishanshan.zoomquiet.top/clipping/nash_stevenson_2004_success%20that%20lasts%2C%20the%20kaleidoscope%20strategy.pdf) 
+[^1]:如果访问不了上述页面，可以查看[这个 PDF](http://ishanshan.zoomquiet.top/clipping/nash_stevenson_2004_success%20that%20lasts%2C%20the%20kaleidoscope%20strategy.pdf)
 
 
-## CHANGELOG 
+## CHANGELOG
 
 - 211009 完善细节
 - 211004 增补蓬勃人生模型和 APA 关于健康长寿的研究 0.5h

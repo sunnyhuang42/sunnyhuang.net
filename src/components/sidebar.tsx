@@ -1,4 +1,4 @@
-import { FC, useState } from 'react';
+import { useState, Fragment, FC } from 'react';
 import { useRouter } from 'next/router';
 import Link from 'next/link';
 import { Transition } from '@headlessui/react';
@@ -57,7 +57,7 @@ const Folder: FC<FolderProps> = (props) => {
       </div>
       <Transition show={open} className="pl-4">
         {items?.map((i) => (
-          <div>
+          <Fragment key={i.text}>
             {i?.items ? (
               <>
                 <Folder
@@ -70,7 +70,7 @@ const Folder: FC<FolderProps> = (props) => {
             ) : (
               <File key={i.link} {...i} />
             )}
-          </div>
+          </Fragment>
         ))}
       </Transition>
     </>
@@ -98,7 +98,7 @@ const Sidebar = () => {
   return (
     <>
       {sidebar.map((i) => (
-        <div key={i.text}>
+        <Fragment key={i.text}>
           {i.items ? (
             <>
               <Folder
@@ -111,7 +111,7 @@ const Sidebar = () => {
           ) : (
             <File key={i.link} {...i} />
           )}
-        </div>
+        </Fragment>
       ))}
     </>
   );

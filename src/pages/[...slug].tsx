@@ -17,8 +17,6 @@ const PostPage = (props: { post: Post & { readingTips: string } }) => {
     });
   }, [slug]);
 
-  console.log(slug);
-
   return (
     <article className="prose">
       <SEO title={title} description={description} keywords={keywords} />

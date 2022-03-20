@@ -12,6 +12,7 @@ const PostPage = (props: { post: Post & { readingTips: string } }) => {
 
   useEffect(() => {
     setPage({
+      title,
       headings: post.headings,
     });
   }, [slug]);

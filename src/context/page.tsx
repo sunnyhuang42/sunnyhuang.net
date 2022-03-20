@@ -7,6 +7,7 @@ type Heading = {
 };
 
 type State = {
+  title?: string;
   headings: Heading[];
 };
 
@@ -15,12 +16,14 @@ type Value = State & {
 };
 
 export const PageContext = createContext<Value>({
+  title: '',
   headings: [],
   setPage: () => {},
 });
 
 export const MenuProvider: FC = ({ children }) => {
   const [page, setPage] = useState<State>({
+    title: '',
     headings: [],
   });
 

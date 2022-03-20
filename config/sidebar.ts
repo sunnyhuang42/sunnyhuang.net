@@ -233,78 +233,96 @@ export const sidebar: Sidebar = [
   },
   {
     text: '写作',
+    collapsed: true,
     items: [
       {
-        text: '卡片助力输入输出，工具我选 WorkFlowy',
+        text: '工具方法',
         link: '/selfedu/HbOutputWorkFlowy',
+        items: [
+          {
+            text: '卡片助力输入输出，工具我选 WorkFlowy',
+            link: '/selfedu/HbOutputWorkFlowy',
+          },
+          {
+            text: '卡片助力输出， MarkDown + GitHub + LOFTER 有轻功',
+            link: '/wr/HbOutputbyCards',
+          },
+          {
+            text: '这样用七牛，插图优雅又省心 · MarkDown 码字发文最佳实践',
+            link: '/wr/HbMarkdownImage',
+          },
+          {
+            text: '命名用英文，烦恼少大半 · 团队文档命名指南',
+            link: '/cmty/HbDocName',
+          },
+          {
+            text: '实用但小众的 MarkDown 技巧',
+            link: '/wr/HbMarkdownTrick',
+          },
+          {
+            text: '给文字工作者的 GitHub 上手攻略',
+            link: '/wr/HbGitHubPre',
+          },
+        ],
       },
       {
-        text: '卡片助力输出， MarkDown + GitHub + LOFTER 有轻功',
-        link: '/wr/HbOutputbyCards',
+        text: '日常练习',
+        link: '/selfedu/HbOutputWorkFlowy',
+        items: [
+          {
+            text: '跟王烁「老婆推」学记趣和爱 · 杂记',
+            link: '/wr/TipsFascinatingLife',
+          },
+          {
+            text: '你丁酉年的故事',
+            link: '/selfedu/Review2017',
+          },
+          {
+            text: '谢谢你给她的时光',
+            link: '/selfedu/Letter2XY4y2017',
+          },
+        ],
       },
       {
-        text: '这样用七牛，插图优雅又省心 · MarkDown 码字发文最佳实践',
-        link: '/wr/HbMarkdownImage',
-      },
-      {
-        text: '命名用英文，烦恼少大半 · 团队文档命名指南',
-        link: '/cmty/HbDocName',
-      },
-      {
-        text: '实用但小众的 MarkDown 技巧',
-        link: '/wr/HbMarkdownTrick',
-      },
-      {
-        text: '给文字工作者的 GitHub 上手攻略',
-        link: '/wr/HbGitHubPre',
-      },
-      {
-        text: '跟王烁「老婆推」学记趣和爱 · 杂记',
-        link: '/wr/TipsFascinatingLife',
-      },
-      {
-        text: '你丁酉年的故事',
-        link: '/selfedu/Review2017',
-      },
-      {
-        text: '谢谢你给她的时光',
-        link: '/selfedu/Letter2XY4y2017',
-      },
-      {
-        text: '好奇带来奇妙旅程 · 结业手记',
-        link: '/wr/review_course_xl',
-      },
-      {
-        text: '训练营介绍',
-        link: '/wr/course_xl/intro',
-      },
-      {
-        text: 'ch7 超级专业 · 梳理练习规划',
-        link: '/wr/course_xl/ch7',
-      },
-      {
-        text: 'ch6 输入为本 · 输入练习',
-        link: '/wr/course_xl/ch6',
-      },
-      {
-        text: 'ch5 修辞正义 · 《围城》类比赏析',
-        link: '/wr/course_xl/ch5',
-      },
-      {
-        text: 'ch4 逻辑模板 · 并列、递进、转折拆解练习',
-        link: '/wr/course_xl/ch4',
-      },
-      {
-        text: 'ch3 格式化创作 · 2W1H分析练习',
-        link: '/wr/course_xl/ch3',
-      },
-      {
-        text: 'ch2 一切创作的前提都是选择 · 教程创作练习',
-        link: '/wr/course_xl/ch2',
-      },
-      {
-        text: 'ch1 文字的本质 · 圈词练习',
-        link: '/wr/course_xl/ch1',
+        text: '笑来写作训练营手记',
+        items: [
+          {
+            text: '好奇带来奇妙旅程 · 结业手记',
+            link: '/wr/review_course_xl',
+          },
+          {
+            text: '训练营介绍',
+            link: '/wr/course_xl/intro',
+          },
+          {
+            text: 'ch7 超级专业 · 梳理练习规划',
+            link: '/wr/course_xl/ch7',
+          },
+          {
+            text: 'ch6 输入为本 · 输入练习',
+            link: '/wr/course_xl/ch6',
+          },
+          {
+            text: 'ch5 修辞正义 · 《围城》类比赏析',
+            link: '/wr/course_xl/ch5',
+          },
+          {
+            text: 'ch4 逻辑模板 · 并列、递进、转折拆解练习',
+            link: '/wr/course_xl/ch4',
+          },
+          {
+            text: 'ch3 格式化创作 · 2W1H分析练习',
+            link: '/wr/course_xl/ch3',
+          },
+          {
+            text: 'ch2 一切创作的前提都是选择 · 教程创作练习',
+            link: '/wr/course_xl/ch2',
+          },
+          {
+            text: 'ch1 文字的本质 · 圈词练习',
+            link: '/wr/course_xl/ch1',
+          },
+        ],
       },
     ],
   },
@@ -472,7 +490,6 @@ export const sidebar: Sidebar = [
   },
   {
     text: '摇摆舞（Swing）',
-    collapsed: true,
     items: [
       {
         text: 'Swing 吧！你的苦乐，swing 知道',

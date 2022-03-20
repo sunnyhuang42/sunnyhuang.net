@@ -36,12 +36,12 @@ description: <p>越来越感觉 #输出实验室 的玩法，对我这样的情�
 比如，下图一二，是我昨天才慢慢形成思路、今早赶紧花了10来分钟整理成文字的当前挑战和解法 proposal。
 
 
-![fo_issue_challenge1.png](http://ishanshan.zoomquiet.top/share/fo_issue_challenge1.png ':size=100')
-![fo_issue_challenge2.png](http://ishanshan.zoomquiet.top/share/fo_issue_challenge2.png ':size=100')
+![fo_issue_challenge1.png](https://ishanshan.zoomquiet.top/share/fo_issue_challenge1.png#width=100)
+![fo_issue_challenge2.png](https://ishanshan.zoomquiet.top/share/fo_issue_challenge2.png#width=100)
 
 然后会上花了不到20分钟的时间，快速了解现场伙伴的反馈、打开盲区。会后花了大概20分钟的时间，就迭代出了一个新版本，见下图（红框圈出来为主要迭代的部分）。
 
-![fo_issue_challenge3.png](http://ishanshan.zoomquiet.top/share/fo_issue_challenge3.png ':size=100')
+![fo_issue_challenge3.png](https://ishanshan.zoomquiet.top/share/fo_issue_challenge3.png#width=100)
 
 虽然还不完美，但已让往前走的风险又降低一截。接下来我又可在此基础上，继续思想实验或去做研究，探索怎么往前走。明天又可以进一步迭代。
 

@@ -384,7 +384,7 @@ PS.
 210407 更新：
 香帅在一次答疑时，从商业演进的角度也分享了区块链技术会带来的巨大影响：
 
-![course_xl_whyblockchain.jpeg](http://ishanshan.zoomquiet.top/clipping/course_xl_whyblockchain.jpeg ':size=350')
+![course_xl_whyblockchain.jpeg](https://ishanshan.zoomquiet.top/clipping/course_xl_whyblockchain.jpeg#width=350)
 
 来自 025｜本周问答：区块链的兴起会对未来金融造成什么影响？（在[微信中打开此链接可看全文](https://m.igetget.com/share/course/gift/index/oxYeK1A9l4zaZ5mEJ7vw8yb0gtRGclOliKNvJDygrAWoWpNVk6LR8D2MgObyBWGr?time=1619235072470&refreshT=1619235072470) )
 

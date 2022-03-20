@@ -28,7 +28,7 @@ description: undefined
 
 **业务上**，结合「想做 可做 能做」，越来越明晰产品服务的切入点；产品组合和业务架构也越来越靠谱，感觉对整个业务体系的 CLV（Customer Lifetime Value，客户生命周期价值）[^2] 越来越有信心。
 
-![goal_strategy5.png](http://ishanshan.zoomquiet.top/clipping/goal_strategy5.png ':size=350')
+![goal_strategy5.png](https://ishanshan.zoomquiet.top/clipping/goal_strategy5.png#width=350)
 
 **能力上**，发觉自己在面临业务决策的岔路口，也越来越能分析诊断情况、迅速抓重点。比如更下意识地问自己：
 1. 这个反馈是在描述 problem 还是 solution ，背后的核心诉求是什么？=》关键是识别用户的具体困扰、核心诉求。采集需求后，再根据每个阶段或版本要解决的重点问题，来策划和验证解法
@@ -50,14 +50,14 @@ description: undefined
 
 以及最近涌现越来越多正向信号，比如越来越多资源支持主动聚拢过来，越来越高频地收到身边伙伴或博客读者的感谢，自己的心流时长、灵感、韧性都在正向增长，让我感到自己在下面这个正向增强回路上越跑越畅快，也更有勇气和动力开启挑战。
 
-![fl_loop2.jpeg](http://ishanshan.zoomquiet.top/share/fl_loop2.jpeg)
+![fl_loop2.jpeg](https://ishanshan.zoomquiet.top/share/fl_loop2.jpeg)
 
 此外，这两个月把粗浅想法敏捷迭代得越来越靠谱、打磨付费产品的过程，持续突破自我而产生的深刻喜悦和成就感，也让我更加体会到**「以终为始思索杠杆点、策划 MVP 并敏捷迭代假设」这套心智模式和行为模式，以及定期碰头保持行动节奏的机制**，对于实现高难度目标帮助有多大——
 
 **不但可以更快更稳地找到奏效解法，还能让自己进入正向的增强回路，更省力地迈向大目标。**
 
 
-![fromend1.jpeg](http://ishanshan.zoomquiet.top/share/fromend1.jpeg)
+![fromend1.jpeg](https://ishanshan.zoomquiet.top/share/fromend1.jpeg)
 
 欣喜之余，我也更希望能把那些曾帮助过我的工具方法，去助力更多有需要的伙伴，探索适合自己的转型或人生发展之路。
 
@@ -96,7 +96,7 @@ description: undefined
 
 首先，从《系统之美》一书给出的杠杆点清单来看，「改变系统目标」和「超越范式」，是改变系统投入产出比极高的杠杆点：
 
-![systemthinking.jpg](http://ishanshan.zoomquiet.top/clipping/systemthinking.jpg  ':size=400' )
+![systemthinking.jpg](https://ishanshan.zoomquiet.top/clipping/systemthinking.jpg#width=400)
 
 
 我实际体会也是如此——这大半年来，周围伙伴常反馈说我行动力很强、充满热忱，能有这样的状态，其实这很大程度得益于我去年遵循上述方法的关键决策做对了：离职后没有马上开启下一段职业生涯，而是先暂停一段时间，探索自己想去哪里、怎么去——这其实是在「改变系统目标」和「超越范式」。
@@ -173,7 +173,7 @@ description: undefined
 踏着「以终为始 敏捷迭代」的稳定节奏，探索适合自己的转型或人生发展之路，更省力的实现人生目标：
 
 
-![upgrademodel.jpeg](http://ishanshan.zoomquiet.top/share/upgrademodel.jpeg)
+![upgrademodel.jpeg](https://ishanshan.zoomquiet.top/share/upgrademodel.jpeg)
 
 
 目前有 3 种参与方式。如果是常规参与方式（简称「稳步模式」），每月有 9 次碰头：
@@ -182,14 +182,14 @@ description: undefined
 3. **5 次「以终为始 敏捷迭代」小组练习**：每半周碰头半小时，通过回顾进展，并快速迭代自己或小组伙伴的目标规划、复盘，练习以终为始思索杠杆点、策划 MVP[^4] 并敏捷迭代假设
 4. **月中复盘会、结营复盘会**：通过交流彼此阶段性复盘反思，让做得好的继续发扬、还没做好的更有效地迭代改进，持续迭代心智模式和行为模式
 
-![ft_patten1.png](http://ishanshan.zoomquiet.top/share/ft_patten1.png ':size=400')
+![ft_patten1.png](https://ishanshan.zoomquiet.top/share/ft_patten1.png#width=400)
 
 
 ### 日程安排：
 
 常规参与方式碰头日程见下表，其它参与方式则在这个基础上减少碰头次数：
 
-![ft_aganda.png](http://ishanshan.zoomquiet.top/share/ft_aganda.png  ':size=400' )
+![ft_aganda.png](https://ishanshan.zoomquiet.top/share/ft_aganda.png#width=400)
 
 （请忽略这朴实的图表样式 😂 ）
 

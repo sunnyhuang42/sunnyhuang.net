@@ -511,7 +511,7 @@ OKR是什么？一套严密的思考框架和持续的纪律要求。
 
 我在朋友圈分享了[输出实验室 M8 报名表](http://ishanshan.mikecrm.com/TJoQZCg)，收到几年未联系 xiaokai 老师留言鼓励，便追问了一下具体觉得不错在哪里，以便知道可以继续保持什么。
 
-![fb_xk3.png](http://ishanshan.zoomquiet.top/share/fb_xk0.png ':size=400')
+![fb_xk3.png](https://ishanshan.zoomquiet.top/share/fb_xk0.png#width=400)
 
 
 
@@ -721,7 +721,7 @@ OKR是什么？一套严密的思考框架和持续的纪律要求。
 嗯，真的是肉眼可见。虽然发出来过往照片很毁形象，但无图无真相，为了让你直观感受，还是上图看一下：
 
 
-![前后变化对比图](http://ishanshan.zoomquiet.top/share/facechange003.png ':size=400')
+![前后变化对比图](https://ishanshan.zoomquiet.top/share/facechange003.png#width=400)
 
 ---
 

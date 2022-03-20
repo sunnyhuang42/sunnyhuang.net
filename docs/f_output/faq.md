@@ -57,7 +57,7 @@ description:
 4. 蓬勃人生，离不开为社会做出有意义（meaning）的贡献和成就（achievement），这个过程必然涉及大量和外界的互动。而人和外界的互动，其实可以抽象为 “输入-处理-输出”（见下图） 。在这几个环节中，**关注“输出”、以输出带动输入**，是一种更高效的学习成长、实现目标、取得成就的方式。
 
 
-![ipo_process.png](http://ishanshan.zoomquiet.top/clipping/ipo_process.png  ':size=300')
+![ipo_process.png](https://ishanshan.zoomquiet.top/clipping/ipo_process.png#width=300)
 
 ^上图来自[笑来写作训练营](wr/review_course_xl)
 
@@ -87,7 +87,7 @@ description:
 
 而且从这回（M7 期）报名的反馈来看，这个预案已起作用 😄 。比如：
 
-![fb_fo_feedback.png](http://ishanshan.zoomquiet.top/share/fb_fo_feedback.png  ':size=300')
+![fb_fo_feedback.png](https://ishanshan.zoomquiet.top/share/fb_fo_feedback.png#width=300)
 
 
 

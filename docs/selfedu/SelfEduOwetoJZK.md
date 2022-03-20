@@ -28,7 +28,7 @@ description: <blockquote class="blockquote-center">因为习惯，所以不觉�
 览遍各家介绍，这张其实不咋出彩的传单吸引了我：有和其它高校学生接触的机会，而且做的是商业项目，看起来不错啊。
 
 
-![ ](http://ishanshan.zoomquiet.top/share/1sifepost.jpg?imageView2/2/w/500)
+![ ](https://ishanshan.zoomquiet.top/share/1sifepost.jpg?imageView2/2/w/500)
 <center>（2011-2012秋季招新海报和此一样）</center>
 
 <br>
@@ -57,7 +57,7 @@ description: <blockquote class="blockquote-center">因为习惯，所以不觉�
 
 >讲座控搭建以讲座信息发布为核心的信息平台、以“拓展社交和寻找志同道合者”为目标的社交网络平台，线下沙龙和演讲组织的平台。有效解决目前的首都讲座信息传播途局限、封闭、分散，缺乏统一的问题。
 
-![ ](http://ishanshan.zoomquiet.top/share/1jzkpost.jpg?imageView2/2/w/300)
+![ ](https://ishanshan.zoomquiet.top/share/1jzkpost.jpg?imageView2/2/w/300)
 
 对这个项目一见钟情，或许因为基因相似：
 
@@ -69,7 +69,7 @@ description: <blockquote class="blockquote-center">因为习惯，所以不觉�
 
 当然也可能是讲演这个项目的漂亮学姐韵味十足，令我下意识地觉得这个项目最有意思 XD
 
-![ ](http://ishanshan.zoomquiet.top/share/1zaizai.jpg?imageView2/2/w/500)
+![ ](https://ishanshan.zoomquiet.top/share/1zaizai.jpg?imageView2/2/w/500)
 <center>(没穿正装的就是漂亮学姐仔仔）</center>
 
 <br>
@@ -82,7 +82,7 @@ description: <blockquote class="blockquote-center">因为习惯，所以不觉�
 
 进入讲座控后的第一件大事儿，是筹备 2011 年 10 月 30 日的讲座控「[网络时代的开放教育](http://page.renren.com/699127446/note/772574884)」 年度沙龙。
 
-![ ](http://ishanshan.zoomquiet.top/share/1moocsalonpost.jpg?imageView2/2/w/250)
+![ ](https://ishanshan.zoomquiet.top/share/1moocsalonpost.jpg?imageView2/2/w/250)
 
 <center>（本次沙龙海报）</center>
 
@@ -94,7 +94,7 @@ description: <blockquote class="blockquote-center">因为习惯，所以不觉�
 
 年会在 3W 咖啡，当时还只是海淀区立方庭大厦的小店，但已有不少人在此举办互联网相关的沙龙、聚会。刚到北京，初出茅庐的我，头次感受到了互联网创业的气息，并接触了黑苹果、TA Project、教育大发现社区等一系列让人兴奋项目的小伙伴。从此登上开放教育领域的贼船，欣喜地尝试和了解各类资源，并在项目创始人、当时林大大四在读学长 [@李珣](http://weibo.com/xun7?topnav=1&wvr=6&topsug=1&is_all=1) 的影响下，接触了这个圈子内很多有意思的人。
 
-![ ](http://ishanshan.zoomquiet.top/share/1moocsalon.jpg?imageView2/2/w/700)
+![ ](https://ishanshan.zoomquiet.top/share/1moocsalon.jpg?imageView2/2/w/700)
 <center>（第一排右数第二位傻不愣登的就是我……简直不忍直视0.0）</center>
 <br>
 
@@ -129,7 +129,7 @@ description: <blockquote class="blockquote-center">因为习惯，所以不觉�
 
 得益于这样高质量的朋友圈，我一直及时知晓并参加很多有意思的青年活动，加上脸皮不薄主动出击，在活动中又勾搭到了很多 inspred 的青年，回去加他们好友，他们又带来很多优质信息。
 
-![ ](http://ishanshan.zoomquiet.top/share/1jzknext.jpg?imageView2/2/w/500)
+![ ](https://ishanshan.zoomquiet.top/share/1jzknext.jpg?imageView2/2/w/500)
 <center>（讲座控 2012 年年会幻灯）</center>
 <br>
 彼时正如青年志创始人 @张安定 2011 年 在 TEDxBLU 演讲「[我们是青年](http://www.tudou.com/programs/view/0SnAeEmJqjs/)」 时所说，当下正值青年文化氛围兴起。

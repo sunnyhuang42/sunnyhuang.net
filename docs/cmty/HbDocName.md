@@ -157,10 +157,10 @@ description: <p>文件命名看似简单，但其实体现<strong>你对你的�
 
 - [Home · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki) 右侧 pages ：
 
-	![sampledocname.jpeg](http://ishanshan.zoomquiet.top/share/sampledocname.jpeg)
+	![sampledocname.jpeg](https://ishanshan.zoomquiet.top/share/sampledocname.jpeg)
 - [CollaborationGuide4Shaper/CONTENT at master · ishanshan/CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper/tree/master/CONTENT) 所含文件：
 
-	![sampledocname2.jpeg](http://ishanshan.zoomquiet.top/share/sampledocname2.jpeg)
+	![sampledocname2.jpeg](https://ishanshan.zoomquiet.top/share/sampledocname2.jpeg)
 - [HbCollaborateWikiandCode · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/HbCollaborateWikiandCode) 所举案例：
 
 		HbCollaborate.md                  InfoShow.md                       LogMeeting171226PrepareforShow.md
@@ -184,7 +184,7 @@ description: <p>文件命名看似简单，但其实体现<strong>你对你的�
 
 读者留言：
 
-![blogcomment_hbdocname.png](http://ishanshan.zoomquiet.top/share/blogcomment_hbdocname.png)
+![blogcomment_hbdocname.png](https://ishanshan.zoomquiet.top/share/blogcomment_hbdocname.png)
 
 ^截图于 210525
 

@@ -11,7 +11,7 @@ description: <p>今天收到 输出实验室 伙伴分享的建议和材料，�
 
 今天输出实验室例会后，@章鱼狗 分享了以下参会感触：
 
-![fb_fo_od_hope.png](http://ishanshan.zoomquiet.top/share/fb_fo_od_hope.png  ':size=100')
+![fb_fo_od_hope.png](https://ishanshan.zoomquiet.top/share/fb_fo_od_hope.png#width=100)
 
 
 这激发了我对不少思考，回复如下。分享出来供有需要的伙伴参考，在自组织模式下更好地实现自己的需求或期待。

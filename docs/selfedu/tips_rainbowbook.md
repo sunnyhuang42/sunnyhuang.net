@@ -32,7 +32,7 @@ description: <p>自从在朋友圈推荐过「人生彩虹本」后，陆续有�
 
 两三年前我就在阳志平先生的演讲里听闻这个内容，但当时没能理解这么划分有什么好处（甚至还觉得这是吃饱了撑的 😂 惭愧）。直到今年春节，借助融合上述理论的实体工具「人生彩虹本」开始梳理人生规划时，才体会这模型妙在哪里。
 
-![lifecycle.png](http://ishanshan.zoomquiet.top/share/lifecycle.png?imageView2/2/w/500)
+![lifecycle.png](https://ishanshan.zoomquiet.top/share/lifecycle.png?imageView2/2/w/500)
 <center> 人生周期表格 </center>
 
 <br>
@@ -55,7 +55,7 @@ description: <p>自从在朋友圈推荐过「人生彩虹本」后，陆续有�
 比如之前我一般是这么思考的：「这几个月，我希望集中突破 AA 方面」，然后就把精力都放在 AA 方面，不自知地忽略了其它。现在的思考方式变为：在 AA BB CC DD 等方面，接下来几个月，分别希望采取什么节奏、如何协调发展。
 
 
-![infopersonalkaleidoscope.gif](http://ishanshan.zoomquiet.top/share/infopersonalkaleidoscope.gif)
+![infopersonalkaleidoscope.gif](https://ishanshan.zoomquiet.top/share/infopersonalkaleidoscope.gif)
 <center> personal kaleidoscope strategy </center>
 
 ## 3. 心流统计
@@ -84,7 +84,7 @@ description: <p>自从在朋友圈推荐过「人生彩虹本」后，陆续有�
 
 ## 关于「人生日课」模块的使用
 
-![rainbowbook.jpg](http://ishanshan.zoomquiet.top/share/rainbowbook.jpg?imageslim?imageView2/2/w/600)
+![rainbowbook.jpg](https://ishanshan.zoomquiet.top/share/rainbowbook.jpg?imageslim?imageView2/2/w/600)
 <center>「人生日课」页面</center>
 
 1. 关于写「人生日课」的时间：

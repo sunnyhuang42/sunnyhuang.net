@@ -7,7 +7,7 @@ description: <p>人生不如意十之八九，如何应对这些挑战是个关�
 
 如果想减少消极情绪，根据 [情绪ABC理论（ABC theory of emotion）](https://wiki.mbalib.com/wiki/%E6%83%85%E7%BB%AAABC%E7%90%86%E8%AE%BA)，在面对触发事件时，选用积极想法或信念（belief）是关键。
 
-![abctheory.png](http://ishanshan.zoomquiet.top/clipping/abctheory.png )
+![abctheory.png](https://ishanshan.zoomquiet.top/clipping/abctheory.png )
 
 > 那从先前的负面想法切换为更积极的想法，如何更易靠自己完成？
 

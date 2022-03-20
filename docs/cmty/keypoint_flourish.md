@@ -39,7 +39,7 @@ description: <p>前段时间在梳理我想过怎样的生活、如何实现，�
 
     3. 从社会网络的角度来说，信任很容易带来社会资本（social capital）增长，这会使自己更易获得帮助支持、实现目标。且社会资本是幂率分布（Power-law distribution）而非正态分布（Normal distribution），能和别人拉开量级差距；又具无标度性，即无论尺度大小都遵循同样的规律——二八原则；还遵循马太效应（Matthew effect），强者愈强，弱者愈弱。也就是说，信任积累越多，优势越大，且是不成比例地放大；越不积累，劣势也会拉大，且不成比例地拉大。
 
-    ![bell-curve-power-law-distributions.png](http://ishanshan.zoomquiet.top/clipping/bell-curve-power-law-distributions.png?imageView2/2/w/400)
+    ![bell-curve-power-law-distributions.png](https://ishanshan.zoomquiet.top/clipping/bell-curve-power-law-distributions.png?imageView2/2/w/400)
 
 3. 「信任」，是商业文明演进的两大基石之一，还会带来另一大基石「信息」的产生和流动，进一步降低交易门槛。且在结构性红利过后，商业竞争会过渡为比拼效率，最终会落到比拼品牌，即用户对品牌的信任。总之，**如果想积累财富，少不了积累自己的声誉、和他人建立信任**。
 

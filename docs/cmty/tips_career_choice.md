@@ -20,7 +20,7 @@ description: <p>当你手里已经有一些选项，拿不准应该如何决策�
 
 - 要回答好以上问题，离不开对于自己“想做、可做、能做”（见下图）事情的高质量分析——分析研究自己想去哪儿（想做-使命/愿景，可做-大势/规律），现状是怎样的（能做-绝对优势/相对优势），然后思索投入产出比最高的切入点。
 
-![](http://ishanshan.zoomquiet.top/share/goal_strategy1.png  ':size=350' )
+![](https://ishanshan.zoomquiet.top/share/goal_strategy1.png#width=350)
 
 - 如果一开始只打算在一家公司干一年，那趁早别去，会让自己职业生涯很吃亏
     - 因为如果一开始就没打算久留，那遇到挫折会很容易放弃，难以做出成绩

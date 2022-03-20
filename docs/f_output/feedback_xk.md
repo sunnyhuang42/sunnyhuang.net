@@ -2,7 +2,7 @@
 title: 关于输出实验室玩法的讨论@xk_210729
 date: 2021-07-29
 updated: 
-description: <p>我在朋友圈分享了<a href="http://ishanshan.mikecrm.com/TJoQZCg" target="_blank" rel="noopener">输出实验室 M8 报名表</a>，收到几年未联系 xiaokai 老师留言鼓励，便追问了一下具体觉得不错在哪里，以便知道可以继续保持什么。</p><p><img src="http://ishanshan.zoomquiet.top/share/fb_xk0.png" data-origin="http://ishanshan.zoomquiet.top/share/fb_xk0.png" alt="fb_xk3.png" width="400" class="medium-zoom-image"></p><p>没想到一小时后就收到 Xiaokai 老师小窗发来详细反馈，由此展开了一段高质量沟通，非常惊喜。</p><p>征得他同意后，我把关于玩法讨论的内容公开出来。因为感觉他提的几个问题都很好，我目前探索到的解法很可能还不是最合适的。而公开给更多人，有利于更快收到反馈、发现风险并迭代完善。</p><p>如果你有任何疑问建议，欢迎随时告诉我🤗</p>
+description: <p>我在朋友圈分享了<a href="http://ishanshan.mikecrm.com/TJoQZCg" target="_blank" rel="noopener">输出实验室 M8 报名表</a>，收到几年未联系 xiaokai 老师留言鼓励，便追问了一下具体觉得不错在哪里，以便知道可以继续保持什么。</p><p><img src="https://ishanshan.zoomquiet.top/share/fb_xk0.png" data-origin="https://ishanshan.zoomquiet.top/share/fb_xk0.png" alt="fb_xk3.png" width="400" class="medium-zoom-image"></p><p>没想到一小时后就收到 Xiaokai 老师小窗发来详细反馈，由此展开了一段高质量沟通，非常惊喜。</p><p>征得他同意后，我把关于玩法讨论的内容公开出来。因为感觉他提的几个问题都很好，我目前探索到的解法很可能还不是最合适的。而公开给更多人，有利于更快收到反馈、发现风险并迭代完善。</p><p>如果你有任何疑问建议，欢迎随时告诉我🤗</p>
 ---
 
 
@@ -10,7 +10,7 @@ description: <p>我在朋友圈分享了<a href="http://ishanshan.mikecrm.com/TJ
 
 210729 我在朋友圈分享了[输出实验室 M8 报名表](http://ishanshan.mikecrm.com/TJoQZCg)，收到几年未联系 xiaokai 老师留言鼓励，便追问了一下具体觉得不错在哪里，以便知道可以继续保持什么。
 
-![fb_xk3.png](http://ishanshan.zoomquiet.top/share/fb_xk0.png ':size=400')
+![fb_xk3.png](https://ishanshan.zoomquiet.top/share/fb_xk0.png#width=400)
 
 
 
@@ -79,7 +79,7 @@ wow ，如此细致且迅速，让我一下更清楚了这个项目值得继续�
 其实最开始发起，是为了解决我自己的问题（见下图，内容来自 [输出实验室 玩法介绍](/f_output/?id=why)）。
 
 
-![fb_xk0.png](http://ishanshan.zoomquiet.top/share/fb_xk1.png ':size=100')
+![fb_xk0.png](https://ishanshan.zoomquiet.top/share/fb_xk1.png#width=100)
 （移动端查看可能模糊，如想查看，可点击相应的原文链接）
 
 尝试一周后便发觉，也在满足很多人的需求，值得进一步探索如何服务更多人。
@@ -109,7 +109,7 @@ wow ，如此细致且迅速，让我一下更清楚了这个项目值得继续�
 
 对的，超级幸福，而且目前下述增强回路的信号在我身上全都出现了，基本每天都被惊喜和感动包围：D
 
-![fb_xk1.png](http://ishanshan.zoomquiet.top/share/fb_xk2.png ':size=600')
+![fb_xk1.png](https://ishanshan.zoomquiet.top/share/fb_xk2.png#width=600)
 
 
 PS.
@@ -117,7 +117,7 @@ PS.
 1. 截图来自[如何高投入产出比地迈向蓬勃人生](https://docs.qq.com/flowchart/DVW5VZU1YWlFMWGdp)
 2. 为什么认为“增进信任”，是通往蓬勃人生投入产出比最高的发力点？可见下图（来自 [闪闪面临的挑战&解法](https://mzm628l8fj.feishu.cn/docs/doccnljPAh9xJll6wM7hLBjkhof#jskeIc)) ）
 
-![fb_xk3.png](http://ishanshan.zoomquiet.top/share/fb_xk3.png ':size=100')
+![fb_xk3.png](https://ishanshan.zoomquiet.top/share/fb_xk3.png#width=100)
 
 
 
@@ -133,7 +133,7 @@ PS.
 例会的目的，不是为了讨论，是为了满足议题提出者的需求，支持他实现目标。例会适合处理的需求/议题如下（截图来自 [常见疑问解答/FAQ](/f_output/faq?id=welcome_need)）：
 
 
-![fb_xk4.png](http://ishanshan.zoomquiet.top/share/fb_xk4.png ':size=100')
+![fb_xk4.png](https://ishanshan.zoomquiet.top/share/fb_xk4.png#width=100)
 
 
 
@@ -190,7 +190,7 @@ PS.
 
 BTW，目前对于没有目标的伙伴，先简单提供的是这样的指引（截图来自 [输出实验室 玩法介绍](/f_output/misunderstanding/?id=misu_nogoal )）：
 
-![fb_xk5.png](http://ishanshan.zoomquiet.top/share/fb_xk5.png ':size=100')
+![fb_xk5.png](https://ishanshan.zoomquiet.top/share/fb_xk5.png#width=100)
 
 
 

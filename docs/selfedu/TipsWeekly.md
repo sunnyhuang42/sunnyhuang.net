@@ -28,7 +28,7 @@ description: <p>和团队同事沟通月度工作，提到这几个月反复提�
 那周报怎么写？
 
 加入小年糕后，我写周报遵循公司模板。那是一套结合 OKR目标管理方法[^2] 和 联想复盘模板[^3] 的反思框架，助每周 PDCA 循环[^5]有效落地：
-![tep_weekly1.png](http://ishanshan.zoomquiet.top/share/tep_weekly2.png)
+![tep_weekly1.png](https://ishanshan.zoomquiet.top/share/tep_weekly2.png)
 
 写什么已明确，那如何写得更省力？各人习惯不一，我也在不断摸索迭代，仅供参考：
 
@@ -44,7 +44,7 @@ description: <p>和团队同事沟通月度工作，提到这几个月反复提�
 
 具体写周报时，也直接在 WorkFlowy 中起草，那个“公司周报模板”的节点便是。基本完成后，便整理进 MarkDown 编辑器，用 2 分钟排版，以便贴进公司周报提交平台时，整洁易读。
 
-![tep_weeklydemo.png](http://ishanshan.zoomquiet.top/share/tep_weeklydemo2.png)
+![tep_weeklydemo.png](https://ishanshan.zoomquiet.top/share/tep_weeklydemo2.png)
 <center>▲ 在 MarkDown 编辑器里调整文字格式</center>
 
 <br>
@@ -56,7 +56,7 @@ description: <p>和团队同事沟通月度工作，提到这几个月反复提�
 
 况且这样写周报，其实不只是每周 PDCA，它还折射成长速度。透过一份份周报，你会发觉周围同学思考越来越有深度，人越来越有温度，SML[^4] 也在变强，见贤思齐油然而生。眼瞅大家都在力争上游，更令人不甘落后。
 
-![info_weekly_learning.jpg](http://ishanshan.zoomquiet.top/share/info_weekly_learning.jpg?imageView2/2/w/280)
+![info_weekly_learning.jpg](https://ishanshan.zoomquiet.top/share/info_weekly_learning.jpg?imageView2/2/w/280)
 <center>▲ 某次忍不住在全员群分享周报给我的触动</center>
 
 <br>
@@ -80,7 +80,7 @@ description: <p>和团队同事沟通月度工作，提到这几个月反复提�
 
 读者留言：
 
-![blogcomment_weekly.png](http://ishanshan.zoomquiet.top/share/blogcomment_weekly.png)
+![blogcomment_weekly.png](https://ishanshan.zoomquiet.top/share/blogcomment_weekly.png)
 
 ^截图于 210525
 
@@ -112,7 +112,7 @@ description: <p>和团队同事沟通月度工作，提到这几个月反复提�
     第一，把日报持续更新在一个 MarkDown 文档中，并借助 GitHub 托管这个 MarkDown 文档，追踪历史版本。这样一来，周末我只需打开 GitHub 客户端切换 commit 记录，就可以方便地浏览日报，摘取周报所需内容：
     <br>
 
-    ![infoweeklytep1.png](http://ishanshan.zoomquiet.top/share/infoweeklytep1.png?imageView2/2/w/350)
+    ![infoweeklytep1.png](https://ishanshan.zoomquiet.top/share/infoweeklytep1.png?imageView2/2/w/350)
     <br>
     第二，在 WorkFlowy 中定制周报模板。周报结构固定，把常设节点在 WorkFlowy 中固化下来，每周在模板上更新。还能标记用时类别，分析过去一周的时间分配是否吻合个人在团队中的角色期待。详见我在 [卡片助力输入输出，工具我选 WorkFlowy ](selfedu/HbOutputWorkFlowy) 中的示例。
     <br>

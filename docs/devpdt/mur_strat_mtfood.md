@@ -12,7 +12,7 @@ description: <p>收拾食材时瞥见购物小票，忽然更理解为什么「�
 
 > 亲爱的会员，特别开心为您的第 40 次订单服务~请放心地把您的餐桌交给我们，下次见！
 
-![ticket_meituanfood.jpg](http://ishanshan.zoomquiet.top/clipping/ticket_meituanfood.jpg?imageView2/2/w/500  ':size=200')
+![ticket_meituanfood.jpg](https://ishanshan.zoomquiet.top/clipping/ticket_meituanfood.jpg?imageView2/2/w/500#width=200)
 
 
 
@@ -56,7 +56,7 @@ description: <p>收拾食材时瞥见购物小票，忽然更理解为什么「�
 
 如果你想体验「美团买菜」，可以扫下述二维码，领取新人 108 元优惠券礼包：
 
-![qr_meituanfood.jpg](http://ishanshan.zoomquiet.top/clipping/qr_meituanfood.jpg?imageView2/2/w/300  ':size=150')
+![qr_meituanfood.jpg](https://ishanshan.zoomquiet.top/clipping/qr_meituanfood.jpg?imageView2/2/w/300#width=150)
 
 
 

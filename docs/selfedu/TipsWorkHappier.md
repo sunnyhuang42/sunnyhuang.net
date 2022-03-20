@@ -51,7 +51,7 @@ description: <blockquote><p>你会把工作的事情和非工作的事情绝对�
 
 读者留言：
 
-![blogcomment_workhappier.png](http://ishanshan.zoomquiet.top/share/blogcomment_workhappier.png)
+![blogcomment_workhappier.png](https://ishanshan.zoomquiet.top/share/blogcomment_workhappier.png)
 
 ^截图于 210525
 

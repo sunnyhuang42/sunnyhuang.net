@@ -24,7 +24,7 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
 
 > Flourishing is a state of successful growth and happiness. You feel very satisfied with life and have a lot of emotional, social and mental well-being.
 
-![flourishing_3level.png](http://ishanshan.zoomquiet.top/clipping/flourishing_3level.png?imageslim)
+![flourishing_3level.png](https://ishanshan.zoomquiet.top/clipping/flourishing_3level.png?imageslim)
 
 具体评估方式，业界学者各有不同，比如：
 
@@ -36,7 +36,7 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
 
 马丁·塞利格曼在《持续的幸福》一书中提到，全面的蓬勃人生（well-being或flourishing）有五个支柱——积极情绪（Positive emotions）、投入（Engagement）、人际关系（Relationships）、意义（Meaning & purpose）和成就（Accomplishment） ，而这些支柱的基石，则是品格优势和美德。在蓬勃人生理论里，24个优势支撑着五个元素，该理论旨在帮助我们运用自身最强的优势获得更多的积极情绪、意义、成就，以及发展更好的社会关系。这些元素的关系塞利格曼用下图示意：
 
-![flourishing_permasv.png](http://ishanshan.zoomquiet.top/clipping/flourishing_permasv.png  ':size=350')
+![flourishing_permasv.png](https://ishanshan.zoomquiet.top/clipping/flourishing_permasv.png#width=350)
 
 如果你想进一步了解蓬勃人生理论，可参考这门公开课：[The Science of Well-Being | Coursera](https://www.coursera.org/learn/the-science-of-well-being)。
 
@@ -52,7 +52,7 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
 
 这出自哈佛商业评论的经典文章[Success That Lasts](https://hbr.org/2004/02/success-that-lasts)[^1]，成功万花筒策略(The Kaleidoscope Strategy, Nash & Stevenson, 2004)核心要点见下图：
 
-![infopersonalkaleidoscope.gif](http://ishanshan.zoomquiet.top/share/infopersonalkaleidoscope.gif)
+![infopersonalkaleidoscope.gif](https://ishanshan.zoomquiet.top/share/infopersonalkaleidoscope.gif)
 
 简单来说，如果你希望持续成功，核心是维护这四要素的平衡，且是在社区（community）工作（work）家庭（family）自我（self）这几个维度上都平衡：
 
@@ -74,7 +74,7 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
     
     3. 在做选择时，尽量选那些能涉及更多格子，尤其能加强自己薄弱格子的机会
     
-    ![flourishing_pks.png](http://ishanshan.zoomquiet.top/share/flourishing_pks.png)
+    ![flourishing_pks.png](https://ishanshan.zoomquiet.top/share/flourishing_pks.png)
 
 2. 笑来长期研究多年践行后，基于成功万花筒策略演化出了自己的策略，这个模型简洁很多：
     - 只关注三个要素：
@@ -82,7 +82,7 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
         - 构建长期稳定的关系
         - 帮助他人成长
 
-     ![flourishing_pks_xl.jpg](http://ishanshan.zoomquiet.top/clipping/flourishing_pks_xl.jpg  ':size=400')
+     ![flourishing_pks_xl.jpg](https://ishanshan.zoomquiet.top/clipping/flourishing_pks_xl.jpg#width=400)
 
     - 具体解说和实践分享，见这节[试听课](https://xuexi-courses.firesbox.com/?utm_source=share#/7000103731/courses/3104) 42 分钟开始的部分
     
@@ -104,8 +104,8 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
 
 《[思维改变生活：积极而实用的认知行为疗法 (Change Your Thinking-Positive and practical ways to overcome stress negative emotions and self-defeating behavior using CBT)](https://book.douban.com/subject/2984241/)》一书中，从工作/日常、健康、精神生活、休闲、社会支持五个维度，给出了评估量表，见下图。也挺适合定期自检、调整行动，以便人生更幸福。
 
-![flourishing_cbt1.jpeg](http://ishanshan.zoomquiet.top/share/flourishing_cbt1.jpeg?imageslim  ':size=200')
-![flourishing_cbt2.jpeg](http://ishanshan.zoomquiet.top/share/flourishing_cbt2.jpeg?imageslim  ':size=200')
+![flourishing_cbt1.jpeg](https://ishanshan.zoomquiet.top/share/flourishing_cbt1.jpeg?imageslim#width=200)
+![flourishing_cbt2.jpeg](https://ishanshan.zoomquiet.top/share/flourishing_cbt2.jpeg?imageslim#width=200)
 
 电子版见[这里](https://mzm628l8fj.feishu.cn/sheets/shtcnieI1Xpmtd1ld8grScWAjyU)。
 
@@ -140,7 +140,7 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
 
 ## footnotes
 
-[^1]:如果访问不了上述页面，可以查看[这个 PDF](http://ishanshan.zoomquiet.top/clipping/nash_stevenson_2004_success%20that%20lasts%2C%20the%20kaleidoscope%20strategy.pdf) 
+[^1]:如果访问不了上述页面，可以查看[这个 PDF](https://ishanshan.zoomquiet.top/clipping/nash_stevenson_2004_success%20that%20lasts%2C%20the%20kaleidoscope%20strategy.pdf) 
 
 
 ## CHANGELOG 

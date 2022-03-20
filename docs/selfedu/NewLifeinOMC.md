@@ -12,7 +12,7 @@ description: <p>彷徨多发的毕业季，没经历千军万马的校招，我�
 思绪万千辗转反侧。
 ```
 
-![se150602.jpg](http://ishanshan.zoomquiet.top/share/se150602.jpg?imageMogr2/size-limit/100k!)
+![se150602.jpg](https://ishanshan.zoomquiet.top/share/se150602.jpg?imageMogr2/size-limit/100k!)
 <center>2013 年秋摄于奥林匹克森林公园</center>
 
 
@@ -96,7 +96,7 @@ description: <p>彷徨多发的毕业季，没经历千军万马的校招，我�
 
 读者留言：
 
-![blogcomment_1stdayofwork.png](http://ishanshan.zoomquiet.top/share/blogcomment_1stdayofwork.png)
+![blogcomment_1stdayofwork.png](https://ishanshan.zoomquiet.top/share/blogcomment_1stdayofwork.png)
 
 ^截图于 210525
 

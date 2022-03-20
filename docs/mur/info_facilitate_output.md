@@ -116,8 +116,8 @@ description:
 
 每期结营时的反馈（采集的问题见[反馈采集表](http://ishanshan.mikecrm.com/1xLukDg)）：
 
-- M5：[part1](http://ishanshan.zoomquiet.top/share/fb_fom5-1.png)、[part2](http://ishanshan.zoomquiet.top/share/fb_fom5-2.png)
-- M4：http://ishanshan.zoomquiet.top/share/fb_fom4.jpg
+- M5：[part1](https://ishanshan.zoomquiet.top/share/fb_fom5-1.png)、[part2](https://ishanshan.zoomquiet.top/share/fb_fom5-2.png)
+- M4：https://ishanshan.zoomquiet.top/share/fb_fom4.jpg
 
 # 如何报名？
 
@@ -288,7 +288,7 @@ A：目前我对具体是一对多还是多对多没有预期，**只期待是�
 
 这套玩法能日渐成型，离不开首批参与实验的伙伴（排名不分先后）：
 
-@藤小曼 @柳白猿 [@李明](https://sunoonlee.com/) [@竹间漪](https://weibo.com/u/1219497082) [@4+](http://ishanshan.zoomquiet.top/clipping/qr_wechat4%2B.png) [@猛犸](https://www.douban.com/people/mammoth2008/) @辰辰 @笑笑 @济州
+@藤小曼 @柳白猿 [@李明](https://sunoonlee.com/) [@竹间漪](https://weibo.com/u/1219497082) [@4+](https://ishanshan.zoomquiet.top/clipping/qr_wechat4%2B.png) [@猛犸](https://www.douban.com/people/mammoth2008/) @辰辰 @笑笑 @济州
 
 超级感谢你们愿意帮我，坦诚布公交流碰撞，积极主动出谋划策、实验迭代，以及毫不吝啬的正反馈，给了我很大的信心和能力继续探索尝试😋
 

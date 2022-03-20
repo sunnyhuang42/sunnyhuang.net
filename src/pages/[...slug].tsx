@@ -63,12 +63,9 @@ type Params = {
 
 export const getStaticProps = async ({ params }: Params) => {
   const slug = `/${params?.slug?.join('/')}`;
-  const {
-    date,
-    updated,
-    readingTime: { minutes, words },
-    ...rest
-  }: Post = allPosts.find((post) => post.slug === slug) as Post;
+  const { date, updated, words, ...rest }: Post = allPosts.find(
+    (post) => post.slug === slug,
+  ) as Post;
 
   const hasUpdate = updated && date !== updated;
 
@@ -78,7 +75,7 @@ export const getStaticProps = async ({ params }: Params) => {
         date: `${hasUpdate ? `${updated.slice(0, 10)} 更新 • ` : ''}${
           date ? `${date?.slice(0, 10)} 发布` : ''
         }`,
-        readingTips: `${words} 字 • ${Math.ceil(minutes)} 分钟`,
+        readingTips: `${words} 字 • ${Math.ceil(words / 400)} 分钟`,
         ...rest,
       },
     },

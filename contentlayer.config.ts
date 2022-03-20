@@ -28,9 +28,9 @@ const Post = defineDocumentType(() => ({
       type: 'string',
       resolve: (post) => post._raw.flattenedPath,
     },
-    readingTime: {
-      type: 'json',
-      resolve: (post) => readingTime(post.body.raw),
+    words: {
+      type: 'number',
+      resolve: (post) => readingTime(post.body.raw).words,
     },
     headings: {
       type: 'json',

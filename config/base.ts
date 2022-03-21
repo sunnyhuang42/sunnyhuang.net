@@ -6,9 +6,9 @@ export const base: Base = {
   url: 'https://sunnyhuang.net',
   logo: 'https://ishanshan.zoomquiet.top/share/ishanshan1409-2.png?imageView2/2/w/400',
   algolia: {
-    appId: 'KNPXZI5B0M',
-    apiKey: '5fc87cef58bb80203d2207578309fab6',
-    indexName: 'tailwindcss',
+    appId: 'X8O4HFU9FV',
+    apiKey: 'b72b2cc618f50c44521d1ab1e773f3e7',
+    indexName: 'sunnyblog',
   },
   socialLinks: [
     { icon: 'github', link: 'https://github.com/ishanshan' },

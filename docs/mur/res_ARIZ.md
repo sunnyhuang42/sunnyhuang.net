@@ -10,9 +10,9 @@ description: undefined
 这两天终于比较系统全面地了解。
 
 
-![ariz1.jpeg](https://ishanshan.zoomquiet.top/share/ariz1.jpeg#width=220)
-![ariz3.jpeg](https://ishanshan.zoomquiet.top/share/ariz3.jpeg#width=220)
-![ariz2.jpeg](https://ishanshan.zoomquiet.top/share/ariz2.jpeg#width=220)
+![ariz1.jpeg](https://ishanshan.zoomquiet.top/share/ariz1.jpeg ':size=220')
+![ariz3.jpeg](https://ishanshan.zoomquiet.top/share/ariz3.jpeg ':size=220')
+![ariz2.jpeg](https://ishanshan.zoomquiet.top/share/ariz2.jpeg ':size=220')
 
 
 <br> 
@@ -57,7 +57,7 @@ PS. 那会儿想到用 STC 算子来辅助决策，源自当时面试官也是�
 
 2. 下图是85c 的概要，截图来源见 [solving_the_problem_of_ariz_using_ariz.pdf](https://ishanshan.zoomquiet.top/clipping/solving_the_problem_of_ariz_using_ariz.pdf)  
 
-    ![ariz_85c.png](https://ishanshan.zoomquiet.top/share/ariz_85c.png#width=100)
+    ![ariz_85c.png](https://ishanshan.zoomquiet.top/share/ariz_85c.png ':size=100')
 
 
 
@@ -65,7 +65,7 @@ PS. 那会儿想到用 STC 算子来辅助决策，源自当时面试官也是�
 
 4. 下图是《Innovation on Demand》的作者 Victor Fey  ，在 85c 上迭代的版本。截图来源见 [Algorithm_for_inventive_problem_solving_(ARIZ)85c+.pdf](https://ishanshan.zoomquiet.top/clipping/algorithm_for_inventive_problem_solving_%28ariz%2985c%2B.pdf) 
 
-    ![ariz_85c+.png](https://ishanshan.zoomquiet.top/share/ariz_85c%2B.png#width=100)
+    ![ariz_85c+.png](https://ishanshan.zoomquiet.top/share/ariz_85c%2B.png ':size=100')
     
     
 

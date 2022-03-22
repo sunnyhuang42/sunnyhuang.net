@@ -33,11 +33,11 @@ description: <p>如何提升企业绩效？这两周研究<a href="http://www.ya
 实际上，这杨三角三支柱，是支撑组织能力的工具、方法。杨国安书中，实际以杨三角模型去分析组织能力的图示，能更好地体现这个要点——三角形中间，写的是具体所需的组织能力（可以理解为组织所需的特性），不同的组织能力匹配不同的三支柱（图二、图三），示意这样的三支柱支撑起中间的组织特性。
 
 
-![](https://ishanshan.zoomquiet.top/clipping/od-yga1#width=450)
+![](https://ishanshan.zoomquiet.top/clipping/od-yga1 ':size=450')
 
 ^图二：支撑“成本、质量、速度”的三支柱
  
-![](https://ishanshan.zoomquiet.top/clipping/od-yga2#width=450) 
+![](https://ishanshan.zoomquiet.top/clipping/od-yga2 ':size=450') 
 
 ^图三：支撑“用户导向、创新、敏捷”的三支柱
 

@@ -12,7 +12,7 @@ description:
 
 
 
-## 「输出实验室」是干嘛的？ {#what}
+## 「输出实验室」是干嘛的？ :id=what
 
 
 简单来说，就是一群希望进入幸福最高境界——人生丰盈蓬勃（flourishing）的伙伴，**围绕个人目标**，定期线上交流，持续促进彼此聚焦要事、输出价值，更快更稳地迈向蓬勃人生。
@@ -21,7 +21,7 @@ description:
 
 具体可参考下述内容：
 
-### 使命（purpose）：持续促进彼此聚焦要事、输出价值 {#purpose}
+### 使命（purpose）：持续促进彼此聚焦要事、输出价值 :id=purpose
 
 这个小社区为什么存在，通过创造什么样的独特价值而存在？
 
@@ -48,7 +48,7 @@ description:
 
 这些也是评估某条玩法是否合适的准绳——当我们拿不准如何决策时，就回看这几个关键词，看看能否满足。
 
-### 愿景（vision）：助力彼此更快更稳地迈向蓬勃人生 {#vision}
+### 愿景（vision）：助力彼此更快更稳地迈向蓬勃人生 :id=vision
 
 我目前最喜欢的陪伴型学习产品「[暂停实验室](selfedu/ebp_happiness)」，叫我产生了一种奇妙而特别的感受：越忙越想参加他家的行动营——每天给自己 20-30 分钟高质量的休息时光，以便更从容地应对人生挑战。
 
@@ -60,7 +60,7 @@ description:
 ![fo_pattern2.png](https://ishanshan.zoomquiet.top/share/fo_pattern2.png)
 ![fo_pattern3.png](https://ishanshan.zoomquiet.top/share/fo_pattern3.png)
 
-### 期待遇到这样的你 {#target_user}
+### 期待遇到这样的你 :id=target_user
 
 目前输出实验室还处于探索期，[需要的支持](f_output/helpwanted)和期待的伙伴特质，会随着实验需求有变化。
 
@@ -107,7 +107,7 @@ description:
 
 
 
-### 你的收获 {#value}
+### 你的收获 :id=value
 
 这里不承诺任何收获，只提供资源：
 
@@ -119,7 +119,7 @@ description:
 
 如果你想了解往期参与者收获，可参见[用户反馈/往期复盘](f_output/feedback)。
 
-## 为什么发起「输出实验室」？ {#why}
+## 为什么发起「输出实验室」？ :id=why
 
 
 3 月底发起这个输出实验，我最主要的初衷是找到一个机制，**促进自己持续输出**。因为我目前在尝试职业转型，探索把自己一份时间卖出多次的可能。接下来前进路上下一个最大风险，在于「能否持续输出」。毕竟 **有效实验频次=迭代速度=学习速度=找到满意解的概率** 。
@@ -144,7 +144,7 @@ description:
 
 如果你想更便捷地了解关于输出实验室的由来、发生的故事和未来，可参考这期播客：[闪闪 | 用理性和热忱，实验如何奔向蓬勃人生 -  小宇宙](https://www.xiaoyuzhoufm.com/episode/61585ce0ae1d32c4f86c18c5?s=eyJ1IjogIjYwZTI4NWQ4ZTBmNWU3MjNiYjlmNDVlNiJ9)。
 
-## 具体怎么玩？ {#how}
+## 具体怎么玩？ :id=how
 
 ### 活动频率和时长：
 

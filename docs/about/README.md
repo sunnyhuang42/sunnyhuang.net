@@ -19,7 +19,7 @@ description:
 [闪闪 | 用理性和热忱，实验如何奔向蓬勃人生 -  小宇宙](https://www.xiaoyuzhoufm.com/episode/61585ce0ae1d32c4f86c18c5?s=eyJ1IjogIjYwZTI4NWQ4ZTBmNWU3MjNiYjlmNDVlNiJ9)
 
 
-### 葬礼想象 {#funeral}
+### 葬礼想象 :id=funeral
 
 [embed](_eb_funeral.md ':include')
 

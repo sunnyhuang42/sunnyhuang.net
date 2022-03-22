@@ -28,7 +28,7 @@ description: undefined
 
 **业务上**，结合「想做 可做 能做」，越来越明晰产品服务的切入点；产品组合和业务架构也越来越靠谱，感觉对整个业务体系的 CLV（Customer Lifetime Value，客户生命周期价值）[^2] 越来越有信心。
 
-![goal_strategy5.png](https://ishanshan.zoomquiet.top/clipping/goal_strategy5.png#width=350)
+![goal_strategy5.png](https://ishanshan.zoomquiet.top/clipping/goal_strategy5.png ':size=350')
 
 **能力上**，发觉自己在面临业务决策的岔路口，也越来越能分析诊断情况、迅速抓重点。比如更下意识地问自己：
 1. 这个反馈是在描述 problem 还是 solution ，背后的核心诉求是什么？=》关键是识别用户的具体困扰、核心诉求。采集需求后，再根据每个阶段或版本要解决的重点问题，来策划和验证解法
@@ -96,7 +96,7 @@ description: undefined
 
 首先，从《系统之美》一书给出的杠杆点清单来看，「改变系统目标」和「超越范式」，是改变系统投入产出比极高的杠杆点：
 
-![systemthinking.jpg](https://ishanshan.zoomquiet.top/clipping/systemthinking.jpg#width=400)
+![systemthinking.jpg](https://ishanshan.zoomquiet.top/clipping/systemthinking.jpg ':size=400')
 
 
 我实际体会也是如此——这大半年来，周围伙伴常反馈说我行动力很强、充满热忱，能有这样的状态，其实这很大程度得益于我去年遵循上述方法的关键决策做对了：离职后没有马上开启下一段职业生涯，而是先暂停一段时间，探索自己想去哪里、怎么去——这其实是在「改变系统目标」和「超越范式」。
@@ -182,14 +182,14 @@ description: undefined
 3. **5 次「以终为始 敏捷迭代」小组练习**：每半周碰头半小时，通过回顾进展，并快速迭代自己或小组伙伴的目标规划、复盘，练习以终为始思索杠杆点、策划 MVP[^4] 并敏捷迭代假设
 4. **月中复盘会、结营复盘会**：通过交流彼此阶段性复盘反思，让做得好的继续发扬、还没做好的更有效地迭代改进，持续迭代心智模式和行为模式
 
-![ft_patten1.png](https://ishanshan.zoomquiet.top/share/ft_patten1.png#width=400)
+![ft_patten1.png](https://ishanshan.zoomquiet.top/share/ft_patten1.png ':size=400')
 
 
 ### 日程安排：
 
 常规参与方式碰头日程见下表，其它参与方式则在这个基础上减少碰头次数：
 
-![ft_aganda.png](https://ishanshan.zoomquiet.top/share/ft_aganda.png#width=400)
+![ft_aganda.png](https://ishanshan.zoomquiet.top/share/ft_aganda.png ':size=400')
 
 （请忽略这朴实的图表样式 😂 ）
 
@@ -251,7 +251,7 @@ PS. 工作坊后如果想加入其它模式，在还有名额的情况下可半�
 
 
 
-### 报名入口 {#signup}
+### 报名入口 :id=signup
 
 上述 3 种模式的更多细节见下表对比（移动端可能无法预览，可点击[这里](https://faciloutput.feishu.cn/sheets/shtcnJwgTiIWO2Tfe7gedxRPbIe?sheet=IySOAP)直接查看）：
 

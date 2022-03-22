@@ -25,13 +25,13 @@ description: <blockquote><ul><li>我想去哪儿？</li><li>为什么？</li><li
 [理想生活](about/idealife)
 
 
-## 目前想推进的大方向  {#longterm}
+## 目前想推进的大方向  :id=longterm
 
 探索如何高投入产出比地迈向幸福最高境界——人生丰盈蓬勃（flourishing），过上[我的理想生活——「健康蓬勃 温暖从容」](about/idealife)，并助力更多有需要的伙伴，也省力地迈向他们心中的 flourishing life 。
 
 ### 具体来说
 
-#### 目标人群  {#targetuser}
+#### 目标人群  :id=targetuser
 
 
 1. **在职业转型、积累核心竞争力**（如产品策划、商业分析等），且**试错成本高**（如有年龄压力）
@@ -46,18 +46,18 @@ description: <blockquote><ul><li>我想去哪儿？</li><li>为什么？</li><li
 
 
 
-#### 提供的产品服务   {#solution}
+#### 提供的产品服务   :id=solution
 
 - 陪伴型训练营 / 课程 / 行动工具包 / 陪伴计划 / 一对一长程教练 / 单例咨询服务，以及由此衍生的同行者社区（Community of Practice）
 - 助用户【定期】认真思索人生关键问题，用系统思考、精益创业、目标管理等领域的精髓，以终为始思索接下来的杠杆点、敏捷迭代行动规划，聚焦要事减少浪费、增强心灵秩序感，更【省力】地实现人生愿景
 
 
 
-### 为什么想推进上述方向？ {#why}
+### 为什么想推进上述方向？ :id=why
 
 简单来说，这是我热情所在，且找到了大势所趋、未被满足且是我优势所及的用户需求，契合做战略选择“想做 可做 能做”的交集：
 
-![goal_strategy1.png](https://ishanshan.zoomquiet.top/share/goal_strategy1.png#width=400)
+![goal_strategy1.png](https://ishanshan.zoomquiet.top/share/goal_strategy1.png ':size=400')
 
 
 
@@ -69,14 +69,14 @@ description: <blockquote><ul><li>我想去哪儿？</li><li>为什么？</li><li
 
 
 
-## 中短期规划  {#shorterm}
+## 中短期规划  :id=shorterm
 
 移动端如果无法查看，可点击[这里](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=y4zfOl)看原文
 
 [embed website](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=y4zfOl ':include :type=iframe width=100% height=700px')
 
 
-## 附 {#ps}
+## 附 :id=ps
 
 ### 1. 上述大方向和三年规划是怎么梳理出来的
 
@@ -100,24 +100,24 @@ description: <blockquote><ul><li>我想去哪儿？</li><li>为什么？</li><li
 <summary> 2021 年 10 月的版本  </summary>
 
 
-### 想推进的大方向  {#longterm}
+### 想推进的大方向  :id=longterm
 探索如何高投入产出比地迈向幸福最高境界——人生丰盈蓬勃（flourishing），过上[我的理想生活——「健康蓬勃 温暖从容」](about/idealife)，并助力更多有需要的伙伴，也更快更稳地迈向他们心中的 flourishing life 。
 
 ### 具体来说
-#### 目标人群  {#targetuser}
+#### 目标人群  :id=targetuser
 - 希望有更清晰的人生目标、发展规划
 - 或希望更高效地达成目标，尤其定了好些目标但常没实现
 - 希望增强社会支持系统、人生更加丰盈蓬勃
 
 
 
-#### 提供的产品服务   {#solution}
+#### 提供的产品服务   :id=solution
 
 - 同行者社区（Community of Practice）+ 由此衍生的、面对不同需求深度的产品服务，比如 行动工具包 / 训练营 /  陪伴计划 / 一对一长程教练 / 单例咨询服务
 - 助力彼此拥有 梳理目标规划、高频深刻复盘 的稳定节律，和更强健的社会支持
 - 以便更高效地诊断识别遇到的关键问题、聚焦要事、输出价值，更快更稳地实现目标、奔向蓬勃人生。
 
-#### 期待实现的状态  {#vision}
+#### 期待实现的状态  :id=vision
 
 - **用户面对的人生挑战越复杂，越希望来到这个社区**，助自己保持稳定的节律，来思考 投入产出比最高 的发力点（OKR）、检视进展、加速觉察及解除障碍和风险，更快调整行动，促进自己持续聚焦要事、输出价值，更快更稳地迈向心中的蓬勃人生
 - 这变成类似 TEDx 的开放品牌，**用户可以借助工具包**
@@ -135,11 +135,11 @@ description: <blockquote><ul><li>我想去哪儿？</li><li>为什么？</li><li
 
 
 
-### 为什么想推进上述方向？ {#why}
+### 为什么想推进上述方向？ :id=why
 
 简单来说，这是我热情所在，且找到了大势所趋、未被满足且是我优势所及的用户需求，契合做战略选择“想做 可做 能做”的交集：
 
-![goal_strategy1.png](https://ishanshan.zoomquiet.top/share/goal_strategy1.png#width=400)
+![goal_strategy1.png](https://ishanshan.zoomquiet.top/share/goal_strategy1.png ':size=400')
 
 
 
@@ -184,7 +184,7 @@ description: <blockquote><ul><li>我想去哪儿？</li><li>为什么？</li><li
 ### 中短期目标规划
 
 
-#### 三年 {#3y}
+#### 三年 :id=3y
 
 1. 希望能在 3 年左右，建立起个人品牌。也就是如果想更快更稳地迈向心中的蓬勃人生（flourishing life） ，用户一般会推荐我，来参考我推荐的工具方法；并形成了良性运转的社区。
 2. 同时实现把自己一份时间卖出多次，达到每月非投资理财带来的睡后收入，至少稳定收支平衡（目前支出是 7k/月 左右，未来可能根据当时的状态上涨）。
@@ -205,7 +205,7 @@ PS. 为什么有上述期待？
     只是以被动收入来评估肯定不行，因为投资理财收益其实并不代表我能把自己一份时间卖出多次了，也不一定代表我在为用户创造价值。需要加上限定条件。所以就改成了“非投资理财”的睡后收入，希望每月非投资理财带来的睡后收入，至少稳定收支平衡。
 
 
-#### 十八个月 {#18m}
+#### 十八个月 :id=18m
 
 （具体目标待渐进明细）
 
@@ -229,7 +229,7 @@ PS. 为什么有上述期待？
 
 
 
-#### 半年目标规划 {#6m}
+#### 半年目标规划 :id=6m
 
 ##### 2021 年 8 月- 2022 年 1 月
 

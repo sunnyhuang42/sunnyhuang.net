@@ -9,7 +9,7 @@ description: <blockquote><p>其实我第一回做案主时，好像还好吧。�
 
 > 我还有想说的。我觉得确实要谢谢 @y龙 强烈说，你一定要去做案主，做案主会给你收获。其实我第一回做案主时，好像还好吧。但今天做案主的体验，确实很不错，很感谢 @y龙 的强烈推荐。
 
-![fb_ft_m2_qj.png](https://ishanshan.zoomquiet.top/share/fb_ft_m2_qj.png#width=500)
+![fb_ft_m2_qj.png](https://ishanshan.zoomquiet.top/share/fb_ft_m2_qj.png ':size=500')
 
 昨天「人生·敏捷迭代营」小组练习会尾声，听到案主忽然冒出这句，好惊喜，有种柳暗花明的感觉——
 

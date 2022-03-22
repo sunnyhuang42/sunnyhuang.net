@@ -16,7 +16,7 @@ description: <p>得益于过去几期内测伙伴的帮助支持，目前我对�
 
 这像极了从零策划产品的创业过程：身处复杂多变、诸多不确定的世界，创业之初以为的方案，和实际最后管用的，大概率不是同一个（如下图[^0]）…… 唯有不断「提出假设-验证假设」，持续根据反馈迭代方案——
 
-![venture pyramid2.jpg](https://ishanshan.zoomquiet.top/clipping/venture%20pyramid2.jpg#width=500)
+![venture pyramid2.jpg](https://ishanshan.zoomquiet.top/clipping/venture%20pyramid2.jpg ':size=500')
 
 > 那如何提升试错效率，更快找到那条适合自己的人生发展之路？
 
@@ -28,7 +28,7 @@ description: <p>得益于过去几期内测伙伴的帮助支持，目前我对�
 
 > ## 以终为始 敏捷迭代，像迭代产品一样迭代人生
 
-![ft_patten4.png](https://ishanshan.zoomquiet.top/share/ft_patten4.png#width=500)
+![ft_patten4.png](https://ishanshan.zoomquiet.top/share/ft_patten4.png ':size=500')
 
 这套方法效果如何？
 
@@ -49,7 +49,7 @@ description: <p>得益于过去几期内测伙伴的帮助支持，目前我对�
 
 **如果你也在探索适合自己的转型或人生发展之路，希望聚焦要事减少浪费、增强心灵秩序感，更省力地追寻人生愿景**，同时乐于尝鲜，欢迎来瞅瞅是否匹配自己需求 😄 如果匹配，欢迎来玩，接下来同行一程，相互激发推动、陪伴支持 🤗🙌🏻
 
-![fg_sunny.jpeg](https://ishanshan.zoomquiet.top/share/fg_sunny3.jpeg#width=500)
+![fg_sunny.jpeg](https://ishanshan.zoomquiet.top/share/fg_sunny3.jpeg ':size=500')
 
 目录速览：
 
@@ -70,7 +70,7 @@ description: <p>得益于过去几期内测伙伴的帮助支持，目前我对�
 
 「人生·敏捷迭代营」是一个【陪伴型训练营】，每月一期，通过线上碰头，助你【定期】认真思索人生关键问题，用系统思考、精益创业、目标管理等领域的精髓，以终为始思索接下来的杠杆点、敏捷迭代行动规划，聚焦要事减少浪费、增强心灵秩序感，更【省力】地追寻人生愿景。
 
-![ft_patten2.png](https://ishanshan.zoomquiet.top/share/ft_patten2.png#width=500)
+![ft_patten2.png](https://ishanshan.zoomquiet.top/share/ft_patten2.png ':size=500')
 
 这里有几个要点值得留意：
 
@@ -84,14 +84,14 @@ description: <p>得益于过去几期内测伙伴的帮助支持，目前我对�
 
 练习持续以终为始迭代和推进你的人生规划、下一步行动计划、你对自己的反思等设想：
 
-![fg_fromend1.png](https://ishanshan.zoomquiet.top/share/fg_fromend1.png#width=500)
+![fg_fromend1.png](https://ishanshan.zoomquiet.top/share/fg_fromend1.png ':size=500')
 
 从而越来越聚能焦要事减少浪费、增强心灵秩序感，甚至拥有巅峰体验—— **universal flow** ：
 
 > **把一生的行动、思想都整合成一个心流体验**<br>
 **意识井然有序，生活乐趣无穷**
 
-![fg_universalflow.png](https://ishanshan.zoomquiet.top/share/fg_universalflow.png#width=500)
+![fg_universalflow.png](https://ishanshan.zoomquiet.top/share/fg_universalflow.png ':size=500')
 
 怎么练？
 
@@ -110,7 +110,7 @@ description: <p>得益于过去几期内测伙伴的帮助支持，目前我对�
 
 更关键的是，在陪伴我一次又一次把粗浅想法迭代得越来越靠谱的过程，**你大概率会更易潜移默化「以终为始 敏捷迭代」的内隐知识（tacit knowledge）——要知道，这相较一个领域知识中可通过言语传递的知识（外显知识，explicit knowledge），通常是水下冰山，且这一般在和对应领域的高手合作共事，或在相似任务场景中对比觉察、讨教决策思路，才易了解**。复杂技能更是如此。
 
-![tacitknowledge.jpeg](https://ishanshan.zoomquiet.top/clipping/tacitknowledge1.jpeg#width=500)
+![tacitknowledge.jpeg](https://ishanshan.zoomquiet.top/clipping/tacitknowledge1.jpeg ':size=500')
 
 （^左图来自[Tacit Knowledge: Definition, Examples, and Importance](https://helpjuice.com/blog/tacit-knowledge)，右图来自[Knoco stories: The Knowledge Management Iceberg](http://www.nickmilton.com/2012/08/the-knowledge-management-iceberg_29.html)）
 
@@ -134,7 +134,7 @@ description: <p>得益于过去几期内测伙伴的帮助支持，目前我对�
 
 此外，这里还有**综合了系统思考、精益创业、目标管理等领域精髓的思考模板、最佳实践和练习流程，提升你的投入产出比**，助你在探索适合自己的转型或人生发展之路上，逐步进入正向增强回路，越来越省力地奔向追寻人生愿景。
 
-![ft_patten5.png](https://ishanshan.zoomquiet.top/share/ft_patten5.png#width=500)
+![ft_patten5.png](https://ishanshan.zoomquiet.top/share/ft_patten5.png ':size=500')
 
 
 
@@ -143,7 +143,7 @@ description: <p>得益于过去几期内测伙伴的帮助支持，目前我对�
 
 
 
-## 2. 适合什么样的情况？ {#user}
+## 2. 适合什么样的情况？ :id=user
 
 
 
@@ -161,7 +161,7 @@ description: <p>得益于过去几期内测伙伴的帮助支持，目前我对�
 
 
 
-## 3. 你会收获什么？ {#value}
+## 3. 你会收获什么？ :id=value
 
 在复杂多变的时代，踏着稳定节奏练习「以终为始 敏捷迭代」的同时，稳步探索适合自己的转型或人生发展之路，更省力地追寻人生愿景。
 
@@ -197,19 +197,19 @@ description: <p>得益于过去几期内测伙伴的帮助支持，目前我对�
 > @y龙：我在看 @q竹 的想法，看其他小伙伴的建议，包括自己去思考的时候，都会有一些新的这个启发和收获。我觉得可能你让我自己去想，可能想不到这些。但是在这个交流的过程中，就既学到别人的模式，又得到别人的启发。我觉得确实收获很多。
 
 
-![fb_ft_m2_qj.png](https://ishanshan.zoomquiet.top/share/fb_ft_m2_qj.png#width=200)
+![fb_ft_m2_qj.png](https://ishanshan.zoomquiet.top/share/fb_ft_m2_qj.png ':size=200')
 
 详情可见这篇记录[如果在「人生·敏捷迭代营」小组练习时，作为案主感觉收获不大，是什么情况？](mur/fo_practicemore)
 
 如果你想了解更多反馈，可参考：[用户反馈/往期成员结营复盘](f_output/feedback)
 
-## 4. 具体安排是怎样的？ {#agenda}
+## 4. 具体安排是怎样的？ :id=agenda
 
 贯穿整个「人生·敏捷迭代营」的主线，是在不同场景下，练习「以终为始 敏捷迭代」，以便加深你的理解内化。
 
 活动节奏稳定，每月一期，碰头日程如下：
 
-![ft_patten6.png](https://ishanshan.zoomquiet.top/share/ft_patten6.png#width=600)
+![ft_patten6.png](https://ishanshan.zoomquiet.top/share/ft_patten6.png ':size=600')
 
 目前根据不同需求和能投入的精力，有以下 3 种参与方式可选：
 
@@ -223,7 +223,7 @@ description: <p>得益于过去几期内测伙伴的帮助支持，目前我对�
 
 这期安排如下：
 
-![fg_m3_1.jpeg](https://ishanshan.zoomquiet.top/share/fg_m3_1.jpeg#width=350)
+![fg_m3_1.jpeg](https://ishanshan.zoomquiet.top/share/fg_m3_1.jpeg ':size=350')
 
 
 日历版见：[M3 期碰头日历 - 人生·敏捷迭代营 - 飞书云文档](https://faciloutput.feishu.cn/sheets/shtcnJwgTiIWO2Tfe7gedxRPbIe?sheet=Nj3PE6)
@@ -258,7 +258,7 @@ M3期
 - 更多差别对比见[下文](flourish/f_grow?id=compare)，报名入口见[这里](flourish/f_grow?id=signup)。
 
 
-#### 3. 仅报「以终为始·月度工作坊」 {#workshop}
+#### 3. 仅报「以终为始·月度工作坊」 :id=workshop
 
 如果你想保持稳定节奏，`至少每个月`认真思索一轮下一周期行动的杠杆点，或想促进自己认真思考一轮人生关键问题、思索下一周期行动的杠杆点，或想试试这里的工具方法是否匹配自己的需求，欢迎单报这项。
 
@@ -276,7 +276,7 @@ PS. 月度工作坊后如果想加入其它模式，在还有名额的情况下�
 
 
 
-### 不同参与方式详细对比表 {#compare}
+### 不同参与方式详细对比表 :id=compare
 
 上述 3 种模式的更多细节，见下表对比（移动端可能无法预览，可点击[这里](https://faciloutput.feishu.cn/sheets/shtcnJwgTiIWO2Tfe7gedxRPbIe?sheet=qe4SsK)直接查看）：
 
@@ -284,7 +284,7 @@ PS. 月度工作坊后如果想加入其它模式，在还有名额的情况下�
 
 
 
-## 5. 报名入口 {#signup}
+## 5. 报名入口 :id=signup
 
 
 

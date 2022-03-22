@@ -16,7 +16,7 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
 > 4. 来自 CBT 的生活方式评估量表
 > 5. 更多
 
-## 1. 蓬勃人生/flourishing  {#flourishing}
+## 1. 蓬勃人生/flourishing  :id=flourishing
 
 人生最幸福的状态是怎样的？
 
@@ -36,7 +36,7 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
 
 马丁·塞利格曼在《持续的幸福》一书中提到，全面的蓬勃人生（well-being或flourishing）有五个支柱——积极情绪（Positive emotions）、投入（Engagement）、人际关系（Relationships）、意义（Meaning & purpose）和成就（Accomplishment） ，而这些支柱的基石，则是品格优势和美德。在蓬勃人生理论里，24个优势支撑着五个元素，该理论旨在帮助我们运用自身最强的优势获得更多的积极情绪、意义、成就，以及发展更好的社会关系。这些元素的关系塞利格曼用下图示意：
 
-![flourishing_permasv.png](https://ishanshan.zoomquiet.top/clipping/flourishing_permasv.png#width=350)
+![flourishing_permasv.png](https://ishanshan.zoomquiet.top/clipping/flourishing_permasv.png ':size=350')
 
 如果你想进一步了解蓬勃人生理论，可参考这门公开课：[The Science of Well-Being | Coursera](https://www.coursera.org/learn/the-science-of-well-being)。
 
@@ -47,7 +47,7 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
 * [一个充满希望感、快乐的年轻人，看起来应该什么样？丨KY研究：Languishing VS Flourishing](https://mp.weixin.qq.com/s/27y7b37njjQ5rYiWR83xnw)
 * [邵恒头条｜什么是躺平的反义词？](https://m.igetget.com/share/course/article?id=RQLYWyjMZoa0J1vlglXp4wvzDbO26B)
 
-## 2. 成功万花筒策略/The Kaleidoscope Strategy {#PKS}
+## 2. 成功万花筒策略/The Kaleidoscope Strategy :id=PKS
 
 
 这出自哈佛商业评论的经典文章[Success That Lasts](https://hbr.org/2004/02/success-that-lasts)[^1]，成功万花筒策略(The Kaleidoscope Strategy, Nash & Stevenson, 2004)核心要点见下图：
@@ -66,7 +66,7 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
 * **传承/legacy** ：a way to establish your values or accomplishments so as to help others find future success
 
 
-### 一些实践案例 {#PKSpractice}
+### 一些实践案例 :id=PKSpractice
 
 1. 我之前的实践方法是，把上述模型整理成 4*4 的表格（见下图），然后：
     1. 定期查漏补缺：就着表格盘点成果，看看自己哪些格子薄弱、接下来可以调整哪些行动
@@ -82,14 +82,14 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
         - 构建长期稳定的关系
         - 帮助他人成长
 
-     ![flourishing_pks_xl.jpg](https://ishanshan.zoomquiet.top/clipping/flourishing_pks_xl.jpg#width=400)
+     ![flourishing_pks_xl.jpg](https://ishanshan.zoomquiet.top/clipping/flourishing_pks_xl.jpg ':size=400')
 
     - 具体解说和实践分享，见这节[试听课](https://xuexi-courses.firesbox.com/?utm_source=share#/7000103731/courses/3104) 42 分钟开始的部分
     
    
 
 
-## 3. 自我决定论/Self-Determination Theory {#SDT}
+## 3. 自我决定论/Self-Determination Theory :id=SDT
 
 [自我决定论](https://selfdeterminationtheory.org/the-theory/)(Deci & Ryan, 2000)是关于人类动机的一大关键理论，其认为人类有三种基本需求，如果能满足这三种需求，就会为个人带来最佳的发展与进步，容易感到幸福：
 
@@ -100,17 +100,17 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
 - **归属/relatedness**：或称关系需求，是指人们感觉到自己与别人有关联，是一种在意别人，也同时希望受到别人在意的感觉感受，它强调人们希望与他人发生关系的渴望，如同事间人际和谐或者恋人间的亲密关系。
 
 
-## 4. 来自 CBT 的生活方式评估量表 {#CBT}
+## 4. 来自 CBT 的生活方式评估量表 :id=CBT
 
 《[思维改变生活：积极而实用的认知行为疗法 (Change Your Thinking-Positive and practical ways to overcome stress negative emotions and self-defeating behavior using CBT)](https://book.douban.com/subject/2984241/)》一书中，从工作/日常、健康、精神生活、休闲、社会支持五个维度，给出了评估量表，见下图。也挺适合定期自检、调整行动，以便人生更幸福。
 
-![flourishing_cbt1.jpeg](https://ishanshan.zoomquiet.top/share/flourishing_cbt1.jpeg?imageslim#width=200)
-![flourishing_cbt2.jpeg](https://ishanshan.zoomquiet.top/share/flourishing_cbt2.jpeg?imageslim#width=200)
+![flourishing_cbt1.jpeg](https://ishanshan.zoomquiet.top/share/flourishing_cbt1.jpeg?imageslim ':size=200')
+![flourishing_cbt2.jpeg](https://ishanshan.zoomquiet.top/share/flourishing_cbt2.jpeg?imageslim ':size=200')
 
 电子版见[这里](https://mzm628l8fj.feishu.cn/sheets/shtcnieI1Xpmtd1ld8grScWAjyU)。
 
 
-## 5. 更多 {#more}
+## 5. 更多 :id=more
 
 1. 心理学家荣格认为构成幸福的要素是：
     1. 良好的生理和心理健康

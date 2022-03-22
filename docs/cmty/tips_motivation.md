@@ -10,7 +10,7 @@ description: <p>目标达成不如预期怎么办？可从能力（competence）
 
 2018 年接触「情景领导模型（situational leadership framework）」，了解到上述要领后，我便开始有意识地练习、积累各种提升意愿的方法。因为我相信，**意愿问题解决后，能力问题对大部分人来说，只是时间问题**。
 
-![leadership_situational.jpeg](https://ishanshan.zoomquiet.top/clipping/leadership_situational.jpeg#width=400)
+![leadership_situational.jpeg](https://ishanshan.zoomquiet.top/clipping/leadership_situational.jpeg ':size=400')
 
 ^[situational leadership framework](https://www.inbody.es/2020/04/20/when-context-meets-challenge-an-approach-of-situational-leadership/)
 
@@ -43,7 +43,7 @@ description: <p>目标达成不如预期怎么办？可从能力（competence）
 
 
     
-## 增强对美好结果的感知 {#feelingoal}
+## 增强对美好结果的感知 :id=feelingoal
 
 具体行动比如：
 
@@ -61,7 +61,7 @@ description: <p>目标达成不如预期怎么办？可从能力（competence）
 
 比如加入一些高质量的实践社群/学习共同体（community of practice）等，利用人「从众」的心理机制提升行动发生概率，也令自己看到差距以便不由自主地见贤思齐、被动进步。
 
-## 降低这个事情的行动门槛 {#lowerbar}
+## 降低这个事情的行动门槛 :id=lowerbar
 
 1. **借助一些外部 trigger**：
 
@@ -74,7 +74,7 @@ description: <p>目标达成不如预期怎么办？可从能力（competence）
     - 比如每天的三餐，不喜欢叫外卖，每天请阿姨做饭又不经济。那可以每天都是水煮菜：豆腐、蘑菇、虾、鸡蛋、蛋饺、牛肉卷、蔬菜，一起放在水里煮，要么放点调料包，要么配点蘸酱。从准备到完成大概 15 分钟，保证营养均衡，不会摄入过多油盐，口味尚可。
     - 又如乔布斯、扎克伯格，衣柜里同样的衣服好几件，每天都穿同样的衣服出门，也是减少选择负担。
 
-## 降低其他事情对自己的干扰 {#lowerinterference}
+## 降低其他事情对自己的干扰 :id=lowerinterference
 
 - 比如先把脑中纷繁思绪写下来，让自己知道这个事情不会忘记，也释放工作记忆带宽。
 - 或安排特定时段去完成那些事情。

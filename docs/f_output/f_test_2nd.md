@@ -102,7 +102,7 @@ description: <p>第一期内测结束，收获多多，第二期内测走起—�
 详见下图，或点击[这里](https://ishanshan.zoomquiet.top/clipping/fb_t1_zy.jpeg)看原图：
 
 
-![fb_t1_zy.jpeg](https://ishanshan.zoomquiet.top/clipping/fb_t1_zy.jpeg#width=20)
+![fb_t1_zy.jpeg](https://ishanshan.zoomquiet.top/clipping/fb_t1_zy.jpeg ':size=20')
 
 
 
@@ -111,7 +111,7 @@ description: <p>第一期内测结束，收获多多，第二期内测走起—�
 详见下图，或点击[这里](https://ishanshan.zoomquiet.top/clipping/fb_t1_pzl.jpeg)看原图：
 
 
-![fb_t1_pzl.jpeg](https://ishanshan.zoomquiet.top/clipping/fb_t1_pzl.jpeg#width=20)
+![fb_t1_pzl.jpeg](https://ishanshan.zoomquiet.top/clipping/fb_t1_pzl.jpeg ':size=20')
 
 
 > @江浩：参加行动营之前，我遇到的最大的问题是不够勇敢。 <br>
@@ -120,7 +120,7 @@ description: <p>第一期内测结束，收获多多，第二期内测走起—�
 
 详见下图，或点击[这里](https://ishanshan.zoomquiet.top/clipping/fb_t1_jh.jpeg)看原图：
 
-![fb_t1_jh.jpeg](https://ishanshan.zoomquiet.top/clipping/fb_t1_jh.jpeg#width=20)
+![fb_t1_jh.jpeg](https://ishanshan.zoomquiet.top/clipping/fb_t1_jh.jpeg ':size=20')
 
 
 看到这款产品服务能给用户带来这样的影响，我作为产品策划人，真的很开心。不仅为他们开心，也为自己开心——这款产品服务就是基于精益创业方法论，以终为始、敏捷迭代出来的。用户的变化，令我更确信这些方法的价值，也更清楚自己的掌握程度进步如何。
@@ -131,7 +131,7 @@ description: <p>第一期内测结束，收获多多，第二期内测走起—�
 
 
 
-## 「士别三日行动营」第二期内测招募 {#ad}
+## 「士别三日行动营」第二期内测招募 :id=ad
 
 ### 适合什么样的情况？
 
@@ -166,7 +166,7 @@ description: <p>第一期内测结束，收获多多，第二期内测走起—�
 
 2. 每半周一次的小组「**闪电迭代会**」，助你持续「以终为始」地迭代行动方案，聚焦下一步「投入产出比」最高的发力点，加速获得正反馈，积累继续行动尝试的自信
 
-![f_test_model1.png](https://ishanshan.zoomquiet.top/share/f_test_model1.png#width=370)
+![f_test_model1.png](https://ishanshan.zoomquiet.top/share/f_test_model1.png ':size=370')
 
 
 3. 「**稳定的行动节律**」，助你在复杂多变的时代，拥有「**确定的秩序感**」，拥抱不确定，持续探索人生可能性

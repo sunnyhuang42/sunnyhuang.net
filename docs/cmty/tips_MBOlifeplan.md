@@ -5,7 +5,7 @@ updated: 2021-10-29
 description: <blockquote><p><a href="#/about/plan_lifedev">这份个人发展规划</a>是怎么梳理出来的？</p></blockquote><p>有师友好奇。</p><p>我把思索过程和经验教训简单梳理了一下，供有需要的伙伴参考。如果你有疑问建议，欢迎随时交流，也加速我迭代完善：D</p>
 ---
 
-> [这份个人发展规划](about/plan_lifedev)是怎么梳理出来的？
+> [这份个人发展规划](/about/plan_lifedev)是怎么梳理出来的？
 
 有师友好奇。
 
@@ -14,8 +14,8 @@ description: <blockquote><p><a href="#/about/plan_lifedev">这份个人发展规
 ## 思索过程
 
 
-1. 先结合自己的[理想生活](about/idealife)画面，梳理出 12 年这个尺度下，自己想实现的大目标/有所成就的方向，1-3 个即可
-    - 比如这是我的版本：[想推进的大方向-发展规划](about/plan_lifedev?id=longterm)
+1. 先结合自己的[理想生活](/about/idealife)画面，梳理出 12 年这个尺度下，自己想实现的大目标/有所成就的方向，1-3 个即可
+    - 比如这是我的版本：[想推进的大方向-发展规划](/about/plan_lifedev?id=longterm)
         - 得出这个方向前，是先梳理出了自己想[搞明白的问题清单](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=7e122f)，以此为指导逐步研究、实验，探索自己打算为谁创造怎样的价值
         - 当时探索过程的目标规划和简要的实践反思，见 [探索记录_闪闪 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm&range=QTU6TDEw)  
     - 所花时长：当时大概花了三四个月的时间       
@@ -24,14 +24,14 @@ description: <blockquote><p><a href="#/about/plan_lifedev">这份个人发展规
     - 注意：
         - 3 年、6 个月的目标，一般能有比较明确的期待
         - 18 个月的，可能比较模糊；不过这没关系，一开始都是先有个大概轮廓，后续继续探索、渐进明细
-    - 我的版本：[中短期规划-发展规划](about/plan_lifedev?id=shorterm)
+    - 我的版本：[中短期规划-发展规划](/about/plan_lifedev?id=shorterm)
     - 所花时长：大概一两个月的时间
    
 3. 然后思考近 1-3 个月的目标时，把 3 年、6 个月 的目标作为终态，按[《如何梳理有助于达成长期目标的行动规划？
-》中的「问题清单 A」](cmty/tips_MBO_fromend?id=qlist_a)，以终为始地思索「接下来重点做什么/解决什么问题或挑战，投入产出比最高」
-    - 我的版本：[半年目标规划-发展规划](about/plan_lifedev?id=_6m)
+》中的「问题清单 A」](/cmty/tips_MBO_fromend?id=qlist_a)，以终为始地思索「接下来重点做什么/解决什么问题或挑战，投入产出比最高」
+    - 我的版本：[半年目标规划-发展规划](/about/plan_lifedev?id=_6m)
     - 所花时长：一般我会在月底时，花 4-6 小时，复盘并思索 [《如何梳理有助于达成长期目标的行动规划？
-》中的「问题清单 A&B」](cmty/tips_MBO_fromend?id=qlist_a)，梳理出下个月的目标规划
+》中的「问题清单 A&B」](/cmty/tips_MBO_fromend?id=qlist_a)，梳理出下个月的目标规划
 
 
 ## Tips
@@ -54,7 +54,7 @@ description: <blockquote><p><a href="#/about/plan_lifedev">这份个人发展规
 > ![leanst1.png](https://ishanshan.zoomquiet.top/clipping/leanst1.png ':size=300')
 > ![leanst2.png](https://ishanshan.zoomquiet.top/clipping/leanst2.png ':size=300')
 > 
->——[《为什么不单独打磨定OKR或做复盘的产品/工具包？@立人 210716》](f_output/fb_lr_devseparate)
+>——[《为什么不单独打磨定OKR或做复盘的产品/工具包？@立人 210716》](/f_output/fb_lr_devseparate)
 
 
 ### 2. 梳理上述目标规划对我帮助较大的工具方法
@@ -65,17 +65,17 @@ description: <blockquote><p><a href="#/about/plan_lifedev">这份个人发展规
     - [《精益创业实战》(豆瓣)](https://book.douban.com/subject/20505765/)
     - [《精益客户开发》(豆瓣)](https://book.douban.com/subject/26641506/)
 - 目标管理
-    - [如何梳理有助于达成长期目标的行动规划？](cmty/tips_MBO_fromend)
-    - [OKR是一套严密的思考框架？这是啥意思？](cmty/tips_MBOKRframe)
-    - [如何从容应对新挑战？·研究最佳实践通用问题清单](cmty/tips_RES_BP)
-    - [启动新项目，如何设定项目目标? · 项目需求采集问题清单](cmty/infoq_pm_pre)
+    - [如何梳理有助于达成长期目标的行动规划？](/cmty/tips_MBO_fromend)
+    - [OKR是一套严密的思考框架？这是啥意思？](/cmty/tips_MBOKRframe)
+    - [如何从容应对新挑战？·研究最佳实践通用问题清单](/cmty/tips_RES_BP)
+    - [启动新项目，如何设定项目目标? · 项目需求采集问题清单](/cmty/infoq_pm_pre)
 
 
 ## 附：更多思索过程记录
 
-- [起步初期的一些心路](selfedu/review2021Q1?id=supportsys)
+- [起步初期的一些心路](/selfedu/review2021Q1?id=supportsys)
 - 探索过程的目标规划和简要的实践反思，见 [探索记录_闪闪 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm)  
-- [答师友：升级个人博客背后的思考](mur/logOD_TRIZblogupd)
+- [答师友：升级个人博客背后的思考](/mur/logOD_TRIZblogupd)
 
 
 

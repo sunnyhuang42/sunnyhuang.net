@@ -36,11 +36,11 @@ description:
 
 ## 个人发展规划
 
-详见[发展规划](about/plan_lifedev) 。
+详见[发展规划](/about/plan_lifedev) 。
 
 ## footnote
 
-[^1]: SML 是我前东家用于评估人才潜力的模型。更多信息，可参考[这里](selfedu/review2021Q1?id=sml)。
+[^1]: SML 是我前东家用于评估人才潜力的模型。更多信息，可参考[这里](/selfedu/review2021Q1?id=sml)。
 
 ## CHANGELOG
 

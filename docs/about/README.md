@@ -6,12 +6,12 @@ description:
 ---
 
 
-[@黄姗-Sunny](https://github.com/ishanshan)，一枚在不断打开盲区的小女子，坐标北京。喜欢探索分享优雅有效、能跨越大时间周期的工具方法，正在实验如何奔向[「健康蓬勃 温暖从容」的幸福生活（flourishing life）](about/idealife)。
+[@黄姗-Sunny](https://github.com/ishanshan)，一枚在不断打开盲区的小女子，坐标北京。喜欢探索分享优雅有效、能跨越大时间周期的工具方法，正在实验如何奔向[「健康蓬勃 温暖从容」的幸福生活（flourishing life）](/about/idealife)。
 
 
 本科学园林设计，毕业至今六年一直在互联网领域，做过教研、运营、学习与发展教练、产品。虽然这些看似不同职务，但在我眼里都是相通的——**传播 meme（模因）影响人，帮助人更易发生行为改变**。
 
-毕业三年第一次换工作， package 涨了 200+% 。入职不到一年获得期权增授、经历人生第一次 10 倍增，时薪跃到四位数。（如何实现的？见这篇博文[答师友：第一次换工作就涨薪200+%，入职不到一年又经历10倍增，我是如何实现的？](mur/tips_jobhunting)）
+毕业三年第一次换工作， package 涨了 200+% 。入职不到一年获得期权增授、经历人生第一次 10 倍增，时薪跃到四位数。（如何实现的？见这篇博文[答师友：第一次换工作就涨薪200+%，入职不到一年又经历10倍增，我是如何实现的？](/mur/tips_jobhunting)）
 
 目前处于职业转型阶段，在探索如何助力更多伙伴，更快更稳地迈向他们心中的蓬勃人生。
 
@@ -25,7 +25,7 @@ description:
 
 ### 个人发展规划
 
-详见[发展规划](about/plan_lifedev) 。
+详见[发展规划](/about/plan_lifedev) 。
 
 
 ### 近几个月在关注/思考的主要问题：
@@ -57,12 +57,12 @@ description:
 
 - **[茹海波](https://weibo.com/brianru)** 、 **李辉**：第二段职业生涯的上级，也是密切协作最多的伙伴，一直扮演着我的引路人、镜子和守护天使，助我打怪升级。我对精益创业、目标管理、项目管理、复盘、情境领导、教练技术的理解和运用，离不开他们的潜移默化和耐心指导。共事两年多，也令我添了不少对「人」而不只是「事」的关注，并更习惯「[以终为始](https://docs.qq.com/slide/DVVBzbVZ1UnFRZEhM)」和「归因于内」。总之，他们让我获得了守护一生的铠甲，更有勇气探索人生可能。
 
-- **[阳志平](https://www.yangzhiping.com/)** ：第一段职业生涯的顶头上司。初入职场就与他密切共事三年，获益深远——我的[创作方法](wr/HbOutputbyCards)、科学素养、主题学习模式、简单生活模式、注重大时间周期积累和批量解决问题等习惯都源于他。
-- **[Zoom Quiet](http://zoomquiet.io/#)** ：工作头两年的项目合作伙伴。远程协作两年，升级了我对异步协同、团队知识传承、[GitHub 使用](cmty/HbGitHubCooperate)及开源共创的认知，并种下了我对项目管理 [All Know All](https://www.xmind.net/m/citg/) 及对外界面专业度的执念。哦对，还勾起了我对工程师的喜爱：P
+- **[阳志平](https://www.yangzhiping.com/)** ：第一段职业生涯的顶头上司。初入职场就与他密切共事三年，获益深远——我的[创作方法](/wr/HbOutputbyCards)、科学素养、主题学习模式、简单生活模式、注重大时间周期积累和批量解决问题等习惯都源于他。
+- **[Zoom Quiet](http://zoomquiet.io/#)** ：工作头两年的项目合作伙伴。远程协作两年，升级了我对异步协同、团队知识传承、[GitHub 使用](/cmty/HbGitHubCooperate)及开源共创的认知，并种下了我对项目管理 [All Know All](https://www.xmind.net/m/citg/) 及对外界面专业度的执念。哦对，还勾起了我对工程师的喜爱：P
 - **[Oliver Ding](https://medium.com/call4)** ：大学后半段至今多个阶段的项目顾问。身在大洋彼岸多年，他仍关注并推动本土青年项目，持续探究和分享的热情及行动速度令我钦佩，并引发了我对学术素养及代际传承的关注。
-- **[纪元](https://ishanshan.zoomquiet.top/clipping/qr_jiyuan.jpeg)** ：大学后半段 side project 「早起的鸟儿晨间学习会」的发起人。折腾晨间学习会一年多，每月碰头他都给我新触动。我的自律、择偶选择、把一份时间卖出多次的尝试，都受他影响颇深，[我对养娃的兴趣](family/hb_parenting)也源于他。
+- **[纪元](https://ishanshan.zoomquiet.top/clipping/qr_jiyuan.jpeg)** ：大学后半段 side project 「早起的鸟儿晨间学习会」的发起人。折腾晨间学习会一年多，每月碰头他都给我新触动。我的自律、择偶选择、把一份时间卖出多次的尝试，都受他影响颇深，[我对养娃的兴趣](/family/hb_parenting)也源于他。
 - **[Action Thinker](http://www.zaih.com/mentor/84789490/)** 、 **[Annie Hu](https://www.linkedin.com/in/annie-hu-15250539/)** ：大学后半段 side project 「[CAPE（全球青年实践网络）](http://hicape.com/)」的发起人和项目经理。我对开放品牌项目的运作心法，对青年自组织社群的好感与信心，得益于那十几个月与他们一同推动 [CAPE Meetup](http://hicape.com/cape-meetup/) 在各地生发。
-- **李珣** ：大学头两年 side project 「讲座控」的发起人。[他带我踏进开放教育的世界，打下云端协作的好基础，心虑传承、拒绝组织从 0 到 1 的重复，还令我养成不让自己跌在硬件上的习惯](selfedu/SelfEduOwetoJZK)。
+- **李珣** ：大学头两年 side project 「讲座控」的发起人。[他带我踏进开放教育的世界，打下云端协作的好基础，心虑传承、拒绝组织从 0 到 1 的重复，还令我养成不让自己跌在硬件上的习惯](/selfedu/SelfEduOwetoJZK)。
 - ……
 
 如果这个博客令你受益，这多归功他们标杆树得好；如果没有，肯定是我学歪了😅……
@@ -88,7 +88,7 @@ description:
 3. 微信联系 sunnyhuang42 (请注明来意)
 
 
-若希望我快速响应你的需求，可参考这个小锦囊[《如何更易约到我？》](about/booking) 。
+若希望我快速响应你的需求，可参考这个小锦囊[《如何更易约到我？》](/about/booking) 。
 
 欢迎指教;-)
 

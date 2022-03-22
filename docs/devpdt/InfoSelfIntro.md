@@ -24,7 +24,7 @@ description:
 
 ## 学习目标
 
-一般不设目标，更习惯使用执行意图：[Study Plan · Road2StrategyPM](devpdt/3jkSPM/PlanStudy) ，先尝试一周，再根据执行情况调整。行动计划将在此持续更新。
+一般不设目标，更习惯使用执行意图：[Study Plan · Road2StrategyPM](/devpdt/3jkSPM/PlanStudy) ，先尝试一周，再根据执行情况调整。行动计划将在此持续更新。
 
 ## 能分享的话题
 

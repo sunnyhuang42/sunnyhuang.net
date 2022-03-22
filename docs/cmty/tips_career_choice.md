@@ -5,7 +5,7 @@ updated: 2021-09-02
 description: <p>当你手里已经有一些选项，拿不准应该如何决策时，可借助 <a href="#/mur/res_ARIZ">创新算法 ARIZ</a> 的一大精髓——STC算子，来指导决策：</p><blockquote><p>从 Size, Time, Cost 三大维度推演极大或极小的情况，破除传统意象的心理惯性，提升解法质量。</p></blockquote>
 ---
 
-当你手里已经有一些选项，拿不准应该如何决策时，可借助 [创新算法 ARIZ](mur/res_ARIZ) 的一大精髓——STC算子，来指导决策：
+当你手里已经有一些选项，拿不准应该如何决策时，可借助 [创新算法 ARIZ](/mur/res_ARIZ) 的一大精髓——STC算子，来指导决策：
 
 > 从 Size, Time, Cost 三大维度推演极大或极小的情况，破除传统意象的心理惯性，提升解法质量。
 

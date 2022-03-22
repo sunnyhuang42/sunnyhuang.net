@@ -52,7 +52,7 @@ description: <p>有伙伴看了我博客，好奇上述问题。</p><p>估计也
 ![q_interview.png](https://ishanshan.zoomquiet.top/clipping/q_interview.png ':size=300')
 
 
-当然，全程也都在评估感受双方相互欣赏、认可契合的程度。比如这是那时面试的一个片段记录：[幸福再体验：我生活中最美好的经历](selfedu/savor_happiestevent?id=mystory) 
+当然，全程也都在评估感受双方相互欣赏、认可契合的程度。比如这是那时面试的一个片段记录：[幸福再体验：我生活中最美好的经历](/selfedu/savor_happiestevent?id=mystory) 
 
 
 此外，当时还做了这些行动，以便找到自己欣赏信任、同频共振的团队：
@@ -70,7 +70,7 @@ description: <p>有伙伴看了我博客，好奇上述问题。</p><p>估计也
 >
 > 3. 同时，在我的劣势上，团队内部都有非常出色的同事，令我易高频观摩取经，或在共事过程耳濡目染、见贤思齐、潜移默化，更快进步。
 > 
-> ——[近三年来，我发生的主要变化有哪些？](selfedu/rev_3years)
+> ——[近三年来，我发生的主要变化有哪些？](/selfedu/rev_3years)
 
 
 <br> 
@@ -93,7 +93,7 @@ description: <p>有伙伴看了我博客，好奇上述问题。</p><p>估计也
 
 这点有多关键？可参考 YC 创始人格雷厄姆的这篇文章：[格雷厄姆：为自己的事业而工作](https://mp.weixin.qq.com/s/fXGM-e-KcHFHjhLkb1K7GA)。
 
-而且在我看来，[有了强烈意愿，能力问题是时间的问题](cmty/tips_motivation)。
+而且在我看来，[有了强烈意愿，能力问题是时间的问题](/cmty/tips_motivation)。
 
 这也是为什么我很重视思索人生三问，甚至在进入迷茫期后不着急开启下一段职业生涯，而是先去探索人生三问。总之对我来说，这样投入产出比更高：既有助于自己更好地发挥潜能，还可以避开很多本不该出现的障碍、麻烦。
 
@@ -107,11 +107,11 @@ description: <p>有伙伴看了我博客，好奇上述问题。</p><p>估计也
 ---
 
 更多相关内容：
-- [如何做职业选择？· STC 问题清单](cmty/tips_career_choice)
+- [如何做职业选择？· STC 问题清单](/cmty/tips_career_choice)
 - [新人磨合指南](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbNewcomer)
 - [如何创造更大价值，提升个人投入产出比？](https://docs.qq.com/slide/DVVBzbVZ1UnFRZEhM)
 - [不同年龄的职业规划重点- 目标管理进阶攻略 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcn75qFbOHYzvEgBWLSvalPcb?sheet=1JZTkz)
-- [入职第一天，我失眠了](selfedu/NewLifeinOMC)
+- [入职第一天，我失眠了](/selfedu/NewLifeinOMC)
 
 ---
 

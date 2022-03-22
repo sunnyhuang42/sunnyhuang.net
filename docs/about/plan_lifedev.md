@@ -22,12 +22,12 @@ description: <blockquote><ul><li>我想去哪儿？</li><li>为什么？</li><li
 
 ## 理想生活
 
-[理想生活](about/idealife)
+[理想生活](/about/idealife)
 
 
 ## 目前想推进的大方向  :id=longterm
 
-探索如何高投入产出比地迈向幸福最高境界——人生丰盈蓬勃（flourishing），过上[我的理想生活——「健康蓬勃 温暖从容」](about/idealife)，并助力更多有需要的伙伴，也省力地迈向他们心中的 flourishing life 。
+探索如何高投入产出比地迈向幸福最高境界——人生丰盈蓬勃（flourishing），过上[我的理想生活——「健康蓬勃 温暖从容」](/about/idealife)，并助力更多有需要的伙伴，也省力地迈向他们心中的 flourishing life 。
 
 ### 具体来说
 
@@ -81,14 +81,14 @@ description: <blockquote><ul><li>我想去哪儿？</li><li>为什么？</li><li
 ### 1. 上述大方向和三年规划是怎么梳理出来的
 
 
-思考和探索过程，可参考 [答师友：我的发展规划是怎么梳理出来的？](cmty/tips_MBOlifeplan)
+思考和探索过程，可参考 [答师友：我的发展规划是怎么梳理出来的？](/cmty/tips_MBOlifeplan)
 
 
 ### 2. 过往一些目标规划
 
 - 探索过程的OKR规划索引和简单复盘反思：[探索记录_闪闪 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm)
 - 2020.2 梳理的中长期规划 https://workflowy.com/s/9021bfe92832/B450ao8R9h1ekkNT
-- 2018.6 梳理的[长期发展方向和三年目标规划](about/InfoVocationREQ)
+- 2018.6 梳理的[长期发展方向和三年目标规划](/about/InfoVocationREQ)
 
 
 ### 3. 中短期目标规划早期版本
@@ -101,7 +101,7 @@ description: <blockquote><ul><li>我想去哪儿？</li><li>为什么？</li><li
 
 
 ### 想推进的大方向  :id=longterm
-探索如何高投入产出比地迈向幸福最高境界——人生丰盈蓬勃（flourishing），过上[我的理想生活——「健康蓬勃 温暖从容」](about/idealife)，并助力更多有需要的伙伴，也更快更稳地迈向他们心中的 flourishing life 。
+探索如何高投入产出比地迈向幸福最高境界——人生丰盈蓬勃（flourishing），过上[我的理想生活——「健康蓬勃 温暖从容」](/about/idealife)，并助力更多有需要的伙伴，也更快更稳地迈向他们心中的 flourishing life 。
 
 ### 具体来说
 #### 目标人群  :id=targetuser
@@ -233,7 +233,7 @@ PS. 为什么有上述期待？
 
 ##### 2021 年 8 月- 2022 年 1 月
 
-这半年的目标规划，详见[输出实验室 需要哪些支持？](f_output/helpwanted?id=background)中背景介绍的部分
+这半年的目标规划，详见[输出实验室 需要哪些支持？](/f_output/helpwanted?id=background)中背景介绍的部分
 
 ##### 2021.10~11  
 
@@ -254,5 +254,5 @@ https://workflowy.com/s/m1011/9dmA0FNYr89MOSrr
 - 210928 增补为什么想推进上述方向、修改附录 2h
 - 210927 迁移到博客上 3h
 - 210714 迁移到[飞书](https://mzm628l8fj.feishu.cn/docs/doccnljPAh9xJll6wM7hLBjkhof#O2KCDT)上，持续迭代完善
-- 210620 在师友提问下，把一些关于目标规划的思考起草成文（[答师友：升级个人博客背后的思考](mur/logOD_TRIZblogupd)） 1.5h
+- 210620 在师友提问下，把一些关于目标规划的思考起草成文（[答师友：升级个人博客背后的思考](/mur/logOD_TRIZblogupd)） 1.5h
 

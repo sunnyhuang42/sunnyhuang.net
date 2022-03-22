@@ -64,7 +64,7 @@ MarkDown 编辑器有很多，推荐选择带目录栏、支持加载本地文�
 
 ### 优雅又省心地插入图片
 
-技巧太多，另起一篇，详见 [这样用七牛，插图优雅又省心 · MarkDown 码字发文最佳实践 | ishanshan's blog](wr/HbMarkdownImage) 。
+技巧太多，另起一篇，详见 [这样用七牛，插图优雅又省心 · MarkDown 码字发文最佳实践 | ishanshan's blog](/wr/HbMarkdownImage) 。
 
 ### 换行
 

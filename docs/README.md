@@ -27,11 +27,11 @@ Hi, 欢迎来访。
 
 回访率较高的博文：
 
-* [OKR是一套严密的思考框架？这是啥意思？](cmty/tips_MBOKRframe)
-* [用心写周报的同事，绩效不会太差](selfedu/TipsWeekly)
-* [卡片助力输入输出，工具我选 WorkFlowy](selfedu/HbOutputWorkFlowy)
-* [卡片助力输出， MarkDown + GitHub + LOFTER 有轻功](wr/HbOutputbyCards)
-* [我如何成为换头最快的1%？· 过去8个月的面容调整复盘](selfedu/RevFacialGrowth)
+* [OKR是一套严密的思考框架？这是啥意思？](/cmty/tips_MBOKRframe)
+* [用心写周报的同事，绩效不会太差](/selfedu/TipsWeekly)
+* [卡片助力输入输出，工具我选 WorkFlowy](/selfedu/HbOutputWorkFlowy)
+* [卡片助力输出， MarkDown + GitHub + LOFTER 有轻功](/wr/HbOutputbyCards)
+* [我如何成为换头最快的1%？· 过去8个月的面容调整复盘](/selfedu/RevFacialGrowth)
 
 
 
@@ -72,7 +72,7 @@ Hi, 欢迎来访。
 
 <br>
 
-[embed](about/_eb_outputchannel_card.md ':include')
+[embed](/about/_eb_outputchannel_card.md ':include')
 
 </details>
 

@@ -57,13 +57,13 @@ description: <p>得益于过去几期内测伙伴的帮助支持，目前我对�
 >     1. 这是个【训练营】——重点是【练】
 >     2. 这是个【陪伴型】训练营
 >     3. 通过线上碰头，助你【定期】认真思索人生关键问题，更【省力】地实现人生愿景
-> 2. [适合什么样的情况？](flourish/f_grow?id=user)
-> 3. [你会收获什么？](flourish/f_grow?id=value)
-> 4. [具体安排是怎样的？](flourish/f_grow?id=agenda)
+> 2. [适合什么样的情况？](/flourish/f_grow?id=user)
+> 3. [你会收获什么？](/flourish/f_grow?id=value)
+> 4. [具体安排是怎样的？](/flourish/f_grow?id=agenda)
 >     * 最新一期（M3期）内测日程安排
 >     * 这三种模式该如何选择？
->     * [不同参与方式详细对比表](flourish/f_grow?id=compare)
-> 5. [报名入口](flourish/f_grow?id=signup)（想直接报名不想看详情的，可以点这里）
+>     * [不同参与方式详细对比表](/flourish/f_grow?id=compare)
+> 5. [报名入口](/flourish/f_grow?id=signup)（想直接报名不想看详情的，可以点这里）
 > 6. FAQ
 
 ## 1.「人生·敏捷迭代营」是干嘛的？
@@ -199,9 +199,9 @@ description: <p>得益于过去几期内测伙伴的帮助支持，目前我对�
 
 ![fb_ft_m2_qj.png](https://ishanshan.zoomquiet.top/share/fb_ft_m2_qj.png ':size=200')
 
-详情可见这篇记录[如果在「人生·敏捷迭代营」小组练习时，作为案主感觉收获不大，是什么情况？](mur/fo_practicemore)
+详情可见这篇记录[如果在「人生·敏捷迭代营」小组练习时，作为案主感觉收获不大，是什么情况？](/mur/fo_practicemore)
 
-如果你想了解更多反馈，可参考：[用户反馈/往期成员结营复盘](f_output/feedback)
+如果你想了解更多反馈，可参考：[用户反馈/往期成员结营复盘](/f_output/feedback)
 
 ## 4. 具体安排是怎样的？ :id=agenda
 
@@ -243,7 +243,7 @@ description: <p>得益于过去几期内测伙伴的帮助支持，目前我对�
 M3期
 - 内测名额：最多 4 人
 - 内测价：2099 元/月/期
-- 报名入口见[下文](flourish/f_grow?id=signup)。
+- 报名入口见[下文](/flourish/f_grow?id=signup)。
 
 
 #### 2. 半自助模式
@@ -255,7 +255,7 @@ M3期
 M3期
 - 内测名额：最多 8 人
 - 内测价：799 元/月/期
-- 更多差别对比见[下文](flourish/f_grow?id=compare)，报名入口见[这里](flourish/f_grow?id=signup)。
+- 更多差别对比见[下文](/flourish/f_grow?id=compare)，报名入口见[这里](/flourish/f_grow?id=signup)。
 
 
 #### 3. 仅报「以终为始·月度工作坊」 :id=workshop
@@ -270,7 +270,7 @@ M3期
 
 目前内测价：459 元/次
 
-报名入口见[下文](flourish/f_grow?id=signup)。
+报名入口见[下文](/flourish/f_grow?id=signup)。
 
 PS. 月度工作坊后如果想加入其它模式，在还有名额的情况下可半小时内补差价加入，之后则需在差价基础上加 100 元。
 
@@ -353,8 +353,8 @@ PS. 月度工作坊后如果想加入其它模式，在还有名额的情况下�
 
 [^0]: 这张图来自 [How to track progress in the Build-Measure-Learn Loop? — SWAN Ventures](https://www.swan.ventures/blog/2017/8/31/how-to-track-progress-in-the-build-measure-learn-loop)
 [^1]: 这来自 LEANSTACK 的这篇文章：https://leanstack.com/new-rules 。文章涉及「以终为始 敏捷迭代」的关键心法，如果你想转型到高度不确定的方向，比如自由职业者、创业等，推荐反复查阅
-[^1-1]: 这是如何实现的？可参考 [答师友：第一次换工作就涨薪200+%，我是如何实现的？](mur/tips_jobhunting)
-[^2]: 详情可见 [我如何成为换头最快的1%？· 过去8个月的面容调整复盘](selfedu/RevFacialGrowth)
+[^1-1]: 这是如何实现的？可参考 [答师友：第一次换工作就涨薪200+%，我是如何实现的？](/mur/tips_jobhunting)
+[^2]: 详情可见 [我如何成为换头最快的1%？· 过去8个月的面容调整复盘](/selfedu/RevFacialGrowth)
 [^3]: 具体探索进展，如果你感兴趣，可以看我的探索进展追踪表，有探索日志和每月 OKR 及简要复盘：[探索记录追踪表 - 飞书云文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm)
 [^4]: 前三次使命感满满的状态是什么情况？如果你感兴趣，可从这期播客了解：[闪闪 | 用理性和热忱，实验如何奔向蓬勃人生 -  小宇宙](https://www.xiaoyuzhoufm.com/episode/61585ce0ae1d32c4f86c18c5?s=eyJ1IjogIjYwZTI4NWQ4ZTBmNWU3MjNiYjlmNDVlNiJ9)
 

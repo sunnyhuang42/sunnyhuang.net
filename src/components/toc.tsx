@@ -1,10 +1,16 @@
 import cls from 'clsx';
+import { useMemo } from 'react';
 import { usePage } from '@/context/page';
 import { useMenu } from '@/context/menu';
 
 const Toc = () => {
   const { title, headings } = usePage();
   const [, { setFalse }] = useMenu();
+  const depth = useMemo(
+    () => headings.map((i) => i.depth).sort((a, b) => a - b)?.[0] || 1,
+    [headings],
+  );
+
   return (
     <div>
       <div className="mb-4 font-medium">{title}</div>
@@ -13,13 +19,13 @@ const Toc = () => {
           <li
             key={heading.id}
             style={{
-              marginLeft: `${heading.depth - 1}rem`,
+              marginLeft: `${heading.depth - depth}rem`,
             }}
           >
             <a
               className={cls(
                 'block hover:text-accent mb-2',
-                heading.depth <= 2 ? 'font-medium' : '',
+                heading.depth === depth ? 'font-medium' : '',
               )}
               href={`#${heading.id}`}
               onClick={setFalse}

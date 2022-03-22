@@ -17,7 +17,7 @@ const File: FC<SideItem> = ({ text, link = '' }) => {
     <Link href={link}>
       <a
         {...(isExternal ? { target: '_blank', rel: 'noreferrer' } : {})}
-        className={`block py-2 pl-6 mb-1 text-sm rounded-md ${
+        className={`block p-2 mb-1 text-sm rounded-md ${
           selected ? 'bg-secondary text-primary' : 'hover:bg-secondary'
         }`}
         onClick={setFalse}

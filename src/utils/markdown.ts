@@ -83,7 +83,7 @@ export const rehypeDocsify: Plugin<any, any> = () => (tree) => {
       case node.tagName === 'p' &&
         toString(node).startsWith('?>') &&
         !!node?.children?.length: {
-        node.children[0].value = toString(node).replace(/\?>\s?/, '');
+        node.children[0].value = node.children[0].value.replace(/\?>\s?/, '');
         node.properties.class = 'info';
         break;
       }
@@ -91,7 +91,7 @@ export const rehypeDocsify: Plugin<any, any> = () => (tree) => {
       case node.tagName === 'p' &&
         toString(node).startsWith('!>') &&
         !!node?.children?.length: {
-        node.children[0].value = toString(node).replace(/!>\s?/, '');
+        node.children[0].value = node.children[0].value.replace(/!>\s?/, '');
         node.properties.class = 'warning';
         break;
       }

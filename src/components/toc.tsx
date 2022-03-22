@@ -14,7 +14,7 @@ const Toc = () => {
   return (
     <div>
       <div className="mb-4 font-medium">{title}</div>
-      <ul className="text-sm">
+      <ul className="text-sm mb-10">
         {headings.map((heading) => (
           <li
             key={heading.id}

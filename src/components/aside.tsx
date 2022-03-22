@@ -32,7 +32,7 @@ const Aside = () => {
         {isPost && (
           <div
             className={cls(
-              'sticky top-20 px-4 pl-8 xl:pl-0 h-main',
+              'sticky top-20 px-4 pl-8 xl:pl-0 h-main overflow-y-scroll',
               visible && 'lg:top-0',
             )}
           >

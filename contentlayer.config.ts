@@ -1,12 +1,7 @@
 import { defineDocumentType, makeSource } from 'contentlayer/source-files';
 import { parse } from 'node-html-parser';
 import readingTime from 'reading-time';
-import remarkGfm from 'remark-gfm';
-import rehypeSlug from 'rehype-slug-custom-id';
-import rehypeCodeTitles from 'rehype-code-titles';
-import rehypeAutolinkHeadings from 'rehype-autolink-headings';
-import rehypeRewrite, { RehypeRewriteOptions } from 'rehype-rewrite';
-import rehypePrism from 'rehype-prism-plus';
+import { remarkPlugins, rehypePlugins } from './src/utils/markdown';
 
 const Post = defineDocumentType(() => ({
   name: 'Post',
@@ -47,62 +42,11 @@ const Post = defineDocumentType(() => ({
   },
 }));
 
-export const rewrite: RehypeRewriteOptions['rewrite'] = (node) => {
-  if (node.type === 'element' && node.tagName == 'img') {
-    const { properties } = node;
-    const [src, attributesString] =
-      (properties?.src as string)?.split('#') || [];
-    if (attributesString) {
-      const attributes = attributesString
-        .split('&')
-        .reduce((attrs: object, attr: string) => {
-          const [key, val] = attr.split('=');
-          if (!val || !key) return attrs;
-          return {
-            ...attrs,
-            [key]: val,
-          };
-        }, {});
-
-      node.properties = {
-        ...node.properties,
-        src,
-        ...attributes,
-      };
-    }
-  }
-};
-
 export default makeSource({
   contentDirPath: 'docs',
   documentTypes: [Post],
   markdown: {
-    remarkPlugins: [remarkGfm],
-    rehypePlugins: [
-      rehypeCodeTitles,
-      rehypePrism,
-      [
-        rehypeRewrite,
-        {
-          rewrite,
-        },
-      ],
-      [
-        rehypeSlug,
-        {
-          maintainCase: true,
-          removeAccents: true,
-          enableCustomId: true,
-        },
-      ],
-      [
-        rehypeAutolinkHeadings,
-        {
-          properties: {
-            className: ['anchor'],
-          },
-        },
-      ],
-    ],
+    remarkPlugins,
+    rehypePlugins,
   },
 });

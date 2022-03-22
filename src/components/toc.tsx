@@ -13,13 +13,13 @@ const Toc = () => {
           <li
             key={heading.id}
             style={{
-              marginLeft: `${heading.depth - 2}rem`,
+              marginLeft: `${heading.depth - 1}rem`,
             }}
           >
             <a
               className={cls(
                 'block hover:text-accent mb-2',
-                heading.depth === 2 ? 'font-medium' : '',
+                heading.depth <= 2 ? 'font-medium' : '',
               )}
               href={`#${heading.id}`}
               onClick={setFalse}

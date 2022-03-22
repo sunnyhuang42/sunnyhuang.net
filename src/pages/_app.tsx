@@ -1,11 +1,18 @@
 import type { AppProps } from 'next/app';
-import { useEffect } from 'react';
+import { useEffect, useLayoutEffect } from 'react';
 import Script from 'next/script';
 import { useRouter } from 'next/router';
+import mediumZoom, { Zoom } from 'medium-zoom';
 import { ThemeProvider } from 'next-themes';
 import Layout from '@/components/layout';
 import * as gtag from '@/utils/gtag';
 import '@/styles/index.scss';
+
+let zoom: Zoom;
+
+if (typeof document !== 'undefined') {
+  zoom = mediumZoom();
+}
 
 function App({ Component, pageProps }: AppProps) {
   const router = useRouter();
@@ -18,6 +25,13 @@ function App({ Component, pageProps }: AppProps) {
       router.events.off('routeChangeComplete', handleRouteChange);
     };
   }, [router.events]);
+
+  useEffect(() => {
+    if (zoom) {
+      zoom.detach();
+      zoom.attach(document.querySelectorAll('.prose img'));
+    }
+  }, [router.asPath]);
 
   return (
     <>

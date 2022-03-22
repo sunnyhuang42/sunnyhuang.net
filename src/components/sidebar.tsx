@@ -12,12 +12,12 @@ const File: FC<SideItem> = ({ text, link = '' }) => {
   const { asPath } = useRouter();
   const [, { setFalse }] = useMenu();
   const isExternal = isUrl(link);
-  const selected = asPath === link;
+  const selected = asPath.split('#')[0] === link;
   return (
     <Link href={link}>
       <a
         {...(isExternal ? { target: '_blank', rel: 'noreferrer' } : {})}
-        className={`block p-2 mb-1 text-sm rounded-md ${
+        className={`block py-2 pl-6 mb-1 text-sm rounded-md ${
           selected ? 'bg-secondary text-primary' : 'hover:bg-secondary'
         }`}
         onClick={setFalse}
@@ -45,15 +45,15 @@ const Folder: FC<FolderProps> = (props) => {
   return (
     <>
       <div
-        className="flex items-center justify-between mb-1 p-2 text-sm rounded-md hover:bg-secondary"
+        className="flex items-center mb-1 p-2 text-sm rounded-md hover:bg-secondary"
         onClick={() => onClick(text)}
       >
-        <span dangerouslySetInnerHTML={{ __html: text }} />
         <ArrowRight
-          className={`w-5 h-5 mr-2 text-secondary ${
+          className={`w-5 h-5 mr-1 text-secondary ${
             open ? 'transform rotate-90' : ''
           }`}
         />
+        <span dangerouslySetInnerHTML={{ __html: text }} />
       </div>
       <Transition show={open} className="pl-4">
         {items?.map((i) => (
@@ -79,11 +79,12 @@ const Folder: FC<FolderProps> = (props) => {
 
 const Sidebar = () => {
   const { asPath } = useRouter();
+  const pathname = asPath.split('#')[0];
   const [openMap, setOpenMap] = useState<Record<string, boolean>>(() =>
-    (asPath === '/'
+    (pathname === '/'
       ? sidebar.filter((i) => i.collapsed)
       : sidebar.filter(
-          (i) => i.items?.filter((ii) => ii.link === asPath)?.length,
+          (i) => i.items?.filter((ii) => ii.link === pathname)?.length,
         )
     ).reduce((acc, cur) => ({ ...acc, [cur.text]: true }), {}),
   );
@@ -109,7 +110,9 @@ const Sidebar = () => {
               />
             </>
           ) : (
-            <File key={i.link} {...i} />
+            <div className="ml-2">
+              <File key={i.link} {...i} />
+            </div>
           )}
         </Fragment>
       ))}

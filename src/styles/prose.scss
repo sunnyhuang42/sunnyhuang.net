@@ -18,6 +18,10 @@
     color: unset;
   }
 
+  [id] {
+    @apply scroll-mt-20;
+  }
+
   hr {
     border-color: var(--dividers-color);
   }

@@ -21,7 +21,7 @@ const PostPage = (props: { post: Post & { readingTips: string } }) => {
     <article className="prose">
       <SEO title={title} description={description} keywords={keywords} />
       <h1 className="mt-4 md:mt-6">{post.title}</h1>
-      <div className="flex flex-col md:flex-row space-y-1 md:space-y-0 justify-between text-sm text-secondary">
+      <div className="flex flex-col md:flex-row space-y-1 md:space-y-0 justify-between my-8 text-sm text-secondary">
         <div>{date}</div>
         <div>{readingTips}</div>
       </div>

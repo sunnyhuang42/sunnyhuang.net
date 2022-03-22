@@ -81,17 +81,17 @@ export const rehypeDocsify: Plugin<any, any> = () => (tree) => {
       }
       //  ?>
       case node.tagName === 'p' &&
-        toString(node).startsWith('?> ') &&
+        toString(node).startsWith('?>') &&
         !!node?.children?.length: {
-        node.children[0].value = toString(node).slice(3);
+        node.children[0].value = toString(node).replace(/\?>\s?/, '');
         node.properties.class = 'info';
         break;
       }
       //  !>
       case node.tagName === 'p' &&
-        toString(node).startsWith('!> ') &&
+        toString(node).startsWith('!>') &&
         !!node?.children?.length: {
-        node.children[0].value = toString(node).slice(3);
+        node.children[0].value = toString(node).replace(/!>\s?/, '');
         node.properties.class = 'warning';
         break;
       }

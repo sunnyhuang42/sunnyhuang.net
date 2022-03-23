@@ -13,9 +13,9 @@ description:
 
 主要心得如下：
 
-1. 如何高效做竞品调研，详见 /devpdt/HbCI
+1. 如何高效做竞品调研，详见[文章](/devpdt/HbCI)
 
-2. 产品经理的核心技能和需养成的工作习惯有哪些，详见 /devpdt/Tips4StratPM
+2. 产品经理的核心技能和需养成的工作习惯有哪些，详见[文章](/devpdt/Tips4StratPM)
 
 3. 亚马逊的客户咨询细节很赞——可以选择邮件发送[聊天记录](devpro/3jkSPM/ch3Research)，以备不时之需，且客服相较其它公司更专业。
 

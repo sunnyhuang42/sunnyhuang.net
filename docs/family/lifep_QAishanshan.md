@@ -152,12 +152,12 @@ description: <p>还在增补中，不过也先放出来，供有需要的伙伴�
 
 #### 2. 个人简介/主页/作品
 
-- 个人简介/blog： /about/
+- [个人简介/blog](/about)
 - 知识星球： [闪闪的人生实验室](https://t.zsxq.com/Vrzji2B)
 - GitHub： https://github.com/ishanshan
 - 所做产品服务
     - 目前重点张罗的：输出实验室
-        - 项目主页： /f_output/
+        - [项目主页](/f_output)
         - 知识星球：[公开交流区_输出实验室](https://t.zsxq.com/2jaMjyr)
     - [好会 - 开好每场会](https://www.kaihaohui.cn/)
         - 作为产品负责人牵头初期的产品策划开发

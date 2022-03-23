@@ -1,5 +1,5 @@
 .prose {
-  @apply text-primary max-w-none;
+  @apply max-w-none text-primary;
 
   strong,
   ol > li::marker,
@@ -31,7 +31,7 @@
   }
 
   blockquote {
-    @apply block relative ml-1 pl-6 border-0 font-normal;
+    @apply relative ml-1 block border-0 pl-6 font-normal not-italic;
 
     quotes: none;
 
@@ -43,7 +43,7 @@
   }
 
   a {
-    @apply text-accent font-normal no-underline hover:underline;
+    @apply font-normal text-accent no-underline hover:underline;
 
     word-break: break-word;
     word-wrap: break-word;
@@ -68,7 +68,7 @@
   }
 
   code {
-    @apply px-1 py-0.5 rounded font-normal bg-secondary;
+    @apply rounded px-1 py-0.5 font-normal bg-secondary;
 
     &:after {
       content: '';
@@ -80,11 +80,11 @@
   }
 
   pre {
-    @apply block overflow-x-scroll w-full p-2 bg-secondary rounded;
+    @apply block w-full overflow-x-scroll rounded p-2 bg-secondary;
   }
 
   table {
-    @apply overflow-x-scroll w-full table-auto border border-separate rounded;
+    @apply w-full table-auto border-separate overflow-x-scroll rounded border;
 
     border-spacing: 0;
   }
@@ -98,7 +98,7 @@
   tbody {
     th,
     td {
-      @apply p-2 border-r text-left last-of-type:border-0;
+      @apply border-r p-2 text-left last-of-type:border-0;
 
       &:first-child,
       &:last-child {
@@ -142,10 +142,10 @@
   }
 
   .anchor {
-    @apply relative text-primary hover:no-underline cursor-pointer;
+    @apply relative cursor-pointer text-primary hover:no-underline;
 
     &:after {
-      @apply text-secondary invisible;
+      @apply invisible text-secondary;
       content: ' #';
     }
 
@@ -157,11 +157,11 @@
   }
 
   .info {
-    @apply p-3 bg-sky-100 dark:bg-opacity-20 border border-sky-200 dark:border-opacity-20 rounded-md;
+    @apply rounded-md border border-green-100 bg-green-50 p-3 dark:border-opacity-10 dark:bg-opacity-10;
   }
 
   .warning {
-    @apply p-3 bg-yellow-100 dark:bg-opacity-20 border border-yellow-200 dark:border-opacity-20 rounded-md;
+    @apply rounded-md border border-yellow-200 bg-yellow-100 p-3 dark:border-opacity-20 dark:bg-opacity-20;
   }
 
   //.data-footnote-backref {

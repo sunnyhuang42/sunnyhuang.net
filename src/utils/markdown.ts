@@ -3,7 +3,9 @@ import { visit } from 'unist-util-visit';
 import { hasProperty } from 'hast-util-has-property';
 import { headingRank } from 'hast-util-heading-rank';
 import { toString } from 'hast-util-to-string';
+import remark2rehype from 'remark-rehype';
 import remarkGfm from 'remark-gfm';
+import rehypeRaw from 'rehype-raw';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 
 // https://github.com/docsifyjs/docsify/blob/develop/src/core/render/utils.js
@@ -34,6 +36,23 @@ export const remarkRemoveFootnotesTitle: Plugin<any, any> = () => (tree) => {
       parent?.children?.splice(index, 1);
     }
   });
+};
+
+export const normalizeHeadings: Plugin<any, any> = () => (tree) => {
+  let titleCount = 0;
+  visit(tree, 'heading', (node) => {
+    if (node.depth === 1) {
+      titleCount += 1;
+    }
+  });
+
+  if (titleCount) {
+    visit(tree, 'heading', (node) => {
+      if (node.depth < 6) {
+        node.depth++;
+      }
+    });
+  }
 };
 
 // https://docsify.js.org/#/zh-cn/helpers
@@ -104,11 +123,15 @@ export const rehypeDocsify: Plugin<any, any> = () => (tree) => {
 
 export const remarkPlugins: PluggableList = [
   remarkRemoveFootnotesTitle,
+  normalizeHeadings,
   remarkGfm,
 ];
 
 export const rehypePlugins: PluggableList = [
+  // @ts-ignore
+  [remark2rehype, { allowDangerousHtml: true }],
   rehypeDocsify,
+  rehypeRaw,
   [
     rehypeAutolinkHeadings,
     {

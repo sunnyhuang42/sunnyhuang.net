@@ -10,3 +10,27 @@
 body {
   @apply text-primary bg-primary;
 }
+
+.sidebar {
+  //top: 0px;
+  //padding-top: 4rem;
+  //-ms-scroll-chaining: none;
+  //overscroll-behavior: contain;
+  //height: 100vh;
+  //height: -webkit-fill-available;
+  //
+  //opacity: 0;
+  //transform: translate3d(0, -110%, 0);
+  //transition: transform 0.8s cubic-bezier(0.52, 0.16, 0.04, 1),
+  //  opacity 0s linear 1s;
+  //will-change: transform, opacity;
+  //contain: layout style;
+  //-webkit-backface-visibility: hidden;
+  //backface-visibility: hidden;
+}
+
+.sidebar.open {
+  //opacity: 1;
+  //transform: translate3d(0, 0, 0);
+  //transition: transform 0.8s cubic-bezier(0.52, 0.16, 0.04, 1);
+}

@@ -1,10 +1,11 @@
 import type { AppProps } from 'next/app';
-import { useEffect, useLayoutEffect } from 'react';
+import { useEffect } from 'react';
 import Script from 'next/script';
 import { useRouter } from 'next/router';
 import mediumZoom, { Zoom } from 'medium-zoom';
 import { ThemeProvider } from 'next-themes';
-import Layout from '@/components/layout';
+import { DrawerProvider, PageProvider } from '@/context';
+import { Layout, Drawer } from '@/components';
 import * as gtag from '@/utils/gtag';
 import '@/styles/index.scss';
 
@@ -56,9 +57,14 @@ function App({ Component, pageProps }: AppProps) {
         }}
       />
       <ThemeProvider attribute="class">
-        <Layout>
-          <Component {...pageProps} />
-        </Layout>
+        <DrawerProvider>
+          <PageProvider>
+            <Layout>
+              <Drawer />
+              <Component {...pageProps} />
+            </Layout>
+          </PageProvider>
+        </DrawerProvider>
       </ThemeProvider>
     </>
   );

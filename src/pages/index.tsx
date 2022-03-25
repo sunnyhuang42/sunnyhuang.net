@@ -10,7 +10,7 @@ export default function Home({
   highlightPosts,
 }: InferGetStaticPropsType<typeof getStaticProps>) {
   return (
-    <div>
+    <div className="mx-auto max-w-3xl p-6">
       <SEO />
       <div
         className="prose mb-6"

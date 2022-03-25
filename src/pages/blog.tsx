@@ -6,12 +6,12 @@ import List from '@/components/list';
 const Blog = (props: InferGetStaticPropsType<typeof getStaticProps>) => {
   const { years, postsByYear } = props;
   return (
-    <>
+    <div className="mx-auto max-w-3xl p-6">
       <SEO title="博客" />
       {years.map((year) => (
         <List key={year} title={year} data={postsByYear[year]} />
       ))}
-    </>
+    </div>
   );
 };
 

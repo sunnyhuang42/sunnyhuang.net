@@ -1,8 +1,8 @@
 import { useEffect } from 'react';
 import { allPosts, Post } from '@/data';
-import SEO from '@/components/seo';
 import { isUrl } from '@/utils';
 import { usePage } from '@/context/page';
+import { TOC, SEO } from '@/components';
 
 const PostPage = (props: { post: Post & { readingTips: string } }) => {
   const { post } = props;
@@ -18,26 +18,29 @@ const PostPage = (props: { post: Post & { readingTips: string } }) => {
   }, [slug]);
 
   return (
-    <article className="prose">
-      <SEO title={title} description={description} keywords={keywords} />
-      <h1 className="mt-4 md:mt-6">{post.title}</h1>
-      <div className="flex flex-col md:flex-row space-y-1 md:space-y-0 justify-between my-8 text-sm text-secondary">
-        <div>{date}</div>
-        <div>{readingTips}</div>
-      </div>
-      <div
-        dangerouslySetInnerHTML={{
-          __html: body.html,
-        }}
-      />
-      {isUrl(link) && (
-        <div>
-          具体请见：
-          <a href={link} target="_blank" rel="noreferrer">
-            {link}
-          </a>
+    <article className="flex w-full justify-between">
+      <main className="prose mx-auto max-w-2xl py-6 xl:px-6 2xl:px-0">
+        <SEO title={title} description={description} keywords={keywords} />
+        <h1 className="mt-4 md:mt-6">{post.title}</h1>
+        <div className="my-8 flex flex-col justify-between space-y-1 text-sm text-secondary md:flex-row md:space-y-0">
+          <div>{date}</div>
+          <div>{readingTips}</div>
         </div>
-      )}
+        <div
+          dangerouslySetInnerHTML={{
+            __html: body.html,
+          }}
+        />
+        {isUrl(link) && (
+          <div>
+            具体请见：
+            <a href={link} target="_blank" rel="noreferrer">
+              {link}
+            </a>
+          </div>
+        )}
+      </main>
+      <TOC />
     </article>
   );
 };
@@ -45,8 +48,9 @@ const PostPage = (props: { post: Post & { readingTips: string } }) => {
 const excludes = ['/', '/404'];
 export const getStaticPaths = () => {
   const paths = allPosts
-    .map((post) => post.slug)
-    .filter((slug) => !excludes.includes(slug));
+    .filter(({ slug }) => !excludes.includes(slug) && !slug.startsWith('_'))
+    .map((post) => post.slug);
+
   return {
     paths,
     fallback: false,

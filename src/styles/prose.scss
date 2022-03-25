@@ -1,5 +1,5 @@
 .prose {
-  @apply max-w-none text-primary;
+  @apply text-primary;
 
   strong,
   ol > li::marker,
@@ -53,12 +53,12 @@
     @apply max-w-full rounded-md;
   }
 
-  ul > li::before {
-    @apply bg-accent;
+ ul > li::marker {
+    @apply text-secondary;
   }
 
-  ol > li::before {
-    @apply text-accent;
+  ol > li::marker {
+    @apply text-secondary;
   }
 
   .contains-task-list {
@@ -142,17 +142,26 @@
   }
 
   .anchor {
-    @apply relative cursor-pointer text-primary hover:no-underline;
+    @apply absolute -ml-5 w-full max-w-2xl no-underline opacity-0 transition-opacity;
 
     &:after {
-      @apply invisible text-secondary;
-      content: ' #';
+      content: '#';
     }
 
     &:hover {
-      &:after {
-        @apply visible;
-      }
+      @apply no-underline md:opacity-100;
+    }
+  }
+
+  *:hover > .anchor {
+    @apply md:opacity-100;
+  }
+
+  h4,
+  h5,
+  h6 {
+    .anchor {
+      @apply -ml-4;
     }
   }
 

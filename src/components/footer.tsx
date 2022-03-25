@@ -1,10 +1,10 @@
 import { license, copyright } from 'config';
-import Actions from './actions';
+import { Social } from '@/components';
 
 const Footer = () => (
-  <footer className="flex flex-col justify-center items-center h-32 lg:h-24 border-t">
-    <Actions className="mb-2 md:hidden" />
-    <div className="text-sm text-center">
+  <footer className="flex h-32 flex-col items-center justify-center border-t lg:h-24">
+    <Social className="mb-2 md:hidden" />
+    <div className="text-center text-sm">
       {`遵循 `}
       <a
         target="_blank"

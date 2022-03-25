@@ -21,7 +21,7 @@ export const PageContext = createContext<Value>({
   setPage: () => {},
 });
 
-export const MenuProvider: FC = ({ children }) => {
+export const PageProvider: FC = ({ children }) => {
   const [page, setPage] = useState<State>({
     title: '',
     headings: [],

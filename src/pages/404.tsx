@@ -3,7 +3,7 @@ import SEO from '@/components/seo';
 
 export default function Custom404({ post }: { post: Post }) {
   return (
-    <article className="prose">
+    <article className="prose mx-auto p-6">
       <SEO title={post.title} />
       <h1 className="mt-4 md:mt-6">{post.title}</h1>
       <div dangerouslySetInnerHTML={{ __html: post.body.html }} />

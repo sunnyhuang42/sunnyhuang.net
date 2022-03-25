@@ -2,7 +2,7 @@ import { useState, useEffect, useCallback, Fragment } from 'react';
 import cls from 'clsx';
 import Link from 'next/link';
 import { navbar } from 'config';
-import { ArrowRightUp } from '@/components/icon';
+import { ArrowUpRight } from '@/icons';
 import { isUrl } from '@/utils';
 
 const Item = ({ text = '', link = '' }) => {
@@ -12,7 +12,7 @@ const Item = ({ text = '', link = '' }) => {
       <a {...(isExternal ? { target: '_blank', rel: 'noreferrer' } : {})}>
         <span dangerouslySetInnerHTML={{ __html: text }} />
         {isExternal && (
-          <ArrowRightUp className="inline-block ml-1 text-secondary" />
+          <ArrowUpRight className="ml-1 inline-block w-4 text-secondary" />
         )}
       </a>
     </Link>
@@ -30,26 +30,26 @@ const Navbar = () => {
 
   return (
     <nav className="flex-1 md:pl-12">
-      <ul className="flex space-x-3 px-2 lg:space-x-6 text-sm font-medium">
+      <ul className="flex items-center space-x-3 px-2 text-sm font-medium lg:space-x-6">
         {navbar.map((i) => (
           <Fragment key={i.text}>
             {i.items ? (
               <li
-                className="relative"
-                onClick={() => setKey(i.text)}
+                className="relative flex h-12 items-center"
+                onTouchStart={() => setKey(i.text)}
                 onMouseEnter={() => setKey(i.text)}
                 onMouseLeave={hide}
               >
-                <span className="whitespace-nowrap cursor-pointer">
+                <span className="cursor-pointer whitespace-nowrap">
                   {i.text}
                 </span>
                 <div
                   className={cls(
-                    'absolute z-50 md:left-auto w-max',
+                    'absolute top-10 z-50 w-max md:left-auto',
                     key === i.text ? 'block' : 'hidden',
                   )}
                 >
-                  <ul className="flex flex-col space-y-3 px-4 py-3 rounded-md shadow-lg bg-primary border">
+                  <ul className="flex flex-col space-y-3 rounded-md border px-4 py-3 shadow-lg bg-primary">
                     {i.items.map((ii) => (
                       <li
                         key={ii.text}

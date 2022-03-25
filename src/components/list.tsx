@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import { Post } from '@/data';
-import { ArrowRight } from '@/components/icon';
+import { ArrowRight } from '@/icons';
 
 type Props = {
   title: string;
@@ -11,14 +11,14 @@ type Props = {
 export default function List({ title, data, hasMore }: Props) {
   return (
     <div className="mb-6">
-      <div className="flex justify-between mb-4 py-2 border-b">
+      <div className="mb-4 flex justify-between border-b py-2">
         <h2 className="text-2xl font-bold">{title}</h2>
         {hasMore && (
           <Link href="/blog">
             <a className="text-sm hover:text-accent">
               <div className="flex items-center">
                 查看更多
-                <ArrowRight className="inline-block ml-1" />
+                <ArrowRight className="ml-1 inline-block w-4" />
               </div>
             </a>
           </Link>
@@ -28,10 +28,10 @@ export default function List({ title, data, hasMore }: Props) {
         <Link key={post.slug} href={post.slug}>
           <a
             key={post.title}
-            className="flex justify-between items-center mb-2 md:mb-0 p-1.5 md:px-3 rounded-md hover:bg-secondary"
+            className="mb-2 flex items-center justify-between rounded-md p-1.5 hover:bg-secondary md:mb-0 md:px-3"
           >
             <h3 className="flex-1">{post.title}</h3>
-            <time className="pl-8 text-secondary text-sm">{post.date}</time>
+            <time className="pl-8 text-sm text-secondary">{post.date}</time>
           </a>
         </Link>
       ))}

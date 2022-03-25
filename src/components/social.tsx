@@ -1,7 +1,7 @@
 import { FC } from 'react';
 import Link from 'next/link';
 import { socialLinks } from 'config';
-import { Github, Moon, Rss, Sun } from '@/components/icon';
+import { Github, Moon, Rss, Sun } from '@/icons';
 import { useTheme } from 'next-themes';
 import { useCallback } from 'react';
 
@@ -10,7 +10,7 @@ const iconMap = {
   github: Github,
 };
 
-const Actions: FC<{ className?: string }> = ({ className }) => {
+const Social: FC<{ className?: string }> = ({ className }) => {
   const { resolvedTheme, systemTheme, setTheme } = useTheme();
   const isDark = resolvedTheme === 'dark';
 
@@ -23,9 +23,9 @@ const Actions: FC<{ className?: string }> = ({ className }) => {
   }, [resolvedTheme, systemTheme]);
 
   return (
-    <div className={`flex justify-center space-x-1 ${className}`}>
+    <div className={`flex justify-center space-x-4 ${className}`}>
       <div
-        className="p-2 rounded-full lg:hover:bg-secondary"
+        className="rounded-full p-2 lg:hover:bg-secondary"
         onClick={changeTheme}
       >
         {isDark ? <Sun /> : <Moon />}
@@ -37,7 +37,7 @@ const Actions: FC<{ className?: string }> = ({ className }) => {
             <a
               target="_blank"
               rel="noopener noreferrer"
-              className="p-2 rounded-full hover:bg-secondary"
+              className="rounded-full p-2 hover:bg-secondary"
             >
               <Icon />
             </a>
@@ -48,4 +48,4 @@ const Actions: FC<{ className?: string }> = ({ className }) => {
   );
 };
 
-export default Actions;
+export default Social;

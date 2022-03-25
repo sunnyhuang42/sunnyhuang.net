@@ -1,41 +1,48 @@
 import cls from 'clsx';
 import { useMemo } from 'react';
-import { usePage } from '@/context/page';
-import { useMenu } from '@/context/menu';
+import { useDrawer, usePage } from '@/context';
+import { Drawer } from '@/components';
 
 const Toc = () => {
+  const { toc } = useDrawer();
   const { title, headings } = usePage();
-  const [, { setFalse }] = useMenu();
   const depth = useMemo(
     () => headings.map((i) => i.depth).sort((a, b) => a - b)?.[0] || 1,
     [headings],
   );
 
   return (
-    <div>
-      <div className="mb-4 font-medium">{title}</div>
-      <ul className="text-sm mb-10">
-        {headings.map((heading) => (
-          <li
-            key={heading.id}
-            style={{
-              marginLeft: `${heading.depth - depth}rem`,
-            }}
-          >
-            <a
-              className={cls(
-                'block hover:text-accent mb-2',
-                heading.depth === depth ? 'font-medium' : '',
-              )}
-              href={`#${heading.id}`}
-              onClick={setFalse}
+    <Drawer
+      title="本文目录"
+      visible={toc.visible}
+      onClose={toc.close}
+      className="right-0 max-h-[calc(90vh-3.5rem)] min-h-[50vh] w-full xl:sticky xl:top-14 xl:z-0 xl:h-[calc(100vh-3.5rem)] xl:w-72 xl:transform-none xl:transition-none"
+    >
+      <div className="h-full w-full overflow-y-scroll p-4 lg:pr-0">
+        <div className="mb-4 hidden font-medium md:block">{title}</div>
+        <ul className="text-sm">
+          {headings.map((heading) => (
+            <li
+              key={heading.id}
+              style={{
+                marginLeft: `${heading.depth - depth}rem`,
+              }}
             >
-              {heading.text}
-            </a>
-          </li>
-        ))}
-      </ul>
-    </div>
+              <a
+                className={cls(
+                  'mb-2 block hover:text-accent',
+                  heading.depth === depth ? 'font-medium' : '',
+                )}
+                href={`#${heading.id}`}
+                onClick={toc.close}
+              >
+                {heading.text}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </Drawer>
   );
 };
 

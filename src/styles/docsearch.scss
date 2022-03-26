@@ -36,12 +36,16 @@
   background-color: var(--vt-c-bg-mute);
 }
 
+.DocSearch-Container {
+  @apply fixed;
+}
+
 .DocSearch-Button {
   @apply flex ml-0 p-2 lg:ml-4 rounded-lg border bg-transparent md:bg-secondary md:hover:bg-secondary;
 
   .DocSearch-Button-Container {
     .DocSearch-Search-Icon {
-      @apply w-4 text-primary font-medium md:w-3.5 mr-0 md:mr-1 md:text-secondary group-hover:text-primary;
+      @apply w-5 text-primary font-medium md:w-3.5 mr-0 md:mr-1 md:text-secondary group-hover:text-primary;
     }
 
     .DocSearch-Button-Placeholder {

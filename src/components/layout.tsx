@@ -7,7 +7,7 @@ const Layout: FC = ({ children }) => {
       <Header />
       <div className="mx-auto flex w-full max-w-8xl flex-1 px-4">
         <Sidebar />
-        <main className="w-full flex-1">{children}</main>
+        <main className="w-full flex-1 flex-shrink-0">{children}</main>
       </div>
       <Footer />
       <Affix />

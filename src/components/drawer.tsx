@@ -46,7 +46,7 @@ const Drawer: FC<Props> = (props) => {
         )}
       >
         {visible && title && (
-          <div className="relative flex h-14 items-center justify-center border-b px-4">
+          <div className="relative flex h-14 flex-shrink-0 items-center justify-center border-b px-4">
             <ChevronDown
               className="absolute left-4 w-6 rounded-full p-0.5 text-sm font-medium bg-secondary"
               onClick={onClose}

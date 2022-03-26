@@ -6,7 +6,7 @@ import { sidebar } from 'config';
 import { SideItem } from 'config/types';
 import { useDrawer } from '@/context';
 import { ArrowRight, ArrowUpRight } from '@/icons';
-import { Drawer } from '@/components';
+import { Drawer, Collapse } from '@/components';
 import { isUrl } from '@/utils';
 
 const File: FC<SideItem> = ({ text, link = '' }) => {
@@ -56,7 +56,7 @@ const Folder: FC<FolderProps> = (props) => {
         />
         <span dangerouslySetInnerHTML={{ __html: text }} />
       </div>
-      <div className={cn('pl-4', open ? 'block' : 'hidden')}>
+      <Collapse visible={open} className="pl-4">
         {items?.map((i) => (
           <Fragment key={i.text}>
             {i?.items ? (
@@ -73,7 +73,7 @@ const Folder: FC<FolderProps> = (props) => {
             )}
           </Fragment>
         ))}
-      </div>
+      </Collapse>
     </>
   );
 };

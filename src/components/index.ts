@@ -1,4 +1,5 @@
 export { default as Affix } from './affix';
+export { default as Collapse } from './collapse';
 export { default as Drawer } from './drawer';
 export { default as Footer } from './footer';
 export { default as Header } from './header';

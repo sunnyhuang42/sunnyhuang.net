@@ -1,5 +1,5 @@
 .prose {
-  @apply text-primary;
+  @apply text-primary w-full;
 
   strong,
   ol > li::marker,
@@ -139,6 +139,10 @@
     -ms-overflow-style: none;
     // Firefox
     scrollbar-width: none;
+  }
+
+  iframe {
+    @apply max-w-full;
   }
 
   .anchor {

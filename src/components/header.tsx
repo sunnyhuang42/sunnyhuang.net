@@ -1,6 +1,9 @@
+import dynamic from 'next/dynamic';
 import Link from 'next/link';
 import { title, logo } from '@/config';
-import { Social, Navbar, Search } from '@/components';
+import { Social, Navbar } from '@/components';
+
+const Search = dynamic(() => import('@/components/search'), { ssr: false });
 
 const Header = () => {
   return (

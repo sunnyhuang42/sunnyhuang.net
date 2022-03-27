@@ -1,8 +1,7 @@
 import { useState, Fragment, FC } from 'react';
 import { useRouter } from 'next/router';
 import Link from 'next/link';
-import { sidebar } from '@/config';
-import { SideItem } from 'config/types';
+import { sidebar, SideItem } from '@/config';
 import { useDrawer } from '@/context';
 import { ArrowRight, ArrowUpRight } from '@/icons';
 import { Drawer, Collapse } from '@/components';

@@ -2,7 +2,7 @@ import type { AppProps } from 'next/app';
 import { useEffect } from 'react';
 import Script from 'next/script';
 import { useRouter } from 'next/router';
-import mediumZoom, { Zoom } from 'medium-zoom';
+import { Zoom } from 'medium-zoom';
 import { ThemeProvider } from 'next-themes';
 import { DrawerProvider, PageProvider } from '@/context';
 import { Layout, Drawer } from '@/components';
@@ -11,8 +11,18 @@ import '@/styles/index.scss';
 
 let zoom: Zoom;
 
+const initZoom = () => {
+  if (zoom) {
+    zoom.detach();
+    zoom.attach(document.querySelectorAll('.prose img'));
+  }
+};
+
 if (typeof document !== 'undefined') {
-  zoom = mediumZoom();
+  import('medium-zoom').then((mod) => {
+    zoom = mod.default();
+    initZoom();
+  });
 }
 
 function App({ Component, pageProps }: AppProps) {
@@ -20,19 +30,13 @@ function App({ Component, pageProps }: AppProps) {
   useEffect(() => {
     const handleRouteChange = (url: string) => {
       gtag.pageview(url);
+      initZoom();
     };
     router.events.on('routeChangeComplete', handleRouteChange);
     return () => {
       router.events.off('routeChangeComplete', handleRouteChange);
     };
   }, [router.events]);
-
-  useEffect(() => {
-    if (zoom) {
-      zoom.detach();
-      zoom.attach(document.querySelectorAll('.prose img'));
-    }
-  }, [router.asPath]);
 
   return (
     <>

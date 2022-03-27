@@ -34,7 +34,7 @@ const PostPage = ({ post }: { post: Post }) => {
         <h1 className="mt-4 md:mt-6">{title}</h1>
         <div className="my-8 flex flex-col justify-between space-y-1 text-sm text-secondary md:flex-row md:space-y-0">
           <div>
-            {date !== updated ? `${updated} 更新 • ` : ''}
+            {date !== updated && updated ? `${updated} 更新 • ` : ''}
             {date ? `${date} 发布` : ''}
           </div>
           <div>

@@ -26,17 +26,25 @@ if (typeof document !== 'undefined') {
 }
 
 function App({ Component, pageProps }: AppProps) {
-  const router = useRouter();
+  const { events, replace, asPath } = useRouter();
+  const isOldBlog = asPath.startsWith('/old-blog');
   useEffect(() => {
     const handleRouteChange = (url: string) => {
       gtag.pageview(url);
       initZoom();
     };
-    router.events.on('routeChangeComplete', handleRouteChange);
+    events.on('routeChangeComplete', handleRouteChange);
     return () => {
-      router.events.off('routeChangeComplete', handleRouteChange);
+      events.off('routeChangeComplete', handleRouteChange);
     };
-  }, [router.events]);
+  }, [events]);
+
+  useEffect(() => {
+    if (isOldBlog) {
+      const [slug, anchor] = asPath.slice(10).split('?id=');
+      replace(`${slug}${anchor ? `#${anchor}` : ''}`);
+    }
+  }, []);
 
   return (
     <>
@@ -60,16 +68,18 @@ function App({ Component, pageProps }: AppProps) {
           `,
         }}
       />
-      <ThemeProvider attribute="class">
-        <DrawerProvider>
-          <PageProvider>
-            <Layout>
-              <Drawer />
-              <Component {...pageProps} />
-            </Layout>
-          </PageProvider>
-        </DrawerProvider>
-      </ThemeProvider>
+      {!isOldBlog && (
+        <ThemeProvider attribute="class">
+          <DrawerProvider>
+            <PageProvider>
+              <Layout>
+                <Drawer />
+                <Component {...pageProps} />
+              </Layout>
+            </PageProvider>
+          </DrawerProvider>
+        </ThemeProvider>
+      )}
     </>
   );
 }

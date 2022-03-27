@@ -67,9 +67,10 @@ export const rehypeDocsify: Plugin<any, any> = () => (tree) => {
           const { str, config } = getAndRemoveConfig(toString(node));
           node.children[0].value = str;
           node.properties.id =
-            config.id || toString(node).toUpperCase() === 'CHANGELOG'
+            config.id ||
+            (toString(node).toUpperCase() === 'CHANGELOG'
               ? 'changelog'
-              : `t${toc}`;
+              : `t${toc}`);
         } else if (node.properties.id === 'footnote-label') {
           node.properties.id = 'footnotes';
         }

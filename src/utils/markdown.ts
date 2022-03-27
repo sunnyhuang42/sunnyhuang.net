@@ -61,16 +61,18 @@ export const rehypeDocsify: Plugin<any, any> = () => (tree) => {
   visit(tree, 'element', (node) => {
     switch (true) {
       // add slug
-      case !!(
-        headingRank(node) &&
-        node.properties &&
-        node?.children?.length &&
-        !hasProperty(node, 'id')
-      ): {
+      case !!(headingRank(node) && node.properties && node?.children?.length): {
         toc += 1;
-        const { str, config } = getAndRemoveConfig(toString(node));
-        node.children[0].value = str;
-        node.properties.id = config.id || `t${toc}`;
+        if (!hasProperty(node, 'id')) {
+          const { str, config } = getAndRemoveConfig(toString(node));
+          node.children[0].value = str;
+          node.properties.id =
+            config.id || toString(node).toUpperCase() === 'CHANGELOG'
+              ? 'changelog'
+              : `t${toc}`;
+        } else if (node.properties.id === 'footnote-label') {
+          node.properties.id = 'footnotes';
+        }
         break;
       }
       // image size

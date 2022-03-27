@@ -40,23 +40,25 @@ npm run dev
 ```
 docs/README.md        => http://domain.com
 docs/guide.md         => http://domain.com/guide
-docs/sub/README.md  => http://domain.com/sub/
-docs/sub/guide.md   => http://domain.com/sub/guide
+docs/sub/README.md    => http://domain.com/sub/
+docs/sub/guide.md     => http://domain.com/sub/guide
 ```
 
 ### 文档配置
 
 使用 `yaml` 格式，放置在文档顶部。
 
-|    参数     |                说明                |    类型    | 默认值 |
-| :---------: | :--------------------------------: | :--------: | :----: |
-|    title    |                标题                |  `string`  |        |
-|    date     |              发布日期              |  `string`  |        |
-|   updated   |              更新日期              |  `string`  |        |
-|    link     |              外部链接              |  `string`  |        |
-|    draft    | 是否为草稿，为 `true` 时不生成页面 | `boolean`  |        |
-|  keywords   |               关键词               |  `string`  |        |
-| description |                描述                |  `string`  |        |
+|    参数     |                  说明                  |    类型    |          示例           |
+| :---------: | :------------------------------------: | :--------: | :---------------------: |
+|    title    |                  标题                  |  `string`  |      这是一个标题       |
+|  keywords   | 关键词，空值时取 `tags` 字段，用于 SEO | `string[]` | [HTML, CSS, JavaScript] |
+| description |        描述，用于 SEO、文章摘要        |  `string`  |      这是一段描述       |
+|    date     |                发布日期                |  `string`  |       2022-03-01        |
+|   updated   |                更新日期                |  `string`  |       2022-03-21        |
+|    link     |                外部链接                |  `string`  |   https://github.com/   |
+|    tags     |                文章标签                | `string[]` | [HTML, CSS, JavaScript] |
+|     toc     |     目录层级，0-6 区间，0 为不展示     |  `number`  |            6            |
+|    hide     |   值为 `true`时，生产环境不生成页面    | `boolean`  |          true           |
 
 如：
 ```yaml
@@ -69,18 +71,18 @@ updated: 2022-03-20
 
 ## 站点配置
 
-|    参数     |              说明              |      类型      | 默认值 |
-| :---------: | :----------------------------: | :------------: | :----: |
-|    title    |            站点标题            |    `string`    |        |
-| description |            站点描述            |    `string`    |        |
-|     url     |            站点网址            |    `string`    |        |
-|   algolia   | 配置 Algolia 的 DocSearch 服务 |    `object`    |        |
-|   navbar    |             导航栏             |   `Navbar[]`   |        |
-|   sidebar   |             侧边栏             |  `Sidebar[]`   |        |
-| socialLinks |            社交媒体            | `SocialLink[]` |        |
-| highlights  |          首页推荐内容          |   `string[]`   |        |
-|   license   |            内容协议            |    `object`    |        |
-|  copyright  |            版权所属            |    `string`    |        |
+|     参数      |              说明              |     类型      | 默认值 |
+|:-----------:| :----------------------------: |:-----------:| :----: |
+|    title    |            站点标题            |  `string`   |        |
+| description |            站点描述            |  `string`   |        |
+|     url     |            站点网址            |  `string`   |        |
+|   algolia   | 配置 Algolia 的 DocSearch 服务 |  `object`   |        |
+|   navbar    |             导航栏             | `Navbar[]`  |        |
+|   sidebar   |             侧边栏             | `Sidebar[]` |        |
+|   social    |            社交媒体            |  `object`   |        |
+| highlights  |          首页推荐内容          | `string[]`  |        |
+|   license   |            内容协议            |  `object`   |        |
+|  copyright  |            版权所属            |  `string`   |        |
 
 ### Navbar
 
@@ -98,11 +100,3 @@ updated: 2022-03-20
 |   link    |  链接  |  `string`   |        |
 | collapsed |  展开  |  `boolean`  |        |
 |   items   | 子菜单 | `Sidebar[]` |        |
-
-### SocialLink
-
-| 参数 | 说明 |       类型       | 默认值 |
-| :--: | :--: | :--------------: | :----: |
-| icon | 图标 | `rss | github` |  |
-| link | 链接 |     `string`     |        |
-

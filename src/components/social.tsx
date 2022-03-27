@@ -1,14 +1,10 @@
-import { FC } from 'react';
+import { useCallback, FC } from 'react';
 import Link from 'next/link';
-import { socialLinks } from 'config';
+import { social } from '@/config';
 import { Github, Moon, Rss, Sun } from '@/icons';
 import { useTheme } from 'next-themes';
-import { useCallback } from 'react';
 
-const iconMap = {
-  rss: Rss,
-  github: Github,
-};
+console.log(social.github);
 
 const Social: FC<{ className?: string }> = ({ className }) => {
   const { resolvedTheme, systemTheme, setTheme } = useTheme();
@@ -30,20 +26,25 @@ const Social: FC<{ className?: string }> = ({ className }) => {
       >
         {isDark ? <Sun /> : <Moon />}
       </div>
-      {socialLinks.map(({ icon, link }) => {
-        const Icon = iconMap[icon];
-        return (
-          <Link key={link} href={link}>
-            <a
-              target="_blank"
-              rel="noopener noreferrer"
-              className="rounded-full p-2 hover:bg-secondary"
-            >
-              <Icon />
-            </a>
-          </Link>
-        );
-      })}
+      {social.github && (
+        <a
+          className="rounded-full p-2 lg:hover:bg-secondary"
+          href={social.github}
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          <Github />
+        </a>
+      )}
+      <Link href="/feed">
+        <a
+          target="_blank"
+          rel="noopener noreferrer"
+          className="rounded-full p-2 hover:bg-secondary"
+        >
+          <Rss />
+        </a>
+      </Link>
     </div>
   );
 };

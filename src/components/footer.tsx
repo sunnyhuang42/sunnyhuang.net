@@ -1,4 +1,4 @@
-import { license, copyright } from 'config';
+import { license, copyright } from '@/config';
 import { Social } from '@/components';
 
 const Footer = () => (

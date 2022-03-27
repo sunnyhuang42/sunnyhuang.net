@@ -1,7 +1,7 @@
 import { GetServerSidePropsContext } from 'next';
 import { Feed } from 'feed';
-import { allSortPosts } from '@/data';
-import { title, description, url, copyright } from 'config';
+import { allPosts } from '@/data';
+import { title, description, url, copyright } from '@/config';
 
 export async function getServerSideProps(ctx: GetServerSidePropsContext) {
   const feed = new Feed({
@@ -13,7 +13,7 @@ export async function getServerSideProps(ctx: GetServerSidePropsContext) {
     language: 'zh-CN',
   });
 
-  const posts = allSortPosts.slice(0, 20);
+  const posts = allPosts.slice(0, 20);
 
   posts.forEach((post) => {
     feed.addItem({
@@ -21,7 +21,7 @@ export async function getServerSideProps(ctx: GetServerSidePropsContext) {
       link: `${url}${post.slug}`,
       title: post.title || '',
       description: post.description,
-      content: post.body.html,
+      content: post.html,
       date: new Date(post.date || ''),
     });
   });

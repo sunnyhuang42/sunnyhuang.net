@@ -1,7 +1,7 @@
 import { useState, useEffect, useCallback, Fragment } from 'react';
 import cls from 'clsx';
 import Link from 'next/link';
-import { navbar } from 'config';
+import { navbar } from '@/config';
 import { ArrowUpRight } from '@/icons';
 import { isUrl } from '@/utils';
 

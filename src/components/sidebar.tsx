@@ -1,8 +1,7 @@
-import cn from 'clsx';
 import { useState, Fragment, FC } from 'react';
 import { useRouter } from 'next/router';
 import Link from 'next/link';
-import { sidebar } from 'config';
+import { sidebar } from '@/config';
 import { SideItem } from 'config/types';
 import { useDrawer } from '@/context';
 import { ArrowRight, ArrowUpRight } from '@/icons';

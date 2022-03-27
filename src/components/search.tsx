@@ -1,5 +1,5 @@
 import { DocSearch, DocSearchTranslations } from '@docsearch/react';
-import { algolia } from 'config';
+import { algolia } from '@/config';
 
 const translations: DocSearchTranslations = {
   button: {

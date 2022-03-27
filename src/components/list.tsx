@@ -31,7 +31,7 @@ export default function List({ title, data, hasMore }: Props) {
             className="mb-2 flex items-center justify-between rounded-md p-1.5 hover:bg-secondary md:mb-0 md:px-3"
           >
             <h3 className="flex-1">{post.title}</h3>
-            <time className="pl-8 text-sm text-secondary">{post.date}</time>
+            <time className="pl-8 text-sm text-secondary">{post?.date}</time>
           </a>
         </Link>
       ))}

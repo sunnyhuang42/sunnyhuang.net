@@ -32,6 +32,7 @@
     "eslint": "^8.10.0",
     "eslint-config-next": "^12.1.0",
     "hast-util-to-string": "^2.0.0",
+    "next-plugin-yaml": "^1.0.1",
     "next-sitemap": "^2.5.10",
     "node-html-parser": "^5.3.3",
     "postcss": "^8.4.8",

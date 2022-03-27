@@ -1,6 +1,6 @@
-import type { FC, useMemo } from 'react';
+import type { FC } from 'react';
 import Head from 'next/head';
-import { title as suffix, description as defaultDescription } from 'config';
+import { title as suffix, description as defaultDescription } from '@/config';
 
 type Props = {
   title?: string;

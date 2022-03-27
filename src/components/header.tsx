@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { title, logo } from 'config';
+import { title, logo } from '@/config';
 import { Social, Navbar, Search } from '@/components';
 
 const Header = () => {

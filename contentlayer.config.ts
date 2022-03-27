@@ -8,15 +8,14 @@ const Post = defineDocumentType(() => ({
   filePathPattern: `**/*.md`,
   fields: {
     title: { type: 'string', required: false },
-    keywords: { type: 'json', required: false, default: [] },
+    keywords: { type: 'json', required: false },
     description: { type: 'string', required: false },
     date: { type: 'string', required: false },
     updated: { type: 'string', required: false },
     link: { type: 'string', required: false },
-    tags: { type: 'json', required: false, default: [] },
-    sidebar: { type: 'boolean', required: false, default: true },
-    toc: { type: 'boolean', required: false, default: true },
-    hide: { type: 'boolean', required: false, default: false },
+    tags: { type: 'json', required: false },
+    toc: { type: 'number', required: false },
+    hide: { type: 'boolean', required: false },
   },
   computedFields: {
     slug: {

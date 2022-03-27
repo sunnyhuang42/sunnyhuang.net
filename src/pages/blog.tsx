@@ -1,5 +1,5 @@
 import { InferGetStaticPropsType } from 'next';
-import { allSortPosts, Post } from '@/data';
+import { allPosts, Post } from '@/data';
 import SEO from '@/components/seo';
 import List from '@/components/list';
 
@@ -19,7 +19,7 @@ type PostsByYear = Record<string, Pick<Post, 'slug' | 'title' | 'date'>[]>;
 
 export const getStaticProps = async () => {
   const postsByYear: PostsByYear = {};
-  allSortPosts.forEach((post) => {
+  allPosts.forEach((post) => {
     const { slug, title, date } = post;
     const year = date?.split('-')[0];
     if (year) {

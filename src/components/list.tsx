@@ -36,10 +36,10 @@ const DetailsItem = ({ slug, title, date, link, description }: Item) => {
           <div className="group">
             <div className="mb-2 flex text-xl font-medium">
               <time className="pr-3">{date}</time>
-              <h3 className="flex flex-1 transition-colors text-accent group-hover:opacity-80">
+              <h3 className="flex-1 text-accent transition-colors group-hover:opacity-80">
                 {title}
                 {link && (
-                  <ArrowUpRight className="ml-1 inline-block w-4 text-secondary" />
+                  <ArrowUpRight className="ml-1 mb-1.5 inline-block w-4 text-secondary" />
                 )}
               </h3>
             </div>

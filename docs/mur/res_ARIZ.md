@@ -2,7 +2,7 @@
 title: 如何高效解决难题 ·《创新算法》学习有感&资源索引
 date: 2021-06-18
 updated: 2022-02-03
-description: undefined
+description: 
 ---
 
 > 如何高效解决难题？创新算法 ARIZ 是什么？为什么 STC 算子有效？

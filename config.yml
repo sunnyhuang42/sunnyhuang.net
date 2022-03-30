@@ -175,7 +175,7 @@ sidebar:
       - text: 为什么不单独打磨定OKR或做复盘的产品/工具包？@立人 210716
         link: '/f_output/fb_lr_devseparate'
       - text: 输出实验室 玩法介绍
-        link: '/f_output/'
+        link: '/f_output'
       - text: 输出实验室 需要哪些支持？
         link: '/f_output/helpwanted'
       - text: 报名入口
@@ -239,7 +239,7 @@ sidebar:
   - text: 产品策划开发
     items:
       - text: 产品策划开发手记导览
-        link: '/devpdt/'
+        link: '/devpdt'
       - text: 最佳实践观察手记
         link: '/devpdt/chBP'
       - text: 线上课程如何给用户良好的同侪环境
@@ -313,7 +313,7 @@ sidebar:
       - text: Swing 吧！你的苦乐，swing 知道
         link: '/selfedu/YouNeedSwing'
       - text: 摇摆舞（Swing）手记导览
-        link: '/swing/'
+        link: '/swing'
       - text: Swing 新人指南
         link: '/swing/HbBeginner'
       - text: Swing 舞会指南
@@ -325,7 +325,7 @@ sidebar:
   - text: 关于
     items:
       - text: 简介
-        link: '/about/'
+        link: '/about'
       - text: 理想生活
         link: '/about/idealife'
       - text: 发展规划

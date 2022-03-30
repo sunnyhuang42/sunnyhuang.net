@@ -1,13 +1,13 @@
-import { useState, Fragment, FC } from 'react';
+import { useState, useEffect, Fragment, FC } from 'react';
 import { useRouter } from 'next/router';
 import Link from 'next/link';
-import { sidebar, SideItem } from '@/config';
-import { useDrawer } from '@/context';
+import { isClient, sidebar, SideItem } from '@/config';
+import { useDrawer, usePage } from '@/context';
 import { ArrowRight, ArrowUpRight } from '@/icons';
 import { Drawer, Collapse } from '@/components';
-import { isUrl } from '@/utils';
+import { isUrl, getCollapsedMap } from '@/utils';
 
-const File: FC<SideItem> = ({ text, link = '' }) => {
+const File: FC<SideItem> = ({ id, text, link = '' }) => {
   const { asPath } = useRouter();
   const { menu } = useDrawer();
   const isExternal = isUrl(link);
@@ -19,7 +19,10 @@ const File: FC<SideItem> = ({ text, link = '' }) => {
         className={`mb-1 block rounded-md p-2 text-sm ${
           selected ? 'text-primary bg-secondary' : 'hover:bg-secondary'
         }`}
-        onClick={menu.close}
+        onClick={() => {
+          menu.close();
+          window.sessionStorage.sidebarId = id;
+        }}
       >
         <span
           className={`${selected && 'text-accent'}`}
@@ -39,13 +42,13 @@ type FolderProps = SideItem & {
 };
 
 const Folder: FC<FolderProps> = (props) => {
-  const { text, items, openMap, onClick } = props;
-  const open = openMap[text] || false;
+  const { id, text, items, openMap, onClick } = props;
+  const open = openMap[id] || false;
   return (
     <>
       <div
         className="mb-1 flex items-center rounded-md p-2 text-sm hover:bg-secondary"
-        onClick={() => onClick(text)}
+        onClick={() => onClick(id)}
       >
         <ArrowRight
           className={`mr-1 h-4 w-4 text-secondary ${
@@ -56,15 +59,10 @@ const Folder: FC<FolderProps> = (props) => {
       </div>
       <Collapse visible={open} className="pl-4">
         {items?.map((i) => (
-          <Fragment key={i.text}>
+          <Fragment key={i.id}>
             {i?.items ? (
               <>
-                <Folder
-                  text={i.text}
-                  items={i.items}
-                  openMap={openMap}
-                  onClick={onClick}
-                />
+                <Folder {...i} openMap={openMap} onClick={onClick} />
               </>
             ) : (
               <File key={i.link} {...i} />
@@ -77,16 +75,15 @@ const Folder: FC<FolderProps> = (props) => {
 };
 
 const Sidebar = () => {
+  const { id } = usePage();
   const { menu } = useDrawer();
   const { asPath } = useRouter();
   const pathname = asPath.split('#')[0];
   const [openMap, setOpenMap] = useState<Record<string, boolean>>(() =>
-    (pathname === '/'
-      ? sidebar.filter((i) => i.collapsed)
-      : sidebar.filter(
-          (i) => i.items?.filter((ii) => ii.link === pathname)?.length,
-        )
-    ).reduce((acc, cur) => ({ ...acc, [cur.text]: true }), {}),
+    (pathname === '/' ? sidebar.filter((i) => i.collapsed) : []).reduce(
+      (acc, cur) => ({ ...acc, [cur.id]: true }),
+      {},
+    ),
   );
 
   const onToggle = (key: string) => {
@@ -95,6 +92,15 @@ const Sidebar = () => {
       [key]: !openMap[key],
     });
   };
+
+  useEffect(() => {
+    if (isClient) {
+      setOpenMap((map) => ({
+        ...map,
+        ...getCollapsedMap(id),
+      }));
+    }
+  }, [id]);
 
   return (
     <Drawer
@@ -105,15 +111,10 @@ const Sidebar = () => {
     >
       <aside className="h-full w-full select-none overflow-y-scroll p-4 lg:pl-0">
         {sidebar.map((i) => (
-          <Fragment key={i.text}>
+          <Fragment key={i.id}>
             {i.items ? (
               <>
-                <Folder
-                  text={i.text}
-                  items={i.items}
-                  openMap={openMap}
-                  onClick={onToggle}
-                />
+                <Folder {...i} openMap={openMap} onClick={onToggle} />
               </>
             ) : (
               <div className="ml-2">

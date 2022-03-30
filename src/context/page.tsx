@@ -7,6 +7,7 @@ type Heading = {
 };
 
 type State = {
+  id: string;
   title?: string;
   headings: Heading[];
 };
@@ -16,6 +17,7 @@ type Value = State & {
 };
 
 export const PageContext = createContext<Value>({
+  id: '',
   title: '',
   headings: [],
   setPage: () => {},
@@ -23,6 +25,7 @@ export const PageContext = createContext<Value>({
 
 export const PageProvider: FC = ({ children }) => {
   const [page, setPage] = useState<State>({
+    id: '',
     title: '',
     headings: [],
   });

@@ -4,8 +4,6 @@ import { social } from '@/config';
 import { Github, Moon, Rss, Sun } from '@/icons';
 import { useTheme } from 'next-themes';
 
-console.log(social.github);
-
 const Social: FC<{ className?: string }> = ({ className }) => {
   const { resolvedTheme, systemTheme, setTheme } = useTheme();
   const isDark = resolvedTheme === 'dark';

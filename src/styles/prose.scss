@@ -1,5 +1,5 @@
 .prose {
-  @apply text-primary w-full;
+  @apply w-full text-primary;
 
   strong,
   ol > li::marker,
@@ -43,7 +43,7 @@
   }
 
   a {
-    @apply font-normal text-accent no-underline hover:underline;
+    @apply font-normal text-accent no-underline transition-colors hover:underline;
 
     word-break: break-word;
     word-wrap: break-word;
@@ -53,7 +53,7 @@
     @apply max-w-full rounded-md;
   }
 
- ul > li::marker {
+  ul > li::marker {
     @apply text-secondary;
   }
 

@@ -1,8 +1,10 @@
 import { DocSearchProps } from '@docsearch/react';
 // @ts-ignore
 import config from '../../config.yml';
+import { getFlatSidebar, getPrevNextMap } from '@/utils';
 
-type LinkItem = {
+export type LinkItem = {
+  id: string;
   text: string;
   link: string;
 };
@@ -13,9 +15,18 @@ type NavItem = {
   items?: LinkItem[];
 };
 
+export type PrevNextItem = {
+  id: string;
+  prev?: Omit<LinkItem, 'id'>;
+  next?: Omit<LinkItem, 'id'>;
+};
+
+export type PostPrevNextMap = Record<string, PrevNextItem[]>;
+
 export type Navbar = NavItem[];
 
 export type SideItem = {
+  id: string;
   text: string;
   link?: string;
   collapsed?: boolean;
@@ -58,6 +69,10 @@ const {
   navbar,
   sidebar,
 } = config as Config;
+
+export const isClient = typeof window !== 'undefined';
+
+export const postPrevNextMap = getPrevNextMap(getFlatSidebar(sidebar));
 
 export {
   title,

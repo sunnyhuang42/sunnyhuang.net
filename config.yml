@@ -29,6 +29,10 @@ highlights:
   - '/wr/HbOutputbyCards'
   - '/selfedu/RevFacialGrowth'
 
+# 广告位
+ad:
+  postBottom: <a target="_blank" href="https://tailwindcss.com/"><img class="w-full mt-10 rounded-md" src="https://tailwindcss.com/_next/static/media/5.cb3efb05f0114abf9efaa0ddbeaed688.jpg"></a>
+
 # 导航栏
 navbar:
   - text: 进阶服务
@@ -184,9 +188,6 @@ sidebar:
     collapsed: true
     items:
       - text: 工具方法
-        topic:
-          - text: 写作工具方法
-            description: 写作中常用的一些高效工具和方法
         items:
           - text: 卡片助力输入输出，工具我选 WorkFlowy
             link: '/selfedu/HbOutputWorkFlowy'

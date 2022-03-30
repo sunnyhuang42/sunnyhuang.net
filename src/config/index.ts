@@ -51,6 +51,9 @@ export type Config = {
   };
   copyright: string;
   highlights: string[];
+  ad: {
+    postBottom?: string;
+  };
   navbar: Navbar;
   sidebar: Sidebar;
 };
@@ -66,6 +69,7 @@ const {
   license,
   copyright,
   highlights,
+  ad,
   navbar,
   sidebar,
 } = config as Config;
@@ -85,6 +89,7 @@ export {
   license,
   copyright,
   highlights,
+  ad,
   navbar,
   sidebar,
 };

@@ -9,4 +9,3 @@ export { default as Navbar } from './navbar';
 export { default as SEO } from './seo';
 export { default as Sidebar } from './sidebar';
 export { default as Social } from './social';
-export { default as TOC } from './toc';

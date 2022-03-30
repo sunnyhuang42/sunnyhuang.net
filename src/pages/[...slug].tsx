@@ -6,7 +6,9 @@ import { allPosts, Post } from '@/data';
 import { ArrowRight } from '@/icons';
 import { isUrl } from '@/utils';
 import { usePage } from '@/context/page';
-import { TOC, SEO } from '@/components';
+import { SEO } from '@/components';
+import TOC from '@/components/toc';
+import Sponsor from '@/components/sponsor';
 
 const PostPage = ({
   post,
@@ -84,8 +86,9 @@ const PostPage = ({
             </div>
           )}
         </div>
+        <Sponsor className="my-10 md:my-16" />
         {(prev || next) && (
-          <div className="mt-10 flex flex-row justify-between border-t py-6 md:mt-16 md:py-10">
+          <div className="flex flex-row justify-between border-t py-6 md:py-10">
             {prev && (
               <div className="group min-w-0 flex-1 text-sm">
                 <Link href={prev.link}>

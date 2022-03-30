@@ -27,7 +27,7 @@ const Blog = (props: InferGetStaticPropsType<typeof getStaticProps>) => {
   };
 
   useEffect(() => {
-    setMode(isClient ? localStorage.postsMode : '' || 'simple');
+    setMode((isClient ? localStorage.postsMode : '') || 'simple');
   }, []);
 
   return (

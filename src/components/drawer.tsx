@@ -57,14 +57,13 @@ const Drawer: FC<Props> = (props) => {
         )}
         {children}
       </div>
-      {visible && (
-        <div
-          className={cn(
-            'fixed top-0 left-0 right-0 bottom-0 z-40 bg-black bg-opacity-60 opacity-100 transition-opacity duration-300',
-          )}
-          onClick={onClose}
-        />
-      )}
+      <div
+        className={cn(
+          'fixed top-0 left-0 right-0 bottom-0 z-40 bg-black bg-opacity-60 opacity-100 transition-opacity duration-300',
+          visible ? 'visible' : 'invisible',
+        )}
+        onClick={onClose}
+      />
     </>
   );
 };

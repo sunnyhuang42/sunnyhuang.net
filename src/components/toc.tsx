@@ -5,7 +5,7 @@ import { Drawer } from '@/components';
 import { throttleDebounce } from '@/utils';
 
 const getAnchorTop = (anchor: HTMLAnchorElement): number =>
-  anchor.parentElement!.offsetTop - 80;
+  anchor.parentElement!.offsetTop - 90;
 
 let prevActiveAnchor: HTMLAnchorElement | null;
 

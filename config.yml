@@ -3,7 +3,7 @@ title: 黄姗
 keywords: ['黄姗', '闪闪', '蓬勃人生', '输出实验室']
 description: 记录分享令人「健康蓬勃 温暖从容」的工具方法
 url: https://sunnyhuang.net
-logo: https://ishanshan.zoomquiet.top/share/ishanshan1409-2.png?imageView2/2/w/400
+logo: https://ishanshan.zoomquiet.top/share/ishanshan1409-2.png?imageView2/2/w/64
 
 # 社交
 social:
@@ -31,7 +31,13 @@ highlights:
 
 # 广告位
 ad:
-  postBottom: <a target="_blank" href="https://tailwindcss.com/"><img class="w-full mt-10 rounded-md" src="https://tailwindcss.com/_next/static/media/5.cb3efb05f0114abf9efaa0ddbeaed688.jpg"></a>
+#  postBottom: <a target="_blank" href="https://tailwindcss.com/"><img class="w-full mt-10 rounded-md" src="https://tailwindcss.com/_next/static/media/5.cb3efb05f0114abf9efaa0ddbeaed688.jpg"></a>
+
+# 赞赏
+sponsor:
+  text: 赠酸奶
+  tips: 微信扫一扫赞赏作者
+  img: https://cdn.chunschen.com/u/1648571434.jpg
 
 # 导航栏
 navbar:

@@ -1,7 +1,7 @@
 import cn from 'clsx';
 import { useEffect, useMemo } from 'react';
 import Link from 'next/link';
-import { isClient, ad, postPrevNextMap, PrevNextItem } from '@/config';
+import { isClient, ad, sponsor, postPrevNextMap, PrevNextItem } from '@/config';
 import { allPosts, Post } from '@/data';
 import { ArrowRight } from '@/icons';
 import { isUrl } from '@/utils';
@@ -93,7 +93,7 @@ const PostPage = ({
             }}
           />
         )}
-        <Sponsor className="my-10 md:my-16" />
+        {sponsor && <Sponsor {...sponsor} className="my-10 md:my-16" />}
         {(prev || next) && (
           <div className="flex flex-row justify-between border-t py-6 md:py-10">
             {prev && (

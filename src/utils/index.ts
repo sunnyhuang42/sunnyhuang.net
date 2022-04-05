@@ -77,3 +77,24 @@ export const getCollapsedMap = (id: string = '') => {
 
   return collapsedMap;
 };
+
+export const throttleDebounce = (fn: () => void, delay = 100) => {
+  let timeout: NodeJS.Timeout;
+  let called = false;
+
+  return () => {
+    if (timeout) {
+      clearTimeout(timeout);
+    }
+
+    if (!called) {
+      fn();
+      called = true;
+      setTimeout(() => {
+        called = false;
+      }, delay);
+    } else {
+      timeout = setTimeout(fn, delay);
+    }
+  };
+};

@@ -54,6 +54,11 @@ export type Config = {
   ad: {
     postBottom?: string;
   };
+  sponsor: {
+    text: string;
+    tips: string;
+    img: string;
+  };
   navbar: Navbar;
   sidebar: Sidebar;
 };
@@ -70,6 +75,7 @@ const {
   copyright,
   highlights,
   ad,
+  sponsor,
   navbar,
   sidebar,
 } = config as Config;
@@ -90,6 +96,7 @@ export {
   copyright,
   highlights,
   ad,
+  sponsor,
   navbar,
   sidebar,
 };

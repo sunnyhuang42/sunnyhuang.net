@@ -60,10 +60,6 @@
     }
   }
 
-  pre {
-    @apply block w-full overflow-x-scroll rounded p-2 bg-secondary;
-  }
-
   table {
     @apply w-full table-auto border-separate overflow-x-scroll rounded border;
 

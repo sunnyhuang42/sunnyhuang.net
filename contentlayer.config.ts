@@ -32,15 +32,24 @@ const Post = defineDocumentType(() => ({
     },
     headings: {
       type: 'json',
-      resolve: (post) =>
-        parse(post.body.html)
+      resolve: (post) => {
+        const headings = parse(post.body.html)
           .querySelectorAll('[id]')
           .filter((node) => node.tagName.includes('H'))
           .map(({ id, tagName, text }) => ({
             id,
             text,
             depth: Number(tagName.replace('H', '')),
-          })),
+          }));
+
+        const logIndex = headings.findIndex((i) => i.id === 'changelog');
+
+        if (logIndex > -1) {
+          headings.push(headings.splice(logIndex, 1)[0]);
+        }
+
+        return headings;
+      },
     },
   },
 }));

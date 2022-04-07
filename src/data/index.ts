@@ -7,6 +7,7 @@ export type Post = Omit<
 > & {
   minutes: number;
   html: string;
+  changelog?: string;
 };
 
 // TODO: description
@@ -18,11 +19,13 @@ export const allPosts: Post[] = allPostsGenerated
   .map((post) => {
     const { _id, _raw, type, body, flattenedPath, date, updated, ...rest } =
       post;
+    const match = body.html.match(/<h2 id="changelog"([\s\S]*)<\/ul>/g);
     return {
       ...rest,
       date: (date || '').slice(0, 10),
       updated: (updated || '').slice(0, 10),
       minutes: Math.ceil(post.words / 400),
-      html: body.html,
+      html: match ? body.html.replace(match[0], '') : body.html,
+      changelog: match ? match[0].match(/<ul>([\s\S]*)<\/ul>/g)?.[0] : '',
     };
   });

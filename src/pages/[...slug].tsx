@@ -5,8 +5,9 @@ import { isClient, ad, sponsor, postPrevNextMap, PrevNextItem } from '@/config';
 import { allPosts, Post } from '@/data';
 import { ArrowRight } from '@/icons';
 import { isUrl } from '@/utils';
+import { useModal } from '@/hooks';
 import { usePage } from '@/context/page';
-import { SEO } from '@/components';
+import { SEO, Collapse } from '@/components';
 import TOC from '@/components/toc';
 import Sponsor from '@/components/sponsor';
 
@@ -29,9 +30,11 @@ const PostPage = ({
     link,
     headings,
     html,
+    changelog,
   } = post;
   const hasUpdated = date !== updated && updated;
   const { setPage } = usePage();
+  const { visible, toggle } = useModal();
 
   const { id, prev, next } = useMemo(
     () =>
@@ -53,7 +56,7 @@ const PostPage = ({
 
   return (
     <article className="flex w-full justify-between">
-      <main className="mx-auto w-full max-w-2xl pt-6 xl:px-6 2xl:px-0">
+      <main className="mx-auto w-full max-w-2xl pt-6 xl:px-10 2xl:px-0">
         <SEO title={title} description={description} keywords={keywords} />
         <h1 className="mt-4 text-4xl font-extrabold md:mt-6">{title}</h1>
         <div
@@ -85,6 +88,33 @@ const PostPage = ({
               </a>
             </div>
           )}
+          {changelog && (
+            <>
+              <h2
+                className="flex cursor-pointer items-center"
+                id="changelog"
+                onClick={() => toggle()}
+              >
+                <span
+                  className={cn(
+                    'mr-2 inline-block text-base transition-transform motion-reduce:transition-none',
+                    visible && 'rotate-90',
+                  )}
+                >
+                  ▶
+                </span>
+                CHANGELOG
+              </h2>
+              <Collapse visible={visible}>
+                <div
+                  className="prose"
+                  dangerouslySetInnerHTML={{
+                    __html: changelog,
+                  }}
+                />
+              </Collapse>
+            </>
+          )}
         </div>
         {ad?.postBottom && (
           <div
@@ -100,11 +130,11 @@ const PostPage = ({
               <div className="group min-w-0 flex-1 text-sm">
                 <Link href={prev.link}>
                   <a>
-                    <div className="mb-1 flex items-center">
-                      <ArrowRight className="mr-1 w-3.5 rotate-180" />
+                    <div className="mb-1 flex items-center text-secondary">
+                      <ArrowRight className="mr-1 w-3 rotate-180" />
                       <span>上一篇</span>
                     </div>
-                    <div className="flex items-center font-medium transition-colors line-clamp-2 group-hover:text-accent">
+                    <div className="flex items-center font-medium text-accent transition-colors line-clamp-2 group-hover:text-accent-highlight">
                       {prev.text}
                     </div>
                   </a>
@@ -116,11 +146,11 @@ const PostPage = ({
               <div className="group min-w-0 flex-1 text-right text-sm">
                 <Link href={next.link}>
                   <a>
-                    <div className="mb-1 flex items-center justify-end">
+                    <div className="mb-1 flex items-center justify-end text-secondary">
                       <span>下一篇</span>
-                      <ArrowRight className="ml-1 w-3.5" />
+                      <ArrowRight className="ml-1 w-3" />
                     </div>
-                    <div className="flex items-center font-medium transition-colors line-clamp-2 group-hover:text-accent">
+                    <div className="flex items-center font-medium text-accent transition-colors line-clamp-2 group-hover:text-accent-highlight">
                       {next.text}
                     </div>
                   </a>

@@ -5,11 +5,11 @@ import { isClient, ad, sponsor, postPrevNextMap, PrevNextItem } from '@/config';
 import { allPosts, Post } from '@/data';
 import { ArrowRight } from '@/icons';
 import { isUrl } from '@/utils';
-import { useModal } from '@/hooks';
 import { usePage } from '@/context/page';
-import { SEO, Collapse } from '@/components';
+import { SEO } from '@/components';
 import TOC from '@/components/toc';
 import Sponsor from '@/components/sponsor';
+import Changelog from '@/components/changelog';
 
 const PostPage = ({
   post,
@@ -34,7 +34,6 @@ const PostPage = ({
   } = post;
   const hasUpdated = date !== updated && updated;
   const { setPage } = usePage();
-  const { visible, toggle } = useModal();
 
   const { id, prev, next } = useMemo(
     () =>
@@ -88,33 +87,7 @@ const PostPage = ({
               </a>
             </div>
           )}
-          {changelog && (
-            <>
-              <h2
-                className="flex cursor-pointer items-center"
-                id="changelog"
-                onClick={() => toggle()}
-              >
-                <span
-                  className={cn(
-                    'mr-2 inline-block text-base transition-transform motion-reduce:transition-none',
-                    visible && 'rotate-90',
-                  )}
-                >
-                  ▶
-                </span>
-                CHANGELOG
-              </h2>
-              <Collapse visible={visible}>
-                <div
-                  className="prose"
-                  dangerouslySetInnerHTML={{
-                    __html: changelog,
-                  }}
-                />
-              </Collapse>
-            </>
-          )}
+          {changelog && <Changelog html={changelog} />}
         </div>
         {ad?.postBottom && (
           <div

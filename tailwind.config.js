@@ -11,18 +11,16 @@ module.exports = {
     extend: {
       colors: {
         accent: 'var(--accent-color)',
+        'accent-highlight': 'var(--accent-highlight-color)',
       },
       maxWidth: {
         '8xl': '90rem',
-      },
-      height: {
-        main: 'calc(100vh - 3.5rem)',
       },
     },
   },
   plugins: [
     require('@tailwindcss/line-clamp'),
-    require('@tailwindcss/typography'),
+    // require('@tailwindcss/typography'),
     plugin(function ({ addUtilities }) {
       addUtilities({
         '.text-primary': {
@@ -31,14 +29,20 @@ module.exports = {
         '.text-secondary': {
           color: 'var(--text-secondary-color)',
         },
+        '.text-tertiary': {
+          color: 'var(--text-tertiary-color)',
+        },
         '.bg-primary': {
           'background-color': 'var(--bg-color)',
         },
         '.bg-secondary': {
           'background-color': 'var(--bg-secondary-color)',
         },
+        '.bg-tertiary': {
+          'background-color': 'var(--bg-tertiary-color)',
+        },
         '.bg-blur': {
-          'background-color': 'var(--bg-transparent)',
+          'background-color': 'var(--bg-transparent-color)',
           'backdrop-filter': 'saturate(180%) blur(20px)',
         },
       });

@@ -1,0 +1,69 @@
+code {
+  @apply rounded px-1 py-0.5 font-normal bg-secondary;
+
+  &:after {
+    content: '';
+  }
+
+  &:before {
+    content: '';
+  }
+}
+
+.code-highlight {
+  .string,
+  .selector,
+  .attr-name,
+  .char,
+  .builtin,
+  .inserted {
+    color: var(--code-string-color);
+  }
+
+  .comment,
+  .prolog,
+  .doctype,
+  .cdata {
+    color: var(--code-comment-color);
+  }
+
+  .number,
+  .boolean {
+    color: var(--code-number-color);
+  }
+
+  .atrule,
+  .rule,
+  .attr-value,
+  .class-name,
+  .regex,
+  .important,
+  .variable {
+    color: var(--code-function-color);
+  }
+
+  .function,
+  .class,
+  .interpolation {
+    color: var(--code-function-color);
+  }
+
+  .keyword {
+    color: var(--code-keyword-color);
+  }
+
+  .property,
+  .tag,
+  .constant,
+  .symbol,
+  .deleted {
+    color: var(--code-constant-color);
+  }
+
+  .macro,
+  .entity,
+  .operator,
+  .url {
+    color: var(--code-entity-color);
+  }
+}

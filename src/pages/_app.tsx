@@ -5,7 +5,7 @@ import { useRouter } from 'next/router';
 import { Zoom } from 'medium-zoom';
 import { ThemeProvider } from 'next-themes';
 import { DrawerProvider, PageProvider } from '@/context';
-import { Layout, Drawer } from '@/components';
+import { Layout } from '@/components';
 import * as gtag from '@/utils/gtag';
 import '@/styles/index.scss';
 
@@ -73,7 +73,6 @@ function App({ Component, pageProps }: AppProps) {
           <DrawerProvider>
             <PageProvider>
               <Layout>
-                <Drawer />
                 <Component {...pageProps} />
               </Layout>
             </PageProvider>

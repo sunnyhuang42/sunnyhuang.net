@@ -1,0 +1,100 @@
+.prose {
+  @apply w-full text-primary;
+
+  strong,
+  ol > li::marker,
+  ul > li::marker,
+  blockquote,
+  h1,
+  h2,
+  h3,
+  h4,
+  figcaption,
+  code,
+  a code,
+  pre,
+  thead,
+  thead th {
+    color: unset;
+  }
+
+  a:hover {
+    @apply underline;
+  }
+
+  hr {
+    border-color: var(--divider-secondary-color);
+  }
+
+  del {
+    @apply text-secondary;
+  }
+
+  blockquote {
+    @apply relative ml-1 block border-0 pl-6 font-normal not-italic;
+
+    quotes: none;
+
+    &:before {
+      @apply absolute top-0 left-0 h-full w-[3px] rounded-sm bg-accent;
+
+      content: '';
+    }
+  }
+
+  img {
+    @apply max-w-full;
+  }
+
+  ul > li::marker {
+    @apply text-secondary;
+  }
+
+  ol > li::marker {
+    @apply text-secondary;
+  }
+
+  .contains-task-list {
+    li {
+      @apply p-0 before:hidden;
+    }
+  }
+
+  pre {
+    @apply block w-full overflow-x-scroll rounded p-2 bg-secondary;
+  }
+
+  table {
+    @apply w-full table-auto border-separate overflow-x-scroll rounded border;
+
+    border-spacing: 0;
+  }
+
+  thead,
+  tr:nth-child(even) {
+    @apply bg-secondary;
+  }
+
+  thead,
+  tbody {
+    th,
+    td {
+      @apply border-r p-2 text-left last-of-type:border-0;
+
+      &:first-child,
+      &:last-child {
+        @apply p-2;
+      }
+    }
+  }
+
+  th[align='center'],
+  td[align='center'] {
+    text-align: center;
+  }
+
+  th[align='right'],
+  td[align='right'] {
+    text-align: right;
+  }
+}

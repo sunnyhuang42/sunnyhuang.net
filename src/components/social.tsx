@@ -17,16 +17,18 @@ const Social: FC<{ className?: string }> = ({ className }) => {
   }, [resolvedTheme, systemTheme]);
 
   return (
-    <div className={`flex justify-center space-x-4 ${className}`}>
+    <div
+      className={`flex justify-center space-x-4 text-secondary ${className}`}
+    >
       <div
-        className="rounded-full p-2 lg:hover:bg-secondary"
+        className="rounded-full p-2 lg:hover:text-primary"
         onClick={changeTheme}
       >
         {isDark ? <Sun /> : <Moon />}
       </div>
       {social.github && (
         <a
-          className="rounded-full p-2 lg:hover:bg-secondary"
+          className="rounded-full p-2 lg:hover:text-primary"
           href={social.github}
           target="_blank"
           rel="noopener noreferrer"
@@ -38,7 +40,7 @@ const Social: FC<{ className?: string }> = ({ className }) => {
         <a
           target="_blank"
           rel="noopener noreferrer"
-          className="rounded-full p-2 hover:bg-secondary"
+          className="rounded-full p-2 hover:text-primary"
         >
           <Rss />
         </a>

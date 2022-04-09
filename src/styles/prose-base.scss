@@ -33,11 +33,30 @@
     }
   }
 
-  a {
-    @apply font-normal font-medium text-accent no-underline transition-colors;
+  pre {
+    @apply block w-full overflow-x-scroll rounded p-2 bg-secondary;
+  }
 
+  code {
+    @apply rounded px-1 py-0.5 font-normal bg-secondary;
+
+    &:after {
+      content: '';
+    }
+
+    &:before {
+      content: '';
+    }
+  }
+
+  a,
+  code {
     word-break: break-word;
     word-wrap: break-word;
+  }
+
+  a {
+    @apply font-normal font-medium text-accent no-underline transition-colors;
 
     &:hover {
       @apply text-accent-highlight;

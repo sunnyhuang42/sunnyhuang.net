@@ -105,7 +105,7 @@ const Toc = () => {
               <a
                 className={cls(
                   'mb-2 block transition-colors hover:text-accent',
-                  heading.depth === depth ? 'font-medium' : '',
+                  // heading.depth === depth ? 'font-medium' : '',
                 )}
                 href={`#${heading.id}`}
                 onClick={toc.close}

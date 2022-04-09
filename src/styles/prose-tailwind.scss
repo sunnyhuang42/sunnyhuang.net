@@ -1,5 +1,9 @@
+@import 'https://fonts.googleapis.com/css?family=Roboto+Mono|Source+Sans+Pro:300,400,600';
+
 .prose {
   @apply w-full text-primary;
+
+  font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
 
   strong,
   ol > li::marker,
@@ -16,6 +20,19 @@
   thead,
   thead th {
     color: unset;
+  }
+
+  h2 {
+    font-size: 1.75rem;
+  }
+
+  h3 {
+    font-size: 1.5rem;
+  }
+
+  p {
+    line-height: 1.6rem;
+    word-spacing: 0.05rem;
   }
 
   a:hover {
@@ -47,11 +64,11 @@
   }
 
   ul > li::marker {
-    @apply text-secondary;
+    //@apply text-secondary;
   }
 
   ol > li::marker {
-    @apply text-secondary;
+    //@apply text-secondary;
   }
 
   .contains-task-list {

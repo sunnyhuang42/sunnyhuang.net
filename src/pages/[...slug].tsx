@@ -1,15 +1,14 @@
 import cn from 'clsx';
 import { useEffect, useMemo } from 'react';
-import Link from 'next/link';
 import { isClient, ad, sponsor, postPrevNextMap, PrevNextItem } from '@/config';
 import { allPosts, Post } from '@/data';
-import { ArrowRight } from '@/icons';
 import { isUrl } from '@/utils';
 import { usePage } from '@/context/page';
 import { SEO } from '@/components';
 import TOC from '@/components/toc';
 import Sponsor from '@/components/sponsor';
 import Changelog from '@/components/changelog';
+import PrevNext from '@/components/prev-next';
 
 const PostPage = ({
   post,
@@ -97,41 +96,7 @@ const PostPage = ({
           />
         )}
         {sponsor && <Sponsor {...sponsor} className="my-10 md:my-16" />}
-        {(prev || next) && (
-          <div className="flex flex-row justify-between border-t py-6 md:py-10">
-            {prev && (
-              <div className="group min-w-0 flex-1 text-sm">
-                <Link href={prev.link}>
-                  <a>
-                    <div className="mb-1 flex items-center text-secondary">
-                      <ArrowRight className="mr-1 w-3 rotate-180" />
-                      <span>上一篇</span>
-                    </div>
-                    <div className="flex items-center font-medium text-accent transition-colors line-clamp-2 group-hover:text-accent-highlight">
-                      {prev.text}
-                    </div>
-                  </a>
-                </Link>
-              </div>
-            )}
-            {prev && next && <div className="w-2 flex-shrink-0 md:w-10" />}
-            {next && (
-              <div className="group min-w-0 flex-1 text-right text-sm">
-                <Link href={next.link}>
-                  <a>
-                    <div className="mb-1 flex items-center justify-end text-secondary">
-                      <span>下一篇</span>
-                      <ArrowRight className="ml-1 w-3" />
-                    </div>
-                    <div className="flex items-center font-medium text-accent transition-colors line-clamp-2 group-hover:text-accent-highlight">
-                      {next.text}
-                    </div>
-                  </a>
-                </Link>
-              </div>
-            )}
-          </div>
-        )}
+        {(prev || next) && <PrevNext prev={prev} next={next} />}
       </main>
       <TOC />
     </article>

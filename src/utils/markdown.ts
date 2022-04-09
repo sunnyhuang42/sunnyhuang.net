@@ -138,6 +138,7 @@ export const rehypePlugins: PluggableList = [
   [
     rehypeAutolinkHeadings,
     {
+      behavior: 'wrap',
       properties: {
         className: ['anchor'],
       },

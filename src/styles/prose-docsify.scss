@@ -5,10 +5,11 @@
 
   font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
   box-sizing: border-box;
-  -webkit-font-smoothing: antialiased;
   -webkit-overflow-scrolling: touch;
   -webkit-text-size-adjust: none;
   -webkit-touch-callout: none;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
 }
 
 .font-medium {
@@ -365,6 +366,9 @@
 }
 
 .code-highlight {
+  -moz-osx-font-smoothing: initial;
+  -webkit-font-smoothing: initial;
+
   .comment,
   .prolog,
   .doctype,
@@ -441,9 +445,8 @@
   .entity {
     cursor: help;
   }
+
   code {
-    -moz-osx-font-smoothing: initial;
-    -webkit-font-smoothing: initial;
     min-height: 1.5rem;
     position: relative;
     left: auto;

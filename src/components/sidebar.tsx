@@ -29,7 +29,7 @@ const File: FC<SideItem> = ({ id, text, link = '' }) => {
           }}
         >
           <span
-            className={`${selected && 'font-medium text-accent'}`}
+            className={`${selected && 'text-accent'}`}
             dangerouslySetInnerHTML={{ __html: text }}
           />
           {isExternal && (

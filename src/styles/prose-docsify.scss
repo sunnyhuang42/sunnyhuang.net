@@ -4,6 +4,11 @@
   @apply scroll-smooth;
 
   font-family: 'Source Sans Pro', 'Helvetica Neue', Arial, sans-serif;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -webkit-overflow-scrolling: touch;
+  -webkit-text-size-adjust: none;
+  -webkit-touch-callout: none;
 }
 
 .font-medium {

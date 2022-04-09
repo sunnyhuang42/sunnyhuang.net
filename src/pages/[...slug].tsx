@@ -59,7 +59,7 @@ const PostPage = ({
         <h1 className="mt-4 text-4xl font-extrabold md:mt-6">{title}</h1>
         <div
           className={cn(
-            'my-8 flex  justify-between space-y-1 text-sm text-secondary',
+            'my-8 flex  justify-between space-y-1 text-secondary',
             hasUpdated && 'flex-col space-y-1',
             'md:flex-row md:space-y-0',
           )}

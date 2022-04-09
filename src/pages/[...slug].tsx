@@ -54,7 +54,7 @@ const PostPage = ({
 
   return (
     <article className="flex w-full justify-between">
-      <main className="mx-auto w-full max-w-2xl pt-6 xl:px-10 2xl:px-0">
+      <main className="mx-auto w-full max-w-2xl pt-6 xl:px-6 2xl:px-0">
         <SEO title={title} description={description} keywords={keywords} />
         <h1 className="mt-4 text-4xl font-extrabold md:mt-6">{title}</h1>
         <div

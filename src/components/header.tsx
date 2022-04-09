@@ -8,7 +8,7 @@ const Search = dynamic(() => import('@/components/search'), { ssr: false });
 const Header = () => {
   return (
     <header className="sticky top-0 z-30 h-14 border-b bg-blur">
-      <div className="mx-auto flex h-full w-full max-w-8xl items-center justify-between px-4">
+      <div className="mx-auto flex h-full w-full max-w-10xl items-center justify-between px-4">
         <Link href="/">
           <a className="flex items-center hover:opacity-70">
             {logo && (

@@ -107,9 +107,9 @@
 
 而如果有相对好用的模板，并和他人约定好时间碰头交流，则会让这个事情成行的概率高不少——这在过去几个月的碰头中，在不同伙伴身上已反复验证。
 
-我自己也受益良多—— **过去一年，虽是自由探索，但我「定目标-做规划-做复盘」（即 PDCA循环）的节奏，比在公司时，还稳**。比如下面是我[每个月的 OKR 和简要复盘记录](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm)，以及[1月的探索日志](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=L3gmd3)（移动端可能无法预览，可点击前文链接直接查看）：
+我自己也受益良多—— **过去一年，虽是自由探索，但我「定目标-做规划-做复盘」（即 PDCA循环）的节奏，比在公司时，还稳**。比如下面是我[每个月的 OKR 和简要复盘记录](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=FFqkNm)，以及[1月的探索日志](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=L3gmd3)（移动端可能无法预览，可点击前文链接直接查看）：
 
-[敏捷迭代营](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm ':include :type=iframe width=100% height=700px')
+[敏捷迭代营](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=FFqkNm ':include :type=iframe width=100% height=700px')
 
 不少伙伴以为是因为我很自律，但诀窍其实是我发起了定期碰头交流小组，促使自己在碰头前，怎么着都会搞出一个 MVP 版本的内容，而不是磨磨蹭蹭或不了了之。且有了 MVP 版本，人类对认知闭合（cognitive closure）的需要，又会让我忍不住在内容被更多人看到前，继续迭代完善。
 
@@ -334,7 +334,7 @@ PS. 工作坊后如果想加入其它模式，在还有名额的情况下可半�
 # footnotes
 
 [^1]: 过去两期内测介绍见（1）[想让职业转型的「试错节奏」快起来？「士别三日行动营」了解一下](f_output/f_test_1st) （2）[职业转型路茫茫，怎么办？来士别三日行动营，一起「拥抱不确定」](f_output/f_test_2nd) ，参与者的复盘反馈见 [用户反馈/往期成员结营复盘](f_output/feedback.md)
-[^1-2]: 具体探索进展，如果你感兴趣，可以看我的探索进展追踪表，有探索日志和每月 OKR 及简要复盘：[探索记录追踪表_闪闪 - 飞书云文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm)
+[^1-2]: 具体探索进展，如果你感兴趣，可以看我的探索进展追踪表，有探索日志和每月 OKR 及简要复盘：[探索记录追踪表@黄姗Sunny - 飞书云文档](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=FFqkNm)
 [^2]: CLV 是指 Customer Lifetime Value，客户终身价值，有时也简写做 LTV 或 CLTV 。这是策划商业项目的一个关键概念，通俗讲是指某项业务在其一个客户身上一辈子能获得的收入
 [^4]: MVP 是 Minimum Viable Product  的缩写，中文一般叫 最小可用产品。一般指能满足需求的最低成本的解决方案。
 

@@ -59,13 +59,13 @@
 - 人生目标/个人发展规划 相关最佳实践研究
 - 对个人感兴趣的候选发展方向进行市场研究
 
-具体见 [想探索的问题清单_闪闪](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=7e122f)
+具体见 [想探索的问题清单@Sunny](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=7e122f)
 
 <details>
 <summary> 预览版（PC 端适用）  </summary>
 
 
-[embed website](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=7e122f ':include :type=iframe width=100% height=700px')
+[embed website](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=7e122f ':include :type=iframe width=100% height=700px')
 
 </details>
 

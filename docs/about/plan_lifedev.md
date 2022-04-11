@@ -1,4 +1,4 @@
-# 个人发展规划_闪闪
+# 个人发展规划@Sunny
 最后更新于 2022-02-23，起草于 2021-06-20
 
 <br>
@@ -69,9 +69,9 @@
 
 ## 中短期规划  :id=shorterm
 
-移动端如果无法查看，可点击[这里](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=y4zfOl)看原文
+移动端如果无法查看，可点击[这里](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=y4zfOl)看原文
 
-[embed website](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=y4zfOl ':include :type=iframe width=100% height=700px')
+[embed website](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=y4zfOl ':include :type=iframe width=100% height=700px')
 
 
 ## 附 :id=ps
@@ -84,14 +84,14 @@
 
 ### 2. 过往一些目标规划
 
-- 探索过程的OKR规划索引和简单复盘反思：[探索记录_闪闪 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm)
+- 探索过程的OKR规划索引和简单复盘反思：[目标进展追踪表@黄姗 Sunny - 飞书云文档](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=FFqkNm)
 - 2020.2 梳理的中长期规划 https://workflowy.com/s/9021bfe92832/B450ao8R9h1ekkNT
 - 2018.6 梳理的[长期发展方向和三年目标规划](about/InfoVocationREQ.md)
 
 
 ### 3. 中短期目标规划早期版本
 
-- 2022 年 1 月中旬之前的版本记录：[探索记录追踪表_闪闪 - 飞书云文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=uM8RmJ)
+- 2022 年 1 月中旬之前的版本记录：[目标进展追踪表@黄姗 Sunny - 飞书云文档](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=uM8RmJ)
 
 
 <details>

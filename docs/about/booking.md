@@ -16,12 +16,12 @@
     我的目标规划，见：
     1. [理想生活](about/idealife)
     2. [个人发展规划](about/plan_lifedev)
-    3. 近期期待需要的支持：[输出实验室 需要哪些支持？](f_output/helpwanted)
+    
 
 
 ## 以下需求一般不约
 
-目前我有好多[想探索的问题](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed)、想验证的想法等着推进，尤其最近状态越来越好，灵感涌现，好些都还没来得及梳理推动，时间宝贵，所以一般不接以下需求：
+目前我有好多[想探索的问题](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=y4zfOl)、想验证的想法等着推进，尤其最近状态越来越好，灵感涌现，好些都还没来得及梳理推动，时间宝贵，所以一般不接以下需求：
 
 ### 1. 没有明确具体问题清单的 :id=unclear
 

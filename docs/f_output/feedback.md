@@ -8,7 +8,7 @@ description:
 如果你想更全面的了解「输出实验室」能给自己带来什么，以及如何用好这里的资源，值得看看其他伙伴怎么说：D
 
 - 输出实验室核心价值探寻：https://t.zsxq.com/JeEEYZr
-- 我的历次复盘：[探索记录追踪表_闪闪 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm)
+- 我的历次复盘：[探索记录追踪表@黄姗Sunny - 飞书文档](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=FFqkNm)
 
 日常的一些反馈，可参考「输出实验室」在知识星球的 「**公开交流区**」： https://t.zsxq.com/2jaMjyr
 

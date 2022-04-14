@@ -140,7 +140,7 @@ description: <p>如何提升找到人生伴侣的效率？受网友启发，我�
 PS. 探寻人生伴侣系列博文：
 
 1. [招亲帖：这位男同学，如果你也想找个偏好创造型快乐的靠谱伴侣…](/family/lifep_Ad)
-2. [答招亲帖「相识十五问」_闪闪](/family/lifep_QAishanshan)
+2. [答招亲帖「相识十五问」@Sunny](/family/lifep_QAishanshan)
 3. [我是怎样的人？那些认识三年以上的老友，给出的答案是…](/about/view_others)
 4. [探寻人生伴侣的路线图](/family/lifep_roadmap)（即本文）
 

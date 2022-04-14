@@ -74,9 +74,9 @@ O 是回答“我(们)想做什么”，KR 是回答“我(们)如何知道是�
 
 如果你感兴趣了解更多具体 OKR 案例，尤其个人 OKR 案例，可参考我这大半年的记录。
 
-每月 OKR 和规划、背后的思考，以及简单复盘，都汇总在这里了（移动端可能无法预览，可点击[这里](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm)直接查看）：
+每月 OKR 和规划、背后的思考，以及简单复盘，都汇总在这里了（移动端可能无法预览，可点击[这里](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=FFqkNm)直接查看）：
 
-[目标规划&简要复盘索引](https://mzm628l8fj.feishu.cn/sheets/shtcnGOoXwn6JtF4UC0cKM8sMed?sheet=FFqkNm ':include :type=iframe width=100% height=700px')
+[目标规划&简要复盘索引](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=FFqkNm ':include :type=iframe width=100% height=700px')
 
 ## 常见陷阱
 
@@ -177,11 +177,11 @@ O 的表达，可参考以下结构：
 比如下面这是我4月的 OKR ，月初时对于 0.7 分定为什么难以明确，随着探索过程越来越清楚下一个要解决的关键挑战是什么后，再迭代就好。
 
 
-> O2(30%). 大幅提升输出速度，以便进行更多有效实验<br> 
-> KR1(100%). 已有积累型内容，由到 4h/千字 提升到 2h/千字；新创作型内容，能达到 4h/千字<br> 
-> **0.7 分：到了月底最后几天，能 5 分钟内进入写作状态，并……（具体是什么，待后续发现明显的改进空间后更新）** <br> 
+> O2(30%). 大幅提升输出速度，以便进行更多有效实验<br>
+> KR1(100%). 已有积累型内容，由到 4h/千字 提升到 2h/千字；新创作型内容，能达到 4h/千字<br>
+> **0.7 分：到了月底最后几天，能 5 分钟内进入写作状态，并……（具体是什么，待后续发现明显的改进空间后更新）** <br>
 > 0.4 分：到了月底最后几天，能 5 分钟内进入写作状态，很少磨磨蹭蹭
-> 
+>
 > 备注：
 > 1. 这里的时长，统计的是快写慢改到文章变动不大时，加起来的总计耗时。
 > 统计的字数，是快写慢改到文章变动不大时，文章的最终字数。

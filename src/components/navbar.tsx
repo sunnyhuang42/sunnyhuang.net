@@ -7,7 +7,7 @@ import { isUrl } from '@/utils';
 
 const Item = ({ text = '', link = '' }) => {
   const isExternal = isUrl(link);
-  return (
+  return link ? (
     <Link href={link}>
       <a {...(isExternal ? { target: '_blank', rel: 'noreferrer' } : {})}>
         <span dangerouslySetInnerHTML={{ __html: text }} />
@@ -16,7 +16,7 @@ const Item = ({ text = '', link = '' }) => {
         )}
       </a>
     </Link>
-  );
+  ) : <span dangerouslySetInnerHTML={{ __html: text }} />;
 };
 
 const Navbar = () => {
@@ -40,9 +40,7 @@ const Navbar = () => {
                 onMouseEnter={() => setKey(i.text)}
                 onMouseLeave={hide}
               >
-                <span className="cursor-pointer whitespace-nowrap">
-                  {i.text}
-                </span>
+                <span className="cursor-pointer whitespace-nowrap" dangerouslySetInnerHTML={{ __html: i.text }} />
                 <div
                   className={cls(
                     'absolute top-10 z-50 w-max md:left-auto',

@@ -41,38 +41,38 @@ sponsor:
 
 # 导航栏
 navbar:
-  - text: 进阶服务
+  - text: 把握转折期
     items:
-      - text: 人生·敏捷迭代营
-        link: '/flourish/f_grow'
-      - text: 以终为始·工作坊
-        link: '/flourish/f_grow?id=workshop'
-  - text: 主题实践手记
+      - text: 成长飞轮启动攻略
+        link: /cmty
+      - text: Sunny转型手记(TBD)
+        link: 
+      - text: Sunny人生探索复盘(TBD)
+        link: 
+      - text: 博客导览
+        link: /blog
+  - text: 进阶服务<sup style="color:orange;"></sup>
     items:
-      - text: 蓬勃人生
-        link: '/cmty'
-      - text: 写作
-        link: '/wr'
-      - text: 面部健康生长
-        link: '/selfedu/RevFacialGrowth'
-      - text: 产品策划开发
-        link: '/devpdt'
-      - text: 摇摆舞（Swing）
-        link: '/swing'
-      - text: 协作共创/组织发展
-        link: https://github.com/ishanshan/CollaborationGuide4Shaper
-  - text: 关于
+      - text: 进阶选择指南(TBD)
+        link: 
+      - text: 闪闪同行计划<sup style="color:orange;"></sup>
+        link: /flourish/gotogether-1st
+      - text: 以终为始·工作坊<sup style="color:orange;"></sup>
+        link: /flourish/f_grow#workshop
+      - text: 人生·敏捷迭代营<sup style="color:orange;"></sup>
+        link: /flourish/f_grow
+  - text: 关于我
     items:
       - text: 个人简介
-        link: '/about'
-      - text: 发展规划
-        link: '/about/plan_lifedev'
+        link: /about
       - text: 个人小传
-        link: '/about/lifestory2203'
+        link: /about/lifestory2203
+      - text: 发展规划
+        link: /about/plan_lifedev
       - text: 约我时间
-        link: '/about/booking'
+        link: /about/booking
       - text: 关爱家人行动清单
-        link: '/family/TipsCare4Parents'
+        link: /family/TipsCare4Parents
 
 # 侧边栏
 sidebar:

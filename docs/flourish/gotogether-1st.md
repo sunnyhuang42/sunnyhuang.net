@@ -408,7 +408,7 @@ PS.
 ---
 
 
-更多疑问反馈，欢迎随时留言交流：）
+更多疑问反馈，欢迎随时加微信 sunnyhuang42 交流：）
 
 [报名可点这里](/flourish/gotogether-1st#signup)
 

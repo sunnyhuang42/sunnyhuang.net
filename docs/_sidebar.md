@@ -8,8 +8,8 @@
 <center><strong> - - - [ 主页 ] - - - </strong></center>
 
 - [内容更新列表/按更新时间查看](index_update.md)
-- [十个片段，串成个人小传，探寻人生脉络 | 写在二字头最后一年](about/lifestory2203.md)
-- [蓬勃人生/flourishing](cmty/README.md)
+- [转折期与师友相伴，持续创造人生新可能|闪闪同行计划 内测报名](flourish/gotogether-1st)
+- [成长飞轮启动攻略](cmty/README.md)
     - [理想人生是怎样的，有哪些模式？](cmty/model_idealife.md)
     - [通往蓬勃人生，「投入产出比」最高的发力点是什么？](cmty/keypoint_flourish.md)
     - 如何让自己进入通往蓬勃人生的增强回路？
@@ -28,7 +28,7 @@
         - [如何做职业选择？· STC 问题清单](cmty/tips_career_choice.md)
         - [用心写周报的同事，绩效不会太差](selfedu/TipsWeekly.md)
         - [希望团队配合更紧密、成长更迅猛？试试这样1on1](cmty/tips_1on1.md)
-- [博客导览](README.md)
+
 
 
 

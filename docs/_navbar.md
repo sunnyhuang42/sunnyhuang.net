@@ -3,12 +3,12 @@
 
 - 把握转折期
   - [成长飞轮启动攻略](cmty/README.md)
-  - [Sunny转型手记]()
-  - [Sunny人生探索复盘]()
+  - [Sunny转型手记(TBD)]()
+  - [Sunny人生探索复盘(TBD)]()
   - [博客导览](/)
 - 进阶服务<sup style="color:orange;"></sup>
     - [进阶选择指南(TBD)]()
-    - [闪闪同行计划](https://sunnylife.feishu.cn/wiki/wikcnbkJoh3w1ZTpWW0oeRI6tig#6Fbulq)<sup style="color:orange;"></sup>
+    - [闪闪同行计划](flourish/gotogether-1st)<sup style="color:orange;"></sup>
     - [以终为始·工作坊](flourish/f_grow?id=workshop)<sup style="color:orange;"></sup>
     - [人生·敏捷迭代营](flourish/f_grow.md)<sup style="color:orange;"></sup>
 - 关于我

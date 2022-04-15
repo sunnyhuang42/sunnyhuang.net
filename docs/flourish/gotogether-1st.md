@@ -184,7 +184,7 @@ Hi, 我是黄姗，可以叫我 Sunny ， 「闪闪人生」这个人生探索�
 
 #### 1. 扫码付款
 
-微信支付：
+微信扫码：
 
 ![qr-gotogether-m5.jpeg](http://ishanshan.zoomquiet.top/share/qr-gotogether-m5.jpeg  ':size=100')
 

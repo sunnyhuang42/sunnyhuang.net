@@ -43,19 +43,19 @@ sponsor:
 navbar:
   - text: 把握转折期
     items:
-      - text: 成长飞轮启动攻略
+      - text: 人生蓬勃发展锦囊
         link: /cmty
       - text: Sunny转型手记(TBD)
-        link: 
+        link:
       - text: Sunny人生探索复盘(TBD)
-        link: 
+        link:
       - text: 博客导览
         link: /blog
-  - text: 进阶服务<sup style="color:orange;"></sup>
+  - text: 进阶服务<sup style="color:orange;">报名中</sup>
     items:
       - text: 进阶选择指南(TBD)
-        link: 
-      - text: 闪闪同行计划<sup style="color:orange;"></sup>
+        link:
+      - text: 闪闪同行计划<sup style="color:orange;">报名中</sup>
         link: /flourish/gotogether-1st
       - text: 以终为始·工作坊<sup style="color:orange;"></sup>
         link: /flourish/f_grow#workshop
@@ -78,7 +78,7 @@ navbar:
 sidebar:
   - text: 博客导览
     link: '/blog'
-  - text: '蓬勃人生<sup style="color:orange;margin-left: 2px;">荐</sup>'
+  - text: '蓬勃人生<sup style="color:orange;margin-left: 2px;"></sup>'
     items:
       - text: 理想人生是怎样的，有哪些模式？
         link: '/cmty/model_idealife'
@@ -329,7 +329,7 @@ sidebar:
         link: '/swing/TipsMovement'
       - text: Swing 星标资源
         link: '/swing/ResHighLight'
-  - text: 关于
+  - text: 关于我
     items:
       - text: 简介
         link: '/about'

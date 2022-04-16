@@ -11,24 +11,16 @@ import {
 } from '@/icons';
 import { Drawer, Collapse } from '@/components';
 import { isUrl, getCollapsedMap } from '@/utils';
-import cn from 'clsx';
 
 type ExpandProps = {
   className?: string;
   isExpand: boolean;
-  onClick: () => void;
+  onClick?: () => void;
 };
 
 const Expand = ({ className, isExpand, onClick }: ExpandProps) => {
-  return (
-    <div
-      className={cn('flex justify-end text-sm', className)}
-      onClick={onClick}
-    >
-      {isExpand ? <CollapseIcon /> : <ExpandIcon />}
-      {/*<span className="ml-1">{isExpand ? '折叠' : '展开'}</span>*/}
-    </div>
-  );
+  const Icon = isExpand ? CollapseIcon : ExpandIcon;
+  return <Icon className={className} onClick={onClick} />;
 };
 
 const File: FC<SideItem> = ({ id, text, link = '' }) => {
@@ -152,11 +144,13 @@ const Sidebar = () => {
       extra={<Expand isExpand={isExpand} onClick={onExpand} />}
     >
       <aside className="flex h-full w-full select-none flex-col space-y-4 overflow-y-scroll p-4 lg:pl-0">
-        <Expand
-          className="hidden lg:-mb-4 lg:flex"
-          isExpand={isExpand}
+        <div
+          className="mb-1 hidden cursor-pointer justify-between pl-1 font-medium  lg:flex"
           onClick={onExpand}
-        />
+        >
+          <div className="text-sm">站点目录</div>
+          <Expand className="w-5" isExpand={isExpand} />
+        </div>
         {sidebar.map((i) => (
           <Fragment key={i.id}>
             {i.items ? (

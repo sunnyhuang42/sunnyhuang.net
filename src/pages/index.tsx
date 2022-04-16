@@ -10,7 +10,7 @@ export default function Home({
   highlightPosts,
 }: InferGetStaticPropsType<typeof getStaticProps>) {
   return (
-    <div className="mx-auto max-w-3xl py-6">
+    <div className="mx-auto max-w-2xl py-6">
       <SEO />
       <div className="prose mb-6" dangerouslySetInnerHTML={{ __html: about }} />
       <List hasMore title="最新内容" data={latestPosts} />

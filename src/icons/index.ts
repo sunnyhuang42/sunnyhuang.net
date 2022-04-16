@@ -2,6 +2,8 @@ export { default as ArrowRight } from './arrow-right';
 export { default as ArrowUpCircle } from './arrow-up-circle';
 export { default as ArrowUpRight } from './arrow-up-right';
 export { default as ChevronDown } from './chevron-down';
+export { default as Collapse } from './collapse';
+export { default as Expand } from './expand';
 export { default as Github } from './github';
 export { default as Grid } from './grid';
 // export { default as HamburgerButton } from './hamburger-button';

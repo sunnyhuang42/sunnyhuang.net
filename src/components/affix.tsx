@@ -54,12 +54,9 @@ const Affix = () => {
       >
         <Grid />
       </div>
-      {isPost && (
+      {!!headings.length && (
         <div
-          className={cn(
-            'rounded-full p-2 bg-secondary xl:hidden',
-            !headings.length && 'hidden',
-          )}
+          className="rounded-full p-2 bg-secondary xl:hidden"
           onClick={toc.open}
         >
           <Menu />

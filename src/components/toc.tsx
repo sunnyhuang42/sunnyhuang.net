@@ -27,9 +27,7 @@ const activateAnchor = (hash: string | null) => {
 
 const setActiveAnchor = () => {
   const anchors = Array.from(
-    document.querySelectorAll(
-      '.prose .anchor',
-    ) as NodeListOf<HTMLAnchorElement>,
+    document.querySelectorAll('.anchor') as NodeListOf<HTMLAnchorElement>,
   ).filter((i) => i.hash);
 
   const { scrollY, innerHeight } = window;
@@ -85,7 +83,7 @@ const Toc = () => {
     };
   }, []);
 
-  return (
+  return headings.length ? (
     <Drawer
       title="本文目录"
       visible={toc.visible}
@@ -117,7 +115,7 @@ const Toc = () => {
         </ul>
       </div>
     </Drawer>
-  );
+  ) : null;
 };
 
 export default Toc;

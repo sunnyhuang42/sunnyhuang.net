@@ -10,3 +10,7 @@
 body {
   @apply text-primary bg-primary;
 }
+
+[id] {
+  @apply scroll-mt-20 scroll-smooth;
+}

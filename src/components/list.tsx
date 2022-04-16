@@ -3,13 +3,13 @@ import { Fragment } from 'react';
 import Link from 'next/link';
 import { Post } from '@/data';
 import { ArrowRight, ArrowUpRight } from '@/icons';
-import { isUrl } from '@/utils';
 
 type Item = Partial<
   Pick<Post, 'slug' | 'title' | 'description' | 'date' | 'link'>
 >;
 
 type Props = {
+  id?: string;
   title: string;
   hasMore?: boolean;
   mode?: 'simple' | 'details';
@@ -58,12 +58,20 @@ const DetailsItem = ({ slug, title, date, link, description }: Item) => {
   );
 };
 
-export default function List({ title, mode, data, hasMore }: Props) {
+export default function List({ id, title, mode, data, hasMore }: Props) {
   const isDetails = mode === 'details';
   return (
     <div className="mb-6">
       <div className={cn('mb-4 flex justify-between border-b py-2')}>
-        <h2 className="text-2xl font-bold">{title}</h2>
+        <h2 id={id} className="text-2xl font-bold">
+          {id ? (
+            <a className="anchor" href={`#${id}`}>
+              {title}
+            </a>
+          ) : (
+            title
+          )}
+        </h2>
         {hasMore && (
           <Link href="/blog">
             <a className="text-sm hover:text-accent">

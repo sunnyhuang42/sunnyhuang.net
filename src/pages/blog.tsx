@@ -5,6 +5,7 @@ import { isClient } from '@/config';
 import { allPosts, Post } from '@/data';
 import SEO from '@/components/seo';
 import List from '@/components/list';
+import { usePage } from '@/context';
 
 const modes = [
   {
@@ -18,7 +19,8 @@ const modes = [
 ];
 
 const Blog = (props: InferGetStaticPropsType<typeof getStaticProps>) => {
-  const { years, postsByYear } = props;
+  const { years, headings, postsByYear } = props;
+  const { setPage } = usePage();
   const [mode, setMode] = useState('');
 
   const handleMode = (mode: string) => {
@@ -27,11 +29,15 @@ const Blog = (props: InferGetStaticPropsType<typeof getStaticProps>) => {
   };
 
   useEffect(() => {
+    setPage({
+      headings,
+      title: '博客导览',
+    });
     setMode((isClient ? localStorage.postsMode : '') || 'simple');
   }, []);
 
   return (
-    <div className="mx-auto max-w-3xl py-6">
+    <div className="mx-auto max-w-2xl py-6 xl:px-6 2xl:px-0">
       <SEO title="博客" />
       {mode && (
         <>
@@ -52,6 +58,7 @@ const Blog = (props: InferGetStaticPropsType<typeof getStaticProps>) => {
           <div>
             {years.map((year) => (
               <List
+                id={year}
                 mode={mode as any}
                 key={year}
                 title={year}
@@ -91,8 +98,13 @@ export const getStaticProps = async () => {
   });
 
   const years = Object.keys(postsByYear).reverse();
+  const headings = years.map((year) => ({
+    id: year,
+    text: `${year}（${postsByYear[year].length} 篇）`,
+    depth: 2,
+  }));
 
-  return { props: { years, postsByYear } };
+  return { props: { years, headings, postsByYear } };
 };
 
 export default Blog;

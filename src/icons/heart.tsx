@@ -1,4 +1,4 @@
-const Award = (props: any) => (
+const Heart = (props: any) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     stroke="currentColor"
@@ -12,4 +12,4 @@ const Award = (props: any) => (
   </svg>
 );
 
-export default Award;
+export default Heart;

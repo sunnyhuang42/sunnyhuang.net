@@ -1,4 +1,5 @@
-import { useState, useContext, createContext, FC } from 'react';
+import { useState, useContext, createContext, FC, useEffect } from 'react';
+import { useRouter } from 'next/router';
 
 type Heading = {
   id: string;
@@ -7,7 +8,7 @@ type Heading = {
 };
 
 type State = {
-  id: string;
+  id?: string;
   title?: string;
   headings: Heading[];
 };
@@ -15,6 +16,8 @@ type State = {
 type Value = State & {
   setPage: (value: State) => void;
 };
+
+const excludes = ['/', '/404', '/old-blog'];
 
 export const PageContext = createContext<Value>({
   id: '',
@@ -24,11 +27,20 @@ export const PageContext = createContext<Value>({
 });
 
 export const PageProvider: FC = ({ children }) => {
+  const { pathname } = useRouter();
   const [page, setPage] = useState<State>({
     id: '',
     title: '',
     headings: [],
   });
+
+  useEffect(() => {
+    if (excludes.includes(pathname)) {
+      setPage({
+        headings: [],
+      });
+    }
+  }, [pathname]);
 
   return (
     <PageContext.Provider value={{ ...page, setPage }}>

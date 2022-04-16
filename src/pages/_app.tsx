@@ -26,8 +26,7 @@ if (typeof document !== 'undefined') {
 }
 
 function App({ Component, pageProps }: AppProps) {
-  const { events, replace, asPath } = useRouter();
-  const isOldBlog = asPath.startsWith('/old-blog');
+  const { events } = useRouter();
   useEffect(() => {
     const handleRouteChange = (url: string) => {
       gtag.pageview(url);
@@ -38,13 +37,6 @@ function App({ Component, pageProps }: AppProps) {
       events.off('routeChangeComplete', handleRouteChange);
     };
   }, [events]);
-
-  useEffect(() => {
-    if (isOldBlog) {
-      const [slug, anchor] = asPath.slice(10).split('?id=');
-      replace(`${slug}${anchor ? `#${anchor}` : ''}`);
-    }
-  }, []);
 
   return (
     <>
@@ -68,17 +60,15 @@ function App({ Component, pageProps }: AppProps) {
           `,
         }}
       />
-      {!isOldBlog && (
-        <ThemeProvider attribute="class">
-          <DrawerProvider>
-            <PageProvider>
-              <Layout>
-                <Component {...pageProps} />
-              </Layout>
-            </PageProvider>
-          </DrawerProvider>
-        </ThemeProvider>
-      )}
+      <ThemeProvider attribute="class">
+        <DrawerProvider>
+          <PageProvider>
+            <Layout>
+              <Component {...pageProps} />
+            </Layout>
+          </PageProvider>
+        </DrawerProvider>
+      </ThemeProvider>
     </>
   );
 }

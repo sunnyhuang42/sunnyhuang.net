@@ -10,22 +10,35 @@ export type Post = Omit<
   changelog?: string;
 };
 
-// TODO: description
+const moreSplit = '<!-- more -->';
 export const allPosts: Post[] = allPostsGenerated
   .sort(
     (a, b) =>
       Number(new Date(b.date as string)) - Number(new Date(a.date as string)),
   )
   .map((post) => {
-    const { _id, _raw, type, body, flattenedPath, date, updated, ...rest } =
-      post;
-    const match = body.html.match(/<h2 id="changelog"([\s\S]*)<\/ul>/g);
+    const {
+      _id,
+      _raw,
+      type,
+      flattenedPath,
+      date,
+      updated,
+      body: { html },
+      ...rest
+    } = post;
+    const match = html.match(/<h2 id="changelog"([\s\S]*)<\/ul>/g);
+    const description =
+      rest.description ||
+      (html.includes(moreSplit) ? html.split(moreSplit)[0] : '');
+
     return {
       ...rest,
+      description,
       date: (date || '').slice(0, 10),
       updated: (updated || '').slice(0, 10),
       minutes: Math.ceil(post.words / 400),
-      html: match ? body.html.replace(match[0], '') : body.html,
+      html: match ? html.replace(match[0], '') : html,
       changelog: match ? match[0].match(/<ul>([\s\S]*)<\/ul>/g)?.[0] : '',
     };
   });

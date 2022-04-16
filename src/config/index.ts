@@ -82,7 +82,9 @@ const {
 
 export const isClient = typeof window !== 'undefined';
 
-export const postPrevNextMap = getPrevNextMap(getFlatSidebar(sidebar));
+const { flatSidebar, openKeyMap } = getFlatSidebar(sidebar);
+
+export const postPrevNextMap = getPrevNextMap(flatSidebar);
 
 export {
   title,
@@ -99,4 +101,5 @@ export {
   sponsor,
   navbar,
   sidebar,
+  openKeyMap,
 };

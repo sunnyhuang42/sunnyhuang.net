@@ -53,16 +53,15 @@ const PostPage = ({
   }, [id, slug]);
 
   return (
-    <article className="flex w-full justify-between">
-      <main className="mx-auto w-full max-w-2xl pt-6 xl:px-6 2xl:px-0">
+      <article className="mx-auto max-w-prose pt-6 xl:px-6 2xl:px-0">
         <SEO title={title} description={description} keywords={keywords} />
         <h1 className="mt-4 text-4xl font-extrabold md:mt-6">{title}</h1>
         <div
-          className={cn(
-            'my-8 flex  justify-between space-y-1 text-secondary',
-            hasUpdated && 'flex-col space-y-1',
-            'md:flex-row md:space-y-0',
-          )}
+            className={cn(
+                'my-8 flex  justify-between space-y-1 text-secondary',
+                hasUpdated && 'flex-col space-y-1',
+                'md:flex-row md:space-y-0',
+            )}
         >
           <div>
             {hasUpdated ? `${updated} 更新 • ` : ''}
@@ -74,32 +73,30 @@ const PostPage = ({
         </div>
         <div className="prose">
           <div
-            dangerouslySetInnerHTML={{
-              __html: html,
-            }}
+              dangerouslySetInnerHTML={{
+                __html: html,
+              }}
           />
           {isUrl(link) && (
-            <div>
-              具体请见：
-              <a href={link} target="_blank" rel="noreferrer">
-                {link}
-              </a>
-            </div>
+              <div>
+                具体请见：
+                <a href={link} target="_blank" rel="noreferrer">
+                  {link}
+                </a>
+              </div>
           )}
           {changelog && <Changelog html={changelog} />}
         </div>
         {ad?.postBottom && (
-          <div
-            dangerouslySetInnerHTML={{
-              __html: ad.postBottom,
-            }}
-          />
+            <div
+                dangerouslySetInnerHTML={{
+                  __html: ad.postBottom,
+                }}
+            />
         )}
         {sponsor && <Sponsor {...sponsor} className="my-10 md:my-16" />}
         {(prev || next) && <PrevNext prev={prev} next={next} />}
-      </main>
-      <TOC />
-    </article>
+      </article>
   );
 };
 

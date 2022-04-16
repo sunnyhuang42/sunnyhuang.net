@@ -1,11 +1,35 @@
-import { useState, useEffect, Fragment, FC } from 'react';
+import { useState, useEffect, useMemo, Fragment, FC } from 'react';
 import { useRouter } from 'next/router';
 import Link from 'next/link';
-import { isClient, sidebar, SideItem } from '@/config';
+import { isClient, sidebar, openKeyMap, SideItem } from '@/config';
 import { useDrawer, usePage } from '@/context';
-import { ArrowRight, ArrowUpRight } from '@/icons';
+import {
+  ArrowRight,
+  ArrowUpRight,
+  Collapse as CollapseIcon,
+  Expand as ExpandIcon,
+} from '@/icons';
 import { Drawer, Collapse } from '@/components';
 import { isUrl, getCollapsedMap } from '@/utils';
+import cn from 'clsx';
+
+type ExpandProps = {
+  className?: string;
+  isExpand: boolean;
+  onClick: () => void;
+};
+
+const Expand = ({ className, isExpand, onClick }: ExpandProps) => {
+  return (
+    <div
+      className={cn('flex justify-end text-sm', className)}
+      onClick={onClick}
+    >
+      {isExpand ? <CollapseIcon /> : <ExpandIcon />}
+      {/*<span className="ml-1">{isExpand ? '折叠' : '展开'}</span>*/}
+    </div>
+  );
+};
 
 const File: FC<SideItem> = ({ id, text, link = '' }) => {
   const { asPath } = useRouter();
@@ -92,12 +116,22 @@ const Sidebar = () => {
       {},
     ),
   );
+  const isExpand = useMemo(
+    () =>
+      Object.values(openMap).filter((i) => i).length ===
+      Object.keys(openKeyMap).length,
+    [openMap],
+  );
 
   const onToggle = (key: string) => {
     setOpenMap({
       ...openMap,
       [key]: !openMap[key],
     });
+  };
+
+  const onExpand = () => {
+    setOpenMap(isExpand ? {} : openKeyMap);
   };
 
   useEffect(() => {
@@ -115,8 +149,14 @@ const Sidebar = () => {
       visible={menu.visible}
       onClose={menu.close}
       className="h-[calc(90vh-3.5rem)] w-full lg:sticky lg:top-14 lg:z-0 lg:h-[calc(100vh-3.5rem)] lg:w-72 lg:flex-shrink-0 lg:transform-none lg:rounded-none lg:border-r lg:transition-none"
+      extra={<Expand isExpand={isExpand} onClick={onExpand} />}
     >
       <aside className="flex h-full w-full select-none flex-col space-y-4 overflow-y-scroll p-4 lg:pl-0">
+        <Expand
+          className="hidden lg:-mb-4 lg:flex"
+          isExpand={isExpand}
+          onClick={onExpand}
+        />
         {sidebar.map((i) => (
           <Fragment key={i.id}>
             {i.items ? (

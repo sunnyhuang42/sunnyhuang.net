@@ -13,14 +13,18 @@ export const isUrl = (str: any) => {
 };
 
 export const getFlatSidebar = (data: Sidebar, parent?: string) => {
-  const result: LinkItem[] = [];
+  let flatSidebar: LinkItem[] = [];
+  let openKeyMap: Record<string, boolean> = {};
   data.forEach((item, index) => {
     item.id = `${parent ? parent + '-' : ''}${index}`;
     if (item.items) {
-      result.push(...getFlatSidebar(item.items, item.id));
+      openKeyMap[item.id] = true;
+      const result = getFlatSidebar(item.items, item.id);
+      flatSidebar.push(...result.flatSidebar);
+      openKeyMap = { ...openKeyMap, ...result.openKeyMap };
     } else if (item.link) {
       const { id, text, link } = item;
-      result.push({
+      flatSidebar.push({
         id,
         text,
         link,
@@ -28,7 +32,10 @@ export const getFlatSidebar = (data: Sidebar, parent?: string) => {
     }
   });
 
-  return result;
+  return {
+    openKeyMap,
+    flatSidebar,
+  };
 };
 
 export const getPrevNextMap = (data: LinkItem[]) => {

@@ -8,7 +8,7 @@ const OldBlog = () => {
   useEffect(() => {
     if (isClient) {
       const [slug, anchor] = window.location.hash.slice(1).split('?id=');
-      replace(`${slug}${anchor ? `#${anchor}` : ''}`);
+      replace(`${slug}${anchor ? `#${anchor}` : ''}` || '/');
     }
   }, [asPath]);
 

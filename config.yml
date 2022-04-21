@@ -51,11 +51,11 @@ navbar:
         link:
       - text: 博客导览
         link: /blog
-  - text: 进阶服务<sup style="color:orange;">报名中</sup>
+  - text: 进阶服务<sup style="color:orange;"></sup>
     items:
       - text: 进阶选择指南(TBD)
         link:
-      - text: 闪闪同行计划<sup style="color:orange;">报名中</sup>
+      - text: 闪闪同行计划<sup style="color:orange;"></sup>
         link: /flourish/gotogether-1st
       - text: 以终为始·工作坊<sup style="color:orange;"></sup>
         link: /flourish/f_grow#workshop

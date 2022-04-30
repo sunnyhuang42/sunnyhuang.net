@@ -59,6 +59,10 @@ export type Config = {
     tips: string;
     img: string;
   };
+  editLink: {
+    repo: string;
+    text: string;
+  };
   navbar: Navbar;
   sidebar: Sidebar;
 };
@@ -76,6 +80,7 @@ const {
   highlights,
   ad,
   sponsor,
+  editLink,
   navbar,
   sidebar,
 } = config as Config;
@@ -99,6 +104,7 @@ export {
   highlights,
   ad,
   sponsor,
+  editLink,
   navbar,
   sidebar,
   openKeyMap,

@@ -22,9 +22,9 @@ const Post = defineDocumentType(() => ({
       type: 'string',
       resolve: (post) => `/${post._raw.flattenedPath.replace(/\/?README/, '')}`,
     },
-    flattenedPath: {
+    sourceFilePath: {
       type: 'string',
-      resolve: (post) => post._raw.flattenedPath,
+      resolve: (post) => post._raw.sourceFilePath,
     },
     words: {
       type: 'number',

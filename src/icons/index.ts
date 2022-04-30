@@ -3,6 +3,7 @@ export { default as ArrowUpCircle } from './arrow-up-circle';
 export { default as ArrowUpRight } from './arrow-up-right';
 export { default as ChevronDown } from './chevron-down';
 export { default as Collapse } from './collapse';
+export { default as Edit } from './edit';
 export { default as Expand } from './expand';
 export { default as Github } from './github';
 export { default as Grid } from './grid';

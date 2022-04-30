@@ -39,6 +39,11 @@ sponsor:
   tips: 微信扫一扫赞赏作者
   img: https://cdn.chunschen.com/u/1648571434.jpg
 
+# 在 Github 编辑此页
+editLink:
+  repo: 'ishanshan/ishanshan.github.io'
+  text: '在 GitHub 上编辑此页'
+
 # 导航栏
 navbar:
   - text: 把握转折期

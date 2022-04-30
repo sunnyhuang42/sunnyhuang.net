@@ -1,11 +1,19 @@
 import cn from 'clsx';
 import { useEffect, useMemo } from 'react';
-import { isClient, ad, sponsor, postPrevNextMap, PrevNextItem } from '@/config';
+import Link from 'next/link';
+import {
+  isClient,
+  ad,
+  sponsor,
+  editLink,
+  postPrevNextMap,
+  PrevNextItem,
+} from '@/config';
 import { allPosts, Post } from '@/data';
+import { Edit } from '@/icons';
 import { isUrl } from '@/utils';
 import { usePage } from '@/context/page';
 import { SEO } from '@/components';
-import TOC from '@/components/toc';
 import Sponsor from '@/components/sponsor';
 import Changelog from '@/components/changelog';
 import PrevNext from '@/components/prev-next';
@@ -30,6 +38,7 @@ const PostPage = ({
     headings,
     html,
     changelog,
+    sourceFilePath,
   } = post;
   const hasUpdated = date !== updated && updated;
   const { setPage } = usePage();
@@ -95,6 +104,18 @@ const PostPage = ({
         />
       )}
       {sponsor && <Sponsor {...sponsor} className="my-10 md:my-16" />}
+      <Link
+        href={`https://github.com/${editLink.repo}/edit/master/docs/${sourceFilePath}`}
+      >
+        <a
+          className="my-8 flex text-sm font-medium text-accent"
+          target="_blank"
+          rel="noreferrer"
+        >
+          <Edit className="mr-2" />
+          {editLink.text}
+        </a>
+      </Link>
       {(prev || next) && <PrevNext prev={prev} next={next} />}
     </article>
   );

@@ -1,10 +1,7 @@
 import type { Post as PostGenerated } from 'contentlayer/generated';
 import { allPosts as allPostsGenerated } from 'contentlayer/generated';
 
-export type Post = Omit<
-  PostGenerated,
-  '_id' | '_raw' | 'type' | 'body' | 'flattenedPath'
-> & {
+export type Post = Omit<PostGenerated, '_id' | '_raw' | 'type' | 'body'> & {
   minutes: number;
   html: string;
   changelog?: string;
@@ -21,7 +18,6 @@ export const allPosts: Post[] = allPostsGenerated
       _id,
       _raw,
       type,
-      flattenedPath,
       date,
       updated,
       body: { html },

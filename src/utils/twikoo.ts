@@ -3,6 +3,7 @@ export const init = () => {
   el.id = 't-comment';
 
   document.querySelector('#twikoo')?.remove();
+
   document.querySelector('#t-container')?.appendChild(el);
 
   // @ts-ignore

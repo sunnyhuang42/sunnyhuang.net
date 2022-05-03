@@ -7,6 +7,7 @@ import { ThemeProvider } from 'next-themes';
 import { DrawerProvider, PageProvider } from '@/context';
 import { Layout } from '@/components';
 import * as gtag from '@/utils/gtag';
+import * as twikoo from '@/utils/twikoo';
 import '@/styles/index.scss';
 
 let zoom: Zoom;
@@ -31,6 +32,7 @@ function App({ Component, pageProps }: AppProps) {
     const handleRouteChange = (url: string) => {
       gtag.pageview(url);
       initZoom();
+      twikoo.init();
     };
     events.on('routeChangeComplete', handleRouteChange);
     return () => {
@@ -58,6 +60,13 @@ function App({ Component, pageProps }: AppProps) {
               page_path: window.location.pathname,
             });
           `,
+        }}
+      />
+      <Script
+        strategy="afterInteractive"
+        src="https://cdn.jsdelivr.net/npm/twikoo@1.5.8/dist/twikoo.all.min.js"
+        onLoad={() => {
+          twikoo.init();
         }}
       />
       <ThemeProvider attribute="class">

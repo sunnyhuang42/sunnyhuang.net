@@ -1,6 +1,7 @@
 import cn from 'clsx';
 import { useEffect, useMemo } from 'react';
 import Link from 'next/link';
+import dynamic from 'next/dynamic';
 import {
   isClient,
   ad,
@@ -17,6 +18,8 @@ import { SEO } from '@/components';
 import Sponsor from '@/components/sponsor';
 import Changelog from '@/components/changelog';
 import PrevNext from '@/components/prev-next';
+
+const Comment = dynamic(() => import('@/components/comment'), { ssr: false });
 
 const PostPage = ({
   post,
@@ -117,6 +120,7 @@ const PostPage = ({
         </a>
       </Link>
       {(prev || next) && <PrevNext prev={prev} next={next} />}
+      <Comment />
     </article>
   );
 };

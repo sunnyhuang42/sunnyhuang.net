@@ -7,7 +7,7 @@ export const init = () => {
 
   // @ts-ignore
   window?.twikoo?.init({
-    envId: 'https://sunny-twikoo.vercel.app',
+    envId: 'https://twikoo.sunnyhuang.net',
     el: '#t-comment',
     lang: 'zh-CN',
   });

@@ -1,3 +1,4 @@
+import { parse } from 'node-html-parser';
 import type { Post as PostGenerated } from 'contentlayer/generated';
 import { allPosts as allPostsGenerated } from 'contentlayer/generated';
 
@@ -30,11 +31,11 @@ export const allPosts: Post[] = allPostsGenerated
 
     return {
       ...rest,
-      description,
       date: (date || '').slice(0, 10),
       updated: (updated || '').slice(0, 10),
       minutes: Math.ceil(post.words / 400),
       html: match ? html.replace(match[0], '') : html,
+      description: parse(description).rawText,
       changelog: match ? match[0].match(/<ul>([\s\S]*)<\/ul>/g)?.[0] : '',
     };
   });

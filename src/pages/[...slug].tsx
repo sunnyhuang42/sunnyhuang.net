@@ -106,7 +106,7 @@ const PostPage = ({
           }}
         />
       )}
-      {sponsor && <Sponsor {...sponsor} className="my-10 md:my-16" />}
+      {sponsor && <Sponsor {...sponsor} className="my-10 md:my-12" />}
       <Link
         href={`https://github.com/${editLink.repo}/edit/master/docs/${sourceFilePath}`}
       >

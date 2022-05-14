@@ -9,7 +9,7 @@ const Sponsor = (props: { className?: string } & Config['sponsor']) => {
   return (
     <div className={cn('relative', className)}>
       <button
-        className="mx-auto block flex h-12 w-44 items-center justify-center rounded-xl bg-orange-500 text-center font-semibold tracking-widest text-white dark:opacity-80"
+        className="mx-auto block flex h-10 w-32 items-center justify-center rounded-xl bg-orange-500 text-center font-semibold tracking-widest text-white dark:opacity-80"
         onTouchStart={() => toggle()}
         onMouseEnter={open}
         onMouseLeave={close}

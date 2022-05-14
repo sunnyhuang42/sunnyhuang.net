@@ -236,7 +236,7 @@ description:
 [^3]: 诊断问题、定出好目标的方法，主要是从全局长期动态本质视角思考，以终为始、结果导向，寻找投入产出比最高的发力点。可先参考这份幻灯 [如何创造更大价值，提升个人 ROI](https://docs.qq.com/slide/DVVBzbVZ1UnFRZEhM)。
 
 
-### CHANGELOG
+## CHANGELOG
 
 
 

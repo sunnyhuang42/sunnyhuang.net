@@ -1,6 +1,6 @@
 ---
 title: 主持人指南_输出实验室
-date: 2021-04-14
+date: 2021-05-19
 updated: 2021-12-11
 description: 
 ---
@@ -11,20 +11,20 @@ description:
 
 ## 主持人目标&职责
 
-见《各角色进阶攻略_输出实验室》里这个标签页：[各角色目标&职责](https://mzm628l8fj.feishu.cn/sheets/shtcnoXwVSubIPneYvgIptMtISf?sheet=1xLjvs)
+见《各角色进阶攻略_输出实验室》里这个标签页：[各角色目标&职责](https://faciloutput.feishu.cn/sheets/shtcnS82zs4mEKUzTTMuUddnCdg?sheet=1xLjvs)
 
 
 <details>
 <summary>点击可预览（移动端可能无法显示）</summary>
 
-[各角色进阶攻略_输出实验室](https://mzm628l8fj.feishu.cn/sheets/shtcnoXwVSubIPneYvgIptMtISf?sheet=1xLjvs ':include :type=iframe width=100% height=700px')
+[各角色进阶攻略_输出实验室](https://faciloutput.feishu.cn/sheets/shtcnS82zs4mEKUzTTMuUddnCdg?sheet=1xLjvs ':include :type=iframe width=100% height=700px')
 
 </details>
 
 
 ## 工作清单
 
-见《各角色进阶攻略_输出实验室》里这个标签页：[会前会后各角色攻略](https://mzm628l8fj.feishu.cn/sheets/shtcnoXwVSubIPneYvgIptMtISf?sheet=Gol8os)
+见《各角色进阶攻略_输出实验室》里这个标签页：[会前会后各角色攻略](https://faciloutput.feishu.cn/sheets/shtcnS82zs4mEKUzTTMuUddnCdg?sheet=Gol8os)
 
 如果想预览，可直接在前文预览窗口底部，切换电子表格的标签页。
 
@@ -33,7 +33,7 @@ description:
 
 ## 进阶标准
 
-见《各角色进阶攻略_输出实验室》里这个标签页：[主持人进阶标准](https://mzm628l8fj.feishu.cn/sheets/shtcnoXwVSubIPneYvgIptMtISf?sheet=SgrH3y)
+见《各角色进阶攻略_输出实验室》里这个标签页：[主持人进阶标准](https://faciloutput.feishu.cn/sheets/shtcnS82zs4mEKUzTTMuUddnCdg?sheet=SgrH3y)
 
 
 
@@ -60,6 +60,8 @@ description:
 * Q.议题讨论环节，主持人如何高效串场？
 * Q.现场要不要调整会议节奏，评估依据是什么？
 * Q.遇到强势主导议程的提议人，怎么办？
+
+<br> 
 
 #### Q.如何不尴尬地打断发言？
 
@@ -288,6 +290,7 @@ description:
 
 ## CHANGELOG
 
+- 220519 更新电子表格地址
 - 211211 增补 check out 环节回应的方法
 - 211017 调整组块、增补关于节奏把控的思路
 - 210717 迭代多次后，闪闪[从腾讯文档](https://docs.qq.com/doc/DVXFFdEpRdVZJaG1T)迁移到博客

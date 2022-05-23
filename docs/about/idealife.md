@@ -1,7 +1,7 @@
 ---
 title: 理想生活
 date: 2021-03-03
-updated: 2022-04-01
+updated: 2022-05-23
 description: 
 ---
 
@@ -26,9 +26,9 @@ description:
 * 帮助上百万伙伴省力地探索尝试、持续突破自我、创造人生新可能
 * 以小团队（7 人左右全职规模）实现年利润千万量级，人均利润是业界10倍好，且能帮助至少 10 个追寻热望的小团队也达到这样的水平
 
-具体到每天，是这样的节律（移动端可能无法预览，可点击[这里](https://mzm628l8fj.feishu.cn/sheets/shtcnHFWWrxtucnzTHXFmNlW9hd)直接查看）：
+具体到每天，是这样的节律（移动端可能无法预览，可点击[这里](https://sunnylife.feishu.cn/wiki/wikcnRpSEVJU7YCOtekoqUCN7Fg)直接查看）：
 
-[每周节律](https://mzm628l8fj.feishu.cn/sheets/shtcnHFWWrxtucnzTHXFmNlW9hd ':include :type=iframe width=100% height=700px')
+[每周节律](https://sunnylife.feishu.cn/wiki/wikcnRpSEVJU7YCOtekoqUCN7Fg ':include :type=iframe width=100% height=700px')
 
 
 
@@ -46,7 +46,8 @@ description:
 
 ## CHANGELOG
 
-- 220401 根据近期进展更新
+- 220523 更新理想节律
+- 220401 根据近期进展添加理想生活细节
 - 211025 更新对财务的期待和葬礼想象
 - 210927 增加个人发展规划的文档地址
 - 210807 更新节律表的地址

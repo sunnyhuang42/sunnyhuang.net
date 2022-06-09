@@ -5,6 +5,7 @@ import { allPosts as allPostsGenerated } from 'contentlayer/generated';
 export type Post = Omit<PostGenerated, '_id' | '_raw' | 'type' | 'body'> & {
   minutes: number;
   html: string;
+  summary: string;
   changelog?: string;
 };
 
@@ -25,17 +26,18 @@ export const allPosts: Post[] = allPostsGenerated
       ...rest
     } = post;
     const match = html.match(/<h2 id="changelog"([\s\S]*)<\/ul>/g);
-    const description =
+    const summary =
       rest.description ||
       (html.includes(moreSplit) ? html.split(moreSplit)[0] : '');
 
     return {
       ...rest,
+      summary,
       date: (date || '').slice(0, 10),
       updated: (updated || '').slice(0, 10),
       minutes: Math.ceil(post.words / 400),
       html: match ? html.replace(match[0], '') : html,
-      description: parse(description).rawText,
+      description: parse(summary).rawText,
       changelog: match ? match[0].match(/<ul>([\s\S]*)<\/ul>/g)?.[0] : '',
     };
   });

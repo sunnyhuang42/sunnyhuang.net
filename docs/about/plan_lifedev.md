@@ -1,7 +1,7 @@
 ---
 title: 个人发展规划@Sunny
 date: 2021-09-27
-updated: 2022-02-23
+updated: 2022-06-09
 description: <blockquote><ul><li>我想去哪儿？</li><li>为什么？</li><li>怎么去？</li></ul></blockquote><p>这些是我一直保持思考的问题。</p><p>之前散落在各处，现在汇总到博客上，方便有需要的伙伴查阅交流、相互支持 ^_^</p><p>内容在持续迭代，如果你有任何疑问、想法、资源机会，都欢迎交流，加速我迭代完善：D</p>
 ---
 
@@ -16,63 +16,13 @@ description: <blockquote><ul><li>我想去哪儿？</li><li>为什么？</li><li
 内容在持续迭代，如果你有任何疑问、想法、资源机会，都欢迎交流，加速我迭代完善：D
 
 
-## 葬礼想象
-
-> 想象你的葬礼，你希望听到人们说你什么？
-
-她满怀好奇，勇敢探索。她用理性和热忱，助百万伙伴更畅快地迭代想法，以稳定的行动节奏和更强健的社会支持面对复杂多变的时代，更省力地追寻人生愿景。
-
-更令人欣喜的是，即使她已离世，这些技术和温暖，依然持续传承。
-
-// 把脑子里想的写到纸面，感觉好羞涩啊哈哈 🙈
-
-## 理想生活
-
-[理想生活](/about/idealife)
 
 
-## 目前想推进的大方向  :id=longterm
+## 远期愿景 :id=shorterm
 
-探索如何高投入产出比地迈向幸福最高境界——人生丰盈蓬勃（flourishing），过上[我的理想生活——「健康蓬勃 温暖从容」](/about/idealife)，并助力更多有需要的伙伴，也省力地迈向他们心中的 flourishing life 。
+移动端如果无法查看，可点击[这里](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=DQo4ZU&table=tbl2THIH6AFldkj2&view=vew4G2IwAi&view_id=9RNfxUZVoI)看原文
 
-### 具体来说
-
-#### 目标人群  :id=targetuser
-
-
-1. **在职业转型、积累核心竞争力**（如产品策划、商业分析等），且**试错成本高**（如有年龄压力）
-
-2. **想让生活更有方向感，希望更深入地思考探索人生关键问题**，比如自己想去哪里（如想过怎样的人生、想为谁创造怎样的价值）、如何去（如下一步的杠杆点是什么、如何进入正向增强回路）等 <br> 而不是 随波逐流，或只偶尔想想那些关键的人生问题，但很少花精力认真梳理、检视和迭代
-
-3. **希望减少浪费、少走弯路，更高效稳定地迭代想法、打磨出优质作品/产品，走出适合自己的人生发展之路**，尤其是：
-    1. **希望更敏捷地尝试想法，去验证那些想法靠不靠谱、有哪些风险、怎么走出适合自己的发展之路** <br>
-    而不是 常想先有更充分的准备再行动，想法酝酿了挺久，迟迟没有行动起来
-    2. **希望迭代想法/作品/产品的节奏更稳定**<br>
-    而不是 断断续续没有持续性，很难每周稳定有可感知的进步和迭代
-
-
-
-#### 提供的产品服务   :id=solution
-
-- 陪伴型训练营 / 课程 / 行动工具包 / 陪伴计划 / 一对一长程教练 / 单例咨询服务，以及由此衍生的同行者社区（Community of Practice）
-- 助用户【定期】认真思索人生关键问题，用系统思考、精益创业、目标管理等领域的精髓，以终为始思索接下来的杠杆点、敏捷迭代行动规划，聚焦要事减少浪费、增强心灵秩序感，更【省力】地实现人生愿景
-
-
-
-### 为什么想推进上述方向？ :id=why
-
-简单来说，这是我热情所在，且找到了大势所趋、未被满足且是我优势所及的用户需求，契合做战略选择“想做 可做 能做”的交集：
-
-![goal_strategy1.png](https://ishanshan.zoomquiet.top/share/goal_strategy1.png ':size=400')
-
-
-
-展开来说：
-
-……待更新
-
-
-
+[embed website](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=DQo4ZU&table=tbl2THIH6AFldkj2&view=vew4G2IwAi&view_id=9RNfxUZVoI ':include :type=iframe width=100% height=700px')
 
 
 ## 中短期规划  :id=shorterm
@@ -96,8 +46,11 @@ description: <blockquote><ul><li>我想去哪儿？</li><li>为什么？</li><li
 - 2020.2 梳理的中长期规划 https://workflowy.com/s/9021bfe92832/B450ao8R9h1ekkNT
 - 2018.6 梳理的[长期发展方向和三年目标规划](/about/InfoVocationREQ)
 
+### 3. 远期规划的早期版本
 
-### 3. 中短期目标规划早期版本
+
+
+### 4. 中短期目标规划早期版本
 
 - 2022 年 1 月中旬之前的版本记录：[目标进展追踪表@黄姗 Sunny - 飞书云文档](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=uM8RmJ)
 
@@ -253,6 +206,7 @@ https://workflowy.com/s/m1011/9dmA0FNYr89MOSrr
 ## CHANGELOG
 
 
+- 220609 把远期愿景替换为表格
 - 220223 把中短期目标规划替换为最新内容地址
 - 211029 更新复盘索引、增长假设、期待的状态
 - 211025 结合近期思考，更新目标人群、产品服务、十八个月目标

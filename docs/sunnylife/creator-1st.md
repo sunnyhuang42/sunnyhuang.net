@@ -141,7 +141,7 @@ PS. 6 月前参加过往期付费内测的伙伴，有 100 元优惠券；之前
 <summary>点击展开：</summary>
 填写上一步设定的名号，以及个人手机号到这个飞书邀请链接：
 
-https://sunnylife.feishu.cn/invite/member/A92GSltvIlwTysIM
+https://sunnylife.feishu.cn/invite/member/A14sFvqs7VGn8jwW
 
 注意：
 

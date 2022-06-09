@@ -46,26 +46,8 @@ editLink:
 
 # 导航栏
 navbar:
-  - text: 把握转折期
-    items:
-      - text: 人生蓬勃发展锦囊
-        link: /cmty
-      - text: Sunny转型手记(TBD)
-        link:
-      - text: Sunny人生探索复盘(TBD)
-        link:
-      - text: 博客导览
-        link: /blog
-  - text: 进阶服务<sup style="color:orange;"></sup>
-    items:
-      - text: 进阶选择指南(TBD)
-        link:
-      - text: 闪闪同行计划<sup style="color:orange;"></sup>
-        link: /flourish/gotogether-1st
-      - text: 以终为始·工作坊<sup style="color:orange;"></sup>
-        link: /flourish/f_grow#workshop
-      - text: 人生·敏捷迭代营<sup style="color:orange;"></sup>
-        link: /flourish/f_grow
+  - text: 闪闪人生创造营<sup style="color:orange;">报名中</sup>
+    link: /sunnylife/creator-1st
   - text: 关于我
     items:
       - text: 个人简介
@@ -83,8 +65,8 @@ navbar:
 sidebar:
   - text: 博客导览
     link: '/blog'
-  - text: 转折期与师友相伴，持续创造人生新可能|闪闪同行计划 内测报名
-    link: '/flourish/gotogether-1st'
+  - text: 像经营企业一样经营人生 | 闪闪人生创造营内测报名
+    link: /sunnylife/creator-1st
   - text: 人生蓬勃发展锦囊
     items:
       - text: 理想人生是怎样的，有哪些模式？
@@ -121,99 +103,65 @@ sidebar:
             link: '/selfedu/TipsWeekly'
           - text: 希望团队配合更紧密、成长更迅猛？试试这样1on1
             link: '/cmty/tips_1on1'
-  - text: 输出实验室
+  - text: 人生探索实践
     items:
-      - text: 在复杂多变的时代，如何更早拥有自己期待的人生？ |「人生·敏捷迭代营」内测招募
-        link: '/flourish/f_grow'
-      - text: 尝试产品商业化这俩月的进展分享 & 「人生·敏捷迭代营」内测招募
-        link: '/f_output/f_test_3rd'
-      - text: 职业转型路茫茫，怎么办？来士别三日行动营，一起「拥抱不确定」
-        link: '/f_output/f_test_2nd'
-      - text: 想让职业转型的「试错节奏」快起来？「士别三日行动营」了解一下
-        link: '/f_output/f_test_1st'
-      - text: 对输出实验室的七大误解，你中了几个？
-        link: '/f_output/misunderstanding'
-      - text: 参与攻略
+      - text: 探索付费产品服务切入点
         items:
+          - text: 转折期与师友相伴，持续创造人生新可能|闪闪同行计划 内测报名
+            link: '/flourish/gotogether-1st'
+          - text: 在复杂多变的时代，如何更早拥有自己期待的人生？ |「人生·敏捷迭代营」内测招募
+            link: '/flourish/f_grow'
+          - text: 尝试产品商业化这俩月的进展分享 & 「人生·敏捷迭代营」内测招募
+            link: '/f_output/f_test_3rd'
+          - text: 职业转型路茫茫，怎么办？来士别三日行动营，一起「拥抱不确定」
+            link: '/f_output/f_test_2nd'
+          - text: 想让职业转型的「试错节奏」快起来？「士别三日行动营」了解一下
+            link: '/f_output/f_test_1st'
+          - text: 对输出实验室的七大误解，你中了几个？
+            link: '/f_output/misunderstanding'
+          - text: 主持人指南
+            link: '/f_output/hb_facilitator'
+      - text: 开发手记
+        items:
+          - text: 如果在「人生·敏捷迭代营」小组练习时，作为案主感觉收获不大，是什么情况？
+            link: '/mur/fo_practicemore'
+          - text: 开始把「获得顶级心流体验」的心法，融入小组练习·迎来又一个小里程碑_220218
+            link: '/f_output/mst_unitedby_agoal'
+          - text: 有测量才易有进步 · 初次尝试信任增进小练习有感_211010
+            link: '/mur/fo_creditws1st'
+          - text: U MADE MY DAY！· 有感于输出实验室又一里程碑
+            link: '/f_output/mst_got2partners'
+          - text: 愈发感觉输出实验室的玩法，太爽了
+            link: '/mur/happiness_f_o_organizer'
+          - text: 向世界交付自己的价值 · 有感于输出实验室又一里程碑
+            link: '/mur/happiness_devpdt_host'
+      - text: 各方交流反馈
+        items:
+          - text: 用户反馈/往期成员结营复盘
+            link: '/f_output/feedback'
+          - text: 关于输出实验室玩法的讨论@xk_210729
+            link: '/f_output/feedback_xk'
+          - text: 自组织实践：如想助力彼此实现目标，怎么办？@东东_210928
+            link: '/f_output/fb_dd_revOKRtog'
+          - text: 自组织实践：如对输出实验室有期待，怎么办？@章鱼狗_210704
+            link: '/f_output/fb_od_hopeselforg'
+          - text: 身边都是正反馈，会不会让你误以为输出实验室是可以服务大部分人的？@六一_210804
+            link: '/f_output/fb_61_remindbias'
+          - text: 为什么不单独打磨定OKR或做复盘的产品/工具包？@立人 210716
+            link: '/f_output/fb_lr_devseparate'
+      - text: 归档
+        items:
+          - text: 输出实验室 玩法介绍
+            link: '/f_output'
+          - text: 输出实验室 需要哪些支持？
+            link: '/f_output/helpwanted'
+          - text: 报名入口
+            link: '/f_output/signup'
           - text: 常见疑问解答/FAQ
             link: '/f_output/faq'
           - text: 如何用好这里的资源/各角色进阶攻略
             link: https://faciloutput.feishu.cn/sheets/shtcnS82zs4mEKUzTTMuUddnCdg?sheet=nGAbzW
-          - text: 主持人指南
-            link: '/f_output/hb_facilitator'
-          - text: 梳理优质目标规划，聚焦要事
-            items:
-              - text: 理想人生是怎样的，有哪些模式？
-                link: '/cmty/model_idealife'
-              - text: 通往蓬勃人生，「投入产出比最高」的发力点是什么？
-                link: '/cmty/keypoint_flourish'
-              - text: 在 VUCA 时代，如何拥有期待的人生？|以终为始·工作坊幻灯分享
-                link: https://faciloutput.feishu.cn/file/boxcnsKs8DUT4BFMg7A2D7xuahf
-              - text: '「以终为始 敏捷迭代」是怎样一种状态，专家级水平有哪些行为特征？'
-                link: https://faciloutput.feishu.cn/sheets/shtcnCjUbsgCpYkWMWKxWMNTuNh?sheet=f08271
-              - text: 希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记
-                link: '/selfedu/tips_rainbowbook'
-              - text: 如何梳理有助于达成长期目标的行动规划？
-                link: '/cmty/tips_MBO_fromend'
-              - text: OKR是一套严密的思考框架？这是啥意思？
-                link: '/cmty/tips_MBOKRframe'
-              - text: 如何从容应对新挑战？·研究最佳实践的通用问题清单&常见陷阱
-                link: '/cmty/tips_RES_BP'
-              - text: 启动新项目，如何设定项目目标? · 项目需求采集问题清单
-                link: '/cmty/infoq_pm_pre'
-              - text: 常做复盘·用心写周报的同事，绩效不会太差
-                link: '/selfedu/TipsWeekly'
-              - text: 如何做职业选择？· STC 问题清单
-                link: '/cmty/tips_career_choice'
-          - text: 应对消极情绪/进展不畅，提升成功概率
-            items:
-              - text: 如何更易获得有效帮助？· 困扰分析模板
-                link: '/cmty/hb_ask4help'
-              - text: 如何提升行动意愿？· 行动清单汇总
-                link: '/cmty/tips_motivation'
-              - text: 如何给自己找 mentor 加速成长？关键有四步
-                link: '/cmty/hb_getmentors'
-              - text: 这座线上心理健身房，你，值得拥有
-                link: '/selfedu/ebp_happiness'
-      - text: 发展记录
-        items:
-          - text: 开发手记
-            items:
-              - text: 如果在「人生·敏捷迭代营」小组练习时，作为案主感觉收获不大，是什么情况？
-                link: '/mur/fo_practicemore'
-              - text: 开始把「获得顶级心流体验」的心法，融入小组练习·迎来又一个小里程碑_220218
-                link: '/f_output/mst_unitedby_agoal'
-              - text: 有测量才易有进步 · 初次尝试信任增进小练习有感_211010
-                link: '/mur/fo_creditws1st'
-              - text: U MADE MY DAY！· 有感于输出实验室又一里程碑
-                link: '/f_output/mst_got2partners'
-              - text: 愈发感觉输出实验室的玩法，太爽了
-                link: '/mur/happiness_f_o_organizer'
-              - text: 向世界交付自己的价值 · 有感于输出实验室又一里程碑
-                link: '/mur/happiness_devpdt_host'
-          - text: 各方交流反馈
-            items:
-              - text: 用户反馈/往期成员结营复盘
-                link: '/f_output/feedback'
-              - text: 关于输出实验室玩法的讨论@xk_210729
-                link: '/f_output/feedback_xk'
-              - text: 自组织实践：如想助力彼此实现目标，怎么办？@东东_210928
-                link: '/f_output/fb_dd_revOKRtog'
-              - text: 自组织实践：如对输出实验室有期待，怎么办？@章鱼狗_210704
-                link: '/f_output/fb_od_hopeselforg'
-              - text: 身边都是正反馈，会不会让你误以为输出实验室是可以服务大部分人的？@六一_210804
-                link: '/f_output/fb_61_remindbias'
-              - text: 为什么不单独打磨定OKR或做复盘的产品/工具包？@立人 210716
-                link: '/f_output/fb_lr_devseparate'
-          - text: 归档
-            items:
-              - text: 输出实验室 玩法介绍
-                link: '/f_output'
-              - text: 输出实验室 需要哪些支持？
-                link: '/f_output/helpwanted'
-              - text: 报名入口
-                link: '/f_output/signup'
-  - text: 主题实践手记
+  - text: 早期主题实践手记
     items:
       - text: 写作
         collapsed: true

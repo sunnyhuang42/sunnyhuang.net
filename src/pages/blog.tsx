@@ -74,13 +74,13 @@ const Blog = (props: InferGetStaticPropsType<typeof getStaticProps>) => {
 
 type PostsByYear = Record<
   string,
-  Partial<Pick<Post, 'slug' | 'title' | 'description' | 'date' | 'link'>>[]
+  Partial<Pick<Post, 'slug' | 'title' | 'description' | 'summary' | 'date' | 'link'>>[]
 >;
 
 export const getStaticProps = async () => {
   const postsByYear: PostsByYear = {};
   allPosts.forEach((post) => {
-    const { slug, title, description, date, link, html } = post;
+    const { slug, title, summary, date, link, html } = post;
     const year = date?.split('-')[0];
     if (year) {
       postsByYear[year] = [
@@ -91,7 +91,7 @@ export const getStaticProps = async () => {
           date: date?.slice(5, 10),
           ...(link
             ? { link, description: html }
-            : { description: description || '' }),
+            : { description: summary || '' }),
         },
       ];
     }

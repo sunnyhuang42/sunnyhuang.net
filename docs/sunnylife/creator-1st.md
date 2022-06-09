@@ -20,7 +20,7 @@ description: 如何像经营企业一样经营人生？
 
 ## 加入闪闪人生创造营
 
-![createlife2-2](http://ishanshan.zoomquiet.top/share/createlife2-2.png  ':size=600' )
+![createlife2-2](http://ishanshan.zoomquiet.top/share/createlife2-3.png  ':size=550' )
 
 
  
@@ -159,7 +159,7 @@ https://sunnylife.feishu.cn/invite/member/A92GSltvIlwTysIM
 
 相关活动主要在飞书上进行，请提前安装飞书 App 。下载链接见  https://www.feishu.cn/download
 
-进入「闪闪人生」的飞书团队后，。
+进入「闪闪人生」的飞书团队后，将在周六 14:00 前，收到周日工作坊前的准备说明。
 
 等待的过程，可先浏览 [0. 社区黑话词典 - 飞书云文档](https://sunnylife.feishu.cn/wiki/wikcncdTu5wmt35nIEN0Gubs4he?sheet=AFxsZ8#)，以便会上更快进入状态。
 

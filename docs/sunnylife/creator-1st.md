@@ -20,7 +20,7 @@ description: 如何像经营企业一样经营人生？
 
 ## 加入闪闪人生创造营
 
-![createlife2-2](http://ishanshan.zoomquiet.top/share/createlife2-3.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1  ':size=550' )
+![createlife2-2](http://ishanshan.zoomquiet.top/share/createlife2-4.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1  ':size=550' )
 
 
  

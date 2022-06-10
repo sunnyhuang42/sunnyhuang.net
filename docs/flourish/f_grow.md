@@ -262,7 +262,7 @@ M3期
 
 如果你想保持稳定节奏，`至少每个月`认真思索一轮下一周期行动的杠杆点，或想促进自己认真思考一轮人生关键问题、思索下一周期行动的杠杆点，或想试试这里的工具方法是否匹配自己的需求，欢迎单报这项。
 
-这个线上工作坊主要是通过这套[思考模板](https://faciloutput.feishu.cn/docs/doccnzZy5LZibUoAWukFQAonbvb)，助你梳理下一周期行动的杠杆点。具体流程玩法可参考[以终为始·工作坊.pptx - 飞书云文档](https://faciloutput.feishu.cn/file/boxcnsKs8DUT4BFMg7A2D7xuahf)。
+这个线上工作坊主要是通过这套[思考模板](https://faciloutput.feishu.cn/docs/doccnzZy5LZibUoAWukFQAonbvb)，助你梳理下一周期行动的杠杆点。具体流程玩法可参考[以终为始·工作坊.pptx - 飞书云文档](https://sunnylife.feishu.cn/wiki/wikcn2UZgndBU40yFOTvxm3qJDh?sheet=FFqkNm)。
 
 
 

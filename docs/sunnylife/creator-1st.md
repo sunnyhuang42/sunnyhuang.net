@@ -10,12 +10,12 @@ description: 如何像经营企业一样经营人生？
 
 ## 你是这样的人吗？
 
-![createlife1](http://ishanshan.zoomquiet.top/share/createlife1.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1  ':size=500')
+![createlife1](http://ishanshan.zoomquiet.top/share/createlife1.png?watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=500')
  
 
 ## 你在面临以下难题吗？
 
-![createlife2](http://ishanshan.zoomquiet.top/share/createlife2.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1 ':size=500')
+![createlife2](http://ishanshan.zoomquiet.top/share/createlife2.png?watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1 ':size=500')
  
 
 ## 加入闪闪人生创造营
@@ -42,7 +42,7 @@ description: 如何像经营企业一样经营人生？
 
 #### 高频稳定的检视迭代节奏，愉悦专注的练习反馈环境
 
-![createlife4](http://ishanshan.zoomquiet.top/share/createlife4-2.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1  ':size=500' )
+![createlife4](http://ishanshan.zoomquiet.top/share/createlife4-2.png?watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=500' )
 
 一般每月例会如上，跟着集体走即可潜移默化，自然运用最佳实践，敏捷行动不磨蹭
 
@@ -69,7 +69,7 @@ description: 如何像经营企业一样经营人生？
 
 按月付费，亦可多月打包购买——**你是自己的 CEO，为人生长远发展投资多少，你说了算** 😉
 
-![createlife6](http://ishanshan.zoomquiet.top/share/createlife6-1.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1)
+![createlife6](http://ishanshan.zoomquiet.top/share/createlife6-1.png?watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1)
 
 ### 领航员
 

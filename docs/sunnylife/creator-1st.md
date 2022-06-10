@@ -10,17 +10,17 @@ description: 如何像经营企业一样经营人生？
 
 ## 你是这样的人吗？
 
-![createlife1](http://ishanshan.zoomquiet.top/share/createlife1.png  ':size=500')
+![createlife1](http://ishanshan.zoomquiet.top/share/createlife1.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1  ':size=500')
  
 
 ## 你在面临以下难题吗？
 
-![createlife2](http://ishanshan.zoomquiet.top/share/createlife2.png ':size=500')
+![createlife2](http://ishanshan.zoomquiet.top/share/createlife2.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1 ':size=500')
  
 
 ## 加入闪闪人生创造营
 
-![createlife2-2](http://ishanshan.zoomquiet.top/share/createlife2-3.png  ':size=550' )
+![createlife2-2](http://ishanshan.zoomquiet.top/share/createlife2-3.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1  ':size=550' )
 
 
  
@@ -29,7 +29,7 @@ description: 如何像经营企业一样经营人生？
 
 #### 一套「梳理、推进和迭代人生规划」的最佳实践框架
 
-![createlife3](http://ishanshan.zoomquiet.top/share/createlife3.png)
+![createlife3](http://ishanshan.zoomquiet.top/share/createlife3.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1)
 
 
 
@@ -42,7 +42,7 @@ description: 如何像经营企业一样经营人生？
 
 #### 高频稳定的检视迭代节奏，愉悦专注的练习反馈环境
 
-![createlife4](http://ishanshan.zoomquiet.top/share/createlife4-1.png  ':size=500' )
+![createlife4](http://ishanshan.zoomquiet.top/share/createlife4-2.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1  ':size=500' )
 
 一般每月例会如上，跟着集体走即可潜移默化，自然运用最佳实践，敏捷行动不磨蹭
 
@@ -58,7 +58,7 @@ description: 如何像经营企业一样经营人生？
 
 #### 一个越来越蓬勃发展、闪闪发光的自己
 
-![createlife5](http://ishanshan.zoomquiet.top/share/createlife5.png)
+![createlife5](http://ishanshan.zoomquiet.top/share/createlife5-1.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1)
 
 
  
@@ -69,7 +69,7 @@ description: 如何像经营企业一样经营人生？
 
 按月付费，亦可多月打包购买——**你是自己的 CEO，为人生长远发展投资多少，你说了算** 😉
 
-![createlife6](http://ishanshan.zoomquiet.top/share/createlife6.png)
+![createlife6](http://ishanshan.zoomquiet.top/share/createlife6-1.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1)
 
 ### 领航员
 
@@ -118,7 +118,7 @@ Hi, 我是黄姗，可以叫我 Sunny ， 「闪闪人生」这个人生探索�
 心态开放迎接变化，愿意坦诚表达感受想法，一起抓bug、改bug，共建共创
 
 **6 月内测价：899 元** <br> 
-PS. 6 月前参加过往期付费内测的伙伴，有 100 元优惠券；之前参加过多少个月付费内测就有多少份，今年内有效，本人使用，一月最多用一份。报名后找我：D
+PS. 6 月前参加过往期付费内测的伙伴，有 100 元优惠，谢谢你之前在产品还非常稚嫩的时候，就乐意来试用、一起浇灌护着它长大。之前参加过多少个月付费内测就有多少份，今年内有效，本人使用，每月最多用一份。报名后找我：D
 
 
 ### 报名步骤

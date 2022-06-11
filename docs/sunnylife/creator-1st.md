@@ -10,7 +10,7 @@ description: 如何像经营企业一样经营人生？
 
 ## 你是这样的人吗？
 
-![createlife1](http://ishanshan.zoomquiet.top/share/createlife1.png?watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=500')
+![createlife1](http://ishanshan.zoomquiet.top/share/createlife1-2.png?watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=500')
  
 
 ## 你在面临以下难题吗？
@@ -20,7 +20,7 @@ description: 如何像经营企业一样经营人生？
 
 ## 加入闪闪人生创造营
 
-![createlife2-2](http://ishanshan.zoomquiet.top/share/createlife2-4.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1  ':size=550' )
+![createlife2-2](http://ishanshan.zoomquiet.top/share/createlife2-5.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1  ':size=550' )
 
 
  

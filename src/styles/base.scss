@@ -14,3 +14,7 @@ body {
 [id] {
   @apply scroll-mt-20 scroll-smooth;
 }
+
+.medium-zoom-image--opened {
+  @apply z-50;
+}

@@ -46,7 +46,7 @@ editLink:
 
 # 导航栏
 navbar:
-  - text: 闪闪人生创造营<sup style="color:orange;">报名中</sup>
+  - text: 闪闪人生创造营<sup style="color:orange;"></sup>
     link: /sunnylife/creator-1st
   - text: 关于我
     items:

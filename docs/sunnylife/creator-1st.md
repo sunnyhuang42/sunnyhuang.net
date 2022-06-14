@@ -10,12 +10,12 @@ description: 如果你想对人生有长远思考，并能落实到日常，愈�
 
 ## 你是这样的人吗？
 
-![createlife1](http://ishanshan.zoomquiet.top/share/createlife1-2.png?watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=500')
+![createlife1](http://ishanshan.zoomquiet.top/share/createlife1-2.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=500')
  
 
 ## 你在面临以下难题吗？
 
-![createlife2](http://ishanshan.zoomquiet.top/share/createlife2.png?watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1 ':size=550')
+![createlife2](http://ishanshan.zoomquiet.top/share/createlife2.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1 ':size=550')
  
 
 ## 加入闪闪人生创造营
@@ -29,7 +29,7 @@ description: 如果你想对人生有长远思考，并能落实到日常，愈�
 
 #### 一套「梳理、推进和迭代人生规划」的最佳实践框架
 
-![createlife3](http://ishanshan.zoomquiet.top/share/createlife3.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1)
+![createlife3](http://ishanshan.zoomquiet.top/share/createlife3.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1)
 
 
 
@@ -42,7 +42,7 @@ description: 如果你想对人生有长远思考，并能落实到日常，愈�
 
 #### 高频稳定的检视迭代节奏，愉悦专注的练习反馈环境
 
-![createlife4](http://ishanshan.zoomquiet.top/share/createlife4-4.png?watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=500' )
+![createlife4](http://ishanshan.zoomquiet.top/share/createlife4-4.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=500' )
 
 一般每月例会如上，跟着集体走即可潜移默化，自然运用最佳实践，敏捷行动不磨蹭
 
@@ -58,7 +58,7 @@ description: 如果你想对人生有长远思考，并能落实到日常，愈�
 
 #### 一个越来越蓬勃发展、闪闪发光的自己
 
-![createlife5](http://ishanshan.zoomquiet.top/share/createlife5-1.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1)
+![createlife5](http://ishanshan.zoomquiet.top/share/createlife5-1.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1)
 
 
  
@@ -69,7 +69,7 @@ description: 如果你想对人生有长远思考，并能落实到日常，愈�
 
 按月付费，亦可多月打包购买——**你是自己的 CEO，为人生长远发展投资多少，你说了算** 😉
 
-![createlife6](http://ishanshan.zoomquiet.top/share/createlife6-1.png?watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1)
+![createlife6](http://ishanshan.zoomquiet.top/share/createlife6-1.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1)
 
 ### 领航员
 

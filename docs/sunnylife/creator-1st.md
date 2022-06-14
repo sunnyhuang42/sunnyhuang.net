@@ -42,7 +42,7 @@ description: 如果你想对人生有长远思考，并能落实到日常，愈�
 
 #### 高频稳定的检视迭代节奏，愉悦专注的练习反馈环境
 
-![createlife4](http://ishanshan.zoomquiet.top/share/createlife4-3.png?watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=500' )
+![createlife4](http://ishanshan.zoomquiet.top/share/createlife4-4.png?watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=500' )
 
 一般每月例会如上，跟着集体走即可潜移默化，自然运用最佳实践，敏捷行动不磨蹭
 

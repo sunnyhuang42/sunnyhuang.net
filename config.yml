@@ -1,6 +1,6 @@
 # 网站
 title: 黄姗
-keywords: ['黄姗', '闪闪', '蓬勃人生', '输出实验室']
+keywords: ['黄姗', '闪闪', '蓬勃人生', '创造', '像经营企业一样经营人生']
 description: 记录分享令人「健康蓬勃 温暖从容」的工具方法
 url: https://sunnyhuang.net
 logo: https://ishanshan.zoomquiet.top/share/ishanshan1409-2.png?imageView2/2/w/64
@@ -24,9 +24,9 @@ copyright: Copyright © 2015-2022 黄姗
 # 首页（推荐内容）
 highlights:
   - '/cmty/tips_MBOKRframe'
+  - '/cmty/keypoint_flourish'
+  - '/cmty/tips_flourishloop'
   - '/selfedu/TipsWeekly'
-  - '/selfedu/HbOutputWorkFlowy'
-  - '/wr/HbOutputbyCards'
   - '/selfedu/RevFacialGrowth'
 
 # 广告位
@@ -75,8 +75,6 @@ sidebar:
         link: '/cmty/keypoint_flourish'
       - text: 在不确定的时代，如何让人生持续蓬勃发展？
         link: '/cmty/tips_flourishloop'
-      - text: 在 VUCA 时代，如何拥有期待的人生？|以终为始·工作坊幻灯分享
-        link: https://sunnylife.feishu.cn/wiki/wikcn2UZgndBU40yFOTvxm3qJDh?sheet=FFqkNm
       - text: '「以终为始 敏捷迭代」是怎样一种状态，专家级水平有哪些行为特征？'
         link: https://sunnylife.feishu.cn/wiki/wikcnm3fEXnyruIaVXoiSYxbXKf?sheet=AFxsZ8
       - text: 希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记
@@ -163,6 +161,8 @@ sidebar:
             link: '/f_output/faq'
           - text: 如何用好这里的资源/各角色进阶攻略
             link: https://faciloutput.feishu.cn/sheets/shtcnS82zs4mEKUzTTMuUddnCdg?sheet=nGAbzW
+          - text: 在 VUCA 时代，如何拥有期待的人生？|以终为始·工作坊幻灯分享
+            link: https://sunnylife.feishu.cn/wiki/wikcn2UZgndBU40yFOTvxm3qJDh?sheet=FFqkNm
   - text: 早期主题实践手记
     items:
       - text: 写作

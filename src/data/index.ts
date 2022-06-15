@@ -10,11 +10,10 @@ export type Post = Omit<PostGenerated, '_id' | '_raw' | 'type' | 'body'> & {
 };
 
 const moreSplit = '<!-- more -->';
+const getTime = (date?: string) => new Date(date || 0).getTime();
+
 export const allPosts: Post[] = allPostsGenerated
-  .sort(
-    (a, b) =>
-      Number(new Date(b.date as string)) - Number(new Date(a.date as string)),
-  )
+  .sort((a, b) => getTime(b.date) - getTime(a.date))
   .map((post) => {
     const {
       _id,

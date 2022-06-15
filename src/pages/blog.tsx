@@ -99,13 +99,6 @@ export const getStaticProps = async () => {
     }
   });
 
-  Object.keys(postsByYear).forEach((year) => {
-    postsByYear[year].sort(
-      (a, b) =>
-        Number(new Date(b.date as string)) - Number(new Date(a.date as string)),
-    );
-  });
-
   const years = Object.keys(postsByYear).reverse();
   const headings = years.map((year) => ({
     id: year,

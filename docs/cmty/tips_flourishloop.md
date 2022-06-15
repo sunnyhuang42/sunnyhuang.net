@@ -152,7 +152,7 @@ description:
 
 如果你感到上面的内容有些多，希望更易记忆，可以简化为这个模型：
 
-![createlife5](http://ishanshan.zoomquiet.top/share/createlife5-1.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1)
+![createlife5](http://ishanshan.zoomquiet.top/share/createlife5-1.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1)
 
 
 如果想再简要一些，就是八个字：

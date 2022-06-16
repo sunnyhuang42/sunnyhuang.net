@@ -7,7 +7,7 @@ description: <p>对于项目管理来说，搞清楚干系人（<a href="https:/
 
 对于项目管理来说，搞清楚干系人（[stakeholders](https://opentextbc.ca/projectmanagement/chapter/chapter-5-project-stakeholders-project-management/)）的需求、预期，至关重要，事关项目成败。<!-- more -->就如做产品，如果没搞清楚用户是谁、用户需求是什么，就根据自己的臆想开干，你觉得做出用户喜爱的产品概率有多大？
 
-多次踩坑后，担任项目经理时，我必会**在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、对于项目管理四要素（时间质量成本范围）的期待、关于风险的提醒建议等信息，同时快速研究业界同类项目的优秀实践，然后形成项目OKR、初步规划，快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期**。
+多次踩坑后，担任项目经理时，我必会**在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、对于项目管理四要素（时间质量成本范围）的期待、关于风险的提醒建议等信息，同时快速研究业界同类项目的优秀实践[^1]，然后形成项目OKR、初步规划，快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期**。
 
 ## 访谈问题清单
 
@@ -58,6 +58,10 @@ description: <p>对于项目管理来说，搞清楚干系人（<a href="https:/
         5. [Project Management – 2nd Edition](https://opentextbc.ca/projectmanagement/chapter/chapter-1-project-management-in-industry-project-management/) 把项目管理各要素，讲得既生动又专业
 
 如果你有疑问、建议等任何反馈，欢迎留言告诉我，一起完善迭代这个问题清单：D
+
+## footnote
+
+[^1]: 如何研究同类项目的最佳实践？我一般这么进行：[如何从容应对新挑战？·研究最佳实践的通用问题清单&常见陷阱 - 黄姗](/cmty/tips_RES_BP)
 
 ## CHANGELOG
 

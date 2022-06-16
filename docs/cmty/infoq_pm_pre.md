@@ -1,17 +1,17 @@
 ---
 title: 启动新项目，如何设定项目目标 · 项目需求采集问题清单
 date: 2021-04-08
-updated: 
+updated: 2022-06-16
 description: <p>对于项目管理来说，搞清楚干系人（<a href="https://opentextbc.ca/projectmanagement/chapter/chapter-5-project-stakeholders-project-management/" target="_blank" rel="noopener">stakeholders</a>）的需求、预期，至关重要，事关项目成败。<!-- more -->就如做产品，如果没搞清楚用户是谁、用户需求是什么，就根据自己的臆想开干，你觉得做出用户喜爱的产品概率有多大？</p><p>多次踩坑后，担任项目经理时，我必会在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、对于项目管理四要素（时间质量成本范围）的期待、关于风险的提醒建议等信息，同时快速研究业界同类项目的优秀实践，然后形成项目OKR、初步规划，快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期。</p>
 ---
 
 对于项目管理来说，搞清楚干系人（[stakeholders](https://opentextbc.ca/projectmanagement/chapter/chapter-5-project-stakeholders-project-management/)）的需求、预期，至关重要，事关项目成败。<!-- more -->就如做产品，如果没搞清楚用户是谁、用户需求是什么，就根据自己的臆想开干，你觉得做出用户喜爱的产品概率有多大？
 
-多次踩坑后，担任项目经理时，我必会在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、对于项目管理四要素（时间质量成本范围）的期待、关于风险的提醒建议等信息，同时快速研究业界同类项目的优秀实践，然后形成项目OKR、初步规划，快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期。
+多次踩坑后，担任项目经理时，我必会**在项目启动初期，快速访谈关键干系人（key stakeholders），单边沟通了解项目背景、对于项目管理四要素（时间质量成本范围）的期待、关于风险的提醒建议等信息，同时快速研究业界同类项目的优秀实践，然后形成项目OKR、初步规划，快速拉他们多边对齐。后续也会持续关注他们的需求变化、管理预期**。
 
 ## 访谈问题清单
 
-以下是项目启动初期，我常用的访谈问题清单，供参考（这是「战略迭代项目」的版本，你把相关内容换成自己项目的即可）：
+以下是项目启动初期，我常用的访谈问题清单，供参考（这是「战略迭代项目」的版本，你把相关内容换成自己项目的即可）；自己想去推进一些事情时，也可自问自答这些问题，梳理目标规划高效推进：
 
 
 
@@ -50,12 +50,17 @@ description: <p>对于项目管理来说，搞清楚干系人（<a href="https:/
 3. 其它：
     1. **随着项目推进，关键干系人可能会有变化，尤其进入新的项目阶段时**。请注意根据项目进展及时盘点名单，并持续关注他们的需求变化、做好预期管理。
     2. 如果项目是你个人的、不涉及其他人，也可以用这个问题清单梳理目标和规划。
-    3. 更多关于项目管理和协作的实践经验、模板，可到这个 GitHub 仓库挖掘： [ishanshan/CollaborationGuide4Shaper: For shaper, by shaper, help you be a shaper 🌱](https://github.com/ishanshan/CollaborationGuide4Shaper) 。
+    3. 更多关于项目管理和协作的实践经验、模板，可参考这些资源：
+        1. [项目管理精华：给非职业项目经理人的项目管理书 (豆瓣)](https://book.douban.com/subject/26986573/) 新手入门，生动直观了解项目管理五大过程组，建立基础认知
+        2. [引导：团队群策群力的实践指南（第4版）- 得到](https://m.igetget.com/native/ebook#/ebook/detail?ebookId=BpM1nLOerPa1XOp27zqQ8KGR56loVWrXe2wdLygv94jYmnENDxAMZJBkbNzEblgQ&bookType=2&uid=2sprQFCiw2JzA7oUYRzbXg&os=iOS) 最后一章给出了各类会议的筹备指南，覆盖项目管理全过程，新手也能轻松上手
+        3. [PMP/PMBOK 项目管理知识体系指南](http://pmp6.chn.ai/chapter/70) 专业手册在线查阅
+        4. [Project Management – 2nd Edition](https://opentextbc.ca/projectmanagement/chapter/chapter-1-project-management-in-industry-project-management/) 把项目管理各要素，讲得既生动又专业
 
 如果你有疑问、建议等任何反馈，欢迎留言告诉我，一起完善迭代这个问题清单：D
 
 ## CHANGELOG
 
+- 220716 增补资源索引
 - 210408 增补注意事项，迁移到博客 1h
 - 210407 从 WorkFlowy 整理到仓库里 1h
 

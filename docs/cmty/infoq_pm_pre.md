@@ -50,11 +50,12 @@ description: <p>对于项目管理来说，搞清楚干系人（<a href="https:/
 3. 其它：
     1. **随着项目推进，关键干系人可能会有变化，尤其进入新的项目阶段时**。请注意根据项目进展及时盘点名单，并持续关注他们的需求变化、做好预期管理。
     2. 如果项目是你个人的、不涉及其他人，也可以用这个问题清单梳理目标和规划。
-    3. 更多关于项目管理和协作的实践经验、模板，可参考这些资源：
-        1. [项目管理精华：给非职业项目经理人的项目管理书 (豆瓣)](https://book.douban.com/subject/26986573/) 新手入门，生动直观了解项目管理五大过程组，建立基础认知
-        2. [引导：团队群策群力的实践指南（第4版）- 得到](https://m.igetget.com/native/ebook#/ebook/detail?ebookId=BpM1nLOerPa1XOp27zqQ8KGR56loVWrXe2wdLygv94jYmnENDxAMZJBkbNzEblgQ&bookType=2&uid=2sprQFCiw2JzA7oUYRzbXg&os=iOS) 最后一章给出了各类会议的筹备指南，覆盖项目管理全过程，新手也能轻松上手
-        3. [PMP/PMBOK 项目管理知识体系指南](http://pmp6.chn.ai/chapter/70) 专业手册在线查阅
-        4. [Project Management – 2nd Edition](https://opentextbc.ca/projectmanagement/chapter/chapter-1-project-management-in-industry-project-management/) 把项目管理各要素，讲得既生动又专业
+    3. 更多关于项目管理和协作的实践要点、工具方法、案例，可参考这些资源：
+        1. [5个方面洞察项目：我如何判断一个项目能否成功](https://mp.weixin.qq.com/s/fXuyNfxHp_9eDudBZbMxoA) 刘润关于项目管理的五点提醒
+        2. [项目管理精华：给非职业项目经理人的项目管理书 (豆瓣)](https://book.douban.com/subject/26986573/) 新手入门，生动直观了解项目管理五大过程组，建立基础认知
+        3. [引导：团队群策群力的实践指南（第4版）- 得到](https://m.igetget.com/native/ebook#/ebook/detail?ebookId=BpM1nLOerPa1XOp27zqQ8KGR56loVWrXe2wdLygv94jYmnENDxAMZJBkbNzEblgQ&bookType=2&uid=2sprQFCiw2JzA7oUYRzbXg&os=iOS) 最后一章给出了各类会议的筹备指南，覆盖项目管理全过程，新手也能轻松上手
+        4. [PMP/PMBOK 项目管理知识体系指南](http://pmp6.chn.ai/chapter/70) 专业手册在线查阅
+        5. [Project Management – 2nd Edition](https://opentextbc.ca/projectmanagement/chapter/chapter-1-project-management-in-industry-project-management/) 把项目管理各要素，讲得既生动又专业
 
 如果你有疑问、建议等任何反馈，欢迎留言告诉我，一起完善迭代这个问题清单：D
 

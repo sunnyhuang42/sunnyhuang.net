@@ -25,7 +25,7 @@ Swing 是什么？为什么 swing 让人快乐？为什么 swing 点亮了我的
 	2. **Swing 舞会指南**：如何在舞会中玩得更开心？如何组织一场令人开心的舞会？且看 [HbParty.md](/swing/HbParty) 。
 	3. **Swing 动作心得**：各舞蹈动作有什么注意事项或技巧？且看 [TipsMovement.md](/swing/TipsMovement) 。
 	4. **Swing 星标资源**： swing 周边有什么推荐资源？且看 [ResHighLight.md](/swing/ResHighLight) 。
-6. **Swing 主题讨论区**：GitHub 自带主题讨论区 [GitHub Issues](https://github.com/ishanshan//issues) ，其可供性（[affordance](https://en.wikipedia.org/wiki/Affordance)）强大，欢迎你自主探索使用姿势，比如分享资源、征集同伴什么的，哈哈 ;-)
+6. **Swing 主题讨论区**：GitHub 自带主题讨论区 [GitHub Issues](https://github.com/ishanshan/EnjoySwingDancing/issues) ，其可供性（[affordance](https://en.wikipedia.org/wiki/Affordance)）强大，欢迎你自主探索使用姿势，比如分享资源、征集同伴什么的，哈哈 ;-)
 
 但其中内容多多链接错综，逐一查看容易迷失。**建议你不必全局浏览，先按下述指引对号入座，然后收藏，步入下一阶段再翻出查阅**：
 

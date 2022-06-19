@@ -37,7 +37,7 @@ description:
 - 较擅长：
 	- 异步协同、项目管理（心法持续更新在 [ishanshan/CollaborationGuide4Shaper: For shaper, by shaper, help you be a shaper ](https://github.com/ishanshan/CollaborationGuide4Shaper)）
 	- 搭建团队知识管理体系
-	- 组织[小型交流活动](/community/IdxActivity.html)（筹备[心得](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/HbCAPEMeetupOrganizer.pdf)/[偏执](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/OpinionActivity1506-ishanshan.pdf)）
+	- 组织[小型交流活动](/selfedu/IdxActivity)（筹备[心得](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/HbCAPEMeetupOrganizer.pdf)/[偏执](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/OpinionActivity1506-ishanshan.pdf)）
 - 在思索：
 	- 如何让更多人体验更多心流
 	- 个体如何实现自我教育

@@ -6,7 +6,7 @@ description:
 ---
 
 
-这里是日常积累的一些动作要点，供已经开始 swing 的你参考。欢迎一起增补，[提交 pull request 修订](https://guides.github.com/activities/forking/#making-changes)，或在 [Issues](https://github.com/ishanshan//issues) 交流均可~
+这里是日常积累的一些动作要点，供已经开始 swing 的你参考。欢迎一起增补，[提交 pull request 修订](https://guides.github.com/activities/forking/#making-changes)，或在 [Issues](https://github.com/ishanshan/EnjoySwingDancing/issues) 交流均可~
 
 如果你还没开始跳，不建议查看 —— 看了也没感觉，还费了你时间…… 🌝
 
@@ -74,7 +74,6 @@ description:
 * [Swing (dance) - Wikipedia](https://en.wikipedia.org/wiki/Swing_(dance))
 * [Lead and follow - Wikipedia](https://en.wikipedia.org/wiki/Lead_and_follow)
 * [Lindy hop today - Wikipedia](https://en.wikipedia.org/wiki/Lindy_hop_today)
-* [List of lindy hop moves - Wikipedia](https://en.wikipedia.org/wiki/List_of_lindy_hop_moves)
 * [Lindy exchange - Wikipedia](https://en.wikipedia.org/wiki/Lindy_exchange)
 * [Balboa (dance) - Wikipedia](https://en.wikipedia.org/wiki/Balboa_(dance))
 * [Blues dance - Wikipedia](https://en.wikipedia.org/wiki/Blues_dance)

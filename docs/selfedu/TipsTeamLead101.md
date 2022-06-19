@@ -72,7 +72,7 @@ description: <p>这份小记写于 2016 年秋，即使陆续修改，也没好�
 
 ![tepmonthlyreview2.png](https://ishanshan.zoomquiet.top/share/tepmonthlyreview2.png)
 
-(该模板全文见 [HbWorkReviewMonthly.md at master · ishanshan/CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbWorkReviewMonthly))
+(该模板全文见 [HbWorkReviewMonthly.md at master · ishanshan/CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbWorkReviewMonthly.md))
 
 虽是给别人做 1 on 1 沟通，我亦收获不小。如复盘时想不到有成就感的事，可回想倍感成长的事情，一样能找到接下来可多多投入的方向；再如看到对方探索方向转变，即使担心也不再评判，而是引导询问对方对这样的探索结果是否满意，为什么；又如给建议时，不说建议你怎么做，而是「如果换作我，我会怎么做，为什么」，这样对方更易接受；还如派任务时，不说「有劳这样这样」，而是「这样这样，对你来说 OK 吗」，比如「初稿下周二 14:00 前发给大伙查阅，对你来说 OK 吗？」，既获取对方承诺让结果更易达成，也给对方选择余地感觉更自主。
 
@@ -85,7 +85,7 @@ description: <p>这份小记写于 2016 年秋，即使陆续修改，也没好�
 
 可课程节奏分为研发筹备、招生开课、日常运营、结业、复盘五大阶段，全程 3-5 个月，这对新人上手实在不友好。好在一个时期多有几门课程，每门所处环节不一，新人恰得在短时间内，跟着已熟悉业务的同事体验所有环节。如此便缩短了新人熟悉节奏的周期。
 
-至于品质，每门课程都已积累不少模板、行动指南，即使老手不过多介入，新人也易独立完成不出大错。但要把结果从六十分做到九十分，还靠个人主动刻意练习（deliberate practice，要点见 [刻意练习的本质 - 阳志平的网志](http://www.yangzhiping.com/column/deliberate-practice.html)），不断积累行动检查清单。
+至于品质，每门课程都已积累不少模板、行动指南，即使老手不过多介入，新人也易独立完成不出大错。但要把结果从六十分做到九十分，还靠个人主动刻意练习（deliberate practice，要点见 [刻意练习的本质 - 阳志平的网志](https://www.yangzhiping.com/column/deliberate-practice.html)），不断积累行动检查清单。
 
 靠个人主动？这有风险呀。那几周我心里又多一个待解之题。
 

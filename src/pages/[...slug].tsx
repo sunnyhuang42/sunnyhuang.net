@@ -127,11 +127,8 @@ const PostPage = ({
 
 const excludes = ['/', '/404'];
 export const getStaticPaths = () => {
-  const isProduction = process.env.NODE_ENV === 'production';
   const paths = allPosts
-    .filter(
-      ({ slug, hide }) => !(excludes.includes(slug) || (isProduction && hide)),
-    )
+    .filter(({ slug, hide }) => !excludes.includes(slug))
     .map((post) => post.slug);
 
   return {

@@ -11,8 +11,10 @@ export type Post = Omit<PostGenerated, '_id' | '_raw' | 'type' | 'body'> & {
 
 const moreSplit = '<!-- more -->';
 const getTime = (date?: string) => new Date(date || 0).getTime();
+const isProduction = process.env.NODE_ENV === 'production';
 
 export const allPosts: Post[] = allPostsGenerated
+  .filter((post) => !(post.hide && isProduction))
   .sort((a, b) => getTime(b.date) - getTime(a.date))
   .map((post) => {
     const {

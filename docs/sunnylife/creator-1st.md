@@ -65,11 +65,13 @@ description: 如果你想对人生有长远思考，并能落实到日常，愈�
 
 ### 你的旅程
 
+
+
+![createlife6](http://ishanshan.zoomquiet.top/share/createlife6-1.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1)
+
 这里类似健身房，你可**根据个人需求和已有积累，沿着工具包指引，安排自己的人生探索行动计划**
 
 按月付费，亦可多月打包购买——**你是自己的 CEO，为人生长远发展投资多少，你说了算** 😉
-
-![createlife6](http://ishanshan.zoomquiet.top/share/createlife6-1.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1)
 
 ### 领航员
 

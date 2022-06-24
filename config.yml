@@ -46,8 +46,8 @@ editLink:
 
 # 导航栏
 navbar:
-  - text: 闪闪人生创造营<sup style="color:orange;"></sup>
-    link: /sunnylife/creator-1st
+  - text: 闪闪人生创造营<sup style="color:orange;">报名中</sup>
+    link: /sunnylife/creator-2nd
   - text: 关于我
     items:
       - text: 个人简介
@@ -66,7 +66,7 @@ sidebar:
   - text: 博客导览
     link: '/blog'
   - text: 像经营企业一样经营人生 | 闪闪人生创造营内测报名
-    link: /sunnylife/creator-1st
+    link: /sunnylife/creator-2nd
   - text: 人生蓬勃发展锦囊
     items:
       - text: 理想人生是怎样的，有哪些模式？
@@ -107,6 +107,8 @@ sidebar:
     items:
       - text: 探索付费产品服务切入点
         items:
+          - text: 像经营企业一样经营人生 | 闪闪人生创造营首期内测报名
+            link: /sunnylife/creator-1st
           - text: 转折期与师友相伴，持续创造人生新可能|闪闪同行计划 内测报名
             link: '/flourish/gotogether-1st'
           - text: 在复杂多变的时代，如何更早拥有自己期待的人生？ |「人生·敏捷迭代营」内测招募

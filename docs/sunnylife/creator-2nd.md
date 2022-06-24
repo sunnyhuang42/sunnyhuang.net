@@ -179,7 +179,7 @@ https://sunnylife.feishu.cn/invite/member/A14sFvqs7VGn8jwW
 
 进入「闪闪人生」的飞书团队后，将在周六 14:00 前，收到周日工作坊前的准备说明。
 
-等待的过程，可先做会前准备：参考下述模板「步骤 0 」的问题，开始酝酿梳理人生规划哦：[案主模板-6个月版 - 飞书云文档](https://sunnylife.feishu.cn/wiki/wikcn723yjQfBi6auDOK8LHYq9b)
+等待的过程，可先做会前准备：参考下述模板「步骤 0 」的问题，开始酝酿梳理人生规划哦：[行动杠杆点梳理-6个月版 - 飞书云文档](https://sunnylife.feishu.cn/wiki/wikcn723yjQfBi6auDOK8LHYq9b)
 
 PS.
 
@@ -270,7 +270,7 @@ PS.
 
 预计当月倒数第二周开放下月报名，可留意我博客更新，或朋友圈、知识星球动态。
 
-等待的时间，可先为第一次会议做准备——参考下述模板「步骤 0 」的问题，开始酝酿梳理人生规划： [案主模板-6个月版](https://sunnylife.feishu.cn/wiki/wikcn723yjQfBi6auDOK8LHYq9b?sheet=FFqkNm) 
+等待的时间，可先为第一次会议做准备——参考下述模板「步骤 0 」的问题，开始酝酿梳理人生规划： [行动杠杆点梳理-6个月版](https://sunnylife.feishu.cn/wiki/wikcn723yjQfBi6auDOK8LHYq9b?sheet=FFqkNm) 
 
 
 ### 7. 对创造营还有更多疑问？

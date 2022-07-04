@@ -1,7 +1,7 @@
 ---
 title: 像经营企业一样经营人生 | 闪闪人生创造营内测报名
 date: 2022-06-22
-updated: 2022-06-29
+updated: 2022-07-04
 description: 在先锋用户的大力支持下，过去两周又有不少迭代，我对这款产品服务越来越有信心 😋 <br>  如果你想对人生有长远思考，并能落实到日常，愈发踏实从容、蓬勃发展，欢迎来玩 🤗
 ---
 
@@ -285,16 +285,17 @@ BTW，**如果感觉自己很忙，其实更值得尽早参加，而不是等不
 
 一般当月倒数第二周开放下月报名，可留意我博客更新，或朋友圈、知识星球动态。
 
-等待的时间，可先为第一次会议做准备——参考下述模板「步骤 0 」的问题，开始酝酿梳理人生规划： [行动杠杆点梳理-6个月版](https://sunnylife.feishu.cn/wiki/wikcnQWuFysBiHushRX0QhGk9Ce?sheet=FnMWGj) 
+等待的时间，可先为第一次会议做准备——参考下述模板第一部分的问题，开始酝酿梳理人生规划、下一步行动计划： [行动杠杆点梳理-基石版](https://sunnylife.feishu.cn/wiki/wikcnQWuFysBiHushRX0QhGk9Ce?sheet=FnMWGj) 
 
 
 ### 8. 对创造营还有更多疑问？
 
 如果想了解 6 月内测的反馈，可先看这里：
+- [Ruby 六月复盘](https://sunnylife.feishu.cn/wiki/wikcnaePxEXeB7su2VqTkK3Sscc?sheet=FnMWGj)
 - https://t.zsxq.com/03BY7UfQr 
 - https://t.zsxq.com/037Eybyzf
 
-更多反馈，将在月复盘交流会后分享，感兴趣可留意上述知识星球动态。
+更多反馈，感兴趣可留意上述知识星球动态。
 
 
 
@@ -305,6 +306,7 @@ BTW，**如果感觉自己很忙，其实更值得尽早参加，而不是等不
 
 ## CHANGELOG 
 
+- 220704 增补用户复盘
 - 220629 增补用户反馈
 - 220625 增加 FAQ
 - 220624 迭代 FAQ

@@ -291,6 +291,7 @@ BTW，**如果感觉自己很忙，其实更值得尽早参加，而不是等不
 ### 8. 对创造营还有更多疑问？
 
 如果想了解 6 月内测的反馈，可先看这里：
+- [你愿意与我一起共创未来嘛？](https://mp.weixin.qq.com/s/342XCLZszwU4Q-PLJFWTTQ)
 - [Ruby 六月复盘](https://sunnylife.feishu.cn/wiki/wikcnaePxEXeB7su2VqTkK3Sscc?sheet=FnMWGj)
 - https://t.zsxq.com/03BY7UfQr 
 - https://t.zsxq.com/037Eybyzf

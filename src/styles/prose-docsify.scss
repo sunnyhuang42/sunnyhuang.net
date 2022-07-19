@@ -289,7 +289,8 @@
 }
 .prose code,
 .prose pre {
-  background-color: #f8f8f8;
+  background-color: var(--bg-secondary-color);
+  border-radius: 8px;
 }
 .prose pre,
 .prose output {

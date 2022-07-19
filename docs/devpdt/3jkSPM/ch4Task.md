@@ -71,7 +71,7 @@ description:
 
 ### 明确产品定位和分析方向
 
-从微博[财报](http://ir.weibo.com/phoenix.zhtml?c=253076&p=irol-newsArticle&ID=2332019)（看不懂可以多翻业界对其财报的解读，比如[这个](https://mp.weixin.qq.com/s/RHVEYaFenQ6ad0tynMzXGA)）、[App store 产品介绍](https://itunes.apple.com/cn/app/%E5%BE%AE%E5%8D%9A/id350962117?mt=8)、[微博搜索官方文档](https://help.weibo.com/newtopic/search/list/1968)和[用户报告](http://data.weibo.com/report/reportDetail?id=404)、公司高管发言等材料发现，微博主要有以下特征：
+从微博[财报](http://ir.weibo.com/phoenix.zhtml?c=253076&p=irol-newsArticle&ID=2332019)（看不懂可以多翻业界对其财报的解读，比如[这个](https://mp.weixin.qq.com/s/RHVEYaFenQ6ad0tynMzXGA)）、[App store 产品介绍](https://itunes.apple.com/cn/app/%E5%BE%AE%E5%8D%9A/id350962117?mt=8)、微博搜索官方文档和[用户报告](http://data.weibo.com/report/reportDetail?id=404)、公司高管发言等材料发现，微博主要有以下特征：
 
 - 是国内用户尤其红人发布或了解全网实时观点的第一平台
 - 主要收入来源为广告营销（近九成）
@@ -169,7 +169,7 @@ description:
 
 在该维度上，主要以 Facebook 和微博比对。
 
-Facebook 在 2013 年初推出了[ graph search 功能](https://en.wikipedia.org/wiki/Facebook_Graph_Search)，能理解自然语言，且基于你的关系网给你答案。微博随后也推出了[图谱搜索功能](https://help.weibo.com/newtopic/search/list/1960?sudaref=help.weibo.com)：
+Facebook 在 2013 年初推出了[ graph search 功能](https://en.wikipedia.org/wiki/Facebook_Graph_Search)，能理解自然语言，且基于你的关系网给你答案。微博随后也推出了图谱搜索功能：
 
 > 通过图谱搜索，您可以找到去过某个景点、读过某本书、听过某首音乐、评论过某部电影、赞过某个餐馆等的好友，让您在好友中找到与您最投缘的人。
 
@@ -180,7 +180,7 @@ Facebook 在 2013 年初推出了[ graph search 功能](https://en.wikipedia.org
 
 由此，微博搜索若想让用户难以离开，值得强化对「人」的搜索：不必像 Facebook graph search 那么复杂，毕竟国内吃喝玩乐推荐有已占领用户心智的「大众点评」。可优先恢复这些之前做过的、使用公开数据的功能：
 
-- 了解某位用户的兴趣爱好：方便的搜索到某个指定用户（如喜欢的某个明星）赞过的所有事物。详见[搜索帮助](https://help.weibo.com/newtopic/search/list/1960?sudaref=help.weibo.com)中 `如何发现某用户（某明星）的兴趣爱好？`。 
+- 了解某位用户的兴趣爱好：方便的搜索到某个指定用户（如喜欢的某个明星）赞过的所有事物。详见[搜索帮助](https://kefu.weibo.com/faqclassifylist?id=2793&typename=功能使用)中 `如何发现某用户（某明星）的兴趣爱好？`。 
 - 了解某几位用户的共同好友：输入你查询的用户微博昵称，就可以知道他们之间有没有共同好友啦：
 
 	![coursespm-weibosearch1.png](https://ishanshan.zoomquiet.top/share/coursespm-weibosearch1.png)

@@ -143,7 +143,7 @@ PS.
 ### 报名步骤
 
 
-#### 1. 扫码付款
+#### step1. 扫码付款
 
 ![createlife-pay-m7](http://ishanshan.zoomquiet.top/share/createlife-pay-m8.jpeg ':size=200')
 
@@ -153,16 +153,19 @@ PS.
 
 1. **付款时请在备注里注明，`你希望在这里使用的个人名号`；如果和微信昵称一致可不填**
 2. 付款成功不能中途转让名额，请谨慎报名哦
+3. 之前已加入「闪闪人生」飞书组织的老用户，等待领航员配置新一期权限即可，不用操作 2~3 步
 
 <br>
 
-#### 2. 获取飞书权限
+#### step2. 获取飞书权限
 
 <details>
 <summary>点击展开：</summary>
 填写上一步设定的名号，以及个人手机号到这个飞书邀请链接：
 
 https://sunnylife.feishu.cn/invite/member/A14sFvqs7VGn8jwW
+
+
 
 注意：
 
@@ -173,7 +176,7 @@ https://sunnylife.feishu.cn/invite/member/A14sFvqs7VGn8jwW
 
 <br> 
 
-#### 3. 安装飞书 App ，用刚才填写的手机号登录
+#### step3. 安装飞书 App ，用刚才填写的手机号登录
 
 <details>
 <summary>点击展开：</summary>

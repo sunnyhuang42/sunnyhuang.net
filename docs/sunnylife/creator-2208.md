@@ -65,7 +65,7 @@ description: 在先锋用户的大力支持下，最近陆续有不少迭代，�
 
 ### 你的旅程
 
-![createlife6](http://ishanshan.zoomquiet.top/share/createlife6-1.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1)
+![createlife6](http://ishanshan.zoomquiet.top/share/createlife6-2.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1)
 
 这里类似健身房，你可**根据个人需求和已有积累，沿着工具包指引，安排自己的人生探索行动计划**
 

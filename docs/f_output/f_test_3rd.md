@@ -28,7 +28,7 @@ description:
 
 **业务上**，结合「想做 可做 能做」，越来越明晰产品服务的切入点；产品组合和业务架构也越来越靠谱，感觉对整个业务体系的 CLV（Customer Lifetime Value，客户生命周期价值）[^2] 越来越有信心。
 
-![goal_strategy5.png](https://ishanshan.zoomquiet.top/clipping/goal_strategy5.png ':size=350')
+![goal_strategy6.png](https://ishanshan.zoomquiet.top/clipping/goal_strategy6.png ':size=350')
 
 **能力上**，发觉自己在面临业务决策的岔路口，也越来越能分析诊断情况、迅速抓重点。比如更下意识地问自己：
 1. 这个反馈是在描述 problem 还是 solution ，背后的核心诉求是什么？=》关键是识别用户的具体困扰、核心诉求。采集需求后，再根据每个阶段或版本要解决的重点问题，来策划和验证解法

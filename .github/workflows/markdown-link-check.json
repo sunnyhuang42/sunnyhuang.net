@@ -148,6 +148,11 @@
       "reason": "Website no longer exists",
       "pattern": "https://solidifyingnebulousideas.com/",
       "TODO": "Need to update or remove"
+    },
+    {
+      "reason": "Website no longer exists",
+      "pattern": "https://www.huodongxing.com/",
+      "TODO": "Need to update or remove"
     }
   ],
   "replacementPatterns": [

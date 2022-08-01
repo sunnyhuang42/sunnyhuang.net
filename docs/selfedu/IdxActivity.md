@@ -191,7 +191,7 @@ PS.印象最深的是这次活动报名帖发出不到 1 天就 150 多位小伙
 
 ### 后记
 
-探索了两年迈进大三，依旧迷茫，不清楚自己想做什么。刚好得知[@黑苹果](http://heipingguo.org/)要举办[职业访问大赛](http://heipingguo.org/index.php/project/index/cid/3)，并提供关于深度访谈技巧的赛前指导，于是赶紧写了个学习小组召集帖，通过[第九课堂](http://www.dijiuke.com/)、人人、微博吸引到了11位北京的小伙伴，利用1个月的时间一起练习深访技能、探索职业方向。这次经历带来了3个大的影响：
+探索了两年迈进大三，依旧迷茫，不清楚自己想做什么。刚好得知[@黑苹果](http://heipingguo.org/)要举办[职业访问大赛](http://heipingguo.org/index.php/project/index/cid/3)，并提供关于深度访谈技巧的赛前指导，于是赶紧写了个学习小组召集帖，通过第九课堂、人人、微博吸引到了11位北京的小伙伴，利用1个月的时间一起练习深访技能、探索职业方向。这次经历带来了3个大的影响：
 
 - 养成了关注「事实/行动」而不是「态度/观点」的习惯（深访几大原则之一）
 - 从「我想玩这个，你觉得呢？」转变为「我想这么玩，谁要一起来？」：不是看周围的人是否对这件事感兴趣，决定自己做或不做及怎么做，而是 我就是想这么玩，把想法和游戏规则写出来扩散出去，茫茫人海，总能找到认同我玩法一块儿玩的人;-)
@@ -203,7 +203,7 @@ PS.印象最深的是这次活动报名帖发出不到 1 天就 150 多位小伙
 
 ![](https://ishanshan.zoomquiet.top/share/act1305bjbtyw0.png)
 
-- [活动介绍](http://www.huodongxing.com/event/9177958851400)
+- [活动介绍](https://www.huodongxing.com/event/9177958851400)
 - **关键词**：思维导图、优化流程
 
 ### 后记
@@ -220,8 +220,8 @@ PS.让我意外的是，一年后和初恋男友聊起交集，发现我们原�
 
 ![](https://ishanshan.zoomquiet.top/share/act1305beijing.jpg)
 
-- [活动介绍](http://www.huodongxing.com/event/4170170558400?utm_source=%e6%90%9c%e7%b4%a2%e9%a1%b5&utm_medium=&utm_campaign=searchpage)
-- [活动回顾](http://page.renren.com/699127446/note/902484297)
+- [活动介绍](https://www.huodongxing.com/event/4170170558400?utm_source=%e6%90%9c%e7%b4%a2%e9%a1%b5&utm_medium=&utm_campaign=searchpage)
+- [活动回顾](https://page.renren.com/699127446/note/902484297)
 - **关键词**：印象笔记、新四年、导师文化、MOOC、知识社区、网易乐学汇
 
 ### 后记

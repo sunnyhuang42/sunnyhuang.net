@@ -140,7 +140,7 @@ PS.
 
 #### step1. 扫码付款
 
-![createlife-pay-m7](http://ishanshan.zoomquiet.top/share/createlife-pay-m9.jpeg ':size=300')
+![createlife-pay-m7](http://ishanshan.zoomquiet.top/share/createlife-pay-m9.jpeg ':size=200')
 
 
 付款须知：
@@ -280,7 +280,7 @@ PS.
 BTW，如果感觉自己很忙，其实更值得尽早参加，而不是等不忙了再来——越早开始梳理自己人生发展的行动杠杆点，把更多精力投入重要不紧急的事情，重要紧急的事情便越少，节奏则更早从容起来：D
 
 
-### 5. 如果不方便参会，又想稳步梳理、推进和迭代人生规划，怎么办？
+### 5. 报名后如果不方便参会，又想稳步梳理、推进和迭代人生规划，怎么办？
 
 可以这么处理：
 1. **自行抽时间完成「会前准备」中的练习。做多少就有多少收获**：D

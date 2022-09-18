@@ -221,7 +221,6 @@ PS.让我意外的是，一年后和初恋男友聊起交集，发现我们原�
 ![](https://ishanshan.zoomquiet.top/share/act1305beijing.jpg)
 
 - [活动介绍](https://www.huodongxing.com/event/4170170558400?utm_source=%e6%90%9c%e7%b4%a2%e9%a1%b5&utm_medium=&utm_campaign=searchpage)
-- [活动回顾](https://page.renren.com/699127446/note/902484297)
 - **关键词**：印象笔记、新四年、导师文化、MOOC、知识社区、网易乐学汇
 
 ### 后记

@@ -71,7 +71,7 @@ description:
 
 ### 明确产品定位和分析方向
 
-从微博[财报](http://ir.weibo.com/phoenix.zhtml?c=253076&p=irol-newsArticle&ID=2332019)（看不懂可以多翻业界对其财报的解读，比如[这个](https://mp.weixin.qq.com/s/RHVEYaFenQ6ad0tynMzXGA)）、[App store 产品介绍](https://itunes.apple.com/cn/app/%E5%BE%AE%E5%8D%9A/id350962117?mt=8)、微博搜索官方文档和[用户报告](http://data.weibo.com/report/reportDetail?id=404)、公司高管发言等材料发现，微博主要有以下特征：
+从微博[财报](http://ir.weibo.com/)（看不懂可以多翻业界对其财报的解读，比如[这个](https://mp.weixin.qq.com/s/RHVEYaFenQ6ad0tynMzXGA)）、[App store 产品介绍](https://itunes.apple.com/cn/app/%E5%BE%AE%E5%8D%9A/id350962117?mt=8)、微博搜索官方文档和[用户报告](http://data.weibo.com/report/reportDetail?id=404)、公司高管发言等材料发现，微博主要有以下特征：
 
 - 是国内用户尤其红人发布或了解全网实时观点的第一平台
 - 主要收入来源为广告营销（近九成）

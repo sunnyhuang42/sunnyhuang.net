@@ -21,6 +21,10 @@
       "pattern": "https://www.getit01.com"
     },
     {
+      "reason": "",
+      "pattern": "https://img1.iyiou.com"
+    },
+    {
       "reason": "Scanning apple store URLs results in socket timeout",
       "pattern": "https://itunes.apple.com"
     },

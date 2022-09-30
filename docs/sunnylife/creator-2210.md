@@ -10,7 +10,7 @@ description: 如果你想以终为始梳理人生规划，并能落实到日常�
 
 ## 你是这样的人吗？
 
-![createlife1](http://ishanshan.zoomquiet.top/share/createlife1-6.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=500')
+![createlife1](http://ishanshan.zoomquiet.top/share/createlife1-7.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=500')
 
 
 ## 你在面临以下难题吗？

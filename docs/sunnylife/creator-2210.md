@@ -19,7 +19,7 @@ description: 如果你想以终为始梳理人生规划，并能落实到日常�
 
 
 ## 加入闪闪人生创造营
-![createlife2-9](http://ishanshan.zoomquiet.top/share/createlife2-9.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1  ':size=550' )
+![createlife2-9](http://ishanshan.zoomquiet.top/share/createlife2-9.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1  ':size=450' )
 
 
 

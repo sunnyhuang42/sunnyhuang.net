@@ -1,38 +1,55 @@
 import type { AppProps } from 'next/app';
+import type Viewer from 'viewerjs';
 import { useEffect } from 'react';
 import Script from 'next/script';
 import { useRouter } from 'next/router';
-import { Zoom } from 'medium-zoom';
 import { ThemeProvider } from 'next-themes';
+import 'viewerjs/dist/viewer.css';
 import { DrawerProvider, PageProvider } from '@/context';
 import { Layout } from '@/components';
 import * as gtag from '@/utils/gtag';
 import '@/styles/index.scss';
 
-let zoom: Zoom;
+let viewer: Viewer;
 
-const initZoom = () => {
-  if (zoom) {
-    zoom.detach();
-    zoom.attach(document.querySelectorAll('.prose img'));
+const initViewer = () => {
+  const el = document.getElementById('prose');
+  if (el) {
+    import('viewerjs').then((mod) => {
+      viewer = new mod.default(el, {
+        button: false,
+        loop: false,
+        title: false,
+        toolbar: false,
+        transition: false,
+      });
+    });
+  }
+};
+
+const updateViewer = () => {
+  if (viewer) {
+    viewer.update();
+  } else {
+    initViewer();
   }
 };
 
 if (typeof document !== 'undefined') {
-  import('medium-zoom').then((mod) => {
-    zoom = mod.default();
-    initZoom();
-  });
+  initViewer();
 }
 
 function App({ Component, pageProps }: AppProps) {
   const { events } = useRouter();
+
   useEffect(() => {
     const handleRouteChange = (url: string) => {
       gtag.pageview(url);
-      initZoom();
+      updateViewer();
     };
+
     events.on('routeChangeComplete', handleRouteChange);
+
     return () => {
       events.off('routeChangeComplete', handleRouteChange);
     };

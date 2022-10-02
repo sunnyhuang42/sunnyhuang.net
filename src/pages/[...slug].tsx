@@ -83,7 +83,7 @@ const PostPage = ({
           {words} 字 • {minutes} 分钟
         </div>
       </div>
-      <div className="prose">
+      <div id="prose" className="prose">
         <div
           dangerouslySetInnerHTML={{
             __html: html,

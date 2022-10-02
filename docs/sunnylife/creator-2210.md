@@ -19,7 +19,7 @@ description: 如果你想以终为始梳理人生规划，并能落实到日常�
 
 
 ## 加入闪闪人生创造营
-![createlife2-9](http://ishanshan.zoomquiet.top/share/createlife2-9.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1  ':size=400' )
+![createlife2-9](http://ishanshan.zoomquiet.top/share/createlife2-9.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1  ':size=360' )
 
 
 
@@ -114,7 +114,7 @@ Hi, 我是黄姗，可以叫我 Sunny ，「闪闪人生」这个人生探索实
 
 ——既想出国读MBA又想成为视频博主还想尽快结婚生子的海外业务BD
 
-> 经过这几次会议，我开始理解这套工具方法怎么帮到我的人生。它会促使我对未来的事情有更多思考，然后「以终为始」计划现在该做什么。会上看到大家不同的人生愿景和目标，也拓宽了自己的视野，感觉很开心
+> 经过这几次会议，我开始理解这套工具方法怎么帮到我的人生。它会促使我对未来的事情有更多思考，然后「以终为始」计划现在该做什么 <br>会上看到大家不同的人生愿景和目标，也拓宽了自己的视野，感觉很开心
 
 ——寻找改变机会的软件开发&项目经理
 

@@ -21,6 +21,14 @@
       "pattern": "https://www.getit01.com"
     },
     {
+      "reason": "Testing Douban URLs results in socket timeout",
+      "pattern": "https://.*.douban.com"
+    },
+    {
+      "reason": "Testing Weibo IR URLs results in socket timeout",
+      "pattern": "http://ir.weibo.com/"
+    },
+    {
       "reason": "",
       "pattern": "https://img1.iyiou.com"
     },

@@ -129,7 +129,7 @@ PS.或许是我在这场活动筹备过程的表现给微学英语创始人 @GJ 
 
 不记得为啥，忽然想发起一场探访北京城区的活动。
 
-参考青年志之前的[胡同探索之旅工作坊](http://www.douban.com/event/17800596/)、成都的[午后穿越蓉城一环 CAPE Walk](http://mp.weixin.qq.com/s?__biz=MjM5NTAwODEwMA==&mid=200215718&idx=4&sn=54d6d25c5580c7a5300711cc4d624b19&3rd=MzA3MDU4NTYzMw==&scene=6#rd) ，我和 [@冷夏](http://weibo.com/u/1758372731?topnav=1&wvr=6&topsug=1&is_all=1)一起策划了这次城市户外探索规则，希望让更多小伙伴重新发现城市之美。
+参考青年志之前的[胡同探索之旅工作坊](https://www.douban.com/event/17800596/)、成都的[午后穿越蓉城一环 CAPE Walk](http://mp.weixin.qq.com/s?__biz=MjM5NTAwODEwMA==&mid=200215718&idx=4&sn=54d6d25c5580c7a5300711cc4d624b19&3rd=MzA3MDU4NTYzMw==&scene=6#rd) ，我和 [@冷夏](http://weibo.com/u/1758372731?topnav=1&wvr=6&topsug=1&is_all=1)一起策划了这次城市户外探索规则，希望让更多小伙伴重新发现城市之美。
 这次一共设置了三条不同风格的路线：
 
 - 沉默老建筑的京城风华线

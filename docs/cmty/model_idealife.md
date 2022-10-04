@@ -1,7 +1,7 @@
 ---
 title: 理想人生是怎样的，有哪些模式？
 date: 2021-10-04
-updated: 2021-10-09
+updated: 2022-10-04
 description: <p>前段时间在梳理自己想过怎样的生活，发现业界对什么样的状态算理想人生、怎样利于实现理想人生，提出了好些模型或维度。汇总一些对我比较有帮助的，供有需要的伙伴参考。</p><p>如果你也有相关资源，欢迎和我分享：D</p>
 ---
 
@@ -84,7 +84,7 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
 
      ![flourishing_pks_xl.jpg](https://ishanshan.zoomquiet.top/clipping/flourishing_pks_xl.jpg ':size=400')
 
-    - 具体解说和实践分享，见这节[试听课](https://xuexi-courses.firesbox.com/?utm_source=share#/7000103731/courses/3104) 42 分钟开始的部分
+    - 具体解说和实践分享，见这节[试听课](https://appqme5icso8118.h5.xiaoeknow.com/p/course/video/v_62fc5f9ee4b00a4f3734c94a) 42 分钟开始的部分
     
    
 
@@ -121,11 +121,7 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
 
 2. [The real secrets to a longer life - APA](https://www.apa.org/monitor/2011/12/longer-life)
 
-    > Howard S. Friedman says that eating vegetables and going to the gym are not as important to our long-term health as having a rich, productive life.
-
-    > We all know lots of things that are health-promoting — stop substance abuse, stay active, eat right, sleep well, don't gain weight, make friends — so why aren't most people healthy?
-
-    > **our studies suggest that it is a society with more conscientious and goal-oriented citizens, well-integrated into their communities, that is likely to be important to health and long life.**
+    > Howard S. Friedman says that eating vegetables and going to the gym are not as important to our long-term health as having a rich, productive life.<br>We all know lots of things that are health-promoting — stop substance abuse, stay active, eat right, sleep well, don't gain weight, make friends — so why aren't most people healthy?<br>**our studies suggest that it is a society with more conscientious and goal-oriented citizens, well-integrated into their communities, that is likely to be important to health and long life.**
 
     翻译一下要点（以下摘自安人书院）：
 
@@ -145,6 +141,7 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
 
 ## CHANGELOG
 
+- 221004 更新笑来试听课链接
 - 211009 完善细节
 - 211004 增补蓬勃人生模型和 APA 关于健康长寿的研究 0.5h
 - 211003 增补完善，迁移到博客上 3h

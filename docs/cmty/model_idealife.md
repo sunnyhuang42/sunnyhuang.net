@@ -107,7 +107,7 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
 ![flourishing_cbt1.jpeg](https://ishanshan.zoomquiet.top/share/flourishing_cbt1.jpeg?imageslim ':size=200')
 ![flourishing_cbt2.jpeg](https://ishanshan.zoomquiet.top/share/flourishing_cbt2.jpeg?imageslim ':size=200')
 
-电子版见[这里](https://mzm628l8fj.feishu.cn/sheets/shtcnieI1Xpmtd1ld8grScWAjyU)。
+电子版见[这里](https://sunnylife.feishu.cn/wiki/wikcnLgwe78yfvOlxcgBaQlcVig?office_edit=1&table=tblUpalTUaaF0KEz&sheet=I7ElK9)。
 
 
 ## 5. 更多 :id=more

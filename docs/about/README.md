@@ -1,22 +1,23 @@
 ---
 title: About Me
 date: 2018-07-02
-updated: 2022-08-05
+updated: 2022-10-11
 description:
 ---
 
 
-[@黄姗-Sunny](https://github.com/ishanshan)，坐标北京。走在创业路上，希望成为理性又温暖的创业者，助更多伙伴「像经营企业一样 经营人生」。喜欢探索分享优雅有效、能跨越大时间周期的工具方法，正在实验如何奔向[「健康蓬勃 温暖从容」的幸福生活（flourishing life）](/about/idealife)。
+[@黄姗-Sunny](https://github.com/ishanshan)，坐标深圳。走在创业路上，希望成为理性又温暖的创业者，助更多伙伴「像经营企业一样 经营人生」。喜欢探索分享优雅有效、能跨越大时间周期的工具方法，正在实验如何奔向[「健康蓬勃 温暖从容」的幸福生活（flourishing life）](/about/idealife)。
 
 
 本科学园林设计，毕业至今七年一直在互联网领域，做过教研、运营、学习与发展教练、产品。虽然这些看似不同职务，但在我眼里都是相通的——**传播 meme（模因）影响人，帮助人更易发生行为改变**。
 
-毕业三年第一次换工作， package 涨了 200+% 。入职不到一年获得期权增授、经历人生第一次 10 倍增，时薪跃到四位数。（如何实现的？见这篇博文[答师友：第一次换工作就涨薪200+%，入职不到一年又经历10倍增，我是如何实现的？](/mur/tips_jobhunting)）
+毕业三年第一次换工作， package 涨了 200+% 。入职不到一年获得期权增授、经历人生第一次 10 倍增，时薪跃到4位数。（如何实现的？见这篇博文[答师友：第一次换工作就涨薪200+%，入职不到一年又经历10倍增，我是如何实现的？](/mur/tips_jobhunting)）
 
 目前处于职业转型阶段，在探索如何助力更多伙伴，更快更稳地迈向他们心中的蓬勃人生。
 
-如果你想直观地了解我，这期播客是个很好的入口：<br>
-[闪闪 | 用理性和热忱，实验如何奔向蓬勃人生 -  小宇宙](https://www.xiaoyuzhoufm.com/episode/61585ce0ae1d32c4f86c18c5?s=eyJ1IjogIjYwZTI4NWQ4ZTBmNWU3MjNiYjlmNDVlNiJ9)
+如果你想直观地了解我，这两期播客是个很好的入口：<br>
+- [闪闪 | 用理性和热忱，实验如何奔向蓬勃人生 -  小宇宙](https://www.xiaoyuzhoufm.com/episode/61585ce0ae1d32c4f86c18c5?s=eyJ1IjogIjYwZTI4NWQ4ZTBmNWU3MjNiYjlmNDVlNiJ9)
+- [七夕特辑 | 网恋三个月，见面就同居，春光闪闪的心动瞬间 - 小宇宙](https://www.xiaoyuzhoufm.com/episode/62ebd5d4f5799d134563be9f?s=eyJ1IjogIjYwZTI4NWQ4ZTBmNWU3MjNiYjlmNDVlNiJ9)
 
 
 ## 葬礼想象 :id=funeral
@@ -64,7 +65,7 @@ description:
 - **[Zoom Quiet](http://zoomquiet.io/#)** ：工作头两年的项目合作伙伴。远程协作两年，升级了我对异步协同、团队知识传承、[GitHub 使用](/cmty/HbGitHubCooperate)及开源共创的认知，并种下了我对项目管理 [All Know All](https://www.xmind.net/m/citg/) 及对外界面专业度的执念。哦对，还勾起了我对工程师的喜爱：P
 - **[Oliver Ding](https://medium.com/call4)** ：大学后半段至今多个阶段的项目顾问。身在大洋彼岸多年，他仍关注并推动本土青年项目，持续探究和分享的热情及行动速度令我钦佩，并引发了我对学术素养及代际传承的关注。
 - **[纪元](https://ishanshan.zoomquiet.top/clipping/qr_jiyuan.jpeg)** ：大学后半段 side project 「早起的鸟儿晨间学习会」的发起人。折腾晨间学习会一年多，每月碰头他都给我新触动。我的自律、择偶选择、把一份时间卖出多次的尝试，都受他影响颇深，[我对养娃的兴趣](/family/hb_parenting)也源于他。
-- **[Action Thinker](http://www.zaih.com/mentor/84789490/)** 、 **[Annie Hu](https://www.linkedin.com/in/annie-hu-15250539/)** ：大学后半段 side project 「[CAPE（全球青年实践网络）](http://hicape.com/)」的发起人和项目经理。我对开放品牌项目的运作心法，对青年自组织社群的好感与信心，得益于那十几个月与他们一同推动 [CAPE Meetup](http://hicape.com/cape-meetup/) 在各地生发。
+- **[Action Thinker](http://www.zaih.com/mentor/84789490/)** 、 **[Annie Hu](https://www.linkedin.com/in/annie-hu-15250539/)** ：大学后半段 side project 「[CAPE（全球青年实践网络）](https://capechina.org/)」的发起人和项目经理。我对开放品牌项目的运作心法，对青年自组织社群的好感与信心，得益于那十几个月与他们一同推动 [CAPE Meetup](https://capechina.org/categories/cape-meetup/) 在各地生发。
 - **李珣** ：大学头两年 side project 「讲座控」的发起人。[他带我踏进开放教育的世界，打下云端协作的好基础，心虑传承、拒绝组织从 0 到 1 的重复，还令我养成不让自己跌在硬件上的习惯](/selfedu/SelfEduOwetoJZK)。
 - ……
 
@@ -129,6 +130,7 @@ description:
 
 ## CHANGELOG
 
+- 221011 修订失效链接，更新坐标，新增一个播客链接
 - 220805 迭代简介和葬礼想象
 - 220610 删去最近在思考的问题，减少组块
 - 220223 更新最近在思考的问题

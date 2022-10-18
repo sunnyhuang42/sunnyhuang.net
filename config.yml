@@ -47,8 +47,16 @@ editLink:
 # 导航栏
 navbar:
   - text: 闪闪人生创造营<sup style="color:orange;"></sup>
-    link: /sunnylife/creator-2210
-  - text: 关于我
+    items:
+      - text: 内测报名
+        link: sunnylife/creator-2210
+      - text: 营员手册
+        link: https://sunnylife.feishu.cn/wiki/wikcnvUuL4rWLF4C83sGlGIeNxd?create_from=create_doc_to_wiki
+      - text: 「闪闪人生」飞书知识库
+        link: https://sunnylife.feishu.cn/wiki/wikcnwycB9oQUjUQt3O85YyBJLh
+  - text: 走向爱与成就的时光
+    link: https://chunsunny.com/
+  - text: 关于
     items:
       - text: 个人简介
         link: /about

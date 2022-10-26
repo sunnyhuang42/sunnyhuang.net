@@ -46,10 +46,10 @@ editLink:
 
 # 导航栏
 navbar:
-  - text: 闪闪人生创造营<sup style="color:orange;"></sup>
+  - text: 闪闪人生创造营<sup style="color:orange;">报名中</sup>
     items:
       - text: 内测报名
-        link: sunnylife/creator-2210
+        link: sunnylife/creator-2211
       - text: 营员手册
         link: https://sunnylife.feishu.cn/wiki/wikcnvUuL4rWLF4C83sGlGIeNxd?create_from=create_doc_to_wiki
       - text: 「闪闪人生」飞书知识库
@@ -74,7 +74,7 @@ sidebar:
   - text: 博客导览
     link: '/blog'
   - text: 像经营企业一样经营人生 | 闪闪人生创造营内测报名
-    link: /sunnylife/creator-2210
+    link: /sunnylife/creator-2211
   - text: 人生蓬勃发展锦囊
     items:
       - text: 理想人生是怎样的，有哪些模式？
@@ -115,6 +115,8 @@ sidebar:
     items:
       - text: 探索付费产品服务切入点
         items:
+          - text: 像经营企业一样经营人生 | 闪闪人生创造营M10期内测报名
+            link: /sunnylife/creator-2210
           - text: 像经营企业一样经营人生 | 闪闪人生创造营M9期内测报名
             link: /sunnylife/creator-2209
           - text: 像经营企业一样经营人生 | 闪闪人生创造营M8期内测报名

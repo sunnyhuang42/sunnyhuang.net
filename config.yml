@@ -48,7 +48,7 @@ editLink:
 navbar:
   - text: 闪闪人生创造营<sup style="color:orange;">报名中</sup>
     items:
-      - text: 内测报名
+      - text: 内测报名<sup style="color:orange;">报名中</sup>
         link: sunnylife/creator-2211
       - text: 营员手册
         link: https://sunnylife.feishu.cn/wiki/wikcnvUuL4rWLF4C83sGlGIeNxd?create_from=create_doc_to_wiki

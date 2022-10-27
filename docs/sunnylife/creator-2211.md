@@ -48,7 +48,7 @@ description: 如果你也想以终为始找方向、全局动态抓重点，踏�
 情况越是模糊不确定，越应小步快跑，敏捷迭代想法成果，但自己很难高频复盘迭代，怎么办？
 
 
-试试「**半周一会 敏捷迭代**」—— 创造营将通过每半周一次的例会，助你高频复盘迭代，降低试错成本，踏实有序往前走。跟着集体走即可潜移默化，自然运用最佳实践，迭代敏捷不磨蹭：
+试试「**半周一会 敏捷迭代**」—— 创造营将通过半周一次的例会，助你高频复盘迭代，降低试错成本，踏实有序往前走。跟着集体走即可潜移默化，自然运用最佳实践，迭代敏捷不磨蹭：
 
 ![createlife205](http://ishanshan.zoomquiet.top/share/createlife205-3.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=450')
 

@@ -393,8 +393,8 @@ PS.
 
 如果想了解往期内测的反馈，可先看这里：
 - [你愿意与我一起共创未来嘛？](https://mp.weixin.qq.com/s/342XCLZszwU4Q-PLJFWTTQ)
-- [#闪闪人生创造营 想带给用户的稀缺价值是什么？](https://t.zsxq.com/03BY7UfQr)
 - [人生方向不明确的情况下，两周时间，人生规划能有怎样的演进？](https://t.zsxq.com/037Eybyzf)
+- [#闪闪人生创造营 想带给用户的稀缺价值是什么？](https://t.zsxq.com/03BY7UfQr)
 - [“规模远大与综理密微”](https://t.zsxq.com/07Jf90weW)
 - [Ruby 六月复盘](https://sunnylife.feishu.cn/wiki/wikcnaePxEXeB7su2VqTkK3Sscc?sheet=FnMWGj)
 

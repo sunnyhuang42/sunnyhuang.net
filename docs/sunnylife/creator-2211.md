@@ -63,9 +63,10 @@ description: 如果你也想以终为始找方向、全局动态抓重点，踏�
 
 #### 3. 一个越来越蓬勃发展、闪闪发光的自己
 
-![createlife5](http://ishanshan.zoomquiet.top/share/createlife5-1.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1)
-<br>
 尝试 以终为始高频分享 三个月，你将越来越多快好省创造价值、积累信任，遇见一个愈发蓬勃发展、闪闪发光的自己
+
+![createlife5](http://ishanshan.zoomquiet.top/share/createlife5-1.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1)
+
 
 
 

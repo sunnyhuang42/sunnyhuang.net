@@ -47,7 +47,7 @@ description: 如果你也想以终为始找方向、全局动态抓重点，踏�
 
 试试「**半周一会 敏捷迭代**」—— 创造营将通过每半周一次的例会，助你敏捷迭代目标计划、尽早纠偏，踏实有序往前走。跟着集体走即可潜移默化，自然运用最佳实践，敏捷行动不磨蹭：
 
-![createlife205](http://ishanshan.zoomquiet.top/share/createlife205-2.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=450')
+![createlife205](http://ishanshan.zoomquiet.top/share/createlife205-3.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=450')
 
 
 

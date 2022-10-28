@@ -6,16 +6,15 @@ description: 如果你也想以终为始找方向、全局动态抓重点，踏�
 ---
 
 
-## 你是这样的人吗？
-![createlife203](http://ishanshan.zoomquiet.top/share/createlife203-2.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=420')
 
-## 你在面临以下难题吗？
+
+## 你在面临这些难题吗？
 
 ![createlife201](http://ishanshan.zoomquiet.top/share/createlife201-2.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1 ':size=420')
 
 
 
-## 闪闪人生创造营，和你一起
+## 闪闪人生创造营，和你一起解难题
 
 ![createlife202](http://ishanshan.zoomquiet.top/share/createlife202-4.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1  ':size=400' )
 
@@ -43,10 +42,10 @@ description: 如果你也想以终为始找方向、全局动态抓重点，踏�
 
 情况在持续变化，对自我的认知和期许也在变。计划常常赶不上变化，但不计划又缺少方向感容易迷茫内耗，怎么办？
 
-情况越是模糊不确定，越应小步快跑，敏捷迭代想法成果，但自己很难高频复盘迭代，怎么办？
+情况越模糊不确定，越应小步快跑，敏捷迭代想法成果，但自己很难高频复盘迭代，怎么办？
 
 
-试试「**半周一会 敏捷迭代**」—— 创造营将通过半周一次的例会，助你高频复盘迭代，降低试错成本，踏实有序往前走。跟着集体走即可潜移默化，自然运用最佳实践，迭代敏捷不磨蹭：
+试试「**半周一会 敏捷迭代**」—— 创造营就像一个「人生发展推进器」，通过半周一次的例会，助你高频复盘迭代，降低试错成本，踏实有序往前走。跟着集体走即可潜移默化，自然运用最佳实践，迭代敏捷不磨蹭：
 
 ![createlife205](http://ishanshan.zoomquiet.top/share/createlife205-4.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=450')
 
@@ -159,12 +158,15 @@ Hi, 我是黄姗，可以叫我 Sunny ，「闪闪人生」这个人生探索实
 
 目前希望征集 2~10 位先锋用户，继续一起打磨完善整套工具包和上手体验，助参与者即使难以连续参会，也能顺畅上手，畅快地从大到小、从远到近拆解目标计划并持续推进和迭代
 
+**适合谁？**
+![createlife203](http://ishanshan.zoomquiet.top/share/createlife203-2.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=420')
 
 **内测报名要求：** <br>
 心态开放迎接变化，愿意坦诚表达感受想法，一起抓bug、改bug，共建共创
 
 **M11 期内测价：1599元；连报3期（即3个月） 3999元** <br>
 福利领取：6 月 1 日前参加过往期付费内测的伙伴，有 100 元优惠，谢谢你之前在产品还非常稚嫩的时候，就乐意来试用、一起浇灌护着它长大🤗之前参加过多少个月付费内测就有多少份，今年内有效，可叠加使用，本人使用。报名后找我：D
+
 
 
 ### 创造营不适合哪些情况？

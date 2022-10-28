@@ -8,7 +8,7 @@ description: 如果你也想以终为始找方向、全局动态抓重点，踏�
 
 
 
-## 你在面临这些难题吗？
+## 你在面临这些人生难题吗？
 
 ![createlife201](http://ishanshan.zoomquiet.top/share/createlife201-2.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1 ':size=420')
 

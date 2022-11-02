@@ -78,7 +78,7 @@ description: 如果你也想以终为始找方向、全局动态抓重点，踏�
 
 ![createlife207](http://ishanshan.zoomquiet.top/share/createlife207-1.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1)
 
-每个阶段，你将基于「以终为始 敏捷迭代」这套「面对不确定，也能快速拿出靠谱成果」的最佳实践框架，通过一个个小项目，逐步迈向心中理想生活。
+每个阶段，你将基于「以终为始 敏捷迭代」这套「面对不确定更快拿出靠谱成果」的最佳实践框架，通过一个个小项目，逐步迈向心中理想生活。
 
 ![createlife207-2](http://ishanshan.zoomquiet.top/share/createlife207-2.png)
 

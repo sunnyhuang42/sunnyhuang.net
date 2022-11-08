@@ -1,7 +1,7 @@
 ---
 title: 理想生活
 date: 2021-03-03
-updated: 2022-05-23
+updated: 2022-11-08
 description: 
 ---
 

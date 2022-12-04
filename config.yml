@@ -47,11 +47,7 @@ editLink:
 # 导航栏
 navbar:
   - text: 闪闪人生推进器<sup style="color:orange;"></sup>
-    items:
-      - text: 内测报名<sup style="color:orange;"></sup>
-        link: sunnylife/2212
-      - text: 「闪闪人生」飞书知识库
-        link: https://sunnylife.feishu.cn/wiki/wikcnwycB9oQUjUQt3O85YyBJLh
+    link: sunnylife/2212
   - text: 走向爱与成就的时光
     link: https://chunsunny.com/
   - text: 关于

@@ -1,7 +1,7 @@
 ---
 title: 如何解决人生难题？有没有通用办法？
-date: 2022-12-02
-updated: 2022-12-03
+date: 
+updated: 
 description:
 ---
 

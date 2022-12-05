@@ -98,7 +98,7 @@ description: <blockquote><ul><li>我想去哪儿？</li><li>为什么？</li><li
 
 简单来说，这是我热情所在，且找到了大势所趋、未被满足且是我优势所及的用户需求，契合做战略选择“想做 可做 能做”的交集：
 
-![goal_strategy1.png](http://ishanshan.zoomquiet.top/clipping/goal_strategy6.png ':size=400')
+![goal_strategy1.png](http://ishanshan.zoomquiet.top/share/hbstrategy1.png ':size=400')
 
 
 

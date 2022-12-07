@@ -107,6 +107,8 @@ sidebar:
             link: '/cmty/tips_1on1'
   - text: 人生探索实践
     items:
+      - text: 闪闪人生推进器 FAQ
+        link: /sunnylife/FAQ
       - text: 探索付费产品服务切入点
         items:
           - text: 像经营企业一样经营人生 | 闪闪人生创造营M11期内测报名

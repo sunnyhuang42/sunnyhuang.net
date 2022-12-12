@@ -1,5 +1,5 @@
 ---
-title: 如何做职业选择？ · STC 问题清单
+title: 如何做职业选择？ · STC思想实验问题清单
 date: 2021-06-18
 updated: 2021-09-02
 description:

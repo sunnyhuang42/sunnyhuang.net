@@ -81,12 +81,6 @@ sidebar:
         link: /sunnylife/2212
       - text: 看十年，想三年，踏实有序做半年，持续迭代推飞轮
         link: /sunnylife/sl-pattern
-      - text: 希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记
-        link: '/selfedu/tips_rainbowbook'
-      - text: 这座线上心理健身房，你，值得拥有
-        link: '/selfedu/ebp_happiness'
-      - text: 如何梳理有助于达成长期目标的行动规划？
-        link: '/cmty/tips_MBO_fromend'
       - text: OKR是一套严密的思考框架？这是啥意思？
         link: '/cmty/tips_MBOKRframe'
       - text: 如何从容应对新挑战？·研究最佳实践的通用问题清单&常见陷阱
@@ -375,6 +369,8 @@ sidebar:
             link: '/cmty/tips_1on1'
           - text: 好奇带来奇妙旅程 · 笑来写作训练营结业手记
             link: '/wr/review_course_xl'
+          - text: 如何梳理有助于达成长期目标的行动规划？
+            link: '/cmty/tips_MBO_fromend'
           - text: 希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记
             link: '/selfedu/tips_rainbowbook'
           - text: 从迷茫焦虑到从容踏实，这两个月我干了啥？· 万字复盘

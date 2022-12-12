@@ -77,8 +77,10 @@ sidebar:
         link: '/cmty/keypoint_flourish'
       - text: 在不确定的时代，如何让人生持续蓬勃发展？
         link: '/cmty/tips_flourishloop'
-      - text: '「以终为始 敏捷迭代」是怎样一种状态，专家级水平有哪些行为特征？'
-        link: https://sunnylife.feishu.cn/wiki/wikcnm3fEXnyruIaVXoiSYxbXKf?sheet=AFxsZ8
+      - text: 如何解决人生难题？有没有通用办法？
+        link: /sunnylife/2212
+      - text: 看十年，想三年，踏实有序做半年，持续迭代推飞轮
+        link: /sunnylife/sl-pattern
       - text: 希望人生更从容且有方向？试试这个小本子 ·「人生彩虹本」使用手记
         link: '/selfedu/tips_rainbowbook'
       - text: 这座线上心理健身房，你，值得拥有
@@ -363,6 +365,8 @@ sidebar:
             link: '/cmty/hb_getmentors'
           - text: 如何更易获得有效帮助？· 困扰分析模板
             link: '/cmty/hb_ask4help'
+          - text: '「以终为始 敏捷迭代」是怎样一种状态，专家级水平有哪些行为特征？'
+            link: https://sunnylife.feishu.cn/wiki/wikcnm3fEXnyruIaVXoiSYxbXKf?sheet=AFxsZ8
           - text: 如何提升行动意愿？· 行动清单汇总
             link: '/cmty/tips_motivation'
           - text: 近三年来，我发生的主要变化有哪些？

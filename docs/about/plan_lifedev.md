@@ -98,7 +98,7 @@ description: <blockquote><ul><li>我想去哪儿？</li><li>为什么？</li><li
 
 简单来说，这是我热情所在，且找到了大势所趋、未被满足且是我优势所及的用户需求，契合做战略选择“想做 可做 能做”的交集：
 
-![goal_strategy1.png](http://ishanshan.zoomquiet.top/share/hbstrategy1.png ':size=400')
+![goal_strategy2.png](http://ishanshan.zoomquiet.top/share/hbstrategy2.png ':size=400')
 
 
 
@@ -215,4 +215,3 @@ https://workflowy.com/s/m1011/9dmA0FNYr89MOSrr
 - 210927 迁移到博客上 3h
 - 210714 迁移到[飞书](https://mzm628l8fj.feishu.cn/docs/doccnljPAh9xJll6wM7hLBjkhof#O2KCDT)上，持续迭代完善
 - 210620 在师友提问下，把一些关于目标规划的思考起草成文（[答师友：升级个人博客背后的思考](/mur/logOD_TRIZblogupd)） 1.5h
-

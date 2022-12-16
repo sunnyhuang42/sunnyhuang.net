@@ -20,7 +20,7 @@ hide:
 
 **想三年**：基于「想做-可做-能做」模型（见下图），以终为始倒推拆解实现十年理想生活的策略、路径、里程碑，得出相对靠谱的 三年-18个月-6个月 的目标，理清人生要事
 
-![hbstrategy](http://ishanshan.zoomquiet.top/share/hbstrategy2.png ':size=300')
+![hbstrategy](http://ishanshan.zoomquiet.top/share/hbstrategy3.png ':size=300')
 
 **踏实有序做半年**：基于半年目标，继续用「想做-可做-能做」模型，探索策略规划，拆解到月目标周计划，并持续推进，滚动更新全局思考
 

@@ -30,11 +30,11 @@ description: <p>前两周 @立人 提到感觉我想做的事情有些复杂，�
 往更大尺度看，这和企业战略管理也是相通的：
 在思考战略时，常用“想做、可做、能做”这套思考框架（见下图）做选择，其实也是分析我们想去哪儿（想做-使命/愿景，可做-大势/规律），现状是怎样的（能做-绝对优势/相对优势），然后思索投入产出比最高的切入点。
 
-![](http://ishanshan.zoomquiet.top/share/hbstrategy2.png ':size=350')
+![](http://ishanshan.zoomquiet.top/share/hbstrategy3.png ':size=350')
 
 之后进一步拆解执行，根据市场反馈迅速复盘，综合内外各方最新输入，继续思索接下来投入产出比最高的发力点，并继续拆解执行、验证假设、复盘迭代（见下图）。这个闭环跑得越快，便越快到达想去的地方。
 
-![goal_strategy2.png](https://ishanshan.zoomquiet.top/clipping/goal_strategy2.png ':size=500')
+![goal_strategy3.png](https://ishanshan.zoomquiet.top/clipping/goal_strategy3.png ':size=500')
 
 在创业早期更是如此：那些高速增长的初创企业，Build-Measure-Learn 的回路（见下图）通常谨慎又畅快，飞速找出并低成本地验证高风险假设，高效打造可持续增长的业务。
 

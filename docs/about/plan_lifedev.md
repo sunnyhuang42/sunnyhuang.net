@@ -48,7 +48,7 @@ description: <blockquote><ul><li>我想去哪儿？</li><li>为什么？</li><li
 
 ### 3. 远期规划的早期版本
 
-- [2022 年 2 月的版本](https://github.com/sunnyhuang42/ishanshan.github.io/commit/0d62c72e49ce3e12ce0c646edd9caf667f5cc522#diff-dc3c317d5e814e49bc7da485fe882e69d125d557cab0b805d33b5355a4e8fb99L34)
+- [2022 年 2 月的版本](https://github.com/sunnyhuang42/sunnyhuang.net/commit/0d62c72e49ce3e12ce0c646edd9caf667f5cc522#diff-dc3c317d5e814e49bc7da485fe882e69d125d557cab0b805d33b5355a4e8fb99L34)
 
 ### 4. 中短期目标规划早期版本
 

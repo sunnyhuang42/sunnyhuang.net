@@ -15,7 +15,7 @@ description:
 
 如果你想及时了解这个主题实践的更新，可以点击下述 GitHub 仓库主页右上角眼睛 `watching` 。如果内容对你有帮助，欢迎点击下述页面右上角星星 `star` 收藏一下，我会很开心~
 
-GitHub 地址：https://github.com/ishanshan/ishanshan.github.io
+GitHub 地址：https://github.com/sunnyhuang42/ishanshan.github.io
 
 <br> 
 

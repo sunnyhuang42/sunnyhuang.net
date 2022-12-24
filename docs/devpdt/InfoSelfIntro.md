@@ -15,11 +15,11 @@ description:
 * 如何高效教会别人带新人
 * 如何给孩子尤其自家孩子更好的未来
 
-喜欢[Swing dancing](https://github.com/ishanshan/EnjoySwingDancing) ，尤其 blues ，基本每天都跳。专注一个钟就会出去蹦跶十分钟，一跳就开心，哈哈。
+喜欢[Swing dancing](https://github.com/sunnyhuang42/EnjoySwingDancing) ，尤其 blues ，基本每天都跳。专注一个钟就会出去蹦跶十分钟，一跳就开心，哈哈。
 
 人如产品，我把自己的特质和能提供的价值整理成了个人使用指南，欢迎各位顺着所列接口来找我共创玩耍：
 
-<blockquote class="embedly-card"><h4><a href="https://github.com/ishanshan/collaborate_ishanshan">ishanshan/collaborate_ishanshan</a></h4><p>collaborate_ishanshan - help you enjoy collaborating with ishanshan 🏑</p></blockquote>
+<blockquote class="embedly-card"><h4><a href="https://github.com/sunnyhuang42/collaborate_ishanshan">ishanshan/collaborate_ishanshan</a></h4><p>collaborate_ishanshan - help you enjoy collaborating with ishanshan 🏑</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 ## 学习目标

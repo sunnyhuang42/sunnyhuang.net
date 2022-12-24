@@ -13,7 +13,7 @@ hide: true
 人如产品，希望这份闪闪使用指南，助你与她创造更多价值，共创愉快。也期待你把个人使用指南共享给她——接口清晰，磨合更畅快：P
 
 - [Blog](/)
-- GitHub ：[@ishanshan](https://github.com/ishanshan/)
+- GitHub ：[@ishanshan](https://github.com/sunnyhuang42/)
 - Email：ishanshan.huang@gmail#com
 
 内容概览：
@@ -36,7 +36,7 @@ hide: true
 ## skill
 
 - 较擅长：
-	- 异步协同、项目管理（心法持续更新在 [ishanshan/CollaborationGuide4Shaper: For shaper, by shaper, help you be a shaper ](https://github.com/ishanshan/CollaborationGuide4Shaper)）
+	- 异步协同、项目管理（心法持续更新在 [ishanshan/CollaborationGuide4Shaper: For shaper, by shaper, help you be a shaper ](https://github.com/sunnyhuang42/CollaborationGuide4Shaper)）
 	- 搭建团队知识管理体系
 	- 组织[小型交流活动](/selfedu/IdxActivity)（筹备[心得](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/HbCAPEMeetupOrganizer.pdf)/[偏执](http://openmindclub.qiniudn.com/ishanshan/ResCommunity/OpinionActivity1506-ishanshan.pdf)）
 - 在思索：
@@ -119,7 +119,7 @@ hide: true
 - 口味清淡，不吃辣和油炸，偏好瓜果蔬菜。总之低血糖饮食，怎么健康怎么来。
 - 控制不住眼泪。有时并非想哭，但泪目关不住。此时你给她纸巾或抱抱她，一会儿就好。
 - 上卫生间前后都洗手。
-- 养娃计划、对未来生活的构想，见 https://github.com/ishanshan/ForFamily 。
+- 养娃计划、对未来生活的构想，见 https://github.com/sunnyhuang42/ForFamily 。
 - 有些持续了好久的习惯：
 	- 晨间日记， 2014 年 5 月至今
 	- [用 WorkFlowy 记工作日志](/selfedu/HbOutputWorkFlowy)， 2014 年 8 月至今

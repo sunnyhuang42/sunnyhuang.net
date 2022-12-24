@@ -25,7 +25,7 @@ description: <p>你要记住，你在心灵自由的路上，踌躇、挣扎、�
 
 
 
-最大的里程碑，要数<!-- more -->年末你发布的 side project 「[ishanshan/EnjoySwingDancing: 谨以此籍，送给六个月前低落彷徨的自己，也送给脑力工作的你，伏案久坐的你 —— swing 吧！你的苦乐，swing 知道 💃🏻🕺🏻](https://github.com/ishanshan/EnjoySwingDancing)」。
+最大的里程碑，要数<!-- more -->年末你发布的 side project 「[ishanshan/EnjoySwingDancing: 谨以此籍，送给六个月前低落彷徨的自己，也送给脑力工作的你，伏案久坐的你 —— swing 吧！你的苦乐，swing 知道 💃🏻🕺🏻](https://github.com/sunnyhuang42/EnjoySwingDancing)」。
 
 这将是你头一回完整发布开源项目，还一人身兼产品、研发、测试、运营。你本想在自己 swing 半周年时发布当作纪念，结果上线前夕收到内测伙伴一堆反馈，不得不推迟发布，以为山穷水尽苦闷到夜半，清晨纸笔理初心又柳暗花明，酸爽却回味无穷，相信你会喜欢。
 
@@ -308,7 +308,7 @@ Be a shaper. 你深信这不只是一条 bio ，更是护心斗篷。就如小�
 
 回家一定要去看外公，聊聊天，抱抱他。还要带老爸去做肠镜，让他早点筛出瘦因。最好每次回去都和家人合影。**你我永远不会知道，什么时候出口的再见，会变成再也不见**。
 
-早点学会使用牙线，早点开始价值投资，早点明确你的[工作原则和底线](https://workflowy.com/s/prp3SaINGB)，它们能使你更自由从容。早点发布[个人使用指南](https://github.com/ishanshan/collaborate_ishanshan)和[对未来生活的念想](https://github.com/ishanshan/ForFamily)，这会让别人更易理解你，也令你更了解自己，还能带来更多惊喜(serendipity)。
+早点学会使用牙线，早点开始价值投资，早点明确你的[工作原则和底线](https://workflowy.com/s/prp3SaINGB)，它们能使你更自由从容。早点发布[个人使用指南](https://github.com/sunnyhuang42/collaborate_ishanshan)和[对未来生活的念想](https://github.com/sunnyhuang42/ForFamily)，这会让别人更易理解你，也令你更了解自己，还能带来更多惊喜(serendipity)。
 
 随身现金不要超过 200 元，银行卡只带一张，手机揣兜里而非包里。这样即使在机场卫生间丢随身包，损失也不会太大。只要手机还在，一切好办。
 

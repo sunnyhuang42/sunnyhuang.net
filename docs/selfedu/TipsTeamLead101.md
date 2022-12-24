@@ -72,7 +72,7 @@ description: <p>这份小记写于 2016 年秋，即使陆续修改，也没好�
 
 ![tepmonthlyreview2.png](https://ishanshan.zoomquiet.top/share/tepmonthlyreview2.png)
 
-(该模板全文见 [HbWorkReviewMonthly.md at master · ishanshan/CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbWorkReviewMonthly.md))
+(该模板全文见 [HbWorkReviewMonthly.md at master · ishanshan/CollaborationGuide4Shaper](https://github.com/sunnyhuang42/CollaborationGuide4Shaper/blob/master/CONTENT/HbWorkReviewMonthly.md))
 
 虽是给别人做 1 on 1 沟通，我亦收获不小。如复盘时想不到有成就感的事，可回想倍感成长的事情，一样能找到接下来可多多投入的方向；再如看到对方探索方向转变，即使担心也不再评判，而是引导询问对方对这样的探索结果是否满意，为什么；又如给建议时，不说建议你怎么做，而是「如果换作我，我会怎么做，为什么」，这样对方更易接受；还如派任务时，不说「有劳这样这样」，而是「这样这样，对你来说 OK 吗」，比如「初稿下周二 14:00 前发给大伙查阅，对你来说 OK 吗？」，既获取对方承诺让结果更易达成，也给对方选择余地感觉更自主。
 

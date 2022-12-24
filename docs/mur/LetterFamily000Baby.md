@@ -38,7 +38,7 @@ description: <p>如果你也在天上挑妈妈，可不可以，先看我一眼�
 那你可不可以，先看我一眼？虽然我还算不上好妈妈，可几年后，谁知道呢？那时，那时说不定好多小朋友都挑中我呢。
 
 不想空手见你，我开始准备礼物，捉住有你的天光：
-<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/ishanshan/ForFamily">ishanshan/ForFamily</a></h4><p>ForFamily - weave of my family life ✨</p></blockquote>
+<blockquote class="embedly-card" data-card-controls="0"><h4><a href="https://github.com/sunnyhuang42/ForFamily">ishanshan/ForFamily</a></h4><p>ForFamily - weave of my family life ✨</p></blockquote>
 <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 若你日后翻见，也要和我说说，这段时间你在干嘛哦：）

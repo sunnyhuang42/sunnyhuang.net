@@ -154,7 +154,7 @@ description: <p>还在增补中，不过也先放出来，供有需要的伙伴�
 
 - [个人简介/blog](/about)
 - 知识星球： [闪闪的人生实验室](https://t.zsxq.com/Vrzji2B)
-- GitHub： https://github.com/ishanshan
+- GitHub： https://github.com/sunnyhuang42
 - 所做产品服务
     - 目前重点张罗的：输出实验室
         - [项目主页](/f_output)

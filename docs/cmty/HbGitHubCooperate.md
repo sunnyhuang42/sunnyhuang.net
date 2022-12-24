@@ -50,8 +50,8 @@ description: <p>协作姿势业余虽不至酿成大错，但着实让人浑身�
 那在 GitHub 用中文命名文件，有何不妥？
 
 - 对比一下由此生成的 wiki pages URL 就知道了
-	- wiki title 为 「Test」 的页面：`https://github.com/ishanshan/example/wiki/Test`
-	- wiki title 为 「测试」 的页面：`https://github.com/ishanshan/example/wiki/%E6%B5%8B%E8%AF%95`
+	- wiki title 为 「Test」 的页面：`https://github.com/sunnyhuang42/example/wiki/Test`
+	- wiki title 为 「测试」 的页面：`https://github.com/sunnyhuang42/example/wiki/%E6%B5%8B%E8%AF%95`
 	- 你觉得哪个 URL 更干净易懂简明专业？
 
 - 再看一下目录，用中文真是不忍直视……

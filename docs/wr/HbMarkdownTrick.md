@@ -2,7 +2,7 @@
 title: 实用但小众的 MarkDown 技巧
 date: 2018-03-23
 updated: 
-description: <p>日常遇到眼前一亮的页面表达效果，我常会琢磨这是怎么实现的，并收集藏之以备后用。比如：</p><ul><li>内容编辑<ul><li>在线协同编辑</li><li>快速创建表格</li><li>设置组块折叠</li><li>设置脚注</li><li>……</li></ul></li><li>展示<ul><li>以幻灯的形式播放 MarkDown 文档</li><li>把 MarkDown 文档发布到其它平台</li><li>把系列 MarkDown 文档发布为电子书</li><li>在正文中引入别处内容、获取该内容的实时更新（embed）</li><li>……</li></ul></li></ul><p>类似的 MarkDown 技巧还有不少，你可以直接从这里查看：<a href="#/wr/HbMarkdownTrick">实用但小众的 MarkDown 技巧 </a>。</p><p>如果你想直接取用、共建，欢迎到这个 GitHub 仓库来 pull request 🙋🏻：<a href="https://github.com/ishanshan/writing_hub/blob/master/content/HbMarkdownTrick.md" target="_blank" rel="noopener">HbMarkdownTrick.md at master · ishanshan/writing_hub</a></p>
+description: <p>日常遇到眼前一亮的页面表达效果，我常会琢磨这是怎么实现的，并收集藏之以备后用。比如：</p><ul><li>内容编辑<ul><li>在线协同编辑</li><li>快速创建表格</li><li>设置组块折叠</li><li>设置脚注</li><li>……</li></ul></li><li>展示<ul><li>以幻灯的形式播放 MarkDown 文档</li><li>把 MarkDown 文档发布到其它平台</li><li>把系列 MarkDown 文档发布为电子书</li><li>在正文中引入别处内容、获取该内容的实时更新（embed）</li><li>……</li></ul></li></ul><p>类似的 MarkDown 技巧还有不少，你可以直接从这里查看：<a href="#/wr/HbMarkdownTrick">实用但小众的 MarkDown 技巧 </a>。</p><p>如果你想直接取用、共建，欢迎到这个 GitHub 仓库来 pull request 🙋🏻：<a href="https://github.com/sunnyhuang42/writing_hub/blob/master/content/HbMarkdownTrick.md" target="_blank" rel="noopener">HbMarkdownTrick.md at master · ishanshan/writing_hub</a></p>
 ---
 
 
@@ -60,7 +60,7 @@ MarkDown 编辑器有很多，推荐选择带目录栏、支持加载本地文�
 
 如果你的表格会持续更新，更建议你直接给出在线表格链接，这样你不必每次都更新 MarkDown 的表格，大伙儿也都能实时看到最新版。
 
-如果你的表格是发布在支持 HTML 的页面，更优雅的方式是直接 embed ：https://github.com/ishanshan/CollaborationGuide4Shaper/tree/master/CONTENT/HbWorkingEfficiently.md#embed-something 。
+如果你的表格是发布在支持 HTML 的页面，更优雅的方式是直接 embed ：https://github.com/sunnyhuang42/CollaborationGuide4Shaper/tree/master/CONTENT/HbWorkingEfficiently.md#embed-something 。
 
 ### 优雅又省心地插入图片
 
@@ -260,7 +260,7 @@ MarkDown 格式的文章如何发布到只支持 HTML 样式的平台，比如�
 
 如果你想在正文中引入别处内容、获取该内容的实时更新，并展示得更丰富些，可以用 embed 的方式。
 
-详见 https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbWorkingEfficiently.md#embed-something 。
+详见 https://github.com/sunnyhuang42/CollaborationGuide4Shaper/blob/master/CONTENT/HbWorkingEfficiently.md#embed-something 。
 
 ### 其它
 

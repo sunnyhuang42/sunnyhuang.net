@@ -7,7 +7,7 @@ description:
 
 舞会是 swing 爱好者交流切磋的时空，也是新人感受 swing 魅力的窗口。
 
-初探 [swing 风采](https://github.com/ishanshan/EnjoySwingDancing/blob/master/docs/ResHighLight.md#swing-%E5%91%A8%E8%BE%B9)，相信你已跃跃欲试。这就到 [亚洲 swing 活动清单](https://github.com/ishanshan/EnjoySwingDancing/blob/master/docs/ResHighLight.md#swing-%E5%91%A8%E8%BE%B9) 查阅各地 swing 舞会信息，实地体验吧：P
+初探 [swing 风采](https://github.com/sunnyhuang42/EnjoySwingDancing/blob/master/docs/ResHighLight.md#swing-%E5%91%A8%E8%BE%B9)，相信你已跃跃欲试。这就到 [亚洲 swing 活动清单](https://github.com/sunnyhuang42/EnjoySwingDancing/blob/master/docs/ResHighLight.md#swing-%E5%91%A8%E8%BE%B9) 查阅各地 swing 舞会信息，实地体验吧：P
 
 出发前抽一刻钟速览下文，你将玩得更舒心又更开心哦：
 
@@ -57,7 +57,7 @@ description:
 > 只打算参加舞会，还没打算组织就不必往下看啦：P
 
 
-国内主要城市基本已有 swing 爱好者社区（信息见 [亚洲 swing 活动清单](https://github.com/ishanshan/EnjoySwingDancing/blob/master/docs/ResHighLight.md#swing-%E5%91%A8%E8%BE%B9) ），如果你想在把 swing 引入自己的圈子，建议先自行到当地 swing 社区感受几回，如果能掌握一些 swing 的基本舞步那是再好不过。
+国内主要城市基本已有 swing 爱好者社区（信息见 [亚洲 swing 活动清单](https://github.com/sunnyhuang42/EnjoySwingDancing/blob/master/docs/ResHighLight.md#swing-%E5%91%A8%E8%BE%B9) ），如果你想在把 swing 引入自己的圈子，建议先自行到当地 swing 社区感受几回，如果能掌握一些 swing 的基本舞步那是再好不过。
 
 我还没组织过舞会，这些是观察到的舞会要素，欢迎你一起来修订~
 
@@ -77,7 +77,7 @@ description:
 
 - 领舞老师（非新人舞会则不必要）：
 	- 如果是 leader 和 follower 舞步明显不一样的的舞蹈，需要两位领舞老师，否则一位即可。
-	- 领舞老师哪里找？你可以参加一次[附近的 swing 活动](https://github.com/ishanshan/EnjoySwingDancing/blob/master/docs/ResHighLight.md#swing-%E5%91%A8%E8%BE%B9)时现场勾搭，或者直接线上联系他们~
+	- 领舞老师哪里找？你可以参加一次[附近的 swing 活动](https://github.com/sunnyhuang42/EnjoySwingDancing/blob/master/docs/ResHighLight.md#swing-%E5%91%A8%E8%BE%B9)时现场勾搭，或者直接线上联系他们~
 - DJ （可由领舞老师兼任）。
 
 ### 舞会环节
@@ -119,13 +119,13 @@ Jam 环节备选：
 
 ### 其它
 
-若有舞会组织疑问，欢迎你在 Issues 交流，或直接联系[你附近的 swing 活动发起人](https://github.com/ishanshan/EnjoySwingDancing/blob/master/docs/ResHighLight.md#swing-%E5%91%A8%E8%BE%B9)~
+若有舞会组织疑问，欢迎你在 Issues 交流，或直接联系[你附近的 swing 活动发起人](https://github.com/sunnyhuang42/EnjoySwingDancing/blob/master/docs/ResHighLight.md#swing-%E5%91%A8%E8%BE%B9)~
 
 ## 欢迎共建
 
 对于要参与舞会或组织舞会的 dancer ，你有什么建议？
 
-欢迎点击本页面右上角的铅笔按钮编辑后 [提交 pull request ](https://guides.github.com/activities/forking/#making-changes) ，或到 [Issue #3 · ishanshan/EnjoySwingDancing](https://github.com/ishanshan/EnjoySwingDancing/issues/3) 交流：）
+欢迎点击本页面右上角的铅笔按钮编辑后 [提交 pull request ](https://guides.github.com/activities/forking/#making-changes) ，或到 [Issue #3 · ishanshan/EnjoySwingDancing](https://github.com/sunnyhuang42/EnjoySwingDancing/issues/3) 交流：）
 
 ## CHANGELOG 
 

@@ -25,7 +25,7 @@ Swing 是什么？为什么 swing 让人快乐？为什么 swing 点亮了我的
 	2. **Swing 舞会指南**：如何在舞会中玩得更开心？如何组织一场令人开心的舞会？且看 [HbParty.md](/swing/HbParty) 。
 	3. **Swing 动作心得**：各舞蹈动作有什么注意事项或技巧？且看 [TipsMovement.md](/swing/TipsMovement) 。
 	4. **Swing 星标资源**： swing 周边有什么推荐资源？且看 [ResHighLight.md](/swing/ResHighLight) 。
-6. **Swing 主题讨论区**：GitHub 自带主题讨论区 [GitHub Issues](https://github.com/ishanshan/EnjoySwingDancing/issues) ，其可供性（[affordance](https://en.wikipedia.org/wiki/Affordance)）强大，欢迎你自主探索使用姿势，比如分享资源、征集同伴什么的，哈哈 ;-)
+6. **Swing 主题讨论区**：GitHub 自带主题讨论区 [GitHub Issues](https://github.com/sunnyhuang42/EnjoySwingDancing/issues) ，其可供性（[affordance](https://en.wikipedia.org/wiki/Affordance)）强大，欢迎你自主探索使用姿势，比如分享资源、征集同伴什么的，哈哈 ;-)
 
 但其中内容多多链接错综，逐一查看容易迷失。**建议你不必全局浏览，先按下述指引对号入座，然后收藏，步入下一阶段再翻出查阅**：
 
@@ -35,13 +35,13 @@ Swing 是什么？为什么 swing 让人快乐？为什么 swing 点亮了我的
 
 - 如果你决定入坑学习 swing ，[Swing 新人指南](/swing/HbBeginner)可以助你探索更畅。各风格舞种动作技巧见 [Swing 动作心得](/swing/TipsMovement) ，你有心得也欢迎增补在此与其他舞者分享~
 
-- 如果你已 swing 一段时间，可否帮忙瞅瞅上述链接，增补或交流你的建议？如果可以，还想请你在这里和同行者聊聊 [What does swing mean to you?](https://github.com/ishanshan/EnjoySwingDancing/issues/2)  
+- 如果你已 swing 一段时间，可否帮忙瞅瞅上述链接，增补或交流你的建议？如果可以，还想请你在这里和同行者聊聊 [What does swing mean to you?](https://github.com/sunnyhuang42/EnjoySwingDancing/issues/2)  
 
 以上。祝玩耍愉快 XD
 
 ## FAQ
 
-### 为什么在 [GitHub](https://github.com/ishanshan/EnjoySwingDancing) 这个如此 geek 的平台上分享？
+### 为什么在 [GitHub](https://github.com/sunnyhuang42/EnjoySwingDancing) 这个如此 geek 的平台上分享？
 
 啊哈，好问题。
 
@@ -70,7 +70,7 @@ BTW, 如果你周围有男士多的圈子，可否帮我个忙，顺手推荐给
 
 欢迎发挥你的长处，让更多人感受 swing 魅力 ;-)
 
-比如，同为 swing dancer 的你，会给六个月前的自己哪些建议？一家之言必有疏漏，欢迎你直接增补修订这里的文档，或在主题讨论区交流：欢迎直接 [提交 pull request 修订](https://guides.github.com/activities/forking/#making-changes)，或在 [Issues](https://github.com/ishanshan/EnjoySwingDancing/issues) 交流，一起让更多人体验 swing 的欢乐 😋
+比如，同为 swing dancer 的你，会给六个月前的自己哪些建议？一家之言必有疏漏，欢迎你直接增补修订这里的文档，或在主题讨论区交流：欢迎直接 [提交 pull request 修订](https://guides.github.com/activities/forking/#making-changes)，或在 [Issues](https://github.com/sunnyhuang42/EnjoySwingDancing/issues) 交流，一起让更多人体验 swing 的欢乐 😋
 
 又如，你擅长图像表达，欢迎把其中内容呈现更直观。或者你外文写作不错，欢迎把这里的内容译成其它语言。又或你在张罗社区活动，欢迎[引入舞会环节](/swing/HbParty)，给你的社区伙伴和这个多彩的生活方式牵个线 😝
 

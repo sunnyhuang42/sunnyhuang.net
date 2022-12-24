@@ -55,7 +55,7 @@ description:
 - 如何向别人清晰解释某个特性用法，可参看这个理解
     - 反面案例：[python - seek() function? - Stack Overflow](https://stackoverflow.com/questions/11696472/seek-function)
     - 正面案例：[seek — Python Reference (The Right Way) 0.1 documentation](https://python-reference.readthedocs.io/en/latest/docs/file/seek.html)
-- 如何令初阶用户也能在非 CLI 界面轻松理解、自行修改配置，可参看这个  blog [_config.yml](https://github.com/ishanshan/ishanshan.github.io/blob/v2/_config.yml) 怎么写。
+- 如何令初阶用户也能在非 CLI 界面轻松理解、自行修改配置，可参看这个  blog [_config.yml](https://github.com/sunnyhuang42/ishanshan.github.io/blob/v2/_config.yml) 怎么写。
 
 
 

@@ -44,7 +44,7 @@ description:
 
 你想和大伙儿分享什么 swing 资源？
 
-欢迎点击本页面右上角的铅笔按钮编辑后 [提交 pull request ](https://guides.github.com/activities/forking/#making-changes) ，或到 [Issue #3 · ishanshan/EnjoySwingDancing](https://github.com/ishanshan/EnjoySwingDancing/issues/3) 交流：）
+欢迎点击本页面右上角的铅笔按钮编辑后 [提交 pull request ](https://guides.github.com/activities/forking/#making-changes) ，或到 [Issue #3 · ishanshan/EnjoySwingDancing](https://github.com/sunnyhuang42/EnjoySwingDancing/issues/3) 交流：）
 
 
 ## CHANGELOG 

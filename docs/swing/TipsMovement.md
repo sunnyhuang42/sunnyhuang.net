@@ -6,7 +6,7 @@ description:
 ---
 
 
-这里是日常积累的一些动作要点，供已经开始 swing 的你参考。欢迎一起增补，[提交 pull request 修订](https://guides.github.com/activities/forking/#making-changes)，或在 [Issues](https://github.com/ishanshan/EnjoySwingDancing/issues) 交流均可~
+这里是日常积累的一些动作要点，供已经开始 swing 的你参考。欢迎一起增补，[提交 pull request 修订](https://guides.github.com/activities/forking/#making-changes)，或在 [Issues](https://github.com/sunnyhuang42/EnjoySwingDancing/issues) 交流均可~
 
 如果你还没开始跳，不建议查看 —— 看了也没感觉，还费了你时间…… 🌝
 
@@ -82,7 +82,7 @@ description:
 
 关于各动作，你想和大伙儿分享什么心得？
 
-欢迎点击本页面右上角的铅笔按钮编辑后 [提交 pull request ](https://guides.github.com/activities/forking/#making-changes) ，或到 [Issue #3 · ishanshan/EnjoySwingDancing](https://github.com/ishanshan/EnjoySwingDancing/issues/3) 交流：）
+欢迎点击本页面右上角的铅笔按钮编辑后 [提交 pull request ](https://guides.github.com/activities/forking/#making-changes) ，或到 [Issue #3 · ishanshan/EnjoySwingDancing](https://github.com/sunnyhuang42/EnjoySwingDancing/issues/3) 交流：）
 
 ## CHANGELOG 
 

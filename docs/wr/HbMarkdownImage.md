@@ -241,7 +241,7 @@ Win:
 	- cheat sheet: [Hb7niuImageEditOnline · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/Hb7niuImageEditOnline)
 	- 官方文档：[图片处理使用说明 - 七牛开发者中心](https://developer.qiniu.com/dora/manual/3683/img-directions-for-use)
 - 批量查找替换多个文档内容的编辑器：[Atom](https://atom.io/)
-- 更多小众但实用的 MarkDown 技巧见 [HbMarkdownTrick.md at master · ishanshan/CollaborationGuide4Shaper](https://github.com/ishanshan/CollaborationGuide4Shaper/blob/master/CONTENT/HbMarkdownTrick.md) 。
+- 更多小众但实用的 MarkDown 技巧见 [HbMarkdownTrick.md at master · ishanshan/CollaborationGuide4Shaper](https://github.com/sunnyhuang42/CollaborationGuide4Shaper/blob/master/CONTENT/HbMarkdownTrick.md) 。
 
 
 

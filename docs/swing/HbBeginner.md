@@ -325,7 +325,7 @@ Leader 可以多问问老师，这个动作的信号如何传出，何时传出�
 
 对于 swing 新人，你有什么建议？
 
-欢迎点击本页面右上角的铅笔按钮编辑后 [提交 pull request ](https://guides.github.com/activities/forking/#making-changes) ，或到 [Issue #3 · ishanshan/EnjoySwingDancing](https://github.com/ishanshan/EnjoySwingDancing/issues/3) 交流：）
+欢迎点击本页面右上角的铅笔按钮编辑后 [提交 pull request ](https://guides.github.com/activities/forking/#making-changes) ，或到 [Issue #3 · ishanshan/EnjoySwingDancing](https://github.com/sunnyhuang42/EnjoySwingDancing/issues/3) 交流：）
 
 # CHANGELOG
 

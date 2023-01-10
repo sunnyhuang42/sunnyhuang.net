@@ -107,18 +107,20 @@ const PostPage = ({
         />
       )}
       {sponsor && <Sponsor {...sponsor} className="my-10 md:my-12" />}
-      <Link
-        href={`https://github.com/${editLink.repo}/edit/master/docs/${sourceFilePath}`}
-      >
-        <a
-          className="my-8 flex text-sm font-medium text-accent"
-          target="_blank"
-          rel="noreferrer"
+      {editLink?.text && (
+        <Link
+          href={`https://github.com/${editLink.repo}/edit/master/docs/${sourceFilePath}`}
         >
-          <Edit className="mr-2" />
-          {editLink.text}
-        </a>
-      </Link>
+          <a
+            className="my-8 flex text-sm font-medium text-accent"
+            target="_blank"
+            rel="noreferrer"
+          >
+            <Edit className="mr-2" />
+            {editLink.text}
+          </a>
+        </Link>
+      )}
       {(prev || next) && <PrevNext prev={prev} next={next} />}
       <Comment />
     </article>

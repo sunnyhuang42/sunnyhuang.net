@@ -1,7 +1,7 @@
 ---
-title: 「输出实验室」玩法介绍&报名入口（长期有效）
+title: 「输出实验室」玩法介绍&报名入口
 date: 2021-03-31
-updated: 
+updated: 2021-05-27
 description: 
 ---
 

@@ -1,7 +1,28 @@
+import fs from 'fs';
+import path from 'path';
 import { defineDocumentType, makeSource } from 'contentlayer/source-files';
 import { parse } from 'node-html-parser';
 import readingTime from 'reading-time';
 import { remarkPlugins, rehypePlugins } from './src/utils/markdown';
+import type { Heading } from './src/context/page';
+
+const headingTags = ['H2', 'H3', 'H4', 'H5', 'H6'];
+const assetDir = path.join(process.cwd(), '.next', 'static', 'chunks');
+const searchDataPath = path.join(assetDir, 'search-data.json');
+const cleanup = (content: string) =>
+  content
+    .trim()
+    .split('\n')
+    .map((line) => line.trim())
+    .filter(Boolean)
+    .join('\n');
+
+const getSlug = (post) =>
+  `/${post._raw.flattenedPath.replace(/\/?README/, '')}`;
+
+if (!fs.existsSync(assetDir)) {
+  fs.mkdirSync(assetDir, { recursive: true });
+}
 
 const Post = defineDocumentType(() => ({
   name: 'Post',
@@ -20,7 +41,7 @@ const Post = defineDocumentType(() => ({
   computedFields: {
     slug: {
       type: 'string',
-      resolve: (post) => `/${post._raw.flattenedPath.replace(/\/?README/, '')}`,
+      resolve: getSlug,
     },
     sourceFilePath: {
       type: 'string',
@@ -33,20 +54,59 @@ const Post = defineDocumentType(() => ({
     headings: {
       type: 'json',
       resolve: (post) => {
-        const headings = parse(post.body.html)
-          .querySelectorAll('[id]')
-          .filter((node) => node.tagName.includes('H'))
-          .map(({ id, tagName, text }) => ({
-            id,
-            text,
-            depth: Number(tagName.replace('H', '')),
-          }));
+        let slug = '';
+        let content = '';
+        let skip = false;
+        const data: Record<string, string> = {};
+        const headings: Heading[] = [];
+        const nodes = parse(post.body.html).getElementsByTagName('*');
+        const lastIndex = nodes.length - 1;
+
+        nodes.forEach((node, index) => {
+          const { id, text, tagName } = node;
+          if (headingTags.includes(tagName)) {
+            data[slug] = cleanup(content);
+            content = '';
+            slug = `${id}#${text}`;
+            skip = true;
+
+            if (id) {
+              headings.push({
+                id,
+                text,
+                depth: Number(tagName.replace('H', '')),
+              });
+            }
+          } else if (skip) {
+            skip = false;
+          } else {
+            content += `${text}\n`;
+          }
+
+          if (index === lastIndex) {
+            data[slug] = cleanup(content);
+          }
+        });
 
         const logIndex = headings.findIndex((i) => i.id === 'changelog');
 
         if (logIndex > -1) {
           headings.push(headings.splice(logIndex, 1)[0]);
         }
+
+        // save search data
+        let searchData = {};
+        try {
+          searchData = JSON.parse(fs.readFileSync(searchDataPath, 'utf8'));
+        } catch (e) {}
+
+        // @ts-ignore
+        searchData[getSlug(post)] = {
+          data,
+          title: post.title || '',
+        };
+
+        fs.writeFileSync(searchDataPath, JSON.stringify(searchData));
 
         return headings;
       },

@@ -1,7 +1,7 @@
 import { useState, useContext, createContext, FC, useEffect } from 'react';
 import { useRouter } from 'next/router';
 
-type Heading = {
+export type Heading = {
   id: string;
   text: string;
   depth: number;

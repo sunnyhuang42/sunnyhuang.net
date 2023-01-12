@@ -1,7 +1,29 @@
+import fs from 'fs';
+import path from 'path';
 import withYaml from 'next-plugin-yaml';
 import bundleAnalyzer from '@next/bundle-analyzer';
 import { withContentlayer } from 'next-contentlayer';
-import { SearchPlugin } from './src/utils/search.mjs';
+
+class SearchPlugin {
+  apply(compiler) {
+    compiler.hooks.beforeCompile.tapAsync(
+      'SearchPlugin',
+      async (_, callback) => {
+        const assetDir = path.join(process.cwd(), '.next', 'static', 'chunks');
+
+        if (!fs.existsSync(assetDir)) {
+          fs.mkdirSync(assetDir, { recursive: true });
+        }
+
+        fs.copyFileSync(
+          path.join(process.cwd(), '.contentlayer', 'search-data.json'),
+          path.join(assetDir, 'search-data.json'),
+        );
+        callback();
+      },
+    );
+  }
+}
 
 const withBundleAnalyzer = bundleAnalyzer({
   enabled: process.env.ANALYZE === 'true',

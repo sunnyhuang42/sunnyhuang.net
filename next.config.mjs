@@ -35,7 +35,7 @@ export default withBundleAnalyzer(
   withYaml(
     withContentlayer()({
       webpack: (config, { dev, isServer }) => {
-        config.plugins ||= [];
+        config.plugins = config.plugins || [];
         config.plugins.push(searchPlugin);
 
         // Replace React with Preact only in client production build

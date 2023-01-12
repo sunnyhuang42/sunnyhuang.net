@@ -1,4 +1,3 @@
-import { DocSearchProps } from '@docsearch/react';
 // @ts-ignore
 import config from '../../config.yml';
 import { getFlatSidebar, getPrevNextMap } from '@/utils';
@@ -44,7 +43,6 @@ export type Config = {
   social: {
     github?: string;
   };
-  algolia: DocSearchProps;
   license: {
     text: string;
     link: string;

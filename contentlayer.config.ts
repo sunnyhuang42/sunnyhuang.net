@@ -1,14 +1,11 @@
-import fs from 'fs';
-import path from 'path';
 import { defineDocumentType, makeSource } from 'contentlayer/source-files';
 import { parse } from 'node-html-parser';
 import readingTime from 'reading-time';
+import { addSearchData } from './src/utils/search.mjs';
 import { remarkPlugins, rehypePlugins } from './src/utils/markdown';
 import type { Heading } from './src/context/page';
 
 const headingTags = ['H2', 'H3', 'H4', 'H5', 'H6'];
-const assetDir = path.join(process.cwd(), '.next', 'static', 'chunks');
-const searchDataPath = path.join(assetDir, 'search-data.json');
 const cleanup = (content: string) =>
   content
     .trim()
@@ -19,10 +16,6 @@ const cleanup = (content: string) =>
 
 const getSlug = (post) =>
   `/${post._raw.flattenedPath.replace(/\/?README/, '')}`;
-
-if (!fs.existsSync(assetDir)) {
-  fs.mkdirSync(assetDir, { recursive: true });
-}
 
 const Post = defineDocumentType(() => ({
   name: 'Post',
@@ -94,19 +87,11 @@ const Post = defineDocumentType(() => ({
           headings.push(headings.splice(logIndex, 1)[0]);
         }
 
-        // save search data
-        let searchData = {};
-        try {
-          searchData = JSON.parse(fs.readFileSync(searchDataPath, 'utf8'));
-        } catch (e) {}
-
-        // @ts-ignore
-        searchData[getSlug(post)] = {
+        addSearchData({
           data,
+          slug: getSlug(post),
           title: post.title || '',
-        };
-
-        fs.writeFileSync(searchDataPath, JSON.stringify(searchData));
+        });
 
         return headings;
       },

@@ -46,6 +46,9 @@ module.exports = {
           'background-color': 'var(--bg-transparent-color)',
           'backdrop-filter': 'saturate(180%) blur(20px)',
         },
+        '.bg-accent': {
+          'background-color': 'var(--bg-accent-color)',
+        },
       });
     }),
   ],

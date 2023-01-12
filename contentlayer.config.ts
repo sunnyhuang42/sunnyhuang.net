@@ -14,7 +14,7 @@ const cleanup = (content: string) =>
     .filter(Boolean)
     .join('\n');
 
-const getSlug = (post) =>
+const getSlug = (post: any) =>
   `/${post._raw.flattenedPath.replace(/\/?README/, '')}`;
 
 const Post = defineDocumentType(() => ({

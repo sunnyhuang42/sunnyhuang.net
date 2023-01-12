@@ -8,6 +8,7 @@ import { Search } from './search';
 import { HighlightMatches } from './highlight-matches';
 import { SearchResult } from '@/types';
 
+// @ts-ignore
 type SectionIndex = FlexSearch.Document<
   {
     id: string;
@@ -20,6 +21,7 @@ type SectionIndex = FlexSearch.Document<
   ['title', 'content', 'url', 'display']
 >;
 
+// @ts-ignore
 type PageIndex = FlexSearch.Document<
   {
     id: number;
@@ -70,6 +72,7 @@ const loadIndexesImpl = async (
   );
   const data = (await response.json()) as NextraData;
 
+  // @ts-ignore
   const pageIndex: PageIndex = new FlexSearch.Document({
     cache: 100,
     tokenize: 'full',
@@ -85,6 +88,7 @@ const loadIndexesImpl = async (
     },
   });
 
+  // @ts-ignore
   const sectionIndex: SectionIndex = new FlexSearch.Document({
     cache: 100,
     tokenize: 'full',

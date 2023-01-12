@@ -9,12 +9,6 @@ logo: https://ishanshan.zoomquiet.top/share/ishanshan1409-2.png?imageView2/2/w/6
 social:
   github: https://github.com/sunnyhuang42
 
-# 搜索
-algolia:
-  appId: X8O4HFU9FV
-  apiKey: b72b2cc618f50c44521d1ab1e773f3e7
-  indexName: sunnyblog
-
 # 底部
 license:
   text: CC BY-NC 4.0 协议

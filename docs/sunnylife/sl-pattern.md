@@ -10,11 +10,11 @@ hide:
 
 > 看十年，想三年，踏实有序做半年，持续迭代推飞轮🏄🏻‍♀️
 
-具体指什么？
+
 
 ![sl-whole](http://ishanshan.zoomquiet.top/share/sl-whole4.png )
 
-
+具体指什么？
 
 ## 看十年：
 

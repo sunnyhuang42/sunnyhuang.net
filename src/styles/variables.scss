@@ -1,19 +1,19 @@
 :root {
-  --text-color: #34495e;
-  --text-secondary-color: rgba(60, 60, 60, 0.7);
-  --text-tertiary-color: rgba(60, 60, 60, 0.33);
+  --text-color: #102a43;
+  --text-secondary-color: #243b53;
+  --text-tertiary-color: #334e68;
 
   --divider-color: rgba(60, 60, 60, 0.29);
   --divider-secondary-color: rgba(60, 60, 60, 0.12);
 
   --bg-color: #fff;
-  --bg-secondary-color: #f9f9f9;
-  --bg-tertiary-color: #f1f1f1;
+  --bg-secondary-color: #f0f4f8;
+  --bg-tertiary-color: #d9e2ec;
   --bg-transparent-color: rgba(255, 255, 255, 0.8);
   --bg-accent-color: rgb(66, 184, 131, 0.1);
 
-  --accent-color: #42b883;
-  --accent-highlight-color: #33a06f;
+  --accent-color: #3ebd93;
+  --accent-highlight-color: #effcf6;
   --selection-color: #b4d8fe;
 
   --code-comment-color: #65798c;
@@ -25,17 +25,14 @@
   --code-function-color: #4a838b;
   --code-variable-color: #4a838b;
 
-  --docsearch-primary-color: var(--accent-color);
-  --docsearch-text-color: var(--text-color);
-
   --border-color: rgba(0, 0, 0, 0.15);
   --dividers-color: rgba(0, 0, 0, 0.06);
 }
 
 .dark {
-  --text-color: rgba(255, 255, 255, 0.87);
-  --text-secondary-color: rgba(235, 235, 235, 0.6);
-  --text-tertiary-color: rgba(235, 235, 235, 0.38);
+  --text-color: #f0f4f8;
+  --text-secondary-color: #d9e2ec;
+  --text-tertiary-color: #bcccdc;
 
   --divider-color: rgba(84, 84, 84, 0.65);
   --divider-secondary-color: rgba(84, 84, 84, 0.48);
@@ -45,6 +42,7 @@
   --bg-tertiary-color: #2f2f2f;
   --bg-transparent-color: rgba(28, 28, 30, 0.7);
 
+  --accent-highlight-color: #014d40;
   --selection-color: #40628a;
 
   --code-comment-color: #7f8c97;

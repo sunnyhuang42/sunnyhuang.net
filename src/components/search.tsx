@@ -200,7 +200,7 @@ export function Search({
         <input
           ref={input}
           spellCheck={false}
-          className="block w-full appearance-none rounded-lg px-3 py-2 text-base leading-tight outline-accent transition-colors bg-tertiary placeholder:text-secondary focus:bg-primary md:text-sm"
+          className="block w-full appearance-none rounded-lg px-3 py-2 text-base leading-tight outline-accent transition-colors bg-secondary placeholder:text-secondary focus:bg-primary md:text-sm"
           value={value}
           onChange={(e) => {
             const { value } = e.target;

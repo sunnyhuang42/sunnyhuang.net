@@ -55,9 +55,9 @@ description:
 这个应用案例或许你也见过，不过我想说的不是参考这个，而是思考它的进化方向：
 
 
-![aiedu1.jpeg](http://openmindclub.zoomquiet.top/ishanshan/aiedu1.jpeg?imageView2/2/w/350)
+![aiedu1.jpeg](http://openmindclub.zoomquiet.top/ishanshan/aiedu1.jpeg?x-oss-process=image/resize,w_350)
 ![aiedu2.jpeg](http://openmindclub.zoomquiet.top/ishanshan/aiedu2.jpeg)
-![aiedu3.jpeg](http://openmindclub.zoomquiet.top/ishanshan/aiedu3.jpeg?imageView2/2/w/400)
+![aiedu3.jpeg](http://openmindclub.zoomquiet.top/ishanshan/aiedu3.jpeg?x-oss-process=image/resize,w_400)
 
 
 这课堂呵护系统，**往事前预测、事发干预方向深入**，比事后报告效果能好不少——比如使用 AI 预测哪位同学即将走神，提请老师关注（如邀其回答问题、走到他旁边讲课等），提升学生课堂专注程度。

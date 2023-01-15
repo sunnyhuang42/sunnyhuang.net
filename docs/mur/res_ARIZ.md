@@ -10,9 +10,9 @@ description:
 这两天终于比较系统全面地了解。
 
 
-![ariz1.jpeg](https://ishanshan.zoomquiet.top/share/ariz1.jpeg ':size=220')
-![ariz3.jpeg](https://ishanshan.zoomquiet.top/share/ariz3.jpeg ':size=220')
-![ariz2.jpeg](https://ishanshan.zoomquiet.top/share/ariz2.jpeg ':size=220')
+![ariz1.jpeg](https://cdn.sunnyhuang.net/share/ariz1.jpeg ':size=220')
+![ariz3.jpeg](https://cdn.sunnyhuang.net/share/ariz3.jpeg ':size=220')
+![ariz2.jpeg](https://cdn.sunnyhuang.net/share/ariz2.jpeg ':size=220')
 
 
 <br> 
@@ -55,17 +55,17 @@ PS. 那会儿想到用 STC 算子来辅助决策，源自当时面试官也是�
 
 1. ARIZ 在不断迭代，《创新算法》书中，列的是 ARIZ-71，也就是作者阿奇舒勒老爷爷 1971 年迭代的版本。最被广泛使用的版本，是作者离世前的版本， ARIZ-85c 。每个版本的迭代，感兴趣可参考 https://triz-journal.com/ariz-move/  。
 
-2. 下图是85c 的概要，截图来源见 [solving_the_problem_of_ariz_using_ariz.pdf](https://ishanshan.zoomquiet.top/clipping/solving_the_problem_of_ariz_using_ariz.pdf)  
+2. 下图是85c 的概要，截图来源见 [solving_the_problem_of_ariz_using_ariz.pdf](https://cdn.sunnyhuang.net/clipping/solving_the_problem_of_ariz_using_ariz.pdf)  
 
-    ![ariz_85c.png](https://ishanshan.zoomquiet.top/share/ariz_85c.png ':size=100')
+    ![ariz_85c.png](https://cdn.sunnyhuang.net/share/ariz_85c.png ':size=100')
 
 
 
-3. 85c 完整版见 [ariz85c.pdf](https://ishanshan.zoomquiet.top/clipping/ariz85c.pdf) 
+3. 85c 完整版见 [ariz85c.pdf](https://cdn.sunnyhuang.net/clipping/ariz85c.pdf) 
 
-4. 下图是《Innovation on Demand》的作者 Victor Fey  ，在 85c 上迭代的版本。截图来源见 [Algorithm_for_inventive_problem_solving_(ARIZ)85c+.pdf](https://ishanshan.zoomquiet.top/clipping/algorithm_for_inventive_problem_solving_%28ariz%2985c%2B.pdf) 
+4. 下图是《Innovation on Demand》的作者 Victor Fey  ，在 85c 上迭代的版本。截图来源见 [Algorithm_for_inventive_problem_solving_(ARIZ)85c+.pdf](https://cdn.sunnyhuang.net/clipping/algorithm_for_inventive_problem_solving_%28ariz%2985c%2B.pdf) 
 
-    ![ariz_85c+.png](https://ishanshan.zoomquiet.top/share/ariz_85c%2B.png ':size=100')
+    ![ariz_85c+.png](https://cdn.sunnyhuang.net/share/ariz_85c%2B.png ':size=100')
     
     
 

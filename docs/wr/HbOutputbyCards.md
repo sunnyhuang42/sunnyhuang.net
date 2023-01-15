@@ -76,7 +76,7 @@ description: <p>作品和作品的差别，源于卡片。</p><p>人和人的差
 
 **文档里，按天划分组块**，时间是一级标题，正文概要作二级标题，**按时间倒序排列**。如此便可凭目录栏随心跳转，快速修改已有内容：
 
-![mwebtoc3.png](https://ishanshan.zoomquiet.top/share/mwebtoc3.png)
+![mwebtoc3.png](https://cdn.sunnyhuang.net/share/mwebtoc3.png)
 
 
 为了区分内容类型以便查找复用，我还建了套标记规则，加在内容概要之前，一目了然各条状态：
@@ -93,7 +93,7 @@ description: <p>作品和作品的差别，源于卡片。</p><p>人和人的差
 
 1. 一级标题所需的「当天时间」，用输入法自带的当前时间。比如在搜狗拼音输入 `sj` ，候选项就会出现当前时间，选择即可输入。如此，不仅可作一级组块区分标记，还可记录当天遐思何时开始：
 
-	![mwebtricks1.gif](https://ishanshan.zoomquiet.top/share/mwebtricks1.gif)
+	![mwebtricks1.gif](https://cdn.sunnyhuang.net/share/mwebtricks1.gif)
 
 	对了，当天时间最好选全 ASCII 字符的表达方式，不带汉字，未来若想跑个脚本分析也省心。比如我习惯晨间日记，可借此分析某阶段早上何时进入状态。
 
@@ -101,11 +101,11 @@ description: <p>作品和作品的差别，源于卡片。</p><p>人和人的差
 
 2. `## 0` 等常用字符，使用 aText 这类工具设置缩写规则，比如 `;0 == ## 0` ，简化输入流程。当天遐思的同步到 GitHub 所用的 commit message，当然也设缩写，比如 `uft == update for today` ：
 
-	![mwebtricks3.gif](https://ishanshan.zoomquiet.top/share/mwebtricks3.gif)
+	![mwebtricks3.gif](https://cdn.sunnyhuang.net/share/mwebtricks3.gif)
 
-3. 其它 MarkDown 标记比如 `#` ，以及各视图切换等常用操作，用 [MWeb 快捷键](https://ishanshan.zoomquiet.top/share/mwebtricks7.png)简化输入流程。
+3. 其它 MarkDown 标记比如 `#` ，以及各视图切换等常用操作，用 [MWeb 快捷键](https://cdn.sunnyhuang.net/share/mwebtricks7.png)简化输入流程。
 
-	![mwebtricks4.gif](https://ishanshan.zoomquiet.top/share/mwebtricks4.gif)
+	![mwebtricks4.gif](https://cdn.sunnyhuang.net/share/mwebtricks4.gif)
 
 这样下来，每周文档只含字符，图像影音托管给七牛云，单个文档即使万字，也就十来 k 。如此这般，该文档常开也不费劲儿，我想写的现在就写;-)
 
@@ -119,7 +119,7 @@ description: <p>作品和作品的差别，源于卡片。</p><p>人和人的差
 
 多方测试，我发现 LOFTER 最适合作「一个人的微博」。不信你瞅 [http://mur42.lofter.com/](http://mur42.lofter.com/) ？
 
-![cardlofter3.gif](https://ishanshan.zoomquiet.top/share/cardlofter3.gif)
+![cardlofter3.gif](https://cdn.sunnyhuang.net/share/cardlofter3.gif)
 
 不仅版式优雅，需求还都满足：
 
@@ -127,11 +127,11 @@ description: <p>作品和作品的差别，源于卡片。</p><p>人和人的差
 - 鲜有广告，也不会被强推内容：有，但相较某博可以算是不存在，很少分散注意力。如果你没关注什么人，时间线里也不会出现乱七八糟的东西。
 - 支持 MarkDown ：半支持—— chrome 浏览器搭配 MarkDown here 插件即可。美中不足，是无法自动和 GitHub 同步融入我的发布流程。不过无妨，就当发朋友圈吧。
 
-	![lofter-setting2.png](https://ishanshan.zoomquiet.top/share/lofter-setting2.png?imageView2/2/w/700)
+	![lofter-setting2.png](https://cdn.sunnyhuang.net/share/lofter-setting2.png?x-oss-process=image/resize,w_700)
 
 - 可设置自由设定访问权限：满足。一个账号可设多个子空间，子空间可选择密码访问，或设定不能被站内及搜索引擎搜索。亦可设置单条内容仅自己可见。
 
-	![lofter-setting1.png](https://ishanshan.zoomquiet.top/share/lofter-setting1.png?imageView2/2/w/700)
+	![lofter-setting1.png](https://cdn.sunnyhuang.net/share/lofter-setting1.png?x-oss-process=image/resize,w_700)
 
 - 其它优势：有手机 App ；各类配置傻瓜级别，无需技术背景。
 
@@ -227,12 +227,12 @@ description: <p>作品和作品的差别，源于卡片。</p><p>人和人的差
 
 至于如何积累零散思绪，那就见仁见智了。但万变不离其宗，能让你更高效自在地输出就成。
 
-所以，如果你发现无论用[纳博科夫牌巴掌大的索引卡](https://ishanshan.zoomquiet.top/share/cardnabcov7.png)，还是[梅棹忠夫牌 B6 大的京大式卡](https://www.amazon.cn/dp/B003FGLVPO/ref=sr_1_1?ie=UTF8&qid=1531642792&sr=8-1&keywords=%E4%BA%AC%E5%A4%A7%E5%BC%8F)，怎么都不得劲，这很正常。继续尝试就好。
+所以，如果你发现无论用[纳博科夫牌巴掌大的索引卡](https://cdn.sunnyhuang.net/share/cardnabcov7.png)，还是[梅棹忠夫牌 B6 大的京大式卡](https://www.amazon.cn/dp/B003FGLVPO/ref=sr_1_1?ie=UTF8&qid=1531642792&sr=8-1&keywords=%E4%BA%AC%E5%A4%A7%E5%BC%8F)，怎么都不得劲，这很正常。继续尝试就好。
 
 比如我，这卡那卡都体验了一把，还是钟情大二就开始的习惯：输出始于**横着 A4 纸**捕捉灵感、梳理思路，写画不羁。一些长文如[《谢谢你给她的时光》](/selfedu/Letter2XY4y2017)、[《你丁酉年的故事》](/selfedu/Review2017)以及本文，更是如此：不仅起念阶段，甚至每个组块都要好几张 A4 纸自由写画，梳理想传递什么、引发什么行动，才敲成字符。当然，还会混合其他姿势，比如本文提到的随时记忆外部化+一个人的微博、之前推荐的 WorkFlowy 等。
 
 
-![cardsample3.png](https://ishanshan.zoomquiet.top/share/cardsample3.png?imageView2/2/w/1000/format/jpg|imageMogr2/size-limit/100k!)
+![cardsample3.png](https://cdn.sunnyhuang.net/share/cardsample3.png?x-oss-process=image/resize,w_1000)
  <center>👆🏻A4 纸配板夹，走遍天下都不怕</center>  
 
 <br>
@@ -248,7 +248,7 @@ description: <p>作品和作品的差别，源于卡片。</p><p>人和人的差
 
 对于人名，我用表格整理相关信息，比如：
 
-![cardsample2.png](https://ishanshan.zoomquiet.top/share/cardsample2.png?imageView2/2/w/900)
+![cardsample2.png](https://cdn.sunnyhuang.net/share/cardsample2.png?x-oss-process=image/resize,w_900)
 
 不过尚未用得满意，无实践案例可举……你若有满意心法记得和我分享~
 
@@ -288,7 +288,7 @@ description: <p>作品和作品的差别，源于卡片。</p><p>人和人的差
 
 至于陌生术语，除了上述行动，我还会把这个术语的概念、出处等信息整理到 WorkFlowy 或 zotero 对应节点。比如：
 
-![cardsample1.png](https://ishanshan.zoomquiet.top/share/cardsample1.png)
+![cardsample1.png](https://cdn.sunnyhuang.net/share/cardsample1.png)
 
 如何用自己的话进一步表述，则是文中要用时，再结合语境整理成文，并深入查证确认使用正确。以「认知闭合」和「科学素养」这俩术语为例：
 
@@ -338,7 +338,7 @@ description: <p>作品和作品的差别，源于卡片。</p><p>人和人的差
 
 读者留言：
 
-![blogcomment_outputflow.png](https://ishanshan.zoomquiet.top/share/blogcomment_outputflow.png)
+![blogcomment_outputflow.png](https://cdn.sunnyhuang.net/share/blogcomment_outputflow.png)
 
 ^截图于 210525
 

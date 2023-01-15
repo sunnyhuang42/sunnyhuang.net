@@ -29,7 +29,7 @@ O 是回答“我(们)想做什么”，KR 是回答“我(们)如何知道是�
 > Objectives: Where do I need to go? <br>  Key Results: How do I know I'm getting there?
 
 
-![what-is-the-okr-framework-how-it-all-started.png](https://ishanshan.zoomquiet.top/clipping/what-is-the-okr-framework-how-it-all-started.png)
+![what-is-the-okr-framework-how-it-all-started.png](https://cdn.sunnyhuang.net/clipping/what-is-the-okr-framework-how-it-all-started.png)
 
 ^ 图片来自[How to Use the OKR Framework to Reach Your Life Goals](https://mint.intuit.com/blog/planning-2/okr-framework/)
 
@@ -162,7 +162,7 @@ O 的表达，可参考以下结构：
 
 这其实错过了这套思考框架的一大精髓——毕竟1分标准正常来说是非常有挑战的，很难完全实现。思考 0.4 分，其实是倒逼我们去思考 MVP（Minimum Viable Product） ，即到底最小要先保证交付怎样的价值——最少先交付怎样的结果，对于要解决的问题就已经有意义/可以接受了？这让我们能在有限的时间和资源下，更易**抓重点**。
 
-![mvp1.jpeg](https://ishanshan.zoomquiet.top/clipping/mvp1.jpeg)
+![mvp1.jpeg](https://cdn.sunnyhuang.net/clipping/mvp1.jpeg)
 
 > A minimum viable product (MVP) is not always a smaller/cheaper version of your final product. It’s something that helps you validate the core.——Steve Blank
 

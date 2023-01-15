@@ -10,16 +10,16 @@ description: 如果你在探索人生下一步要怎么走，想找到更清晰�
 
 ## 你是这样的人吗？
 
-![createlife1](http://ishanshan.zoomquiet.top/share/createlife1-8.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=500')
+![createlife1](https://cdn.sunnyhuang.net/share/createlife1-8.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330  ':size=500')
 
 
 ## 你在面临以下难题吗？
 
-![createlife2](http://ishanshan.zoomquiet.top/share/createlife2-8.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1 ':size=550')
+![createlife2](https://cdn.sunnyhuang.net/share/createlife2-8.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330 ':size=550')
 
 
 ## 加入闪闪人生创造营
-![createlife2-9](http://ishanshan.zoomquiet.top/share/createlife2-9.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1  ':size=360' )
+![createlife2-9](https://cdn.sunnyhuang.net/share/createlife2-9.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330':size=360' )
 
 
 
@@ -28,7 +28,7 @@ description: 如果你在探索人生下一步要怎么走，想找到更清晰�
 
 #### 1. 一套「梳理、推进和迭代人生规划」的最佳实践框架
 
-![createlife3](http://ishanshan.zoomquiet.top/share/createlife3.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1)
+![createlife3](https://cdn.sunnyhuang.net/share/createlife3.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330)
 
 
 
@@ -41,7 +41,7 @@ description: 如果你在探索人生下一步要怎么走，想找到更清晰�
 
 #### 2. 高频稳定的检视迭代节奏，令人踏实的练习反馈环境
 
-![createlife4](http://ishanshan.zoomquiet.top/share/createlife4-4.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=500' )
+![createlife4](https://cdn.sunnyhuang.net/share/createlife4-4.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330  ':size=500' )
 
 一般每月例会如上，跟着集体走即可潜移默化，自然运用最佳实践，敏捷行动不磨蹭
 
@@ -57,14 +57,14 @@ description: 如果你在探索人生下一步要怎么走，想找到更清晰�
 
 #### 3. 一个越来越蓬勃发展、闪闪发光的自己
 
-![createlife5](http://ishanshan.zoomquiet.top/share/createlife5-1.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1)
+![createlife5](https://cdn.sunnyhuang.net/share/createlife5-1.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330)
 
 
 
 
 ### 你的旅程
 
-![createlife6](http://ishanshan.zoomquiet.top/share/createlife6-2.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1)
+![createlife6](https://cdn.sunnyhuang.net/share/createlife6-2.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330)
 
 这里类似健身房，你可**根据个人需求和已有积累，沿着工具包指引，安排自己的人生探索行动计划**
 
@@ -74,7 +74,7 @@ description: 如果你在探索人生下一步要怎么走，想找到更清晰�
 
 ### 领航员
 
-![ishanshan1409-2.png](https://ishanshan.zoomquiet.top/share/ishanshan1409-2.png?imageView2/2/w/400 ':size=100')
+![ishanshan1409-2.png](https://cdn.sunnyhuang.net/share/ishanshan1409-2.png?x-oss-process=image/resize,w_400 ':size=100')
 
 Hi, 我是黄姗，可以叫我 Sunny ，「闪闪人生」这个人生探索实践社区的发起人。很开心接下来有机会**陪你「像经营企业一样经营人生」，既有人生长远思考，又能踏实落到日常** 🤗
 
@@ -176,7 +176,7 @@ PS.
 
 
 #### step1. 扫码付款
-![qr-sunnylifem10](http://ishanshan.zoomquiet.top/share/qr-sunnylifem10.JPG ':size=200')
+![qr-sunnylifem10](https://cdn.sunnyhuang.net/share/qr-sunnylifem10.JPG ':size=200')
 
 
 

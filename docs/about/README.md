@@ -64,7 +64,7 @@ description:
 - **[阳志平](https://www.yangzhiping.com/)** ：第一段职业生涯的顶头上司。初入职场就与他密切共事三年，获益深远——我的[创作方法](/wr/HbOutputbyCards)、科学素养、主题学习模式、简单生活模式、注重大时间周期积累和批量解决问题等习惯都源于他。
 - **[Zoom Quiet](http://zoomquiet.io/#)** ：工作头两年的项目合作伙伴。远程协作两年，升级了我对异步协同、团队知识传承、[GitHub 使用](/cmty/HbGitHubCooperate)及开源共创的认知，并种下了我对项目管理 [All Know All](https://www.xmind.net/m/citg/) 及对外界面专业度的执念。哦对，还勾起了我对工程师的喜爱：P
 - **[Oliver Ding](https://medium.com/call4)** ：大学后半段至今多个阶段的项目顾问。身在大洋彼岸多年，他仍关注并推动本土青年项目，持续探究和分享的热情及行动速度令我钦佩，并引发了我对学术素养及代际传承的关注。
-- **[纪元](https://ishanshan.zoomquiet.top/clipping/qr_jiyuan.jpeg)** ：大学后半段 side project 「早起的鸟儿晨间学习会」的发起人。折腾晨间学习会一年多，每月碰头他都给我新触动。我的自律、择偶选择、把一份时间卖出多次的尝试，都受他影响颇深，[我对养娃的兴趣](/family/hb_parenting)也源于他。
+- **[纪元](https://cdn.sunnyhuang.net/clipping/qr_jiyuan.jpeg)** ：大学后半段 side project 「早起的鸟儿晨间学习会」的发起人。折腾晨间学习会一年多，每月碰头他都给我新触动。我的自律、择偶选择、把一份时间卖出多次的尝试，都受他影响颇深，[我对养娃的兴趣](/family/hb_parenting)也源于他。
 - **[Action Thinker](http://www.zaih.com/mentor/84789490/)** 、 **[Annie Hu](https://www.linkedin.com/in/annie-hu-15250539/)** ：大学后半段 side project 「[CAPE（全球青年实践网络）](https://capechina.org/)」的发起人和项目经理。我对开放品牌项目的运作心法，对青年自组织社群的好感与信心，得益于那十几个月与他们一同推动 [CAPE Meetup](https://capechina.org/categories/cape-meetup/) 在各地生发。
 - **李珣** ：大学头两年 side project 「讲座控」的发起人。[他带我踏进开放教育的世界，打下云端协作的好基础，心虑传承、拒绝组织从 0 到 1 的重复，还令我养成不让自己跌在硬件上的习惯](/selfedu/SelfEduOwetoJZK)。
 - ……
@@ -111,7 +111,7 @@ description:
 
 - **「闪闪的人生实验室」视频号**：一些更适合视频分享的经验教训、工具方法，我会陆续放到视频号里。不过刚起步，欢迎催更增强我更新的动力哈哈：P
 
-  ![qr_wechatvedio_ishanshan.jpeg](https://ishanshan.zoomquiet.top/share/qr_wechatvedio_ishanshan.jpeg?imageView2/2/w/400 ':size=150')
+  ![qr_wechatvedio_ishanshan.jpeg](https://cdn.sunnyhuang.net/share/qr_wechatvedio_ishanshan.jpeg?x-oss-process=image/resize,w_400 ':size=150')
 
 
 
@@ -124,7 +124,7 @@ description:
 
 读者留言：
 
-![blogcomment_about.png](https://ishanshan.zoomquiet.top/share/blogcomment_about.png)
+![blogcomment_about.png](https://cdn.sunnyhuang.net/share/blogcomment_about.png)
 
 ^截图于 210525
 

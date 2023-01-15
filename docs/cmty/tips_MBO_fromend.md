@@ -158,7 +158,7 @@ PS.
 
 进一步梳理，下个阶段想解决到什么程度、如何解决，整理成目标规划（下图原文见 https://workflowy.com/s/8/qUajo7cB8fRnRXMA ）：
 
-![mbo_1.png](https://ishanshan.zoomquiet.top/share/mbo_1.png ':size=150')
+![mbo_1.png](https://cdn.sunnyhuang.net/share/mbo_1.png ':size=150')
 
 #### 2. 梳理目标规划，有哪些常见陷阱/误区？
 
@@ -187,7 +187,7 @@ PS.
 
 #### 闪闪个人发展规划逐步清晰后的问题清单和规划
 
-![mbo_1.png](https://ishanshan.zoomquiet.top/share/mbo_1.png)
+![mbo_1.png](https://cdn.sunnyhuang.net/share/mbo_1.png)
 
 原文见 [输出实验室 需要哪些支持？](/f_output/helpwanted?id=background) 中背景介绍的部分
 
@@ -253,7 +253,7 @@ PS.
 这个 OKR 专栏也可参考，比上面三本 OKR 的书更实操可借鉴一些：
 
 
-![qr_courseokr_hy.jpeg](https://ishanshan.zoomquiet.top/share/qr_courseokr_hy.jpeg ':size=150')     
+![qr_courseokr_hy.jpeg](https://cdn.sunnyhuang.net/share/qr_courseokr_hy.jpeg ':size=150')     
 
 
 ## footnotes

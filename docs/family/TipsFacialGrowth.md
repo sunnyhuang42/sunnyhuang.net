@@ -23,7 +23,7 @@ description:
 
 2. 我的视频号「闪闪的人生实验室」 ：一些更适合视频分享的经验教训、工具方法，我会陆续放到视频号里。不过刚起步，欢迎催更增强我更新的动力哈哈：P
     
-    ![qr_wechatvedio_ishanshan.jpeg](https://ishanshan.zoomquiet.top/share/qr_wechatvedio_ishanshan.jpeg?imageView2/2/w/400 ':size=150')
+    ![qr_wechatvedio_ishanshan.jpeg](https://cdn.sunnyhuang.net/share/qr_wechatvedio_ishanshan.jpeg?x-oss-process=image/resize,w_400 ':size=150')
 
     
 
@@ -70,7 +70,7 @@ description:
 
 现在还有同学尝试了更高频的方案：把的我照片记录设成手机屏保，一摸手机就提醒和激励自己😂
 
-![facechange09.jpg](https://ishanshan.zoomquiet.top/share/facechange09.jpg?imageView2/2/w/500 ':size=100')
+![facechange09.jpg](https://cdn.sunnyhuang.net/share/facechange09.jpg?x-oss-process=image/resize,w_500 ':size=100')
 
 ### 感觉自己变化不大，不太想练了怎么办？
 

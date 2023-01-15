@@ -15,7 +15,7 @@ description: <p>前几周和师友交流，我更体会到，应该及时复盘�
 
 以下内容直接参考 联想的经典复盘模板[^1] 进行，降低输出门槛。
 
-![hbreview.png](https://ishanshan.zoomquiet.top/clipping/hbreview.png?imageView2/2/w/500)
+![hbreview.png](https://cdn.sunnyhuang.net/clipping/hbreview.png?x-oss-process=image/resize,w_500)
 
 友情提示：
 1. 内容较长，建议在电脑上查看，这样可通过左侧目录快速了解整体结构、查看自己感兴趣的内容。
@@ -73,7 +73,7 @@ description: <p>前几周和师友交流，我更体会到，应该及时复盘�
 
     两三年前我就在阳志平先生的演讲里听闻这个内容，但当时没能理解这么划分有什么好处。直到今年春节，借助融合上述理论的实体工具「[人生彩虹本](/selfedu/tips_rainbowbook)」开始梳理人生规划时，才体会这模型妙在哪里。
 
-    ![lifecycle.png](https://ishanshan.zoomquiet.top/share/lifecycle.png?imageView2/2/w/300)
+    ![lifecycle.png](https://cdn.sunnyhuang.net/share/lifecycle.png?x-oss-process=image/resize,w_300)
 
     坦白说，在人生周期表格上找到自己当前所处位置时，让我有种 wow 的感觉——对接下来的人生里程碑和阶段感一下明朗，也更清楚如何去张罗接下来的人生长路。而且**不需遵循社会钟，每个周期重心在哪儿、重点积累什么资本，可以有自己的选择**，自主掌控感提升，压迫感和焦虑随之下降。
 
@@ -93,11 +93,11 @@ description: <p>前几周和师友交流，我更体会到，应该及时复盘�
 
     1. **不同资本的属性是不一样的**。比如在人群中的分布情况：心理资本和身高类似，是正态分布（normal distribution），很难拉开量级差异；但社会资本和文化资本却偏幂律分布（power-law distribution），可以拉开量级差异，比如有人写读书笔记上万篇，但有人从来没有写过。
 
-        ![bell-curve-power-law-distributions.png](https://ishanshan.zoomquiet.top/clipping/bell-curve-power-law-distributions.png?imageView2/2/w/400)
+        ![bell-curve-power-law-distributions.png](https://cdn.sunnyhuang.net/clipping/bell-curve-power-law-distributions.png?x-oss-process=image/resize,w_400)
 
         又如增长曲线，有些资本的积累或带来的收益是对数增长（logarithmic growth），有些是指数增长（exponential growth）。
 
-        ![growthcurve.png](https://ishanshan.zoomquiet.top/clipping/growthcurve.png?imageView2/2/w/500)
+        ![growthcurve.png](https://cdn.sunnyhuang.net/clipping/growthcurve.png?x-oss-process=image/resize,w_500)
 
          意识到这些客观规律，便打开了我对于时间怎么分配更划算的一些盲区，有了更多决策依据。
 
@@ -110,7 +110,7 @@ description: <p>前几周和师友交流，我更体会到，应该及时复盘�
     
     2. 要想跨越阶层，不一定要死磕社会资本。因为不同资本可以相互转化，而且有好些反常识的规律。比如文化资本可以转化为社会资本，而文化资本对于各方面积累薄弱的个体，起步更容易；又如以下这些：
     
-        ![incommon_socialcapital.png](https://ishanshan.zoomquiet.top/clipping/incommon_socialcapital.png)
+        ![incommon_socialcapital.png](https://cdn.sunnyhuang.net/clipping/incommon_socialcapital.png)
     
     
     
@@ -152,7 +152,7 @@ PS. 更多启发，后续会随着研习和实践陆续分享。如果你想早�
 
 关于明确接下来的行动方向，对我来说最难的，其实是把「想做 可做 能做」中「想做」的部分明确出来。
 
-![strategy.jpeg](https://ishanshan.zoomquiet.top/clipping/strategy.jpeg?imageView2/2/w/400)
+![strategy.jpeg](https://cdn.sunnyhuang.net/clipping/strategy.jpeg?x-oss-process=image/resize,w_400)
 
 
 收敛「想做」的边界，再看到周围层出不穷的机会和故事，便安定不少很少彷徨。有了「想做」，分析优劣势找到「能做」也不是难事。
@@ -179,7 +179,7 @@ PS. 更多启发，后续会随着研习和实践陆续分享。如果你想早�
 
 直到前两个月参加[线上正念书写行动营](/selfedu/ebp_happiness)，了解到这项技能的进阶状态是怎样的，才松了口气——原来我其实是在进阶：更快觉察走神，觉察次数更多，专注的总时长更长。
 
-![ebp_mindfuless_advance.jpg](https://ishanshan.zoomquiet.top/clipping/ebp_mindfuless_advance.jpg?imageView2/2/w/500)
+![ebp_mindfuless_advance.jpg](https://cdn.sunnyhuang.net/clipping/ebp_mindfuless_advance.jpg?x-oss-process=image/resize,w_500)
 
 意识到这些后，不带评判地把思绪牵回来，也变得不难做到。
 
@@ -287,7 +287,7 @@ PS. 更多启发，后续会随着研习和实践陆续分享。如果你想早�
 
 **在以科学的方法刻意练习（deliberate practice）的前提下**，现在我更倾向**它们类似交易市场中的指数基金价格曲线——在波动中缓慢上扬，很久以后，才会看出复利曲线。甚至还会出现类似指数基金价格曲线中的周期现象，牛熊交替，牛短熊长**。
 
-![s&p500.png](https://ishanshan.zoomquiet.top/clipping/s%26p500.png)
+![s&p500.png](https://cdn.sunnyhuang.net/clipping/s%26p500.png)
 <center>标普500 近百年的价格曲线图</center>
 
 <br>
@@ -541,7 +541,7 @@ KR：找到接下来集中突破的方向和思路（“接下来”指 24-36 �
 
 <br>
 
-BTW, 关于什么是 self-awareness，可参考 Harvard Business Review 这篇 1998 年的最佳文章 [what_makes_a_leader.pdf](https://ishanshan.zoomquiet.top/clipping/what_makes_a_leader_by_daniel_goleman.pdf) 里的描述：
+BTW, 关于什么是 self-awareness，可参考 Harvard Business Review 这篇 1998 年的最佳文章 [what_makes_a_leader.pdf](https://cdn.sunnyhuang.net/clipping/what_makes_a_leader_by_daniel_goleman.pdf) 里的描述：
 
 >knowing ones strengths, weaknesses, drives, values, and goals - **and their impact on others**.
 

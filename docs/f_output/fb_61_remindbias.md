@@ -18,7 +18,7 @@ description: <blockquote><p>我有一个疑惑和担心，就是你身边集中�
 
 在产品策划方法论里，提倡小批量实验，快速排除风险再继续扩量。那从什么地方开始小批量实验呢？产品策划早期，一般从创新的扩散曲线左边开始，即 innovator 、 early adopter 。也就是那些意愿最强且对解决方案包容度也最好的用户，留存和推荐都没有能做得足够好的时候，是还不适合进一步扩量去面对更广大用户的。
 
-![deffusion_innovation.jpeg](https://ishanshan.zoomquiet.top/clipping/deffusion_innovation.jpeg ':size=500')
+![deffusion_innovation.jpeg](https://cdn.sunnyhuang.net/clipping/deffusion_innovation.jpeg ':size=500')
 
 那现在输出实验室处于什么阶段呢？
 

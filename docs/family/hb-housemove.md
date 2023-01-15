@@ -31,7 +31,7 @@ description: 搬家踩坑复盘心得，持续更新ing
 2. **有哪些情况绝不考虑**。比如不考虑开放式厨房、不考虑复式等
 
 可以先快速起草一版，然后往下走。之后随着新输入再持续迭代，比如这是我们迭代了好几版之后，对房源的需求：
-![PRD-house](http://ishanshan.zoomquiet.top/share/PRD-house.png ':size=100')
+![PRD-house](https://cdn.sunnyhuang.net/share/PRD-house.png ':size=100')
 
 ## 2. 圈定意向小区
 找靠谱中介快速请教了解，筛出意向小区；了解的问题如下

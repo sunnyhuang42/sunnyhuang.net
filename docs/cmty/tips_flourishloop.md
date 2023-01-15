@@ -62,7 +62,7 @@ description:
 
 画成图，便是这样：
 
-![reinforcingloop.001](http://ishanshan.zoomquiet.top/share/reinforcingloop.001.png)
+![reinforcingloop.001](https://cdn.sunnyhuang.net/share/reinforcingloop.001.png)
 
 
 ### 二是「提升获得帮助的效率」
@@ -91,12 +91,12 @@ description:
 
 画成图，便是这样：
 
-![reinforcingloop.002](http://ishanshan.zoomquiet.top/share/reinforcingloop.002.png)
+![reinforcingloop.002](https://cdn.sunnyhuang.net/share/reinforcingloop.002.png)
 
 <br> 
 上述两个增强回路一整合，便是这样：
 
-![reinforcingloop.003](http://ishanshan.zoomquiet.top/share/reinforcingloop.003.png)
+![reinforcingloop.003](https://cdn.sunnyhuang.net/share/reinforcingloop.003.png)
 
 **两条增强回路都起始于同一个元素，这意味着什么？**
 
@@ -123,11 +123,11 @@ description:
 
 至此，**「以终为始高频分享 目标规划和需求/行动进展/感触反思/收获感谢」对人生蓬勃发展来说，投入产出比就更高了** 😆
 
-![reinforcingloop.004](http://ishanshan.zoomquiet.top/share/reinforcingloop.004.png)
+![reinforcingloop.004](https://cdn.sunnyhuang.net/share/reinforcingloop.004.png)
 
 更欣喜的是，这三大增强回路的元素之间，也有很多关联，组成大大小小的正向增强回路、相互促进，让这组良性循环一旦跑通就难以停下——这也更意味着「以终为始高频分享 目标规划和需求/行动进展/感触反思/收获感谢」，对人生蓬勃发展来说，投入产出比 真的很高。
 
-![reinforcingloop.005](http://ishanshan.zoomquiet.top/share/reinforcingloop.005.png)
+![reinforcingloop.005](https://cdn.sunnyhuang.net/share/reinforcingloop.005.png)
 
 ^这张图不细看也无妨，主要是为了示意「以终为始高频分享 目标规划和需求/行动进展/感触反思/收获感谢」，真的投入产出比很高。
 
@@ -146,7 +146,7 @@ description:
 2. 最开始分享的内容粗浅无妨，**先启动，再迭代**
 3. **选择比努力更重要**。在相同循环频次下，拉开这组增强回路效果差距的分水岭是「选择」。由此，最好**争取让自己志存高远，并越来越易找到实现终态（如 人生目标/心中愿景/中短期规划等）的杠杆点**
 
-![reinforcingloop.004](http://ishanshan.zoomquiet.top/share/reinforcingloop.004.png)
+![reinforcingloop.004](https://cdn.sunnyhuang.net/share/reinforcingloop.004.png)
 
 上述三点做得越好，便越易激活积累信任和声誉的正向增强回路，人生蓬勃发展——
 
@@ -160,7 +160,7 @@ description:
 
 如果你感到上面的内容有些多，希望更易记忆，可以简化为这个模型：
 
-![createlife5](http://ishanshan.zoomquiet.top/share/createlife5-1.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1)
+![createlife5](https://cdn.sunnyhuang.net/share/createlife5-1.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330)
 
 
 如果想再简要一些，就是八个字：

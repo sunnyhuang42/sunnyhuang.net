@@ -62,12 +62,12 @@ description: <p>一人百人、五年十年，都能优雅又省心？</p><p>嗯
 
 本来宽 910 的图片：https://ishanshan.zoomquiet.top/clipping/scientific_method.png
 
-![scientific_method.png](https://ishanshan.zoomquiet.top/clipping/scientific_method.png)
+![scientific_method.png](https://cdn.sunnyhuang.net/clipping/scientific_method.png)
 
 
 我希望最宽 400 ，于是在地址上加上限制宽度的参数 `?imageView2/2/w/400` ，图片地址变为 https://ishanshan.zoomquiet.top/clipping/scientific_method.png?imageView2/2/w/400 即可：
 
-![](https://ishanshan.zoomquiet.top/clipping/scientific_method.png?imageView2/2/w/400)
+![](https://cdn.sunnyhuang.net/clipping/scientific_method.png?x-oss-process=image/resize,w_400)
 
 
 但这并非所有图床都可实现，找了一圈，发现目前只有七牛云支持。
@@ -124,11 +124,11 @@ Win:
 
 如果效果不满意，可直接调整 URL 参数，在浏览器中查看结果，满意后把该 URL 更新到文档中即可：
 
-![7niuonlineedit1.gif](https://ishanshan.zoomquiet.top/share/7niuonlineedit1.gif)
+![7niuonlineedit1.gif](https://cdn.sunnyhuang.net/share/7niuonlineedit1.gif)
 
 为了效率，编辑时我一般批处理：把一篇或几篇文章的图片都上传到对应位置后，再统一处理大小。增加参数时，先判断用得最多的参数，批量替换，再微调。
 
-比如，某五个文档所用图片，多是 < 2M 的 jpg 。我便在可多文档查找替换的编辑器（比如 [Atom](https://atom.io/)）里，用 `search in directory` 批量检索出这些文档里的 `.jpg)` 字段，批量换成 `.jpg?imageMogr2/size-limit/100k!)` ，再手动修改原图大于 2M 的图片 URL 参数，改为 `?imageView2/2/w/1000|imageslim` 。
+比如，某五个文档所用图片，多是 < 2M 的 jpg 。我便在可多文档查找替换的编辑器（比如 [Atom](https://atom.io/)）里，用 `search in directory` 批量检索出这些文档里的 `.jpg)` 字段，批量换成 `.jpg?imageMogr2/size-limit/100k!)` ，再手动修改原图大于 2M 的图片 URL 参数，改为 `?x-oss-process=image/resize,w_1000|imageslim` 。
 
 ### 2. 图片放同一文件夹
 

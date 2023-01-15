@@ -10,13 +10,13 @@ description: 如果你也想以终为始找方向、全局动态抓重点，踏�
 
 ## 你在面临这些人生难题吗？
 
-![createlife201](http://ishanshan.zoomquiet.top/share/createlife201-2.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1 ':size=420')
+![createlife201](https://cdn.sunnyhuang.net/share/createlife201-2.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330 ':size=420')
 
 
 
 ## 闪闪人生创造营，和你一起解难题
 
-![createlife202](http://ishanshan.zoomquiet.top/share/createlife202-4.png?watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1  ':size=400' )
+![createlife202](https://cdn.sunnyhuang.net/share/createlife202-4.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330':size=400' )
 
 
 
@@ -26,7 +26,7 @@ description: 如果你也想以终为始找方向、全局动态抓重点，踏�
 
 #### 1. 一套「梳理、推进和迭代人生规划」的最佳实践框架
 
-![createlife204](http://ishanshan.zoomquiet.top/share/createlife204.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1)
+![createlife204](https://cdn.sunnyhuang.net/share/createlife204.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330)
 
 
 
@@ -47,7 +47,7 @@ description: 如果你也想以终为始找方向、全局动态抓重点，踏�
 
 试试「**半周一会 敏捷迭代**」—— 创造营就像一个「人生发展推进器」，通过半周一次的例会，助你高频复盘迭代，降低试错成本，踏实有序往前走。跟着集体走即可潜移默化，自然运用最佳实践，迭代敏捷不磨蹭：
 
-![createlife205](http://ishanshan.zoomquiet.top/share/createlife205-4.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=450')
+![createlife205](https://cdn.sunnyhuang.net/share/createlife205-4.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330  ':size=450')
 
 
 
@@ -65,7 +65,7 @@ description: 如果你也想以终为始找方向、全局动态抓重点，踏�
 
 尝试 以终为始高频分享 三个月，你将越来越多快好省创造价值、积累信任，遇见一个愈发蓬勃发展、闪闪发光的自己
 
-![createlife5](http://ishanshan.zoomquiet.top/share/createlife5-1.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1)
+![createlife5](https://cdn.sunnyhuang.net/share/createlife5-1.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330)
 
 
 
@@ -76,11 +76,11 @@ description: 如果你也想以终为始找方向、全局动态抓重点，踏�
 2. 打基础（2~4 个月，因人而异）
 3. 持续创造（~自定）
 
-![createlife207](http://ishanshan.zoomquiet.top/share/createlife207-1.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1)
+![createlife207](https://cdn.sunnyhuang.net/share/createlife207-1.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330)
 
 每个阶段，你将基于「以终为始 敏捷迭代」这套「面对不确定更快拿出靠谱成果」的最佳实践框架，通过一个个小项目，探索适合自己的人生之路，迈向心中理想生活。
 
-![createlife207-2](http://ishanshan.zoomquiet.top/share/createlife207-21.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1)
+![createlife207-2](https://cdn.sunnyhuang.net/share/createlife207-21.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330)
 
 **闪闪人生创造营就像一个「人生发展推进器」，为你提供向前的方法、动力和速度**。
 
@@ -90,7 +90,7 @@ description: 如果你也想以终为始找方向、全局动态抓重点，踏�
 
 ### 领航员
 
-![ishanshan1409-2.png](https://ishanshan.zoomquiet.top/share/ishanshan1409-2.png?imageView2/2/w/400 ':size=100')
+![ishanshan1409-2.png](https://cdn.sunnyhuang.net/share/ishanshan1409-2.png?x-oss-process=image/resize,w_400 ':size=100')
 
 在不确定的时代，如何让人生持续蓬勃发展？面临人生探索期，如何保持探索尝试、稳步向前又省力？
 
@@ -169,7 +169,7 @@ description: 如果你也想以终为始找方向、全局动态抓重点，踏�
 目前希望征集 2~10 位先锋用户，继续一起打磨完善整套工具包和上手体验，助参与者即使难以连续参会，也能顺畅上手，畅快地从大到小、从远到近拆解目标计划并持续推进和迭代
 
 **适合谁？**
-![createlife203](http://ishanshan.zoomquiet.top/share/createlife203-2.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf5Yib6YCg6JCl/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/350/uh/350/resize/1  ':size=420')
+![createlife203](https://cdn.sunnyhuang.net/share/createlife203-2.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330  ':size=420')
 
 **内测报名要求：** <br>
 心态开放迎接变化，愿意坦诚表达感受想法，一起抓bug、改bug，共建共创
@@ -200,7 +200,7 @@ description: 如果你也想以终为始找方向、全局动态抓重点，踏�
 
 #### step1. 扫码付款
 
- ![qr-sunnylifem11](http://ishanshan.zoomquiet.top/share/qr-sunnylifem11-2.png ':size=420')
+ ![qr-sunnylifem11](https://cdn.sunnyhuang.net/share/qr-sunnylifem11-2.png ':size=420')
 
 
 付款须知：

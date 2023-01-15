@@ -20,26 +20,26 @@ description: <p>前两周 @立人 提到感觉我想做的事情有些复杂，�
 监控过程组的活动（见下图），是贯穿全程的，也就是全程都在评估现状与预期/目标的差异，并根据最新输入及时调整下一步行动，更高投入产出比地奔向大目标。
 
 
-![pm_process.png](https://ishanshan.zoomquiet.top/clipping/pm_process.png ':size=500')
+![pm_process.png](https://cdn.sunnyhuang.net/clipping/pm_process.png ':size=500')
 
 科学研究过程亦是如此：
 有了想探索的问题后，不断提出假设、验证假设、根据实验结果分析反思、迭代完善假设，再继续实验、分析反思、迭代完善，直至发展出有解释力和预测力的理论。而后又继续探索更多感兴趣的问题。
 
-![](https://ishanshan.zoomquiet.top/clipping/scientific_method.png ':size=500')
+![](https://cdn.sunnyhuang.net/clipping/scientific_method.png ':size=500')
 
 往更大尺度看，这和企业战略管理也是相通的：
 在思考战略时，常用“想做、可做、能做”这套思考框架（见下图）做选择，其实也是分析我们想去哪儿（想做-使命/愿景，可做-大势/规律），现状是怎样的（能做-绝对优势/相对优势），然后思索投入产出比最高的切入点。
 
-![](http://ishanshan.zoomquiet.top/share/hbstrategy6.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1 ':size=350')
+![](https://cdn.sunnyhuang.net/share/hbstrategy6.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330 ':size=350')
 
 之后进一步拆解执行，根据市场反馈迅速复盘，综合内外各方最新输入，继续思索接下来投入产出比最高的发力点，并继续拆解执行、验证假设、复盘迭代（见下图）。这个闭环跑得越快，便越快到达想去的地方。
 
-![goal_strategy6.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1](https://ishanshan.zoomquiet.top/clipping/goal_strategy6.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1 ':size=500')
+![goal_strategy6.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330](https://cdn.sunnyhuang.net/clipping/goal_strategy6.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330 ':size=500')
 
 在创业早期更是如此：那些高速增长的初创企业，Build-Measure-Learn 的回路（见下图）通常谨慎又畅快，飞速找出并低成本地验证高风险假设，高效打造可持续增长的业务。
 
-![leanst1.png](https://ishanshan.zoomquiet.top/clipping/leanst1.png ':size=300')
-![leanst2.png](https://ishanshan.zoomquiet.top/clipping/leanst2.png ':size=300')
+![leanst1.png](https://cdn.sunnyhuang.net/clipping/leanst1.png ':size=300')
+![leanst2.png](https://cdn.sunnyhuang.net/clipping/leanst2.png ':size=300')
 
 此外，这套思考框架，还可以用于帮助他人实现目标——和教练技术也是相通的：
 

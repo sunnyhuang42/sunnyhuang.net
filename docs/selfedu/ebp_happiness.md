@@ -29,7 +29,7 @@ description: <p>这家线上心理健身房，已成我最喜欢的陪伴型学�
 
 简单来说，是一家提供陪伴型服务的线上心理健身房，带你刻意练习（deliberate practice）高效休息、照顾自己：
 
-![ebphappinessfreshman.jpg](https://ishanshan.zoomquiet.top/clipping/ebphappinessfreshman.jpg?imageView2/2/w/380)
+![ebphappinessfreshman.jpg](https://cdn.sunnyhuang.net/clipping/ebphappinessfreshman.jpg?x-oss-process=image/resize,w_380)
 
 
 如果你想进一步了解，可以看[官方介绍](https://mp.weixin.qq.com/s/hfPXgCar5adopjykgubK8g)。
@@ -40,7 +40,7 @@ description: <p>这家线上心理健身房，已成我最喜欢的陪伴型学�
 
 现在回看，万分庆幸和感谢自己当时没有错过，要不估计很难有开头那些喜人变化。参加完积极心理学训练营，也开始体会到这么安排训练梯度的好处——探索个人热望和追寻目标的过程，肯定不是一帆风顺；先练基础的自救技能，能让后续探索和追寻的过程更畅快。
 
-![ebp_happiness4.jpg](https://ishanshan.zoomquiet.top/clipping/ebp_happiness4.jpg?imageView2/2/w/400)
+![ebp_happiness4.jpg](https://cdn.sunnyhuang.net/clipping/ebp_happiness4.jpg?x-oss-process=image/resize,w_400)
 
 
 目前我已参加 2 期，报了第 3 期。如果不出意外，应该会持续复训保持练习。毕竟这种帮助自己减少干扰、让人生更「健康自在 自信从容」的事情，当然要多做：P

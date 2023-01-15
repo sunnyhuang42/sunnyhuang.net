@@ -13,7 +13,7 @@ description: <p>第一期内测结束，收获多多，第二期内测走起—�
 
 之前看到《了不起的我：自我发展心理学》中的这段话，心有戚戚——这像极了从零策划产品的创业过程（见下图）：我们最初以为的方案，和实际最后管用的，大概率不是同一个🤣……唯有不断「提出假设-验证假设」，持续根据反馈迭代方案——
 
-![venture pyramid2.jpg](https://ishanshan.zoomquiet.top/clipping/venture%20pyramid2.jpg)
+![venture pyramid2.jpg](https://cdn.sunnyhuang.net/clipping/venture%20pyramid2.jpg)
 
 ^图片来源：[How to track progress in the Build-Measure-Learn Loop? — SWAN Ventures](https://www.swan.ventures/blog/2017/8/31/how-to-track-progress-in-the-build-measure-learn-loop)
 
@@ -51,7 +51,7 @@ description: <p>第一期内测结束，收获多多，第二期内测走起—�
 
 首先是缺方法，尤其是**缺内隐知识（tacit knowledge）**，且这比外显知识（explicit knowledge）占比大得多。而这通常只有和对应领域的高手合作共事，或在相似任务场景中对比觉察、讨教决策思路，才易了解。复杂技能更是如此，你懂的。
 
-![tacitknowledge.jpeg](https://ishanshan.zoomquiet.top/clipping/tacitknowledge1.jpeg)
+![tacitknowledge.jpeg](https://cdn.sunnyhuang.net/clipping/tacitknowledge1.jpeg)
 
 ^左图来自[Tacit Knowledge: Definition, Examples, and Importance](https://helpjuice.com/blog/tacit-knowledge)，右图来自[Knoco stories: The Knowledge Management Iceberg](http://www.nickmilton.com/2012/08/the-knowledge-management-iceberg_29.html)
 
@@ -60,7 +60,7 @@ description: <p>第一期内测结束，收获多多，第二期内测走起—�
 如果知道了正确方法，却依然没做到，则可能是意愿（commitment）准备度不足（不想做）和/或能力（competence）准备度不足（不会做）——
 
 如果行动**意愿准备度不足**，根据动机心理学的「价值-期望」理论，行为=期望*价值
-![hopevalue2.jpeg](https://ishanshan.zoomquiet.top/clipping/hopevalue3.jpeg)
+![hopevalue2.jpeg](https://cdn.sunnyhuang.net/clipping/hopevalue3.jpeg)
 ^ 截图来自[《动机心理学》](https://book.douban.com/subject/35012449/)
 
 如果行为没有发生，可能是由于
@@ -99,28 +99,28 @@ description: <p>第一期内测结束，收获多多，第二期内测走起—�
 
 > @zy：职业转型伴随着高度的不确定性，过程中很容易被一些棘手的问题困扰，慢慢丧失信心。但我发现自己这1个月以来，**对处理问题的信心增强了很多**
 
-详见下图，或点击[这里](https://ishanshan.zoomquiet.top/clipping/fb_t1_zy.jpeg)看原图：
+详见下图，或点击[这里](https://cdn.sunnyhuang.net/clipping/fb_t1_zy.jpeg)看原图：
 
 
-![fb_t1_zy.jpeg](https://ishanshan.zoomquiet.top/clipping/fb_t1_zy.jpeg ':size=20')
+![fb_t1_zy.jpeg](https://cdn.sunnyhuang.net/clipping/fb_t1_zy.jpeg ':size=20')
 
 
 
 > @PZL：**“聚焦”“以终为始”**是我这一个月来很强烈的感受，还有就是对**”高投入产出比“**的体感，犯错的感觉也变了
 
-详见下图，或点击[这里](https://ishanshan.zoomquiet.top/clipping/fb_t1_pzl.jpeg)看原图：
+详见下图，或点击[这里](https://cdn.sunnyhuang.net/clipping/fb_t1_pzl.jpeg)看原图：
 
 
-![fb_t1_pzl.jpeg](https://ishanshan.zoomquiet.top/clipping/fb_t1_pzl.jpeg ':size=20')
+![fb_t1_pzl.jpeg](https://cdn.sunnyhuang.net/clipping/fb_t1_pzl.jpeg ':size=20')
 
 
 > @江浩：参加行动营之前，我遇到的最大的问题是不够勇敢。 <br>
 > 一方面觉得转型之路难度太大，荆棘丛丛。另一方面又觉得，如果做回老本行，我又会回到以前的生活状态，永远不可能突破。受到这两股力量的拉扯，焦虑，内耗，疲惫。 <br>
 > 加入行动营之后，我的**状态有了明显改观，变得笃定、自信。仿佛若有光**。
 
-详见下图，或点击[这里](https://ishanshan.zoomquiet.top/clipping/fb_t1_jh.jpeg)看原图：
+详见下图，或点击[这里](https://cdn.sunnyhuang.net/clipping/fb_t1_jh.jpeg)看原图：
 
-![fb_t1_jh.jpeg](https://ishanshan.zoomquiet.top/clipping/fb_t1_jh.jpeg ':size=20')
+![fb_t1_jh.jpeg](https://cdn.sunnyhuang.net/clipping/fb_t1_jh.jpeg ':size=20')
 
 
 看到这款产品服务能给用户带来这样的影响，我作为产品策划人，真的很开心。不仅为他们开心，也为自己开心——这款产品服务就是基于精益创业方法论，以终为始、敏捷迭代出来的。用户的变化，令我更确信这些方法的价值，也更清楚自己的掌握程度进步如何。
@@ -162,16 +162,16 @@ description: <p>第一期内测结束，收获多多，第二期内测走起—�
 
 1. 一系列基于我过往调研大量国内外最佳实践形成的模板和行为模式，以及同行者的鲜活案例，助你「**以终为始**」开始行动——从远期愿景逐步拆解到近期计划，产出可迭代的行动方案初稿
 
-![f_test_model02.png](https://ishanshan.zoomquiet.top/share/f_test_model02.png)
+![f_test_model02.png](https://cdn.sunnyhuang.net/share/f_test_model02.png)
 
 2. 每半周一次的小组「**闪电迭代会**」，助你持续「以终为始」地迭代行动方案，聚焦下一步「投入产出比」最高的发力点，加速获得正反馈，积累继续行动尝试的自信
 
-![f_test_model1.png](https://ishanshan.zoomquiet.top/share/f_test_model1.png ':size=370')
+![f_test_model1.png](https://cdn.sunnyhuang.net/share/f_test_model1.png ':size=370')
 
 
 3. 「**稳定的行动节律**」，助你在复杂多变的时代，拥有「**确定的秩序感**」，拥抱不确定，持续探索人生可能性
 
-![f_test_model32.png](https://ishanshan.zoomquiet.top/share/f_test_model32.png)
+![f_test_model32.png](https://cdn.sunnyhuang.net/share/f_test_model32.png)
 
 4. 更多要点，等你体验和创造，期待一起共建共创：D
 

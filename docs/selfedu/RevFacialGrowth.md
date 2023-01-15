@@ -2,7 +2,7 @@
 title: 我如何成为换头最快的1%？· 过去8个月的面容调整复盘
 date: 2021-03-08
 updated: 2022-03-01
-description: <p>过去大半年，我发生了一些肉眼可见的可喜变化。</p><p>嗯，真的是肉眼可见。虽然发出来过往照片很毁形象，但无图无真相，为了让你直观感受，还是上图看一下：</p><p><img src="https://ishanshan.zoomquiet.top/share/facechange003.png" data-origin="https://ishanshan.zoomquiet.top/share/facechange003.png" alt="前后变化对比图" width="400" class="medium-zoom-image"></p>
+description: <p>过去大半年，我发生了一些肉眼可见的可喜变化。</p><p>嗯，真的是肉眼可见。虽然发出来过往照片很毁形象，但无图无真相，为了让你直观感受，还是上图看一下：</p><p><img src="https://cdn.sunnyhuang.net/share/facechange003.png" data-origin="https://cdn.sunnyhuang.net/share/facechange003.png" alt="前后变化对比图" width="400" class="medium-zoom-image"></p>
 ---
 
 
@@ -16,12 +16,12 @@ description: <p>过去大半年，我发生了一些肉眼可见的可喜变化�
 
 <!-- more -->
 
-![前后变化对比图](https://ishanshan.zoomquiet.top/share/facechange003.png?imageslim ':size=500')
+![前后变化对比图](https://cdn.sunnyhuang.net/share/facechange003.png?imageslim ':size=500')
 
 <details>
 <summary>最新的对比见这里(点击展开)：</summary>
 
-![前后变化对比图](https://ishanshan.zoomquiet.top/share/facialgrowth2202.jpg?imageslim ':size=500')
+![前后变化对比图](https://cdn.sunnyhuang.net/share/facialgrowth2202.jpg?imageslim ':size=500')
 
 </details>
 
@@ -37,7 +37,7 @@ description: <p>过去大半年，我发生了一些肉眼可见的可喜变化�
 总的来说，把下图描述的大部分变化都发生了，效果堪比换头。
 
 
-![前后面部要点对比图](https://ishanshan.zoomquiet.top/share/facechange022.jpg)
+![前后面部要点对比图](https://cdn.sunnyhuang.net/share/facechange022.jpg)
 
 
 
@@ -65,7 +65,7 @@ description: <p>过去大半年，我发生了一些肉眼可见的可喜变化�
 
 是的，如果你在 2020 年夏天前见过我，留意观察的话，会发现我面部如果处于放松状态，嘴巴是张开的。需要用力才能闭上，而这时候下巴就会皱起来。侧脸也很不好看，嘴凸。和下面这张图片左边很类似，总之看起来怪怪的。生活上也会带来困扰，比如睡觉的时候容易流口水、早晨起来嘴里有股怪味。也尝试过买专用胶布睡觉时把嘴封上，但并无改善。
 
-![左右对比图](https://ishanshan.zoomquiet.top/clipping/facechange01.jpg)
+![左右对比图](https://cdn.sunnyhuang.net/clipping/facechange01.jpg)
 
 这些困扰了我 20 多年的问题，我一直以为是因为自己开颌，也就是俗话说的「龅牙」。也因此进行了两次正畸——
 
@@ -102,7 +102,7 @@ description: <p>过去大半年，我发生了一些肉眼可见的可喜变化�
 
 也就是这样：
 
-![facechange04.gif](https://ishanshan.zoomquiet.top/clipping/facechange04.gif?imageView2/2/w/400)
+![facechange04.gif](https://cdn.sunnyhuang.net/clipping/facechange04.gif?x-oss-process=image/resize,w_400)
 
 而通过肌肉改变骨骼位置进而影响面部姿态，这点我从经验判断是可行的。毕竟过往长期（已持续4年）的健身经历和变化，已令我深刻体会到，**各种体态问题的根源，是肌肉力量不平衡**——通过健身，我已改善盆骨前倾、膝超伸、X 型腿、圆肩驼背、高低肩等体态问题，没法不信。
 
@@ -132,7 +132,7 @@ description: <p>过去大半年，我发生了一些肉眼可见的可喜变化�
 
 然后很快，就发生了更多变化，甚至最开始几个月，连 face ID 都不认得我了，两三周就要更新一次。当时还有位一两个月见我一次的同事说，每次看到我都感觉比以前更漂亮了，但又说不上来哪里变了，还以为是自己的错觉；直到看到我对比照记录，才知道不是错觉，是真在变化。
 
-![facialgrowth2102.jpg](https://ishanshan.zoomquiet.top/share/facialgrowthlist2202.jpg?imageslim ':size=200')
+![facialgrowth2102.jpg](https://cdn.sunnyhuang.net/share/facialgrowthlist2202.jpg?imageslim ':size=200')
 
 
 
@@ -161,7 +161,7 @@ description: <p>过去大半年，我发生了一些肉眼可见的可喜变化�
 
 前期调研的时候，便顺手**把网友变化大的对比图存到了手机上，以备未来有事没事翻出来瞅瞅，想想几年后自己也会有这样的变化，增强练习动力**。
 
-![facechange05.jpg](https://ishanshan.zoomquiet.top/clipping/facechange052.jpg)
+![facechange05.jpg](https://cdn.sunnyhuang.net/clipping/facechange052.jpg)
 <center> ▲ 我常翻来给自己打气的一些对比图 </center>
 
 <br>

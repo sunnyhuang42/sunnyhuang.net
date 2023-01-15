@@ -81,7 +81,7 @@ description:
 
 比如[开智学堂 Python 基础班](https://mp.weixin.qq.com/s/0xDHRCpsUwxD23LB47mR9w)任务设计：
 
-![samplecourseoutline.jpg](http://openmindclub.zoomquiet.top/ishanshan/samplecourseoutline.jpg?imageView2/2/w/350)
+![samplecourseoutline.jpg](http://openmindclub.zoomquiet.top/ishanshan/samplecourseoutline.jpg?x-oss-process=image/resize,w_350)
 
 每周完成一个小作品，几周下来，便具备完成大作品的技能—— 
 

@@ -54,8 +54,8 @@ description: <p>今天感觉很欢乐，不仅迭代<a href="https://mzm628l8fj.
 
 最后附上这个环节的截图纪念一下🌱
 
-![fo1stm102.png](https://ishanshan.zoomquiet.top/share/fo1stm102.png ':size=150')
-![fo1stm103.png](https://ishanshan.zoomquiet.top/share/fo1stm103.png ':size=150')
+![fo1stm102.png](https://cdn.sunnyhuang.net/share/fo1stm102.png ':size=150')
+![fo1stm103.png](https://cdn.sunnyhuang.net/share/fo1stm103.png ':size=150')
 
 
 ## CHANGELOG 

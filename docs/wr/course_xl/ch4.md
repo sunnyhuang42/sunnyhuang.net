@@ -15,7 +15,7 @@ description:
 ## 作业
 
 
-![course_xl_c4d5.png](https://ishanshan.zoomquiet.top/share/course_xl_c4d5.png)
+![course_xl_c4d5.png](https://cdn.sunnyhuang.net/share/course_xl_c4d5.png)
 
 ## 感想
 今天的节选逻辑推理很复杂，感觉缺了一些需要读者自己脑补的内容，我捋了挺久也不确定是不是合理，如果你有视角补充欢迎告诉我：D
@@ -53,7 +53,7 @@ description:
 # D4 给他人介绍方法或反常识时
 ## 作业
 
-![course_xl_c4d4_hw.png](https://ishanshan.zoomquiet.top/share/course_xl_c4d4_hw.png)
+![course_xl_c4d4_hw.png](https://cdn.sunnyhuang.net/share/course_xl_c4d4_hw.png)
 
 
 
@@ -76,7 +76,7 @@ description:
 ## 仿写
 今天让我特别佩服的是前两句，内容有穿透力，逻辑精巧，把“递进-递进”用到了极致：
 
-![course_xl_c4d4.png](https://ishanshan.zoomquiet.top/share/course_xl_c4d4.png)
+![course_xl_c4d4.png](https://cdn.sunnyhuang.net/share/course_xl_c4d4.png)
 
 进一步抽象出来是这个结构：
 
@@ -132,7 +132,7 @@ description:
 # D3 分享对某个观点的思考时
 ## 作业
 
-![course_xl_c4d3.png](https://ishanshan.zoomquiet.top/share/course_xl_c4d3.png)
+![course_xl_c4d3.png](https://cdn.sunnyhuang.net/share/course_xl_c4d3.png)
 
 ## 解析：
 今天是一段很有穿透力的论述，令人叹服作者思考之深入全面。行文结构也很有力和吸引人，可作为模板，用于分享对某个观点的思考。抽象如下：
@@ -195,7 +195,7 @@ description:
 # D2 描述人们在…的时候 
 ## 作业：
 
-![course_xl_c4d2.png](https://ishanshan.zoomquiet.top/share/course_xl_c4d2.png)
+![course_xl_c4d2.png](https://cdn.sunnyhuang.net/share/course_xl_c4d2.png)
 
    
 ## 感想：
@@ -238,7 +238,7 @@ description:
 # D1 描述常见误解时
 ## 练习：
 
-![course_xl_c4d1.png](https://ishanshan.zoomquiet.top/share/course_xl_c4d1.png)
+![course_xl_c4d1.png](https://cdn.sunnyhuang.net/share/course_xl_c4d1.png)
 
 
 

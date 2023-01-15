@@ -10,7 +10,7 @@ description: <p>目标达成不如预期怎么办？可从能力（competence）
 
 2018 年接触「情景领导模型（situational leadership framework）」，了解到上述要领后，我便开始有意识地练习、积累各种提升意愿的方法。因为我相信，**意愿问题解决后，能力问题对大部分人来说，只是时间问题**。
 
-![leadership_situational.jpeg](https://ishanshan.zoomquiet.top/clipping/leadership_situational.jpeg ':size=400')
+![leadership_situational.jpeg](https://cdn.sunnyhuang.net/clipping/leadership_situational.jpeg ':size=400')
 
 ^[situational leadership framework](https://www.inbody.es/2020/04/20/when-context-meets-challenge-an-approach-of-situational-leadership/)
 

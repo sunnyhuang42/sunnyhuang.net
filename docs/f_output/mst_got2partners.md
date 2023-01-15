@@ -17,7 +17,7 @@ description: <p>今天例会依然特别欣喜，愈发感觉幸运幸福。</p>
 
 总之心里堵了很多想法感受，需要个出口倾诉。正好 8 点早会，于是赶紧先提了一个高优先级需求。真的超级感谢大伙儿的倾听、理解和回应，如果没有这样的机制和这样的小组，我肯定很难这么快从不知所措的恍惚状态，恢复过来。
 
-![fo_issue_death.png](https://ishanshan.zoomquiet.top/share/fo_issue_death.png ':size=600')
+![fo_issue_death.png](https://cdn.sunnyhuang.net/share/fo_issue_death.png ':size=600')
 
 
 <br>
@@ -41,9 +41,9 @@ description: <p>今天例会依然特别欣喜，愈发感觉幸运幸福。</p>
 
 结果听到 @浚宇 和 @六一 都有表达，感觉输出实验室对他们来说的不可替代性越来越强，这个节律和氛围，变成了生活中越来越不可或缺的一部分。他们开始担心，要是哪天我放弃了这个项目怎么办，甚至主动提出有没有可能以某种形式更加稳定的参与进来，助这个项目更良性可持续运作下去。
 
-![fo_issue_helpwanted.png](https://ishanshan.zoomquiet.top/share/fo_issue_helpwanted.png ':size=150')
+![fo_issue_helpwanted.png](https://cdn.sunnyhuang.net/share/fo_issue_helpwanted.png ':size=150')
 
-^ 如果看不清，可[点这里查看原图](https://ishanshan.zoomquiet.top/share/fo_issue_helpwanted.png)
+^ 如果看不清，可[点这里查看原图](https://cdn.sunnyhuang.net/share/fo_issue_helpwanted.png)
 
 <br>
 

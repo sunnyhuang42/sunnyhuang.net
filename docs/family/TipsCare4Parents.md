@@ -46,7 +46,7 @@ description: <p>这个月接老妈来京诊疗，趁机完善了积攒已久的�
 牙线（棒）、牙缝刷有很多品牌，你看评价挑个自己满意的就好。至于使用牙线还是牙线棒，看个人喜好。我两个都买了，最后只用牙线棒。
 
 
-![teethbrush2.jpg](https://ishanshan.zoomquiet.top/clipping/teethbrush2.jpg)
+![teethbrush2.jpg](https://cdn.sunnyhuang.net/clipping/teethbrush2.jpg)
 <center>（图片来自网络。注意第一步的用力方向，是拉锯子不是切黄瓜）</center>
 
 ### 特别提醒
@@ -75,7 +75,7 @@ description: <p>这个月接老妈来京诊疗，趁机完善了积攒已久的�
 当然，最好辅助按摩仪器，减轻双手压力、覆盖双手盲区：
 
 
-![triggerpointstuff1.jpg](https://ishanshan.zoomquiet.top/share/triggerpointstuff1.jpg?imageView2/2/w/500)
+![triggerpointstuff1.jpg](https://cdn.sunnyhuang.net/share/triggerpointstuff1.jpg?x-oss-process=image/resize,w_500)
 <center>（我在用的按摩杖、按摩棒、按摩球、按摩轴，淘宝有卖）
 </center>
 
@@ -106,7 +106,7 @@ description: <p>这个月接老妈来京诊疗，趁机完善了积攒已久的�
 
 读者留言：
 
-![blogcomment_care4parent.png](https://ishanshan.zoomquiet.top/share/blogcomment_care4parent.png)
+![blogcomment_care4parent.png](https://cdn.sunnyhuang.net/share/blogcomment_care4parent.png)
 
 ^截图于 210525
 

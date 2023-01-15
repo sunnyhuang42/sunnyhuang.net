@@ -5,7 +5,7 @@ updated:
 description: <p>看着工作日志变为第五十四周，我激动又惶恐——</p><p>转眼竟已过一年，从五道口到南三环，再回五道口。</p><p>兜兜转转近四百个日夜，我收获了什么，改变了什么，坚持着什么，期盼着什么？</p>
 ---
 
-![se160611.jpg](https://ishanshan.zoomquiet.top/share/se160611.jpg?imageMogr2/size-limit/100k!)
+![se160611.jpg](https://cdn.sunnyhuang.net/share/se160611.jpg?imageMogr2/size-limit/100k!)
 <center>2012 年夏摄于北京植物园</center>
 
 

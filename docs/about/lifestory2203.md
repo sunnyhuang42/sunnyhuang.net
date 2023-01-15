@@ -235,7 +235,7 @@ description: <blockquote><p>我是谁？我从哪来？我要去何方？</p></b
 
 具体怎么做，从哪里切入？经过近大半年的探索，思考逐渐清晰：
 
-![goal_strategy6.png](http://ishanshan.zoomquiet.top/share/hbstrategy6.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1 ':size=350')
+![goal_strategy6.png](https://cdn.sunnyhuang.net/share/hbstrategy6.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330 ':size=350')
 
 结合 想做/可做/能做 三者交集，目前打算从服务「想省力探索适合自己的转型和人生发展之路的伙伴」开始，助有这样需求的伙伴，在复杂多变的时代，定期认真思索人生关键问题（比如想去哪儿、怎么去），用系统思考、精益创业、目标管理等领域的精髓，以终为始思索接下来的杠杆点、敏捷迭代行动规划，聚焦要事减少浪费、增强心灵秩序感，更省力地追寻人生愿景。
 

@@ -13,7 +13,7 @@ hide:
 
 最近在复盘这一年多的历程，发现这句话，既特别适合描述这一年多的行动状态，也是接下来特别值得继续保持的模式。
 
-![sl-whole](http://ishanshan.zoomquiet.top/share/sl-whole4.png )
+![sl-whole](https://cdn.sunnyhuang.net/share/sl-whole4.png )
 
 具体指什么？
 
@@ -25,7 +25,7 @@ hide:
 
 基于「想做-可做-能做」模型（见下图），以终为始倒推拆解实现十年理想生活的策略、路径、里程碑，得出相对靠谱的 三年-18个月-6个月 的目标，理清不同阶段的侧重点。
 
-![hbstrategy](http://ishanshan.zoomquiet.top/share/hbstrategy6.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1 ':size=300')
+![hbstrategy](https://cdn.sunnyhuang.net/share/hbstrategy6.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330 ':size=300')
 
 ## 踏实有序做半年：
 
@@ -35,7 +35,7 @@ hide:
 
 这个过程类似下面这张图：在推进目标计划、不断突破重难点的同时，把探索创造过程的启发收获，复盘沉淀为日常流程、融入日常模式，进而越发强健敏捷、坚韧灵活，有实力从容应对新挑战、创造新突破，形成良性循环往前走。
 
-![view2301-16](http://ishanshan.zoomquiet.top/share/view2301-18.png)
+![view2301-16](https://cdn.sunnyhuang.net/share/view2301-18.png)
 
 具体到每月来说，安排如下：
 * w1：全局分析本月最值得突破的重点、策略规划
@@ -47,18 +47,18 @@ hide:
 ## 持续迭代推飞轮：
 
 根据目标计划，持续探索尝试，并每天小复盘，半周进行一轮复盘交流（见下图）
-![pattern-monthly2301](http://ishanshan.zoomquiet.top/share/pattern-monthly2301.png ':size=400')
+![pattern-monthly2301](https://cdn.sunnyhuang.net/share/pattern-monthly2301.png ':size=400')
 
 
 
 这样一来，既保障自己运用「面对不确定快速拿出靠谱成果」的最佳实践（见下图），敏捷迭代全局规划、下步目标计划等想法和成果
 
-![leanloop1](http://ishanshan.zoomquiet.top/share/leanloop1.gif ':size=500')
+![leanloop1](https://cdn.sunnyhuang.net/share/leanloop1.gif ':size=500')
 
 又保持方向感目标感，聚焦自己的人生要事，避免随波逐流
 
 还能保持 以终为始高频分享自己的目标规划和需求/行动进展/感触反思/收获感谢，持续推动人生发展飞轮（见下图），积累信任声誉和心理资本🌱
-![sl-loop1](http://ishanshan.zoomquiet.top/share/sl-loop1.png)
+![sl-loop1](https://cdn.sunnyhuang.net/share/sl-loop1.png)
 
 
 

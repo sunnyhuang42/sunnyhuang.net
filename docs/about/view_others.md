@@ -20,7 +20,7 @@ description: <p>如果你想了解更真实立体的我，或想知道如何勾�
 
 <br> 
 
-PS. @4+的公众号：[四是二飞](https://ishanshan.zoomquiet.top/clipping/qr_wechat4%2B.png)
+PS. @4+的公众号：[四是二飞](https://cdn.sunnyhuang.net/clipping/qr_wechat4%2B.png)
 
 
 

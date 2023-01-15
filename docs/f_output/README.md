@@ -57,8 +57,8 @@ description:
 > 面对的人生挑战越复杂，越希望来到「输出实验室」，助自己保持稳定的节律，来思考 投入产出比最高 的发力点（OKR[^2]）、检视进展、加速觉察及解除障碍和风险，更快调整行动，促进自己持续聚焦要事、输出价值，**更快更稳地迈向心中的蓬勃人生** 🏄🏻‍♀️
 
 
-![fo_pattern2.png](https://ishanshan.zoomquiet.top/share/fo_pattern2.png)
-![fo_pattern3.png](https://ishanshan.zoomquiet.top/share/fo_pattern3.png)
+![fo_pattern2.png](https://cdn.sunnyhuang.net/share/fo_pattern2.png)
+![fo_pattern3.png](https://cdn.sunnyhuang.net/share/fo_pattern3.png)
 
 ### 期待遇到这样的你 :id=target_user
 
@@ -221,7 +221,7 @@ description:
 
 这套玩法能日渐成型，离不开首批参与实验的伙伴（排名不分先后）：
 
-@藤小曼 @柳白猿 [@李明](https://sunoonlee.com/) [@竹间漪](https://mp.weixin.qq.com/s/cfDiyg8K5jsH3MWvo2whaQ) [@4+](https://ishanshan.zoomquiet.top/clipping/qr_wechat4%2B.png) [@猛犸](https://www.douban.com/people/mammoth2008/) @辰辰 @笑笑 @济州
+@藤小曼 @柳白猿 [@李明](https://sunoonlee.com/) [@竹间漪](https://mp.weixin.qq.com/s/cfDiyg8K5jsH3MWvo2whaQ) [@4+](https://cdn.sunnyhuang.net/clipping/qr_wechat4%2B.png) [@猛犸](https://www.douban.com/people/mammoth2008/) @辰辰 @笑笑 @济州
 
 超级感谢你们愿意帮我，坦诚布公交流碰撞，积极主动出谋划策、实验迭代，以及毫不吝啬的正反馈，给了我很大的信心和能力继续探索尝试😋
 

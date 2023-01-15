@@ -146,7 +146,7 @@ description: <p>还在增补中，不过也先放出来，供有需要的伙伴�
 
 #### 1. 你真诚的大五人格测评结果
 
-![big5_ishanshan2109.jpg](https://ishanshan.zoomquiet.top/share/big5_ishanshan2109.jpg ':size=400')
+![big5_ishanshan2109.jpg](https://cdn.sunnyhuang.net/share/big5_ishanshan2109.jpg ':size=400')
 
 测评地址：http://www.apesk.com/bigfive/index.asp
 

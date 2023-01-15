@@ -89,7 +89,7 @@ BTW，如果你希望目标更清晰的原因，是希望让自己行动更聚�
 > 1. 下个阶段，是指 下周/下个月/半年/三年/十二年/…（具体多长，你自己定义）
 > 2. “优质”是指：
 >     1. 方向匹配“想做、可做、能做”这套战略选择框架的思考结果——分析自己想去哪儿（想做-使命/愿景，可做-大势/规律），现状是怎样的（能做-绝对优势/相对优势），由此思索投入产出比最高的切入点 <br>
->     ![goal_strategy6.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1](http://ishanshan.zoomquiet.top/share/hbstrategy6.png?v=1&watermark/4/text/6Zeq6Zeq5Lq655Sf/fontsize/800/fill/Z3JheQ==/dissolve/10/rotate/-30/uw/300/uh/300/resize/1 ':size=400')
+>     ![goal_strategy6.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330](https://cdn.sunnyhuang.net/share/hbstrategy6.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330 ':size=400')
 >     2. 挑战难度合理，有相对靠谱的实现路径——<br> （1）综合了相关领域的最佳实践 <br>  （2）且对自己来说，属于需要跳一跳但又可能够得着的难度 <br> （3）以及根据至少 3 位专业师友的反馈进行了迭代完善
 >     3. 符合 SMART 原则
 

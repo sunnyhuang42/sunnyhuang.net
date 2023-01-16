@@ -1,3 +1,4 @@
+import { MutableRefObject } from 'react';
 import Link from 'next/link';
 import { title, logo } from '@/config';
 import { useModal } from '@/hooks';
@@ -5,6 +6,7 @@ import { Search } from '@/icons';
 import { Social, Navbar, Drawer } from '@/components';
 import { Flexsearch } from '@/components/flexsearch';
 
+let input: MutableRefObject<HTMLInputElement>;
 const Header = () => {
   const { visible, close, open } = useModal();
   return (
@@ -26,7 +28,14 @@ const Header = () => {
           <Navbar />
           <div className="flex items-center space-x-0.5 lg:space-x-8">
             <Flexsearch className="hidden md:block" />
-            <Search className="z-10 block md:hidden" onClick={open} />
+            <Search
+              className="z-10 block md:hidden"
+              onClick={() => {
+                // TODO: focus input
+                // input?.current?.focus();
+                open();
+              }}
+            />
             <Social className="hidden md:flex" />
           </div>
         </div>
@@ -36,7 +45,14 @@ const Header = () => {
         visible={visible}
       >
         <div className="flex p-2">
-          <Flexsearch className="flex-1" visible={visible} onFinish={close} />
+          <Flexsearch
+            className="flex-1"
+            visible={visible}
+            onFinish={close}
+            onMounted={(ref) => {
+              input = ref;
+            }}
+          />
           <button className="ml-2 text-sm text-accent" onClick={close}>
             取消
           </button>

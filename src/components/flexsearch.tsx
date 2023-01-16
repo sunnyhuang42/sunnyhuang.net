@@ -1,6 +1,12 @@
 // ref: https://github.com/shuding/nextra/blob/main/packages/nextra-theme-docs/src/components/flexsearch.tsx
 
-import React, { useState, ReactElement, ReactNode, useCallback } from 'react';
+import React, {
+  useState,
+  ReactElement,
+  ReactNode,
+  useCallback,
+  MutableRefObject,
+} from 'react';
 import { useRouter } from 'next/router';
 import FlexSearch from 'flexsearch';
 import cn from 'clsx';
@@ -153,13 +159,13 @@ const loadIndexesImpl = async (
 
 const locale = 'cn';
 export function Flexsearch({
-  visible,
   className,
   onFinish,
+  onMounted,
 }: {
-  visible?: boolean;
   className?: string;
   onFinish?: () => void;
+  onMounted?: (input: MutableRefObject<HTMLInputElement>) => void;
 }): ReactElement {
   const { basePath } = useRouter();
   const [loading, setLoading] = useState(false);
@@ -279,11 +285,11 @@ export function Flexsearch({
   return (
     <Search
       loading={loading}
-      visible={visible}
       value={search}
       onChange={handleChange}
       onActive={preload}
       onFinish={onFinish}
+      onMounted={onMounted}
       className={className}
       overlayClassName="w-screen min-h-[320px] md:max-w-[min(calc(100vw-2rem),calc(100%+20rem))]"
       results={results}

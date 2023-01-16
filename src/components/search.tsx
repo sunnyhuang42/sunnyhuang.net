@@ -3,6 +3,7 @@
 import React, {
   ReactElement,
   KeyboardEvent,
+  MutableRefObject,
   Fragment,
   useCallback,
   useState,
@@ -23,8 +24,8 @@ type SearchProps = {
   onChange: (newValue: string) => void;
   onActive?: (active: boolean) => void;
   onFinish?: () => void;
+  onMounted?: (input: MutableRefObject<HTMLInputElement>) => void;
   loading?: boolean;
-  visible?: boolean;
   results: SearchResult[];
 };
 
@@ -47,8 +48,8 @@ export function Search({
   onChange,
   onActive,
   onFinish,
+  onMounted,
   loading,
-  visible,
   results,
 }: SearchProps): ReactElement {
   const [show, setShow] = useState(false);
@@ -66,10 +67,10 @@ export function Search({
   }, [show]);
 
   useEffect(() => {
-    if (visible) {
-      input.current?.focus();
+    if (input.current) {
+      onMounted && onMounted(input);
     }
-  }, [visible]);
+  }, [input]);
 
   useEffect(() => {
     const down = (e: globalThis.KeyboardEvent): void => {
@@ -201,7 +202,10 @@ export function Search({
   return (
     <div className={cn('search relative md:w-48 lg:w-64', className)}>
       {renderList && (
-        <div className="fixed inset-0 h-screen z-10" onClick={() => setShow(false)} />
+        <div
+          className="fixed inset-0 z-10 h-screen"
+          onClick={() => setShow(false)}
+        />
       )}
 
       <div className="relative flex items-center text-primary">

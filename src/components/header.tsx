@@ -6,7 +6,7 @@ import { Search } from '@/icons';
 import { Social, Navbar, Drawer } from '@/components';
 import { Flexsearch } from '@/components/flexsearch';
 
-let input: MutableRefObject<HTMLInputElement>;
+let input: MutableRefObject<HTMLInputElement | null>;
 const Header = () => {
   const { visible, close, open } = useModal();
   return (

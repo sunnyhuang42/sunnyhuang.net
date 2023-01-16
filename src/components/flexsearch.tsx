@@ -165,7 +165,7 @@ export function Flexsearch({
 }: {
   className?: string;
   onFinish?: () => void;
-  onMounted?: (input: MutableRefObject<HTMLInputElement>) => void;
+  onMounted?: (input: MutableRefObject<HTMLInputElement | null>) => void;
 }): ReactElement {
   const { basePath } = useRouter();
   const [loading, setLoading] = useState(false);

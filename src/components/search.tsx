@@ -24,7 +24,7 @@ type SearchProps = {
   onChange: (newValue: string) => void;
   onActive?: (active: boolean) => void;
   onFinish?: () => void;
-  onMounted?: (input: MutableRefObject<HTMLInputElement>) => void;
+  onMounted?: (input: MutableRefObject<HTMLInputElement | null>) => void;
   loading?: boolean;
   results: SearchResult[];
 };

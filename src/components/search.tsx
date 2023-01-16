@@ -24,6 +24,7 @@ type SearchProps = {
   onActive?: (active: boolean) => void;
   onFinish?: () => void;
   loading?: boolean;
+  visible?: boolean;
   results: SearchResult[];
 };
 
@@ -47,6 +48,7 @@ export function Search({
   onActive,
   onFinish,
   loading,
+  visible,
   results,
 }: SearchProps): ReactElement {
   const [show, setShow] = useState(false);
@@ -62,6 +64,12 @@ export function Search({
   useEffect(() => {
     onActive && onActive(show);
   }, [show]);
+
+  useEffect(() => {
+    if (visible) {
+      input.current?.focus();
+    }
+  }, [visible]);
 
   useEffect(() => {
     const down = (e: globalThis.KeyboardEvent): void => {
@@ -193,7 +201,7 @@ export function Search({
   return (
     <div className={cn('search relative md:w-48 lg:w-64', className)}>
       {renderList && (
-        <div className="fixed inset-0 z-10" onClick={() => setShow(false)} />
+        <div className="fixed inset-0 h-screen z-10" onClick={() => setShow(false)} />
       )}
 
       <div className="relative flex items-center text-primary">
@@ -210,6 +218,9 @@ export function Search({
           type="search"
           placeholder="搜索"
           onKeyDown={handleKeyDown}
+          onFocus={() => {
+            setShow(true);
+          }}
         />
         {icon}
       </div>
@@ -225,11 +236,11 @@ export function Search({
           className={cn(
             'scrollbar',
             // Using bg-white as background-color when the browser didn't support backdrop-filter
-            'border text-secondary bg-primary',
-            'absolute top-full z-20 mt-2 overflow-auto overscroll-contain rounded-xl py-2.5 shadow-xl',
-            'max-h-[min(calc(50vh-11rem-env(safe-area-inset-bottom)),400px)]',
+            'text-secondary bg-primary md:border',
+            'absolute top-full z-20 mt-2 overflow-auto overscroll-contain rounded-xl py-2.5 md:shadow-xl',
+            'max-h-[calc(100vh-52px-env(safe-area-inset-bottom))]',
             'md:max-h-[min(calc(100vh-5rem-env(safe-area-inset-bottom)),400px)]',
-            'inset-x-0 md:left-auto',
+            'inset-x-0 -left-2 md:left-auto',
             overlayClassName,
           )}
           ref={ulRef}

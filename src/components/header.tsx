@@ -1,14 +1,12 @@
 import Link from 'next/link';
-import cn from 'clsx';
 import { title, logo } from '@/config';
 import { useModal } from '@/hooks';
-import { Search, Close } from '@/icons';
-import { Social, Navbar } from '@/components';
+import { Search } from '@/icons';
+import { Social, Navbar, Drawer } from '@/components';
 import { Flexsearch } from '@/components/flexsearch';
 
 const Header = () => {
-  const { visible, toggle, close, open } = useModal();
-  const Icon = visible ? Close : Search;
+  const { visible, close, open } = useModal();
   return (
     <>
       <header className="sticky top-0 z-30 h-14 border-b bg-blur">
@@ -27,19 +25,23 @@ const Header = () => {
           </Link>
           <Navbar />
           <div className="flex items-center space-x-0.5 lg:space-x-8">
-            <div
-              className={cn(
-                'fixed left-0 w-full pl-3 pr-10 transition-transform md:relative md:p-0',
-                visible ? '' : '-translate-x-full md:translate-x-0',
-              )}
-            >
-              <Flexsearch onFinish={close} />
-            </div>
-            <Icon className="z-10 block md:hidden" onClick={() => toggle()} />
+            <Flexsearch className="hidden md:block" />
+            <Search className="z-10 block md:hidden" onClick={open} />
             <Social className="hidden md:flex" />
           </div>
         </div>
       </header>
+      <Drawer
+        className="visible h-full rounded-tl-none rounded-tr-none md:invisible"
+        visible={visible}
+      >
+        <div className="flex p-2">
+          <Flexsearch className="flex-1" visible={visible} onFinish={close} />
+          <button className="ml-2 text-sm text-accent" onClick={close}>
+            取消
+          </button>
+        </div>
+      </Drawer>
     </>
   );
 };

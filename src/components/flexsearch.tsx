@@ -153,9 +153,11 @@ const loadIndexesImpl = async (
 
 const locale = 'cn';
 export function Flexsearch({
+  visible,
   className,
   onFinish,
 }: {
+  visible?: boolean;
   className?: string;
   onFinish?: () => void;
 }): ReactElement {
@@ -200,7 +202,6 @@ export function Flexsearch({
           pageTitleMatches[i]++;
         }
         const { url, title } = doc;
-        console.log(title);
         const content = doc.display || doc.content;
         if (occurred[url + '@' + content]) continue;
         occurred[url + '@' + content] = true;
@@ -209,7 +210,7 @@ export function Flexsearch({
           _section_rk: j,
           route: url,
           prefix: isFirstItemOfPage && (
-            <div className="mx-2.5 mb-2 mt-6 select-none border-b px-2.5 pb-1.5 text-xs font-semibold uppercase text-primary first:mt-0">
+            <div className="mx-2.5 mb-2 mt-6 select-none border-b px-2.5 pb-1.5 font-semibold uppercase text-primary first:mt-0">
               {result.doc.title}
             </div>
           ),
@@ -278,12 +279,13 @@ export function Flexsearch({
   return (
     <Search
       loading={loading}
+      visible={visible}
       value={search}
       onChange={handleChange}
       onActive={preload}
       onFinish={onFinish}
       className={className}
-      overlayClassName="w-screen min-h-[320px] max-w-[min(calc(100vw-2rem),calc(100%+20rem))]"
+      overlayClassName="w-screen min-h-[320px] md:max-w-[min(calc(100vw-2rem),calc(100%+20rem))]"
       results={results}
     />
   );

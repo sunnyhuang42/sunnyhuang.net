@@ -59,7 +59,7 @@
     @apply font-normal font-medium text-accent no-underline transition-colors;
 
     &:hover {
-      @apply text-accent-highlight;
+      @apply opacity-75;
     }
   }
 

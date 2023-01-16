@@ -36,7 +36,7 @@ const DetailsItem = ({ slug, title, date, link, description }: Item) => {
           <div className="group">
             <div className="mb-2 flex text-xl font-medium">
               <time className="pr-3">{date}</time>
-              <h3 className="flex-1 text-accent transition-colors group-hover:text-accent-highlight">
+              <h3 className="flex-1 text-accent transition-colors group-hover:opacity-75">
                 {title}
                 {link && (
                   <ArrowUpRight className="ml-1 mb-1.5 inline-block w-4 text-secondary" />

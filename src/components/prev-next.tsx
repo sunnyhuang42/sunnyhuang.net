@@ -24,7 +24,7 @@ const PrevNextLink: FC<Props> = ({ type, link, text }) => {
             <span>{isNext ? '下' : '上'}一篇</span>
             {isNext && <ArrowRight className="ml-1 w-3" />}
           </div>
-          <div className="flex items-center font-medium text-accent transition-colors line-clamp-2 group-hover:text-accent-highlight">
+          <div className="flex items-center font-medium text-accent transition-colors line-clamp-2 group-hover:opacity-75">
             {text}
           </div>
         </a>

@@ -47,7 +47,6 @@ const Header = () => {
         <div className="flex p-2">
           <Flexsearch
             className="flex-1"
-            visible={visible}
             onFinish={close}
             onMounted={(ref) => {
               input = ref;

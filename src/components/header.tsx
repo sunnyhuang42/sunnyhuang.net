@@ -5,6 +5,7 @@ import { useModal } from '@/hooks';
 import { Search } from '@/icons';
 import { Social, Navbar, Drawer } from '@/components';
 import { Flexsearch } from '@/components/flexsearch';
+import { focusAndOpenKeyboard } from '@/utils';
 
 let input: MutableRefObject<HTMLInputElement | null>;
 const Header = () => {
@@ -31,9 +32,8 @@ const Header = () => {
             <Search
               className="z-10 block md:hidden"
               onClick={() => {
-                // TODO: focus input
-                // input?.current?.focus();
                 open();
+                focusAndOpenKeyboard(input.current, 300);
               }}
             />
             <Social className="hidden md:flex" />
@@ -52,7 +52,10 @@ const Header = () => {
               input = ref;
             }}
           />
-          <button className="ml-2 text-sm text-accent" onClick={close}>
+          <button
+            className="z-30 h-full pl-2 text-sm font-medium text-accent"
+            onClick={close}
+          >
             取消
           </button>
         </div>

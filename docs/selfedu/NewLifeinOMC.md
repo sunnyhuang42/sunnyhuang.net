@@ -12,7 +12,7 @@ description: <p>彷徨多发的毕业季，没经历千军万马的校招，我�
 思绪万千辗转反侧。
 ```
 
-![se150602.jpg](https://cdn.sunnyhuang.net/share/se150602.jpg?imageMogr2/size-limit/100k!)
+![se150602.jpg](https://cdn.sunnyhuang.net/share/se150602.jpg!webp)
 <center>2013 年秋摄于奥林匹克森林公园</center>
 
 

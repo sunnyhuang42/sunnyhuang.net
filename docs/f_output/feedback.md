@@ -21,24 +21,24 @@ description:
 <details>
 <summary> M1，即士别三日行动营第二期内测：(点击可展开详情)</summary>
 
-![fb_ft_m1_2022_1.png](https://cdn.sunnyhuang.net/share/fb_ft_m1_2022_1.png?imageslim)
-![fb_ft_m1_2022_2.png](https://cdn.sunnyhuang.net/share/fb_ft_m1_2022_2.png?imageslim)
+![fb_ft_m1_2022_1.png](https://cdn.sunnyhuang.net/share/fb_ft_m1_2022_1.png!webp)
+![fb_ft_m1_2022_2.png](https://cdn.sunnyhuang.net/share/fb_ft_m1_2022_2.png!webp)
 
 </details>
 
 <details>
 <summary> M12，即士别三日行动营第一期内测：(点击可展开详情)</summary>
 
-![fb_ft_m12_2021_1.png](https://cdn.sunnyhuang.net/share/fb_ft_m12_2021_1.png?imageslim)
-![fb_ft_m12_2021_2.png](https://cdn.sunnyhuang.net/share/fb_ft_m12_2021_2.png?imageslim)
+![fb_ft_m12_2021_1.png](https://cdn.sunnyhuang.net/share/fb_ft_m12_2021_1.png!webp)
+![fb_ft_m12_2021_2.png](https://cdn.sunnyhuang.net/share/fb_ft_m12_2021_2.png!webp)
 
 </details>
 
 <details>
 <summary> M11：(点击可展开详情)</summary>
 
-![fb_fom11-1.jpeg](https://cdn.sunnyhuang.net/share/fb_fom11-1.jpeg?imageslim)
-![fb_fom11-2.jpeg](https://cdn.sunnyhuang.net/share/fb_fom11-2.jpeg?imageslim)
+![fb_fom11-1.jpeg](https://cdn.sunnyhuang.net/share/fb_fom11-1.jpeg!webp)
+![fb_fom11-2.jpeg](https://cdn.sunnyhuang.net/share/fb_fom11-2.jpeg!webp)
 
 </details>
 
@@ -46,10 +46,10 @@ description:
 <details>
 <summary> M10：(点击可展开详情)</summary>
 
-![fb_fom10-1.png](https://cdn.sunnyhuang.net/share/fb_fom10-1.png?imageslim)
-![fb_fom10-2.png](https://cdn.sunnyhuang.net/share/fb_fom10-2.png?imageslim)
-![fb_fom10-3.png](https://cdn.sunnyhuang.net/share/fb_fom10-3.png?imageslim)
-![fb_fom10-4.png](https://cdn.sunnyhuang.net/share/fb_fom10-4.png?imageslim)
+![fb_fom10-1.png](https://cdn.sunnyhuang.net/share/fb_fom10-1.png!webp)
+![fb_fom10-2.png](https://cdn.sunnyhuang.net/share/fb_fom10-2.png!webp)
+![fb_fom10-3.png](https://cdn.sunnyhuang.net/share/fb_fom10-3.png!webp)
+![fb_fom10-4.png](https://cdn.sunnyhuang.net/share/fb_fom10-4.png!webp)
 
 </details>
 
@@ -59,9 +59,9 @@ description:
 <details>
 <summary> M9：(点击可展开详情)</summary>
 
-![fb_fom9-1.png](https://cdn.sunnyhuang.net/share/fb_fom9-1.png?imageslim)
-![fb_fom9-2.png](https://cdn.sunnyhuang.net/share/fb_fom9-2.png?imageslim)
-![fb_fom9-3.png](https://cdn.sunnyhuang.net/share/fb_fom9-3.png?imageslim)
+![fb_fom9-1.png](https://cdn.sunnyhuang.net/share/fb_fom9-1.png!webp)
+![fb_fom9-2.png](https://cdn.sunnyhuang.net/share/fb_fom9-2.png!webp)
+![fb_fom9-3.png](https://cdn.sunnyhuang.net/share/fb_fom9-3.png!webp)
 
 </details>
 

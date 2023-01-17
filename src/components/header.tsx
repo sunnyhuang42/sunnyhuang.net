@@ -43,6 +43,7 @@ const Header = () => {
       <Drawer
         className="visible h-full rounded-tl-none rounded-tr-none md:invisible"
         visible={visible}
+        touchScroll={false}
       >
         <div className="flex p-2">
           <Flexsearch

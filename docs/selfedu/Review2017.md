@@ -81,7 +81,7 @@ description: <p>你要记住，你在心灵自由的路上，踌躇、挣扎、�
 
 但项目负责同事并不看好 —— 她在自己张罗的学习小组里尝试不佳：要求大伙儿互评，但响应寥寥。你不服，认定大方向无误 —— 不依赖外部评价给自己反馈，是受益无穷的能力，亦是新手快速进阶的宝剑，值得尝试；只是需从小处入手，优化引导。然后便自顾自推动：整理新手常忽略但裨益良多的编程习惯、学习习惯，汇成自评清单，供同学自检、互评；优化作业提交模板细节，加上「给楼上同学的反馈：……」等细节，把这个作为提交必需。
 
-![sampleissueassignmenthandup.png](https://cdn.sunnyhuang.net/share/sampleissueassignmenthandup.png?imageslim)
+![sampleissueassignmenthandup.png](https://cdn.sunnyhuang.net/share/sampleissueassignmenthandup.png!webp)
 <center>图2 作业提交引导</center>
 
 
@@ -184,13 +184,13 @@ description: <p>你要记住，你在心灵自由的路上，踌躇、挣扎、�
 认知写作学课程人员、需求繁多，你会在协作伊始划定原则，提升决策效率：
 
 
-![samplethinkingthoughtexperiment1.png](https://cdn.sunnyhuang.net/share/samplethinkingthoughtexperiment1.png?imageslim)
+![samplethinkingthoughtexperiment1.png](https://cdn.sunnyhuang.net/share/samplethinkingthoughtexperiment1.png!webp)
 <center>图3 认知写作学课程队长行动指南</center>
 
 
 同事忧愁公众号数据，你更倾向权衡全局业务：
 
-![samplethinkingthoughtexperiment2.png](https://cdn.sunnyhuang.net/share/samplethinkingthoughtexperiment2-2.png?imageslim)
+![samplethinkingthoughtexperiment2.png](https://cdn.sunnyhuang.net/share/samplethinkingthoughtexperiment2-2.png!webp)
 <center>图4 思考什么是最需要解决的问题</center>
 
 但你也深知自己对商业模式、行业机会、未来形势的预判依然欠缺。不过没关系，你先扎实基本功，那些上层才干还有我来收拾呢。

@@ -24,7 +24,7 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
 
 > Flourishing is a state of successful growth and happiness. You feel very satisfied with life and have a lot of emotional, social and mental well-being.
 
-![flourishing_3level.png](https://cdn.sunnyhuang.net/clipping/flourishing_3level.png?imageslim)
+![flourishing_3level.png](https://cdn.sunnyhuang.net/clipping/flourishing_3level.png!webp)
 
 具体评估方式，业界学者各有不同，比如：
 
@@ -104,8 +104,8 @@ description: <p>前段时间在梳理自己想过怎样的生活，发现业界�
 
 《[思维改变生活：积极而实用的认知行为疗法 (Change Your Thinking-Positive and practical ways to overcome stress negative emotions and self-defeating behavior using CBT)](https://book.douban.com/subject/2984241/)》一书中，从**工作/日常、健康、精神生活、休闲、社会支持**五个维度，给出了评估量表，见下图。也挺适合定期自检、调整行动，以便人生更幸福。
 
-![flourishing_cbt1.jpeg](https://cdn.sunnyhuang.net/share/flourishing_cbt1.jpeg?imageslim ':size=200')
-![flourishing_cbt2.jpeg](https://cdn.sunnyhuang.net/share/flourishing_cbt2.jpeg?imageslim ':size=200')
+![flourishing_cbt1.jpeg](https://cdn.sunnyhuang.net/share/flourishing_cbt1.jpeg!webp ':size=200')
+![flourishing_cbt2.jpeg](https://cdn.sunnyhuang.net/share/flourishing_cbt2.jpeg!webp ':size=200')
 
 电子版见[这里](https://sunnylife.feishu.cn/wiki/wikcnLgwe78yfvOlxcgBaQlcVig?office_edit=1&table=tblUpalTUaaF0KEz&sheet=I7ElK9)。
 

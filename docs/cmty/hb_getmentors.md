@@ -81,7 +81,7 @@ description: <p>本月复盘时，我提到自己最希望的改进的地方是�
 
 比如我之前遇到过，被一位已加微信几年但联系不多的伙伴主动提出付费咨询（见下图），通过这样的方式既解决自己的问题，又了解了我的能力情况，抛出基于他创业项目长期合作的橄榄枝时也非常自然。
 
-![getmentor1_1.png](https://cdn.sunnyhuang.net/share/getmentor1_1.png?imageslim ':size=420')
+![getmentor1_1.png](https://cdn.sunnyhuang.net/share/getmentor1_1.png!webp ':size=420')
 
 
 而作为被咨询的一方，面对认真来请教的伙伴，精力允许的情况下，其实一般都会很乐意提供支持。且咨询过程因为需要交换大量信息，也很易增进彼此信任。如果感觉不想长期合作，不抛橄榄枝便是，也不伤信任。

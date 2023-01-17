@@ -14,6 +14,7 @@ import { ChevronDown } from '@/icons';
 type Props = {
   title?: string;
   visible?: boolean;
+  touchScroll?: boolean;
   extra?: ReactNode;
   className?: string;
   onClose?: () => void;
@@ -37,7 +38,15 @@ const getDistance = (
 };
 
 const Drawer: FC<Props> = (props) => {
-  const { title, visible, className, extra, children, onClose } = props;
+  const {
+    title,
+    visible,
+    className,
+    extra,
+    children,
+    onClose,
+    touchScroll = true,
+  } = props;
   const [distance, setDistance] = useState(0);
 
   const topRef = useRef(null);
@@ -72,9 +81,9 @@ const Drawer: FC<Props> = (props) => {
     <>
       <div
         ref={containerRef}
-        onTouchStart={visible ? onTouchStart : undefined}
-        onTouchMove={visible ? onTouchMove : undefined}
-        onTouchEnd={visible ? onTouchEnd : undefined}
+        onTouchStart={visible && touchScroll ? onTouchStart : undefined}
+        onTouchMove={visible && touchScroll ? onTouchMove : undefined}
+        onTouchEnd={visible && touchScroll ? onTouchEnd : undefined}
         style={
           visible && distance
             ? {

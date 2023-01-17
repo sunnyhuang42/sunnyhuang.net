@@ -222,11 +222,11 @@ export function Flexsearch({
           ),
           children: (
             <>
-              <div className="text-base font-semibold leading-5">
+              <div className="text-sm font-semibold leading-5">
                 <HighlightMatches match={search} value={title} />
               </div>
               {content && (
-                <div className="mt-1 text-sm leading-[1.35rem] line-clamp-1 text-primary md:line-clamp-none">
+                <div className="mt-1 text-sm leading-[1.35rem] line-clamp-1 text-primary">
                   <HighlightMatches match={search} value={content} />
                 </div>
               )}

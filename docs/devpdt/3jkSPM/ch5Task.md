@@ -425,7 +425,7 @@ description:
 
 		改版 demo 见右下图：
 	
-		[![woniureadingdemocompare.jpg](https://cdn.sunnyhuang.net/share/woniureadingdemocompare.jpg!webp)](https://cdn.sunnyhuang.net/share/woniureadingdemocompare.jpg)
+		[![woniureadingdemocompare.jpg](https://cdn.sunnyhuang.net/share/woniureadingdemocompare.jpg/webp)](https://cdn.sunnyhuang.net/share/woniureadingdemocompare.jpg)
 
 		修改要点：
 		

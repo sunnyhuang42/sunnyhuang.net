@@ -84,7 +84,7 @@ description: <p>自从在朋友圈推荐过「人生彩虹本」后，陆续有�
 
 ## 关于「人生日课」模块的使用
 
-![rainbowbook.jpg](https://cdn.sunnyhuang.net/share/rainbowbook.jpg!webp?x-oss-process=image/resize,w_600)
+![rainbowbook.jpg](https://cdn.sunnyhuang.net/share/rainbowbook.jpg/webp?x-oss-process=image/resize,w_600)
 <center>「人生日课」页面</center>
 
 1. 关于写「人生日课」的时间：

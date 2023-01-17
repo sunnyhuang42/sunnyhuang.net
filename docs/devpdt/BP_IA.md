@@ -74,7 +74,7 @@ description:
 「在行一点」这个平台基本满足上述条件：
 
 	
-![strategyibrainlecture005.png](http://pics.ibrainbaby.cn/share/strategyibrainlecture005.png!webp)
+![strategyibrainlecture005.png](http://pics.ibrainbaby.cn/share/strategyibrainlecture005.png/webp)
 
 ### 反面案例
 
@@ -98,7 +98,7 @@ description:
 
 规则：问诊按次收费，付费后 24 小时为问诊时间，IM 形式无限次交流。比如「春雨医生」。
 
-效果：交互无限次，双方 ROI 都低。虽然 IM 形式是大伙儿最习惯的交互形式，这种形态用于解决问题真的很低效。比如我的问诊案例：[「春雨医生」](https://cdn.sunnyhuang.net/share/sampleia_qa_dr.chunyu.jpeg!webp)VS[「丁香医生」](https://cdn.sunnyhuang.net/share/sampleia_qa_dr.dingxiang.jpeg!webp)，我把在丁香医生提问的内容，原封不动地复制到春雨医生问了一遍，结果那位医生第一交互回合就只回了 2 行的短句，而且问的都是我提问里已经写清楚的内容……不排除这俩医生信息素养本来就不一样，但平台机制确实影响不小。
+效果：交互无限次，双方 ROI 都低。虽然 IM 形式是大伙儿最习惯的交互形式，这种形态用于解决问题真的很低效。比如我的问诊案例：[「春雨医生」](https://cdn.sunnyhuang.net/share/sampleia_qa_dr.chunyu.jpeg/webp)VS[「丁香医生」](https://cdn.sunnyhuang.net/share/sampleia_qa_dr.dingxiang.jpeg/webp)，我把在丁香医生提问的内容，原封不动地复制到春雨医生问了一遍，结果那位医生第一交互回合就只回了 2 行的短句，而且问的都是我提问里已经写清楚的内容……不排除这俩医生信息素养本来就不一样，但平台机制确实影响不小。
 
 
 

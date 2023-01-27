@@ -1,7 +1,7 @@
 ---
 title: 卡片助力输入输出，工具我选 WorkFlowy
 date: 2017-03-01
-updated: 
+updated:
 description: <p>工具是辅助，输出作品才是目的。</p>
 ---
 
@@ -150,8 +150,8 @@ WorkFlowy 可以全文检索，检索关键词时可以把当前路径下关键�
 
 我常把常用关键词设定成标签，借助标签提取局部和整体的关系。举个例子：课程组委会每周多个角色协作，每个角色需要了解自己当周什么时候需要做什么，但并非每个角色都需关注所有本周所有角色的安排，那如何从整体快速剥离每个角色所需事务？ WorkFlowy 帮了大忙：设定涉及角色为标签，只要一点击，便可看到这个角色每周所需要跟进事务node：
 
-![动图展示](http://openmindclub.zoomquiet.top/ishanshan/blog/DemoWorkflowyTagUsage2.gif)
-（如果图片无法显示，可换为非 chrome 浏览器查看本文，或点击[这里](http://openmindclub.zoomquiet.top/ishanshan/blog/DemoWorkflowyTagUsage2.gif)看上述动图）  
+![DemoWorkflowyTagUsage2](https://cdn.sunnyhuang.net/share/DemoWorkflowyTagUsage2.gif/webp)
+（如果图片无法显示，可换为非 chrome 浏览器查看本文，或点击[这里](https://cdn.sunnyhuang.net/share/DemoWorkflowyTagUsage2.gif/webp)看上述动图）  
 
 <br>
 
@@ -256,4 +256,3 @@ PS.
 - 170301 初次起草一年后终于发布……
 - 170218 增补图片、修订措辞
 - 170212 完善使用心得部分
-

@@ -38,7 +38,7 @@ description:
 
 推荐效果如果想更好，可以借鉴 [Learn Something New Every Day with Online Video Lessons | Curious.com](https://curious.com/)，对每个兴趣方向进一步采集用户的水平、提升意愿和目标等维度的信息，推荐更匹配的内容：
 
-![aiedu4.png](http://openmindclub.zoomquiet.top/ishanshan/aiedu4.png)
+![aiedu4.png](https://cdn.sunnyhuang.net/share/aiedu4.png)
 
 ## 课堂效率
 
@@ -46,7 +46,7 @@ description:
 
 目前英语教育领域主要实现了这些效果：
 
-![aiedu0.png](http://openmindclub.zoomquiet.top/ishanshan/aiedu0.png)
+![aiedu0.png](https://cdn.sunnyhuang.net/share/aiedu0.png)
 
 摘自 [亿欧智库：2018中国少儿在线英语教育行业研究报告.pdf](https://img1.iyiou.com/ThinkTank/2018/%E4%BA%BF%E6%AC%A7%E6%99%BA%E5%BA%93%EF%BC%9A2018%E4%B8%AD%E5%9B%BD%E5%B0%91%E5%84%BF%E5%9C%A8%E7%BA%BF%E8%8B%B1%E8%AF%AD%E6%95%99%E8%82%B2%E8%A1%8C%E4%B8%9A%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A.pdf)
 
@@ -55,9 +55,9 @@ description:
 这个应用案例或许你也见过，不过我想说的不是参考这个，而是思考它的进化方向：
 
 
-![aiedu1.jpeg](http://openmindclub.zoomquiet.top/ishanshan/aiedu1.jpeg?x-oss-process=image/resize,w_350)
-![aiedu2.jpeg](http://openmindclub.zoomquiet.top/ishanshan/aiedu2.jpeg)
-![aiedu3.jpeg](http://openmindclub.zoomquiet.top/ishanshan/aiedu3.jpeg?x-oss-process=image/resize,w_400)
+![aiedu1.jpeg](https://cdn.sunnyhuang.net/share/aiedu1.jpeg?x-oss-process=image/resize,w_350)
+![aiedu2.jpeg](https://cdn.sunnyhuang.net/share/aiedu2.jpeg)
+![aiedu3.jpeg](https://cdn.sunnyhuang.net/share/aiedu3.jpeg?x-oss-process=image/resize,w_400)
 
 
 这课堂呵护系统，**往事前预测、事发干预方向深入**，比事后报告效果能好不少——比如使用 AI 预测哪位同学即将走神，提请老师关注（如邀其回答问题、走到他旁边讲课等），提升学生课堂专注程度。

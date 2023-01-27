@@ -51,7 +51,7 @@ description:
 且这还带来一个负面影响：难以全文件检索，只能进入单个文件检索。即使未来实现，也定不如 WorkFlowy 的检索效果那般优雅：能呈现当前位置以下、目标字段的所有父层级 node ，便于了然全局——
 
 
-![sample_workflowy_search.png](http://openmindclub.zoomquiet.top/ishanshan/sample_workflowy_search.png)
+![sample_workflowy_search.png](https://cdn.sunnyhuang.net/share/sample_workflowy_search.png)
 
 
 ## 主题音频呈现机制

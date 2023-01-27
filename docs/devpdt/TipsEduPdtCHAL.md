@@ -68,7 +68,7 @@ description:
 
     其三，成为更好的自己，离不开技能才干切实提升。这是「得到」在尝试，但对大部分用户来说，效果还不算好的方面——用户的知识焦虑不减反增是一例证。面对如此优质的资源，高阶学习者可以快速为己所用，但初阶学习者则越发焦虑：的确知道了很多「unknown unknowns（不知道自己不知道的知识）」，可由于缺乏应用场景或习惯，难以掌握、转入「known knowns（知道自己知道）」的层级。日积月累，**「known unknowns（知道自己不知道）」的范围越来越大，恐慌焦虑也是必然**。
 
-    ![unknownunknown-matrix-2.jpg](http://openmindclub.zoomquiet.top/ishanshan/unknownunknown-matrix-2.jpg)
+    ![unknownunknown-matrix-2.jpg](https://cdn.sunnyhuang.net/share/unknownunknown-matrix-2.jpg)
 
     （The Unknown Unknown Matrix，图片摘自 [Why We’re Always On The Cusp Of Artificial General Intellegence – Solidifying Nebulous Ideas](https://solidifyingnebulousideas.com/2017/07/04/why-were-always-on-the-cusp-of-artificial-general-intellegence/)）
 
@@ -76,7 +76,7 @@ description:
 
     要破这个困局，**需帮助用户从信息的被动接受者，变为意义的主动建构者，即主动学习（[active processing](http://etec.ctlt.ubc.ca/510wiki/Cognitive_Theory_of_Multimedia_Learning#Active_Processing)），从知道变为掌握——能迁移运用**。根据学习科学的主动加工原理（[active processing principle](https://www.learning-theories.com/cognitive-theory-of-multimedia-learning-mayer.html)），**意义学习（[meaningful learning](http://web.mit.edu/jrankin/www/teach_transfer/rote_v_meaning.pdf)）需要学习者对信息进行主动选择（selecting）、组织（organizing）和整合（integrating）**——
 
-    ![three cognitive processes_required_for_meaningful_learning.png](http://openmindclub.zoomquiet.top/ishanshan/three%20cognitive%20processes_required_for_meaningful_learning.png?x-oss-process=image/resize,w_500)
+    ![three cognitive processes_required_for_meaningful_learning.png](https://cdn.sunnyhuang.net/share/three%20cognitive%20processes_required_for_meaningful_learning.png?x-oss-process=image/resize,w_500)
 
     （这套理论来自 [Educational psychology 领域](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:educational_psychology) [h-index 以 136 位列第一](https://scholar.google.com/citations?user=o5doXYoAAAAJ&hl=zh-CN)的 [Richard E Mayer](https://www.psych.ucsb.edu/people/faculty/mayer) 教授，理论概要及所截内容前后依据，可见其幻灯 [Research-Based Principles for Multimedia Learning - HILT2014](https://hilt.harvard.edu/wp-content/uploads/2018/08/HILT_SpeakerSeries_Mayerslides.pdf)）
 

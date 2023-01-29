@@ -74,7 +74,7 @@ description:
 「在行一点」这个平台基本满足上述条件：
 
 	
-![strategyibrainlecture005.png](http://pics.ibrainbaby.cn/share/strategyibrainlecture005.png/webp)
+![strategyibrainlecture005.png](https://pics.ibrainbaby.cn/share/strategyibrainlecture005.png)
 
 ### 反面案例
 

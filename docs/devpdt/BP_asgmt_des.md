@@ -1,8 +1,8 @@
 ---
 title: 优秀实践 | 怎样设置练习任务更易达到教学目标？
 date: 2018-08-16
-updated: 
-description: 
+updated:
+description:
 ---
 
 练习任务设置也有优劣，怎样设置练习任务更易达到教学目标？
@@ -17,7 +17,7 @@ description:
 
 这些小问题如何设置更易激发用户参与、助其运用所学？在线教育支持服务提供商 Thinkific Team 总结了几个常用策略，并给出详细示例，详见 [4 Strategies To Boost Participation In Online Courses - Thinkific](https://www.thinkific.com/blog/4-strategies-boost-participation-online-courses/)：
 
-1. A good question is open-ended 
+1. A good question is open-ended
 
     > **Not so good**: Were you able to wake up earlier in the mornings this week?
     >     
@@ -32,25 +32,25 @@ description:
 2. A good question elicits higher order thinking/doing/reflecting
 
     > **Not so good**: Is the model schedule useful to you?
-    
+
     > **Better**: Tell us about how you are using the model schedule.
-    
+
     > **Best**: In what ways has the model schedule helped you or limited you in keeping your commitments to yourself? Choose one and share your insights into how this structure has benefited you this week.
 
 3. A good question asks students to use the course content to formulate their response
 
     > **Not so good**: What do you think about each of these mission statements?
-    
+
     > **Better**: Take one of the examples of mission statements and explain why you think it is effective or not.
-    
+
     > **Best**: We have gone in depth about the 5 qualities of an effective mission statement. Choose one of the mission statements provided. Explain how effective it is by examining each quality we have studied. Use the resources in the course (readings, lecture, and examples) to formulate your response.
 
 4. A good prompt creates a diversity of activities (rather than simple question and response)
 
     > **Not so good**: Let’s discuss how Mary can improve her sales page.
-    
+
     > **Best** (but the same structure): Mary’s honored us with using her draft sales page as a learning tool. Let’s provide constructive feedback to her on each element of a fantastic sales page: The Headline, The Problem, The Solution, The Benefits, The Features, Social Proof, Guarantee, and Scarcity. Choose one of these elements and offer some suggestions to Mary.
-    
+
     > **Best** (an alternative structure): Mary’s honored us with using her draft sales page as a learning tool. For each element of a fantastic sales page, two of you will work together to provide Mary constructive feedback. Get together via email or phone or skype and prepare a report to Mary. Mary will take all the feedback and prepare a second draft. (Provide a list of two students for each of the elements. Also, provide guidelines about constructive feedback/peer review.)
 
 ### 除了老师出任务，学员也可把自己的困扰作为任务
@@ -81,16 +81,17 @@ description:
 
 比如[开智学堂 Python 基础班](https://mp.weixin.qq.com/s/0xDHRCpsUwxD23LB47mR9w)任务设计：
 
-![samplecourseoutline.jpg](http://openmindclub.zoomquiet.top/ishanshan/samplecourseoutline.jpg?x-oss-process=image/resize,w_350)
 
-每周完成一个小作品，几周下来，便具备完成大作品的技能—— 
+![SampleCourseOutline](https://cdn.sunnyhuang.net/share/SampleCourseOutline.jpg?x-oss-process=image/resize,w_350)
 
-    CLI MVP 
-    -> CLI MVP+API 
-    -> CLI MVP+API+前端 
-    -> CLI MVP+API+前端+数据库 
-    -> CLI MVP+API+前端+数据库+部署发布 
-    -> CLI MVP+API+前端+数据库+部署发布+在微信发布 
+每周完成一个小作品，几周下来，便具备完成大作品的技能——
+
+    CLI MVP
+    -> CLI MVP+API
+    -> CLI MVP+API+前端
+    -> CLI MVP+API+前端+数据库
+    -> CLI MVP+API+前端+数据库+部署发布
+    -> CLI MVP+API+前端+数据库+部署发布+在微信发布
     -> Bingo！可以运用这些技能，完成自己设计的大作品啦！
 
 
@@ -98,9 +99,7 @@ description:
 
 待增补。
 
-## CHANGELOG 
+## CHANGELOG
 
 - 180829 闪闪增补案例
 - 180816 闪闪创建
-
-

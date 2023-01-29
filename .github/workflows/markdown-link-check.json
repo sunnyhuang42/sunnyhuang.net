@@ -165,6 +165,10 @@
       "reason": "Website no longer exists",
       "pattern": "https://www.huodongxing.com/",
       "TODO": "Need to update or remove"
+    },
+    {
+      "reason": "CloudFlare CDN",
+      "pattern": "https://cdn.sunnyhuang.net/"
     }
   ],
   "replacementPatterns": [

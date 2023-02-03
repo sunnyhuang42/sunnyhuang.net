@@ -100,14 +100,13 @@ const Folder: FC<FolderProps> = (props) => {
 const Sidebar = () => {
   const { id } = usePage();
   const { menu } = useDrawer();
-  const { asPath } = useRouter();
-  const pathname = asPath.split('#')[0];
   const [openMap, setOpenMap] = useState<Record<string, boolean>>(() =>
-    (pathname === '/' ? sidebar.filter((i) => i.collapsed) : []).reduce(
-      (acc, cur) => ({ ...acc, [cur.id]: true }),
-      {},
-    ),
+    sidebar
+      .filter((i) => i.collapsed)
+      .reduce((acc, cur) => ({ ...acc, [cur.id]: true }), {}),
   );
+
+  console.log(openMap);
   const isExpand = useMemo(
     () =>
       Object.values(openMap).filter((i) => i).length ===

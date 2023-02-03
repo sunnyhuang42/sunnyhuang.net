@@ -25,7 +25,7 @@ hide:
 
 基于「想做-可做-能做」模型（见下图），以终为始倒推拆解实现十年理想生活的策略、路径、里程碑，得出相对靠谱的 三年-18个月-6个月 的目标，理清不同阶段的侧重点。
 
-![hbstrategy](https://cdn.sunnyhuang.net/share/view2302-5-4.jpg?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330 ':size=300')
+![hbstrategy](https://cdn.sunnyhuang.net/share/view2302-5-5.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330 ':size=300')
 
 ## 踏实有序做半年：
 

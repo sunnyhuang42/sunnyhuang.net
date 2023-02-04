@@ -137,7 +137,7 @@ description: <p>如何提升找到人生伴侣的效率？受网友启发，我�
 
 ### 2. 相较宣宣原本的路线图，为什么去掉玩伴、床友这些阶段？ 
 
-（附 [宣宣原本的路线图](https://m.igetget.com/share/note/detail/AaWVPxLgY8D5pMayPkXL91DqwEoXJ9)）
+（附 [宣宣原本的路线图](https://m.igetget.com/share/note/detail/AaWVPxLgY8D5pMayPkXL91DqwEoXJ9)：玩伴->床友->恋人->同居->结婚）
 
 对我来说，有其他方式解决这俩阶段要评估和磨合的问题：
 

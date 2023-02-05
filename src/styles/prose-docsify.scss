@@ -132,6 +132,12 @@
 
   img {
     margin: auto;
+    border: 0;
+  }
+
+  img[src=''],
+  img:not([src]) {
+    opacity: 0;
   }
 }
 

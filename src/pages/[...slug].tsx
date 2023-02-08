@@ -33,6 +33,7 @@ const PostPage = ({
     title,
     description,
     keywords,
+    image,
     date,
     updated,
     words,
@@ -66,7 +67,12 @@ const PostPage = ({
 
   return (
     <article className="mx-auto max-w-2xl pt-6 xl:px-6 2xl:px-0">
-      <SEO title={title} description={description} keywords={keywords} />
+      <SEO
+        title={title}
+        description={description}
+        keywords={keywords}
+        image={image}
+      />
       <h1 className="mt-4 text-4xl font-extrabold md:mt-6">{title}</h1>
       <div
         className={cn(

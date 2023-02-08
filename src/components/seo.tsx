@@ -1,6 +1,6 @@
 import type { FC } from 'react';
 import Head from 'next/head';
-import { title as suffix, description as defaultDescription } from '@/config';
+import { title as suffix, description as defaultDescription, logo } from '@/config';
 
 type Props = {
   title?: string;
@@ -11,7 +11,7 @@ type Props = {
 };
 
 const SEO: FC<Props> = (props) => {
-  const { keywords, title: prefix } = props;
+  const { keywords, image, title: prefix } = props;
   const title = prefix
     ? `${prefix} - ${suffix}`
     : `${suffix} - ${defaultDescription}`;
@@ -26,6 +26,7 @@ const SEO: FC<Props> = (props) => {
       {keywords && <meta name="keywords" content={keywords} />}
       <meta property="og:title" content={title} />
       <meta property="og:description" content={description} />
+      <meta property="og:image" content={image || logo} />
     </Head>
   );
 };

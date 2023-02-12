@@ -106,7 +106,6 @@ const Sidebar = () => {
       .reduce((acc, cur) => ({ ...acc, [cur.id]: true }), {}),
   );
 
-  console.log(openMap);
   const isExpand = useMemo(
     () =>
       Object.values(openMap).filter((i) => i).length ===

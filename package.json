@@ -19,6 +19,7 @@
     "flexsearch": "^0.7.31",
     "next": "12.1.0",
     "next-contentlayer": "0.1.2",
+    "next-plausible": "^3.7.2",
     "next-themes": "0.0.15",
     "preact": "^10.6.6",
     "react": "17.0.2",

@@ -17,6 +17,7 @@ specifiers:
   hast-util-to-string: ^2.0.0
   next: 12.1.0
   next-contentlayer: 0.1.2
+  next-plausible: ^3.7.2
   next-plugin-yaml: ^1.0.1
   next-sitemap: ^2.5.10
   next-themes: 0.0.15
@@ -48,6 +49,7 @@ dependencies:
   flexsearch: 0.7.31
   next: 12.1.0_o4gn5zxkzh23c5qz53dim6akkm
   next-contentlayer: 0.1.2_zktdhiadde2q3pnefglgcp7cnq
+  next-plausible: 3.7.2_zktdhiadde2q3pnefglgcp7cnq
   next-themes: 0.0.15_zktdhiadde2q3pnefglgcp7cnq
   preact: 10.6.6
   react: 17.0.2
@@ -3705,6 +3707,18 @@ packages:
       - '@effect-ts/otel-node'
       - markdown-wasm
       - supports-color
+    dev: false
+
+  /next-plausible/3.7.2_zktdhiadde2q3pnefglgcp7cnq:
+    resolution: {integrity: sha512-9PqFiVtD1kZO5gHFYTcgilHhg2WhMzD6I4NK/RUh9DGavD1N11IhNAvyGLFmvB3f4FtHC9IoAsauYDtQBt+riA==}
+    peerDependencies:
+      next: ^11.1.0 || ^12.0.0 || ^13.0.0
+      react: ^16.8.0 || ^17.0.0 || ^18.0.0
+      react-dom: ^16.8.0 || ^17.0.0 || ^18.0.0
+    dependencies:
+      next: 12.1.0_o4gn5zxkzh23c5qz53dim6akkm
+      react: 17.0.2
+      react-dom: 17.0.2_react@17.0.2
     dev: false
 
   /next-plugin-yaml/1.0.1:

@@ -1,13 +1,12 @@
 import type { AppProps } from 'next/app';
 import type Viewer from 'viewerjs';
 import { useEffect } from 'react';
-import Script from 'next/script';
 import { useRouter } from 'next/router';
 import { ThemeProvider } from 'next-themes';
+import PlausibleProvider from 'next-plausible';
 import 'viewerjs/dist/viewer.css';
 import { DrawerProvider, PageProvider } from '@/context';
 import { Layout } from '@/components';
-import * as gtag from '@/utils/gtag';
 import '@/styles/index.scss';
 
 let viewer: Viewer;
@@ -44,7 +43,6 @@ function App({ Component, pageProps }: AppProps) {
 
   useEffect(() => {
     const handleRouteChange = (url: string) => {
-      gtag.pageview(url);
       updateViewer();
     };
 
@@ -56,27 +54,11 @@ function App({ Component, pageProps }: AppProps) {
   }, [events]);
 
   return (
-    <>
-      {/* Global Site Tag (gtag.js) - Google Analytics */}
-      <Script
-        strategy="afterInteractive"
-        src={`https://www.googletagmanager.com/gtag/js?id=${gtag.GA_TRACKING_ID}`}
-      />
-      <Script
-        id="gtag-init"
-        strategy="afterInteractive"
-        dangerouslySetInnerHTML={{
-          __html: `
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-
-            gtag('@/config', '${gtag.GA_TRACKING_ID}', {
-              page_path: window.location.pathname,
-            });
-          `,
-        }}
-      />
+    <PlausibleProvider
+      selfHosted
+      domain="sunnyhuang.net"
+      customDomain="https://analytics.cyc.app"
+    >
       <ThemeProvider attribute="class">
         <DrawerProvider>
           <PageProvider>
@@ -86,7 +68,7 @@ function App({ Component, pageProps }: AppProps) {
           </PageProvider>
         </DrawerProvider>
       </ThemeProvider>
-    </>
+    </PlausibleProvider>
   );
 }
 

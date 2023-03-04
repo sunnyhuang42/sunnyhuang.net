@@ -130,6 +130,8 @@ sidebar:
             link: '/f_output/hb_facilitator'
       - text: 开发手记
         items:
+          - text: “当爱人看到我的人生规划…” 
+            link: https://sunnylife42.com/docs/logdev/core-value-202302
           - text: 如果在「人生·敏捷迭代营」小组练习时，作为案主感觉收获不大，是什么情况？
             link: '/mur/fo_practicemore'
           - text: 开始把「获得顶级心流体验」的心法，融入小组练习·迎来又一个小里程碑_220218

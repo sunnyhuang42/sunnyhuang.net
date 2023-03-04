@@ -5,4 +5,4 @@ updated:
 description:
 ---
 
-最新版报名入口请见[如何解决人生难题？有没有通用办法？](/sunnylife/2212) 
+最新版报名入口请见[如何解决人生难题？有没有通用办法？](https://sunnylife42.com/) 

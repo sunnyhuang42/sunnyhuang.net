@@ -92,7 +92,7 @@ export const getStaticProps = async () => {
           title,
           date: date?.slice(5, 10),
           ...(link
-            ? { link, description: html }
+            ? { link, description: summary || html }
             : { description: summary || '' }),
         },
       ];

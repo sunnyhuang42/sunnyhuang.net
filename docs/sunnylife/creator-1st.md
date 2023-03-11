@@ -248,7 +248,7 @@ PS.
 
 预计当月倒数第二周开放下月报名，可留意我博客更新，或朋友圈、知识星球动态。
 
-等待的时间，可先为第一次会议做准备——参考下述模板「模块一」的问题，开始酝酿梳理人生规划： [案主模板-6个月版](https://sunnylife.feishu.cn/wiki/wikcnMP1QxbQN0IlAQQ1IeSMipc#) 
+等待的时间，可先为第一次会议做准备——参考下述模板「模块一」的问题，开始酝酿梳理人生规划： [案主模板-6个月版](https://sunnylife.feishu.cn/wiki/wikcn5GTqumDqzAR5mwnNeYVpZf#) 
 
 
 ### 7. 对创造营还有更多疑问？

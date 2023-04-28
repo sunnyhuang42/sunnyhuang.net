@@ -16,6 +16,12 @@ description:
 
 Hi, 欢迎来访。
 
-目前我的博客接近升级尾声，可先凑合取用。原有博文均在，别担心 ＾_＾
+如果你在面临人生岔路口，希望更稳健地搞定要事、探索创造内心想要的生活，最近我在张罗的「闪闪人生推进器」对你会更有帮助，欢迎来玩： [sunnylife42.com](https://sunnylife42.com)
 
-有些博文较长，如果没时间细看，可尝试手机「朗读屏幕」功能，在通勤或家务时听读。iOS 可参考这篇文章[《听读生产力：iPhone「朗读屏幕」功能的9种高效用法》](https://mp.weixin.qq.com/s/jPsZxS0LXCRChrKXJ8-r0g)， Android 可检索类似 App 。
+如果你主要想了解我最新动态和进展，那移步下述地址，会更有帮助：
+
+- 我的[人生战略管理看板](https://sunnylife.feishu.cn/wiki/wikcnEy7dsfx0hrcc7RJ123xceg?sheet=hzW9E9&create_from=create_doc_to_wiki)：在这里你可以看到我的人生规划和进展反思、下步计划，一般每半周更新一次。
+- 我的知识星球 [@Sunny 的人生实验室](https://t.zsxq.com/Vrzji2B)：这里是我朋友圈的升级版，也是我卡片层级内容「快写慢改」的阵地之一。在这里你可以根据标签查看我日常感触想法和动态。
+- 春生闪闪的时光机 [chunsunny.com](https://chunsunny.com/) ：这里主要记录我和爱人「走向爱与成就」的时光，内容大部分来自「@Sunny 的人生实验室」。一般每个月下旬更新一波：D
+
+

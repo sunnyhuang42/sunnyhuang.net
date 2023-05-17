@@ -25,7 +25,7 @@ description: 如果你也想借助 AI 为自己提效，不妨瞅瞅🤗
 退而求其次的方案：
 
 1. 使用 https://chat.forefront.ai/ ，在对话框右侧的加号可以切换模型为 GPT-4。不过随着使用的人越来越多，额度越来越低，目前是每 3 小时 5 条消息，比官网少 80% 。
-2. 使用别的质量也不错的大模型，比如 Claude 。可以基于网上的最新数据生成答案，结果质量一般介于 GPT-4 和 3.5 之间，且目前没有额度限制。具体介绍见 https://www.anthropic.com/product 。可在 Slack 上直接使用，具体见 [Claude in Slack | Anthropic](https://www.anthropic.com/claude-in-slack) 。
+2. 使用别的质量也不错的大模型，比如 Claude 。可以基于网上的较新数据生成答案，结果质量一般介于 GPT-4 和 3.5 之间，且目前没有额度限制。具体介绍见 https://www.anthropic.com/product 。可在 Slack 上直接使用，具体见 [Claude in Slack | Anthropic](https://www.anthropic.com/claude-in-slack) 。
 
 <br>
 

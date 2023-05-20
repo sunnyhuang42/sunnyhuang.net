@@ -110,7 +110,7 @@ description: <p>有伙伴看了我博客，好奇上述问题。</p><p>估计也
 - [如何做职业选择？· STC 问题清单](/cmty/tips_career_choice)
 - [新人磨合指南](https://github.com/sunnyhuang42/CollaborationGuide4Shaper/blob/master/CONTENT/HbNewcomer.md)
 - [如何创造更大价值，提升个人投入产出比？](https://docs.qq.com/slide/DVVBzbVZ1UnFRZEhM)
-- [不同年龄的职业规划重点- 目标管理进阶攻略 - 飞书文档](https://mzm628l8fj.feishu.cn/sheets/shtcn75qFbOHYzvEgBWLSvalPcb?sheet=1JZTkz)
+- [不同年龄的职业规划重点- 目标管理进阶攻略 - 飞书文档](https://sunnylife.feishu.cn/wiki/wikcnVlVAtVTGNNPWGX6ACfy5Lg?sheet=blwlWp)
 - [入职第一天，我失眠了](/selfedu/NewLifeinOMC)
 
 ---

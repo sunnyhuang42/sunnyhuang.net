@@ -61,10 +61,6 @@ navbar:
 sidebar:
   - text: 博客导览
     link: '/blog'
-  - text: 人生要事稳步走，爱与成就不缺席 | 内测报名
-    link: /sunnylife/2023
-  - text: 人生战略探索期，需要做什么？ | 闪闪人生推进器 FAQ
-    link: /sunnylife/2023faq
   - text: 人生蓬勃发展锦囊
     collapsed: true
     items:
@@ -83,7 +79,7 @@ sidebar:
       - text: 如何从容应对新挑战？·研究最佳实践的通用问题清单&常见陷阱
         link: '/cmty/tips_RES_BP'
       - text: 启动新项目，如何设定项目目标? · 项目需求采集问题清单
-        link: '/cmty/infoq_pm_pre'
+        link: https://sunnylife42.com/docs/guides/pm-pre
       - text: 如何提升行动意愿？· 行动清单汇总
         link: '/cmty/tips_motivation'
       - text: 如何更易获得有效帮助？· 困扰分析模板
@@ -102,6 +98,10 @@ sidebar:
     items:
       - text: 探索付费产品服务切入点
         items:
+          - text: 人生要事稳步走，爱与成就不缺席 | 内测报名
+            link: /sunnylife/2023
+          - text: 人生战略探索期，需要做什么？ | 闪闪人生推进器 FAQ
+            link: /sunnylife/2023faq
           - text: 像经营企业一样经营人生 | 闪闪人生创造营M11期内测报名
             link: /sunnylife/creator-2211
           - text: 像经营企业一样经营人生 | 闪闪人生创造营M10期内测报名

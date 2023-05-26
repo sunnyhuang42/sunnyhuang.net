@@ -1,7 +1,7 @@
 ---
 title: 个人管理系统：看十年，想三年，踏实有序做半年，持续迭代推飞轮
 date: 2022-12-11
-updated: 2023-02-05
+updated: 2023-05-26
 description: 最近在复盘这一年多的历程，发现这既是这一年多的行动状态，也是接下来特别值得继续保持的模式🤗
 hide:
 ---
@@ -27,11 +27,11 @@ hide:
 ![hbstrategy](https://cdn.sunnyhuang.net/share/view2302-5-5.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330 ':size=250')
 
 然后梳理现状和三年目标的主要差距，继续用「想做-可做-能做」模型，以终为始拆解出 三年-18个月-6个月 不同阶段的侧重点和相对靠谱的目标规划，点亮前行航标。
-![F182dy](https://cdn.sunnyhuang.net/share/F182dy.png)
+![F182dy](https://cdn.sunnyhuang.net/share/zAJKAJ.png)
 
 ## 踏实有序做半年：
 
-基于半年目标，继续用「想做-可做-能做」模型，探索策略规划，梳理出下一阶段最值得先突破的重点，拆解到月目标周计划，并持续推进，滚动更新全局思考（见上图的弧线箭头）。
+基于半年目标，继续用「想做-可做-能做」模型，探索策略规划，梳理出下一阶段最值得先突破的重点课题，拆解到月目标周计划，并持续推进，滚动更新全局思考（见上图的弧线箭头）。
 
 做事模式上，**以开放式问题清单（to-test list）激发好奇心、聚焦注意力、增强行动力，并以此牵引探索创造**——根据想突破的重点、面临的疑难，做案头研究、访谈实验等行动实践，以试错成本低的实验方式，测试迭代方案等成果，逐步迈向心中理想生活。
 
@@ -50,19 +50,19 @@ hide:
 
 根据目标计划，持续探索尝试，并每天小复盘；半周进行一轮进展交流，相互激发、尽早纠偏。模式见下图：
 
-![view2302-6-small](https://cdn.sunnyhuang.net/share/view2302-6-small.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330 ':size=400')
+![view2302-6-small](https://cdn.sunnyhuang.net/share/pattern-monthly-2305-4.png?x-oss-process=image/watermark,t_3,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330 ':size=400')
 
 
 
 这样一来，既保障自己运用「面对不确定快速拿出靠谱成果」的最佳实践（见下图），敏捷迭代全局规划、下步目标计划等想法和成果；
 
-![ZxBkdG](https://cdn.sunnyhuang.net/share/ZxBkdG.png/webp  ':size=500')
+![ZxBkdG](https://cdn.sunnyhuang.net/share/SCR-20230301-nrw.png/webp  ':size=500')
 
 
 又保持方向感目标感，聚焦自己的人生要事，避免随波逐流；
 
 还能保持持续测试迭代想法，持续推动人生发展飞轮（见下图），积累信任声誉和心理资本🌱
-![view2302-21](https://cdn.sunnyhuang.net/share/view2302-21.png/webp)
+![view2302-21](https://cdn.sunnyhuang.net/share/OZgq7q.png/webp)
 
 
 
@@ -93,6 +93,7 @@ hide:
 
 ## changelog
 
+- 230526 更新配图
 - 230205 更新配图和一些说明
 - 230113 更新踏实有序做半年的做法
 - 230106 更新配图

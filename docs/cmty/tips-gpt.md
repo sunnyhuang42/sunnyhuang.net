@@ -144,13 +144,15 @@ GPT 是猜词游戏，基于前面的词预测下一个词。如果在对话时�
 如果你优化大纲时想轻松些，还可以请它生成三个版本，你再综合优化出新版，并请 GPT 基于新版来逐步扩充内容。
 
 
----
+## 5. 小拓展
 
-
-啥？上述四点全都没踩中，还是没得出满意成果？或者想进一步了解如何借助 AI 为自己提效？不妨瞅瞅提示工程（prompt engineer）相关材料，看看有什么可以借鉴的。比如：
+上述四点全都没踩中，还是没得出满意成果？或者想进一步了解如何借助 AI 为自己提效？不妨瞅瞅提示工程（prompt engineer）相关材料，看看有什么可以借鉴的。比如：
 
 - [Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/zh-Hans/docs/intro)
 - [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
+
+
+---
 
 以上。
 

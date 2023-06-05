@@ -1,7 +1,7 @@
 ---
 title: 答师友：第一次换工作就涨薪200+%，入职不到一年又经历10倍增，我是如何实现的？
 date: 2021-11-23
-updated: 2021-12-01
+updated: 2023-06-05
 description: <p>有伙伴看了我博客，好奇上述问题。</p><p>估计也有其他伙伴感兴趣，正好最近有不少伙伴在考虑换工作，我把经历分享出来，供有需要尤其在考虑职业转换的伙伴参考。</p>
 ---
 
@@ -57,9 +57,9 @@ description: <p>有伙伴看了我博客，好奇上述问题。</p><p>估计也
 
 此外，当时还做了这些行动，以便找到自己欣赏信任、同频共振的团队：
 
-1. 收到入职邀约后，和直属 leader 申请和接下来可能密切协作的同事，都见面交流一圈，了解公司亚文化，感受契合程度。具体交流哪些问题？见 [新人找同事会谈，了解团队亚文化 | 问题清单](https://github.com/sunnyhuang42/CollaborationGuide4Shaper/blob/master/CONTENT/InfoQNewcomer2Partner.md)。
+1. 收到入职邀约后，和直属 leader 申请和接下来可能密切协作的同事，都见面交流一圈，了解公司亚文化，感受契合程度。具体交流哪些问题？见 [新人找同事会谈，了解团队亚文化 | 问题清单](https://github.com/sunnylife42/docs/blob/v1/CONTENT/InfoQNewcomer2Partner.md)。
 
-2. 确定入职前，和直属 leader 了解他对我工作的期待和协作方式偏好。具体方式见 [新人找 manager 会谈，了解期望 | 问题清单](https://github.com/sunnyhuang42/CollaborationGuide4Shaper/blob/master/CONTENT/InfoQNewcomer2Manager.md)
+2. 确定入职前，和直属 leader 了解他对我工作的期待和协作方式偏好。具体方式见 [新人找 manager 会谈，了解期望 | 问题清单](https://github.com/sunnylife42/docs/blob/v1/CONTENT/InfoQNewcomer2Manager.md)
 
 
 功夫不负有心人，接下来的共事证明我选到了一个特别好的团队：
@@ -108,7 +108,7 @@ description: <p>有伙伴看了我博客，好奇上述问题。</p><p>估计也
 
 更多相关内容：
 - [如何做职业选择？· STC 问题清单](/cmty/tips_career_choice)
-- [新人磨合指南](https://github.com/sunnyhuang42/CollaborationGuide4Shaper/blob/master/CONTENT/HbNewcomer.md)
+- [新人磨合指南](https://github.com/sunnylife42/docs/blob/v1/CONTENT/HbNewcomer.md)
 - [如何创造更大价值，提升个人投入产出比？](https://docs.qq.com/slide/DVVBzbVZ1UnFRZEhM)
 - [不同年龄的职业规划重点- 目标管理进阶攻略 - 飞书文档](https://sunnylife.feishu.cn/wiki/wikcnVlVAtVTGNNPWGX6ACfy5Lg?sheet=blwlWp)
 - [入职第一天，我失眠了](/selfedu/NewLifeinOMC)
@@ -122,5 +122,6 @@ description: <p>有伙伴看了我博客，好奇上述问题。</p><p>估计也
 
 ## CHANGELOG 
 
+- 230605 修复失效链接 
 - 211201 增补关于选团队的更多实践 0.5
 - 211124 创建 1.5h

@@ -1,7 +1,7 @@
 ---
 title: ChatGPT 答案质量不尽人意？这四大常见原因看你中几个
 date: 2023-05-09
-updated: 2023-05-12
+updated: 2023-06-08
 description: 如果你也想借助 AI 为自己提效，不妨瞅瞅🤗
 ---
 
@@ -148,6 +148,7 @@ GPT 是猜词游戏，基于前面的词预测下一个词。如果在对话时�
 
 上述四点全都没踩中，还是没得出满意成果？或者想进一步了解如何借助 AI 为自己提效？不妨瞅瞅提示工程（prompt engineer）相关材料，看看有什么可以借鉴的。比如：
 
+- [GPT best practices - OpenAI API](https://platform.openai.com/docs/guides/gpt-best-practices)
 - [Learn Prompting: Your Guide to Communicating with AI](https://learnprompting.org/zh-Hans/docs/intro)
 - [ChatGPT Prompt Engineering for Developers - DeepLearning.AI](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/)
 
@@ -161,6 +162,7 @@ GPT 是猜词游戏，基于前面的词预测下一个词。如果在对话时�
 
 ## changelog
 
+- 230608 增补 OpenAI 的官方攻略
 - 230512 增补细节
 - 230511 更新到博客上
 - 230509 创建

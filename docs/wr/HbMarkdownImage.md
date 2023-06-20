@@ -1,7 +1,7 @@
 ---
-title: 这样用七牛，插图优雅又省心 · MarkDown 码字发文最佳实践
+title: 这样用图床，插图优雅又省心 · MarkDown 码字发文最佳实践
 date: 2018-07-21
-updated: 
+updated: 2023-06-20
 description: <p>一人百人、五年十年，都能优雅又省心？</p><p>嗯。</p>
 ---
 
@@ -70,19 +70,13 @@ description: <p>一人百人、五年十年，都能优雅又省心？</p><p>嗯
 ![](https://cdn.sunnyhuang.net/clipping/scientific_method.png?x-oss-process=image/resize,w_400)
 
 
-但这并非所有图床都可实现，找了一圈，发现目前只有七牛云支持。
-
-七牛对用户也大方，注册并实名认证，便可获得标准用户权益：无上限免费上传流量，10GB 永久免费存储空间，10万次/月 PUT/DELETE 请求，100万次/月 GET 请求，10GB/月免费 CDN 下载流量。一般个人博客足够了。
-
-美中不足，是他们最近调整了外链策略——需你有[已备案的域名](https://developer.qiniu.com/af/kb/3987/how-to-make-website-and-inquires-the-police-put-on-record-information)才可稳定使用。但想想未来省心省力，还是忍一时麻烦备案吧。稳妥起见，建议你备案和博客不一样的域名，万一博客有违规内容被取消备案，也不影响图床。
-
-
-此外，七牛属面向技术人士的平台，对非技术人士不太友好：官方上传工具图形界面体验不佳，甚至没有；帮助文档繁杂且技术气息浓郁，容易懵圈。
-
-好在也得益于这是面向技术人士的平台，不少热心工程师已自行开发上传应用，解决普通用户上传问题。还有不少热心又懂点技术的伙伴，整理了图文指南示范关键步骤。
+这样的功能，目前好些平台都可实现。比如：
+- 又拍云 https://www.upyun.com/
+- 阿里云 https://cn.aliyun.com/
+- 七牛云 https://www.qiniu.com/
 
 
-#### 如何高效上传文件至七牛云
+#### 如何高效上传文件至云端
 
 图床上传工具繁多，为了应对愈发复杂的需求，我有以下要求：
 
@@ -91,29 +85,17 @@ description: <p>一人百人、五年十年，都能优雅又省心？</p><p>嗯
 * 支持设定上传前缀，以便区分不同类型内容，比如 `../share/image1.jpg` &  `../clipping/image2.jpg`
 * 支持多个存储账号，以便灵活切换个人及公司图床
 
-左看右看，Mac GUI 工具，只发现 [Dropzone 3](https://aptonic.com/) 搭配 [这款适用于 Dropzone 3的七牛上传工具](https://blog.kyleduo.com/2017/02/27/qiniu-upload-for-dropzone/) 能全满足。配置好后使用也方便，拖动即可上传并获取图片地址。后者免费，前者收费，不过不贵—— 60 块，不到一顿饭就能拿下。 CLI 工具，官方的即可，参见 [命令行工具(qshell) - 七牛开发者中心](https://developer.qiniu.com/kodo/tools/1302/qshell) 。
 
-如何获取配置七牛上传工具所需的 Bucket 、Access Key（下文简称 AK）、Secret Key（下文简称 SK） 等账号信息，见[快速入门 - 七牛开发者中心](https://developer.qiniu.com/kodo/manual/1233/console-quickstart) 、[怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心](https://developer.qiniu.com/af/kb/1479/how-to-access-or-locate-the-access-key-and-secret-key)。
+左看右看，Mac GUI 工具，我目前选择 [gee1k/uPic: 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.](https://github.com/gee1k/uPic)。配置好后使用也方便，拖动即可上传并获取图片地址。CLI 工具，一般官方文档会有介绍，可自行查阅 。
 
-如果你只有前俩要求，选择范围会广些，比如：
+如何获取配置上传工具所需的 Bucket 、Access Key（下文简称 AK）、Secret Key（下文简称 SK） 等账号信息，也可查官方文档。比如[快速入门 - 七牛开发者中心](https://developer.qiniu.com/kodo/manual/1233/console-quickstart) 、[怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心](https://developer.qiniu.com/af/kb/1479/how-to-access-or-locate-the-access-key-and-secret-key)。
 
-Mac:
-
-* [Mac七牛图床与文件批量上传工具 - 简书](https://www.jianshu.com/p/694dad59f20c)
-* [利用Alfred Workflow快速上传粘贴板图片至七牛图床并在Markdown中引用 - 作业部落 Cmd Markdown 编辑阅读器](https://www.zybuluo.com/fyywy520/note/317999)
-
-
-Win:
-
-* [MPic-图床神器-免费图床,不限流量,专业图床工具](http://mpic.lzhaofu.cn/)
-* [七牛 Markdown 图片快速上传工具 - Veritas501's Blog](https://veritas501.space/2017/12/12/%E4%B8%83%E7%89%9B%20Markdown%20%E5%9B%BE%E7%89%87%E5%BF%AB%E9%80%9F%E4%B8%8A%E4%BC%A0%E5%B7%A5%E5%85%B7/)
-
-但这难保一人百人、五年十年依然优雅省心，你根据个人情况掂量吧：）
+如果你只有前俩要求，选择范围会广些。但这难保一人百人、五年十年依然优雅省心，你根据个人情况掂量吧：）
 
 
 #### 如何高效在线处理图片
 
-如何在线处理图片，七牛给出了详细的文档 [图片处理使用说明 - 七牛开发者中心](https://developer.qiniu.com/dora/manual/3683/img-directions-for-use) 。
+如何在线处理图片，官方给出了详细的文档，比如 [图片处理使用说明 - 七牛开发者中心](https://developer.qiniu.com/dora/manual/3683/img-directions-for-use) 。
 
 不过每次处理图片都去翻这文档、排列组合不同参数，就如定向越野，好不容易有捷径可走，结果看捷径地图比不抄近路还花时间，岂不南辕北辙？
 
@@ -187,9 +169,9 @@ Win:
 
 ### 新文件会覆盖原图不？
 
-为了你少出乱子，七牛默认上传策略不能覆盖原图。所以如果你想剪裁图片后再上传，最好修改文件名，比如在文件名后加`1`。
+为了你少出乱子，大部分平台默认上传策略不能覆盖原图。所以如果你想剪裁图片后再上传，最好修改文件名，比如在文件名后加`1`。
 
-实在不想更改图片地址，只想直接显示新图，也成——可自行检索 `七牛` `上传策略` `覆盖` 等关键词解决。反正我瞅了瞅就溜回来改文件名重新上传了，祝你好运：P
+实在不想更改图片地址，只想直接显示新图，也成——可自行检索 `七牛（或其他对应平台名称）` `上传策略` `覆盖` 等关键词解决。反正我瞅了瞅就溜回来改文件名重新上传了，祝你好运：P
 
 
 ### 如何拥有优雅的图床域名？
@@ -210,9 +192,9 @@ Win:
 
 
 
-### 团队如何优雅共用七牛空间？
+### 团队如何优雅共用图床空间？
 
-七牛不支持团队账号，登录即有最高权限。这要是谁手滑改了什么配置，岂不乱套？
+以七牛为例。七牛不支持团队账号，登录即有最高权限。这要是谁手滑改了什么配置，岂不乱套？
 
 莫担心，还记得你前面获取的 AK SK 等配置信息吧？每个标准账号可设置两对 AK SK ，以及 N 个不同空间——不同角色使用不同的配置信息就好。
 
@@ -226,28 +208,13 @@ Win:
 
 愿你也远离烦心琐碎，多多拥抱心流：）
 
-## 关键链接汇总
-
-
-- 七牛注册：[https://portal.qiniu.com/signup?code=3lb1qrq25es0i](https://portal.qiniu.com/signup?code=3lb1qrq25es0i)
-- 上传工具：
-	- Mac GUI: [Dropzone 3](https://aptonic.com/) + [适用于 Dropzone 3的七牛上传工具](https://blog.kyleduo.com/2017/02/27/qiniu-upload-for-dropzone/)
-	- CLI: [命令行工具(qshell) - 七牛开发者中心](https://developer.qiniu.com/kodo/tools/1302/qshell)
-- 获取配置信息：
-    - [快速入门 - 七牛开发者中心](https://developer.qiniu.com/kodo/manual/1233/console-quickstart#step2)
-    - [怎么获取或者找到 Access Key 和 Secret Key - 七牛开发者中心](https://developer.qiniu.com/af/kb/1479/how-to-access-or-locate-the-access-key-and-secret-key)
-    - [如何进行网站公安备案和查询公安备案信息 - 七牛开发者中心](https://developer.qiniu.com/af/kb/3987/how-to-make-website-and-inquires-the-police-put-on-record-information)
-- 七牛图片在线处理
-	- cheat sheet: [Hb7niuImageEditOnline · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/Hb7niuImageEditOnline)
-	- 官方文档：[图片处理使用说明 - 七牛开发者中心](https://developer.qiniu.com/dora/manual/3683/img-directions-for-use)
-- 批量查找替换多个文档内容的编辑器：[Atom](https://atom.io/)
-- 更多小众但实用的 MarkDown 技巧见 [HbMarkdownTrick.md at master · ishanshan/CollaborationGuide4Shaper](https://github.com/sunnyhuang42/CollaborationGuide4Shaper/blob/master/CONTENT/HbMarkdownTrick.md) 。
 
 
 
 
 ## CHANGELOG
 
+- 230620 根据最新工具修改相关内容
 - 180816 增加需要备案域名的说明及其它 MarkDown 技巧链接
 - 180722 修改行文思路、动图 1.5h
 - 180721 累计快写慢改 12h ，发布；根据 @ZoomQuiet 反馈优化， 1h

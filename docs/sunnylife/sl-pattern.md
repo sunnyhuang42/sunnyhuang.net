@@ -88,8 +88,7 @@ hide:
 
 ---
 
-如果你想进一步了解这套系统，欢迎来试试👇🏻 <br>
-[内测报名](https://sunnylife42.com/)
+如果你想进一步了解这套系统，欢迎来试试：[内测报名](https://sunnylife42.com/)
 
 ## changelog
 

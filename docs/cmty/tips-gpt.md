@@ -1,7 +1,7 @@
 ---
 title: ChatGPT 答案质量不尽人意？这四大常见原因看你中几个
 date: 2023-05-09
-updated: 2023-06-17
+updated:  2023-08-04
 description: 如果你也想借助 AI 为自己提效，不妨瞅瞅🤗
 ---
 
@@ -24,7 +24,7 @@ description: 如果你也想借助 AI 为自己提效，不妨瞅瞅🤗
 
 退而求其次的方案：
 
-1. 使用 https://chat.forefront.ai/ ， GPT-3.5 和 GPT-4 都可选用。不过随着使用的人越来越多，GPT-4 的额度越来越低，目前是每 3 小时 5 条消息，比官网少 80% 。
+1. 使用 https://chat.forefront.ai/ 。不过随着使用的人越来越多，GPT-4 的免费额度越来越低。
 2. 使用别的质量也不错的大模型，比如 Claude 。可以基于网上的较新数据生成答案，结果质量一般介于 GPT-4 和 3.5 之间，且目前没有额度限制。具体介绍见 https://www.anthropic.com/product 。可在 Slack 上直接使用，具体见 [Claude in Slack | Anthropic](https://www.anthropic.com/claude-in-slack) 。
 
 <br>
@@ -107,12 +107,12 @@ GPT 是猜词游戏，基于前面的词预测下一个词。如果在对话时�
 
 那如果想了解某领域真正顶尖人士的视角，而不是所谓专家的观点或理论，但又不知道该领域颇有建树的人是哪些，怎么办？ 
 
-1. 可以瞅瞅[《聪明的阅读者》](https://book.douban.com/subject/36359767/)最后一章《通识千书：智者的代表作》，里面盘点了人类历史上主要领域的一批智者及其代表作清单。
+可以瞅瞅[《聪明的阅读者》](https://book.douban.com/subject/36359767/)最后一章《通识千书：智者的代表作》，里面盘点了人类历史上主要领域的一批智者及其代表作清单。
 
-    其挑选标准如下：
-    ![qQWABc](https://cdn.sunnyhuang.net/share/qQWABc.png/webp ':size=200')
+其挑选标准如下：
+![qQWABc](https://cdn.sunnyhuang.net/share/qQWABc.png/webp ':size=200')
 
-2. 或到 https://chat.forefront.ai/ 瞅瞅。这里从不同领域、视角，也给出了一些候选清单。
+
 
 
 
@@ -166,6 +166,7 @@ GPT 是猜词游戏，基于前面的词预测下一个词。如果在对话时�
 
 ## changelog
 
+- 230804 根据各工具更新地址
 - 230617 更新案例链接
 - 230608 增补 OpenAI 的官方攻略
 - 230512 增补细节

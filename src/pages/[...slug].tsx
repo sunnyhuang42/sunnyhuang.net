@@ -107,6 +107,7 @@ const PostPage = ({
       </div>
       {ad?.postBottom && (
         <div
+          className="mt-6"
           dangerouslySetInnerHTML={{
             __html: ad.postBottom,
           }}

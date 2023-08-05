@@ -25,7 +25,8 @@ highlights:
 
 # 广告位
 ad:
-  postBottom: <a target="_blank" href="https://sunnylife42.com/"><img class="w-full mt-10 rounded-md" src="https://cdn.sunnyhuang.net/share/banner2308047.png/webp"></a>
+  home: <a target="_blank" href="https://sunnylife42.com/"><img class="w-full mt-10 rounded-md" src="https://cdn.sunnyhuang.net/share/banner2308047.png/webp"></a>
+  post: <a target="_blank" href="https://sunnylife42.com/"><img class="w-full mt-10 rounded-md" src="https://cdn.sunnyhuang.net/share/banner2308047.png/webp"></a>
 
 # 赞赏
 sponsor:
@@ -130,7 +131,7 @@ sidebar:
             link: '/f_output/hb_facilitator'
       - text: 开发手记
         items:
-          - text: “当爱人看到我的人生规划…” 
+          - text: “当爱人看到我的人生规划…”
             link: https://sunnylife42.com/docs/logdev/core-value-202302
           - text: 如果在「人生·敏捷迭代营」小组练习时，作为案主感觉收获不大，是什么情况？
             link: '/mur/fo_practicemore'

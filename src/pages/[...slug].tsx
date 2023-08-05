@@ -105,11 +105,11 @@ const PostPage = ({
         )}
         {changelog && <Changelog html={changelog} />}
       </div>
-      {ad?.postBottom && (
+      {ad?.post && (
         <div
           className="mt-6"
           dangerouslySetInnerHTML={{
-            __html: ad.postBottom,
+            __html: ad.post,
           }}
         />
       )}

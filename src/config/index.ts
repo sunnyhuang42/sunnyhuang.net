@@ -50,7 +50,8 @@ export type Config = {
   copyright: string;
   highlights: string[];
   ad: {
-    postBottom?: string;
+    home?: string;
+    post?: string;
   };
   sponsor: {
     text: string;

@@ -1,6 +1,6 @@
 import { InferGetStaticPropsType } from 'next';
 import { allPosts } from '@/data';
-import { highlights } from '@/config';
+import { ad, highlights } from '@/config';
 import SEO from '@/components/seo';
 import List from '@/components/list';
 
@@ -13,6 +13,14 @@ export default function Home({
     <div className="mx-auto max-w-2xl py-6">
       <SEO />
       <div className="prose mb-6" dangerouslySetInnerHTML={{ __html: about }} />
+      {ad?.home && (
+        <div
+          className="mt-6 mb-12"
+          dangerouslySetInnerHTML={{
+            __html: ad.home,
+          }}
+        />
+      )}
       <List hasMore title="最新内容" data={latestPosts} />
       <List hasMore title="推荐内容" data={highlightPosts} />
     </div>

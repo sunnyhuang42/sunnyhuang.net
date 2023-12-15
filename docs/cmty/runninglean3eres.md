@@ -25,7 +25,7 @@ description: 如何降低试错成本，更快拿出靠谱成果？这套实践�
 
 ![FrSEty](https://cdn.sunnyhuang.net/share/v4armB.png ':size=500')
 
-1. **Model**: document your plan A  - 快速产出一版方案（尽管在第三版书中，作者将“model”这步解释为“start with a business model-从商业模式着手”，但在第二版中的“document your plan A”是更通用的理解）
+1. **Model**: document your plan A  - 快速产出一版方案（尽管在第三版书中，作者将“model”这步解释为“start with a business model-从商业模式着手”，但在第二版中的“document your plan A”是更通用的行为和理解）
 2. **Prioritize**: identity what's riskiest - 找出高风险之处，安排实验优先级
 3. **Test**: test and refine your plan - 检验设想，持续迭代
 

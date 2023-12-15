@@ -25,7 +25,7 @@ description: 如何降低试错成本，更快拿出靠谱成果？这套实践�
 
 ![FrSEty](https://cdn.sunnyhuang.net/share/v4armB.png ':size=500')
 
-1. **Model**: document your plan A  - 快速产出一版方案（尽管在第三版书中，作者将“model”这步的解释为“start with a business model-从商业模式着手”，但在第二版中的“document your plan A”是更通用的理解）
+1. **Model**: document your plan A  - 快速产出一版方案（尽管在第三版书中，作者将“model”这步解释为“start with a business model-从商业模式着手”，但在第二版中的“document your plan A”是更通用的理解）
 2. **Prioritize**: identity what's riskiest - 找出高风险之处，安排实验优先级
 3. **Test**: test and refine your plan - 检验设想，持续迭代
 
@@ -258,7 +258,7 @@ Swan Ventures 的这几篇博客与本书内容相得益彰，值得一读：
 
 谢谢你耐心看到这里，一起少走弯路，更快创造出自己想要的成果呀：）
 
-如果你在阅读和使用《精益创业实战（第三版）》的过程，对书中内容有疑议，欢迎随时交流：D
+如果你在阅读和使用《精益创业实战（第三版）》及上述资源线索的过程有疑议，欢迎随时交流：D
 
 
 ## changelog

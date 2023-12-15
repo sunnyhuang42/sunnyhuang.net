@@ -133,6 +133,12 @@ sidebar:
             link: '/f_output/hb_facilitator'
       - text: 开发手记
         items:
+          - text: 跨过一个小里程碑：开始有年付上万元的用户
+            link: https://sunnylife42.com/docs/logdev/milestone-1w
+          - text: 我在副业上遇到疑难，人生战略管理帮手能帮到我吗？
+            link: https://sunnylife42.com/docs/logdev/side-project-qa
+          - text: 站在人生岔路口，怎么走更稳健？
+            link: https://sunnylife42.com/docs/logdev/posts-2307
           - text: “当爱人看到我的人生规划…”
             link: https://sunnylife42.com/docs/logdev/core-value-202302
           - text: 如果在「人生·敏捷迭代营」小组练习时，作为案主感觉收获不大，是什么情况？

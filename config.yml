@@ -411,6 +411,8 @@ sidebar:
             link: '/selfedu/NewLifeinOMC'
       - text: 杂记/mur
         items:
+          - text: “我老婆晕倒了，我要送她去医院，谁能帮我带带孩子！” 
+            link: '/mur/accident-apart'
           - text: 人是关系的产物？
             link: '/mur/relationship-role'
           - text: 答师友：第一次换工作就涨薪200+%，我是如何实现的？

@@ -1,5 +1,5 @@
 ---
-title: 《精益创业实战（第三版）》实践资源和应用心得
+title: 如何降低试错成本，更快拿出靠谱成果？|《精益创业实战（第三版）》实践资源和应用心得
 date: 2023-12-14
 updated:  
 description: 如何降低试错成本，更快拿出靠谱成果？这套实践框架几年来给我带来了巨大帮助。现在它的中文版上市了，分享一下我常用的实践资源和应用心得，希望能为想更快拿出靠谱成果的伙伴带来些许帮助 🤗
@@ -17,10 +17,22 @@ description: 如何降低试错成本，更快拿出靠谱成果？这套实践�
 
 去年 3 月，在《Running Lean》第 2 版出版 10 周年之际，作者 Ash Maurya 发布了这一全新升级的第三版。这版书汇集了过去十年作者在博客上分享的实践经验，更加成熟、系统。我翻阅后感觉非常欣喜，也非常希望能让更多伙伴了解到这本助我系统降低人生各方面试错成本的书，甚至把里面的精髓整合到了我搭建的「人生战略管理帮手」产品服务里，以便用户潜移默化，降低探索人生课题的试错成本。
 
-后来有幸作为特约编辑参与了第三版中文版的审校，很开心能为这本让我受益匪浅的书在国内传播贡献绵薄之力。下面分享一些相关实践资源和用法，希望能为想更快拿出靠谱成果的伙伴带来些许帮助 🤗
+后来有幸作为特约编辑参与了第三版中文版的审校，很开心能为这本让我受益匪浅的书在国内传播贡献绵薄之力。下面分享一些相关实践资源和用法，希望能为那些想更快拿出靠谱成果的伙伴带来些许帮助 🤗
 
 ## 如何更有效地阅读这本书？
 
+《精益创业实战》介绍了许多工具和方法。初次阅读时，这些内容可能会让人感到有些复杂。但不用担心，这些工具和方法的核心逻辑其实相当简单，都基于一个通用的策略 —— **Model-Prioritize-Test 循环**，旨在降低试错成本：
+
+![FrSEty](https://cdn.sunnyhuang.net/share/v4armB.png ':size=500')
+
+1. **Model**: document your plan A  - 快速产出一版方案（尽管在第三版书中，作者将“model”这步的解释为“start with a business model-从商业模式着手”，但在第二版中的“document your plan A”是更通用的理解）
+2. **Prioritize**: identity what's riskiest - 找出高风险之处，安排实验优先级
+3. **Test**: test and refine your plan - 检验设想，持续迭代
+
+
+书中提供的工具和方法主要是为了帮助我们快速起草高质量的方案，有效识别风险、合理安排行动优先级，或者快速且低成本地测试和迭代方案。
+
+<br>
 
 如果你还没有想去探索尝试的产品服务，看这本书可能体感不深。不妨等有了具体想法后再看，这样会更有动力去阅读和实践。
 
@@ -28,7 +40,6 @@ description: 如何降低试错成本，更快拿出靠谱成果？这套实践�
 
 1. 先快速概览全书内容，了解整体框架和步骤
 2. 然后带着你想尝试的产品服务点子再细读，边读边实践
-
 
 
 
@@ -156,11 +167,11 @@ PS. 这个测算模块目前需要付费了，新用户可在 https://www.leanfo
 
 #### 2. 理解创业里程碑和关注点
 
-若要更好地理解创业过程中的关键里程碑，以及各阶段需要重点关注的高风险假设，以下资源非常有价值：
+若要更好地理解创业过程中的关键里程碑，以及各阶段需要重点关注的高风险之处，以下资源非常有价值：
     
 ![](https://cdn.sunnyhuang.net/share/post231128-1.jpg/webp)
 
-Swan Ventures的这几篇博客与本书内容相得益彰，值得一读：
+Swan Ventures 的这几篇博客与本书内容相得益彰，值得一读：
 1. [Why the Venture Pyramid changes how you think about innovation — SWAN Ventures](https://www.swan.ventures/blog/2017/8/22/venture-pyramid)
 2. [How to track progress in the Build-Measure-Learn Loop? — SWAN Ventures](https://www.swan.ventures/blog/2017/8/31/how-to-track-progress-in-the-build-measure-learn-loop)
 3. [The future of the lean startup from a science perspective — SWAN Ventures](https://www.swan.ventures/blog/2017/8/22/the-future-of-the-lean-startup-from-a-science-perspective)
@@ -232,12 +243,11 @@ Swan Ventures的这几篇博客与本书内容相得益彰，值得一读：
 
 对于人生路途上高度不确定的难题，比如如何找到志同道合的人生伴侣、如何找到能激发个人潜能的团队、如何找到适合自己的方向等。如果想降低探索过程的试错成本、更快创造满意解，那精益思维尤其是这本书实际到的精益实践框架，也能提供巨大帮助。
 
-书中介绍的 **Model-Prioritize-Test cycle** 是一个通用策略，适用于各种充满不确定的难题。
-
-![](https://cdn.sunnyhuang.net/share/SCR-20230301-nrw.png)
+书中介绍的 **Model-Prioritize-Test 循环** 是一个通用策略，适用于各种充满不确定的难题。
 
 
-如果你对我的一些实践过程和心得感兴趣，以下是一些相关内容：
+
+具体如何应用？这是我的一些实践过程和心得：
 - [30 岁找伴侣、建家庭，如何降低试错成本？.pptx](https://sunnylife.feishu.cn/wiki/RnfIwgarmibhf7kU5YAcm1OxnJg) - 这份文件分享了《精益创业实战》在这个课题上带给我的三大启发和惊喜
 - [如何解决人生难题？有没有通用办法？](https://sunnylife42.com/docs/basic/general-solution)  - 这篇博文记录了 Model-Prioritize-Test cycle 如何帮我解决人生难题、降低试错成本
 
@@ -245,6 +255,8 @@ Swan Ventures的这几篇博客与本书内容相得益彰，值得一读：
 ---
 
 以上。
+
+谢谢你耐心看到这里，一起少走弯路，更快创造出自己想要的成果呀：）
 
 如果你在阅读和使用《精益创业实战（第三版）》的过程，对书中内容有疑议，欢迎随时交流：D
 

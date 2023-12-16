@@ -151,9 +151,9 @@ PS. 这个测算模块目前需要付费了，新用户可在 https://www.leanfo
 
 #### 3. 请 GPT 扮演专家角色
 
-业务探索过程免不了遇到各种疑问，此时还可以随时请 GPT 从世界一流的创业者或产品专家、运营专家等角色，提供反馈或策略建议。尤其是明确地请 GPT 从创业优质资源库帮我找到答案，比如 YC Library & Paul Graham  的内容等。 
+ 
 
-在业务探索过程中，难免会遇到各种疑问。此时，可以请 GPT 扮演世界一流的创业者、产品专家或运营专家，提供反馈或策略建议。特别是当明确地请求 GPT 从优质的创业资源库中寻找答案时，例如 YC Library 和 Paul Graham 的内容，效果更佳。
+在业务探索过程中，难免会遇到各种疑问。此时，还可以请 GPT 扮演世界一流的创业者、产品专家或运营专家，提供反馈或策略建议。特别是当明确地请求 GPT 从优质的创业资源库中寻找答案时，例如 YC Library 和 Paul Graham 的内容，效果更佳。
 
 如果感觉 GPT 反馈质量不佳，可以参考这篇内容进行调整：[ChatGPT 答案质量不尽人意？这四大常见原因看你中几个](https://sunnyhuang.net/cmty/tips-gpt)
 
@@ -162,7 +162,7 @@ PS. 这个测算模块目前需要付费了，新用户可在 https://www.leanfo
 
 #### 1. 了解最新的实践框架和案例
     
-想要深入了解这套框架的最新应用和实际案例，可订阅作者 Ash Maurya 的 newsletter ：[Running Lean Mastery | Ash Maurya | Substack](https://newsletter.leanfoundry.com/) ，这里你可以获得不断更新的实践策略和启发性案例。
+想要深入了解这套框架的最新应用和实际案例，可订阅作者 Ash Maurya 的 newsletter ：[Running Lean Mastery | Ash Maurya | Substack](https://newsletter.leanfoundry.com/) ，这里有不断更新的实践策略和启发性案例。
 
 
 

@@ -19,7 +19,7 @@ copyright: Copyright © 2015-2023 黄姗
 highlights:
   - '/family/lifep_roadmap'
   - '/cmty/keypoint_flourish'
-  - '/family/hb-housemove'
+  - '/family/letter-have-children'
   - '/cmty/tips_career_choice'
   - '/selfedu/RevFacialGrowth'
 
@@ -52,11 +52,9 @@ navbar:
       - text: 个人小传
         link: /about/lifestory2203
       - text: 发展规划
-        link: /about/plan_lifedev
+        link: https://sunnylife.feishu.cn/wiki/Wbiww9MQvi3l3nket5YcqneFnge
       - text: 约我时间
         link: /about/booking
-      - text: 关爱家人行动清单
-        link: /family/TipsCare4Parents
 
 # 侧边栏
 sidebar:

@@ -77,8 +77,6 @@ sidebar:
         link: /sunnylife/sl-pattern
       - text: 如何降低试错成本，更快拿出靠谱成果？《精益创业实战（第三版）》实践资源和应用心得
         link: '/cmty/runninglean3eres'  
-      - text: 30 岁找伴侣、建家庭，如何降低试错成本？《精益创业实战》给我的三大启发和惊喜
-        link: 'https://sunnylife.feishu.cn/wiki/RnfIwgarmibhf7kU5YAcm1OxnJg' 
       - text: 如何简短又有效地回顾一年，增加跨年仪式感？附我的2022年小结
         link: '/cmty/tips-review-yearly'
       - text: 有了大方向，如何定目标更易出成果？且用这套OKR思考框架
@@ -101,9 +99,13 @@ sidebar:
             link: '/selfedu/TipsWeekly'
           - text: 希望团队配合更紧密、成长更迅猛？试试这样1on1
             link: '/cmty/tips_1on1'
-  - text: 经营小家
+  - text: 经营小家实践手记
     collapsed: true
     items:
+      - text: 30 岁找伴侣、建家庭，如何降低试错成本？《精益创业实战》给我的三大启发和惊喜
+        link: 'https://sunnylife.feishu.cn/wiki/RnfIwgarmibhf7kU5YAcm1OxnJg' 
+      - text: 探寻人生伴侣的路线图
+        link: '/family/lifep_roadmap'
       - text: 是否要孩子？要几个呢？· 家书 001
         link: '/family/letter-have-children'
       - text: 如果你也在天上挑妈妈 · 家书 000
@@ -112,8 +114,6 @@ sidebar:
         link: '/family/lifep_Ad'
       - text: 答招亲帖「相识十五问」@Sunny
         link: '/family/lifep_QAishanshan'
-      - text: 探寻人生伴侣的路线图
-        link: '/family/lifep_roadmap'
       - text: 关爱家人行动清单
         link: '/family/TipsCare4Parents'
       - text: 投资决策框架：如何评估一项资产是否值得长期持有？

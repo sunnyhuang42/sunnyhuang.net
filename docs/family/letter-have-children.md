@@ -123,7 +123,7 @@ description: 自从两周前看到你的 B 超头像，我就一直很想给你�
 
 
 [^1]:  她看的人生规划是： [🎯 人生规划v2312-黄姗 Sunny - Feishu Docs](https://sunnylife.feishu.cn/wiki/MpTIwrJF5iYUNLktwIzcJdPBnag)
-[^2]:  在找伴侣建家庭上，我借鉴的最佳实践见：[30 岁找伴侣、建家庭，如何降低试错成本？.pptx - Feishu Docs](https://sunnylife.feishu.cn/wiki/RnfIwgarmibhf7kU5YAcm1OxnJg)
+[^2]:  在找伴侣建家庭上，我借鉴的最佳实践主要来自《Running Lean》，具体应用见：[30 岁找伴侣、建家庭，如何降低试错成本？.pptx - Feishu Docs](https://sunnylife.feishu.cn/wiki/RnfIwgarmibhf7kU5YAcm1OxnJg)
  
 ## Changelog
 

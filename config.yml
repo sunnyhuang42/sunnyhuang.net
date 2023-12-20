@@ -83,12 +83,10 @@ sidebar:
         link: '/cmty/tips_RES_BP'
       - text: 启动新项目，如何设定项目目标? · 项目需求采集问题清单
         link: https://sunnylife42.com/docs/guides/pm-pre
-      - text: 如何提升行动意愿？· 行动清单汇总
-        link: '/cmty/tips_motivation'
-      - text: 如何更易获得有效帮助？· 困扰分析模板
-        link: '/cmty/hb_ask4help'
       - text: 如何给自己找 mentor 加速成长？关键有四步
         link: '/cmty/hb_getmentors'
+      - text: 如何更易获得有效帮助？· 困扰分析模板
+        link: '/cmty/hb_ask4help'
       - text: 职业发展
         items:
           - text: 如何做职业选择？· STC思想实验问题清单

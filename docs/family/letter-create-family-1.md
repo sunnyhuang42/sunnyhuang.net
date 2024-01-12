@@ -79,10 +79,10 @@ description: 如果可以重来，我会选择更早开始探索这一美妙旅�
 
 在「确定风险优先级」这一步，我们的目标是识别出这个方案如果要奏效，最高的风险是在哪里，并据此安排接下来的实验和测试优先级。毕竟资源总是有限的，我们不可能一次性解决所有问题，正确安排风险优先级至关重要。
 
-例如，如果我们想打造一项可持续增长的业务，那么我们需要识别并处理的各个阶段主要风险，优先级通常如下面这张 Venture Pyramid 图示（从下到上，优先级依次递减）：
+例如，如果我们想打造一项可持续增长的业务，那么我们需要识别并处理的各个阶段主要风险，优先级通常如下面这张 Venture Pyramid[^3] 图示（从下到上，优先级依次递减）：
 
+![OrOaqT](https://cdn.sunnyhuang.net/share/QsXOem.png/webp)
 
-![](https://cdn.sunnyhuang.net/share/post231128-1.jpg/webp)
 
 这怎么理解？比如如果没有解除图中底部第一阶段的高优先级风险「市场吸引力」，在还没找到一个大或正在增长的市场时，就开始探索目标客群及需求、解决方案，去花精力解除这些还没那么高优先级的风险，那么 ROI 大概率不高 —— 不论后续我们投入多少努力，最终都难以打造一项可持续增长的业务，甚至很快需要从头开始。
 
@@ -121,6 +121,9 @@ description: 如果可以重来，我会选择更早开始探索这一美妙旅�
 [^1]:  关于 running lean 的简介和实践资源，可参考 [如何降低试错成本，更快拿出靠谱成果？|《精益创业实战（第三版）》实践资源和应用心得 - 黄姗](https://sunnyhuang.net/cmty/runninglean3eres)
 
 [^2]: 找到志同道合、彼此欣赏且能提供远超预期收入的团队和发展机会的这段实践经历，见 [如何解决人生难题？有没有通用办法？ – 闪闪人生](https://sunnylife42.com/docs/basic/general-solution)
+
+
+[^3]: Venture Pyramid（创业金字塔）原图来自 [Why the Venture Pyramid changes how you think about innovation — SWAN Ventures](https://www.swan.ventures/blog/2017/8/22/venture-pyramid) 
 
 ## changelog
 

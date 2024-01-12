@@ -172,7 +172,7 @@ PS. 这个测算模块目前需要付费了，新用户可在 https://www.leanfo
 
 这就需要理解创业过程有哪些关键里程碑，以及各阶段需要依次重点关注的高风险之处是什么。以下资源对我思考这些问题非常有帮助：
     
-![](https://cdn.sunnyhuang.net/share/post231128-1.jpg/webp)
+![](https://cdn.sunnyhuang.net/share/DmLM8u.png/wsl)
 
 Swan Ventures 的这几篇博客与本书内容相得益彰，值得一读：
 1. [Why the Venture Pyramid changes how you think about innovation — SWAN Ventures](https://www.swan.ventures/blog/2017/8/22/venture-pyramid)

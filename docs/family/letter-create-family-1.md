@@ -81,7 +81,7 @@ description: 如果人生可以重来，我会选择更早开始探索这一美�
 
 例如，如果我们想打造一项可持续增长的业务，那么我们需要识别并处理的主要风险，优先级通常如下面这张 Venture Pyramid[^3] 图示（从下到上，优先级依次递减）：
 
-![OrOaqT](https://cdn.sunnyhuang.net/share/zuZAPn.png/webp?x-oss-process=image/watermark,t_30,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330)
+![OrOaqT](https://cdn.sunnyhuang.net/share/IQ8iDJ.png/webp?x-oss-process=image/watermark,t_30,fill_1,padx_200,pady_200,text_6Zeq6Zeq5Lq655Sf,rotate_330)
 
 
 这怎么理解？比如如果没有解除图中底部第一阶段的高优先级风险「市场吸引力」，在还没找到一个大或正在增长的市场时，就开始探索目标客群及需求、解决方案，去花精力解除这些还没那么高优先级的风险，那么 ROI 大概率不高 —— 不论后续我们投入多少努力，最终都难以打造一项可持续增长的业务，甚至很快需要从头开始。

@@ -41,7 +41,7 @@ sponsor:
 
 # 导航栏
 navbar:
-  - text: 创造想要的生活<sup style="color:orange;"></sup>
+  - text: 一起创造想要的生活<sup style="color:orange;"></sup>
     link: https://sunnylife42.com/
   - text: 关于
     items:

@@ -13,7 +13,7 @@ social:
 license:
   text: CC BY-NC 4.0 协议
   link: https://creativecommons.org/licenses/by-nc/4.0/deed.zh
-copyright: Copyright © 2015-2023 黄姗
+copyright: Copyright © 2015-2024 黄姗
 
 # 首页（推荐内容）
 highlights:
@@ -358,10 +358,10 @@ sidebar:
         link: '/about'
       - text: 个人小传
         link: '/about/lifestory2203'
-      - text: 发展规划
-        link: '/about/plan_lifedev'
       - text: 理想生活
         link: '/about/idealife'
+      - text: 发展规划
+        link: 'https://sunnylife.feishu.cn/wiki/Wbiww9MQvi3l3nket5YcqneFnge'
       - text: 约我时间
         link: '/about/booking'
       - text: 我是怎样的人？那些认识三年以上的老友，给出的答案是…

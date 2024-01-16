@@ -2,10 +2,10 @@
 title: 答师友：我的个人发展规划是怎么梳理出来的？
 date: 2021-09-28
 updated: 2021-10-29
-description: <blockquote><p><a href="#/about/plan_lifedev">这份个人发展规划</a>是怎么梳理出来的？</p></blockquote><p>有师友好奇。</p><p>我把思索过程和经验教训简单梳理了一下，供有需要的伙伴参考。如果你有疑问建议，欢迎随时交流，也加速我迭代完善：D</p>
+description: 我把思索过程和经验教训简单梳理了一下，供有需要的伙伴参考。如果你有疑问建议，欢迎随时交流，也加速我迭代完善：D
 ---
 
-> [这份个人发展规划](/about/plan_lifedev)是怎么梳理出来的？
+> [这份个人发展规划](https://sunnylife.feishu.cn/wiki/Wbiww9MQvi3l3nket5YcqneFnge)是怎么梳理出来的？
 
 有师友好奇。
 
@@ -62,14 +62,12 @@ description: <blockquote><p><a href="#/about/plan_lifedev">这份个人发展规
 
 - 战略管理过程相关工具方法
 - 精益创业
-    - [《精益创业实战》(豆瓣)](https://book.douban.com/subject/20505765/)
+    - [《精益创业实战》(豆瓣)](https://book.douban.com/subject/36627663/)
     - [《精益客户开发》(豆瓣)](https://book.douban.com/subject/26641506/)
 - 目标管理
-    - [如何梳理有助于达成长期目标的行动规划？](/cmty/tips_MBO_fromend)
-    - [OKR是一套严密的思考框架？这是啥意思？](/cmty/tips_MBOKRframe)
-    - [如何从容应对新挑战？·研究最佳实践通用问题清单](/cmty/tips_RES_BP)
-    - [启动新项目，如何设定项目目标? · 项目需求采集问题清单](/cmty/infoq_pm_pre)
-
+    - [项目任务书：梳理人生期许和实现方案 – 闪闪人生](https://sunnylife42.com/docs/project-meta/intro) 及子页面的相关实践攻略
+    - [有了大方向，如何定目标更易出成果？且用这套OKR思考框架 – 闪闪人生](https://sunnylife42.com/docs/basic/mbo-okr-frame)
+    - [启动新项目，如何设定项目目标？· 项目需求采集问题清单 – 闪闪人生](https://sunnylife42.com/docs/guides/pm-pre)
 
 ## 附：更多思索过程记录
 
@@ -82,5 +80,6 @@ description: <blockquote><p><a href="#/about/plan_lifedev">这份个人发展规
 
 ## CHANGELOG
 
+- 2024-01-16 更新材料链接
 - 211029 增补链接材料
 - 210928 创建 3h

@@ -208,7 +208,7 @@ Swan Ventures 的这几篇博客与本书内容相得益彰，值得一读：
 ![EikNwj](https://cdn.sunnyhuang.net/share/EikNwj.jpg ':size=350')
     
     
-完整版的思考和拆解清单，可以在这里找到：[‍‍​​﻿​‍​​‬⁤​⁣⁣​‍‌‍‬‍‍‍⁡⁤⁢﻿⁣​⁣⁣​⁡⁢⁣⁡‬‬⁡⁤⁢‬‍‬⁤‌⁤⁡‬‍🎯 人生规划和下步计划模板-进阶版 - Feishu Docs](https://sunnylife.feishu.cn/wiki/wikcnjWl4c7OOygszq8mAavYcdb)
+完整版的思考和拆解清单，可以在这里找到：[‍🎯 人生规划和下步计划模板-进阶版 - Feishu Docs](https://sunnylife.feishu.cn/wiki/wikcnjWl4c7OOygszq8mAavYcdb)
 
 这两年如此拆解并持续迭代人生期许和实现方案，让我明显感到在业务探索和日常生活，都踏实从容不少。
 

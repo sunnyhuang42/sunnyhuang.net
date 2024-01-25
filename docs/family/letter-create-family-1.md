@@ -165,11 +165,12 @@ description: 如果人生可以重来，我会选择更早开始探索这一美�
 
 [^3]: Venture Pyramid（创业金字塔）原图来自 [Why the Venture Pyramid changes how you think about innovation — SWAN Ventures](https://www.swan.ventures/blog/2017/8/22/venture-pyramid) 
 
-[^4]: 关于创新算法更详细的介绍，可参考 [《创新算法》](https://book.douban.com/subject/3354596/)
+[^4]: 关于创新算法更详细的介绍，可参考 [《创新算法》](https://book.douban.com/subject/3354596/) 及[相关论文](https://sunnyhuang.net/mur/res_ARIZ#t3)
 
 
 ## changelog
 
+- 241125 增补创新算法介绍 2h
 - 240112~13 修订细节
 - 240111 发布
 - 240107 开始起草

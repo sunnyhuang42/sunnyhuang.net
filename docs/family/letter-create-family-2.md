@@ -218,5 +218,5 @@ description: 如果忽略这个问题或处理不当，可能会浪费大量宝�
 
 [^1]: 伴侣大五人格尽责性对关系的影响研究详见：[The long reach of one's spouse: spouses' personality influences occupational success - PubMed](https://pubmed.ncbi.nlm.nih.gov/25326507/) 。中文版概要可见哈佛商业评论的这篇文章：[就算为了事业，你也要找个靠谱的另一半](https://mp.weixin.qq.com/s/XSTYI-HLBn51qP4qzdRx_Q)
 
-[^2]: 这个研究来自 [The Seven Principles for Making Marriage Work by John Gottman - Couples | The Gottman Institute](https://www.gottman.com/product/the-seven-principles-for-making-marriage-work/)
+[^2]: 这个研究详见 [The Seven Principles for Making Marriage Work by John Gottman - Couples | The Gottman Institute](https://www.gottman.com/product/the-seven-principles-for-making-marriage-work/)
 

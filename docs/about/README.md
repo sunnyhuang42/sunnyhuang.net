@@ -1,7 +1,7 @@
 ---
 title: About Me
 date: 2018-07-02
-updated: 2023-04-28
+updated: 2024-02-02
 description:
 ---
 
@@ -132,6 +132,7 @@ description:
 
 ## CHANGELOG
 
+- 240202 更新个人简介
 - 231220 更新葬礼想象、人生规划链接
 - 230428 更新葬礼想象
 - 230208 更新想创造的价值

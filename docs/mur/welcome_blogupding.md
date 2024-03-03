@@ -51,7 +51,7 @@ Hi, 欢迎来访。
 
 超级感谢过程中给我支持的伙伴。
 
-尤其给我推荐 [docsify](https://docsify.js.org/#/) 的 [@梁超](http://liangchao.site/)，耐心地帮我实现好些需求的 [@竹间漪](https://weibo.com/u/1219497082) 。
+尤其给我推荐 [docsify](https://docsify.js.org/#/) 的 @梁超，耐心地帮我实现好些需求的 [@竹间漪](https://weibo.com/u/1219497082) 。
 
 没有他们，估计很难这么快用上：D
 

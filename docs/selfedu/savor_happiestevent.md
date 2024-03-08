@@ -10,8 +10,8 @@ description:
 品味，是我们主动注意和加工积极体验的过程。它意味着，我们愿意付出时间，来欣赏美好的事物。
 
 具体如何品味生活？中文信息可参考：
-* [品味（1）：从“应对”压力到“品味”生活 - 阳志平的网志](https://www.yangzhiping.com/psy/savoring.html )
-* [品味（2）：“品味”生活的10种策略 - 阳志平的网志](https://www.yangzhiping.com/psy/savoring-10.html )
+* [品味（1）：从“应对”压力到“品味”生活 - 阳志平](https://www.psychspace.com/psych/viewnews-7717.html)
+* [品味（2）：“品味”生活的10种策略 - 阳志平](https://www.psychspace.com/psych/viewnews-7718.html)
 
 英文信息可检索 savoring 了解。
 

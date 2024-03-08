@@ -158,7 +158,7 @@ description: <p>文件命名看似简单，但其实体现<strong>你对你的�
 - [Home · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki) 右侧 pages ：
 
 	![sampledocname.jpeg](https://cdn.sunnyhuang.net/share/sampledocname.jpeg)
-- [CollaborationGuide4Shaper/CONTENT at master · ishanshan/CollaborationGuide4Shaper](https://github.com/sunnyhuang42/CollaborationGuide4Shaper/tree/master/CONTENT) 所含文件：
+- [CollaborationGuide4Shaper/CONTENT at master · ishanshan/CollaborationGuide4Shaper](https://github.com/sunnylife42/docs/blob/v1/CONTENT/) 所含文件：
 
 	![sampledocname2.jpeg](https://cdn.sunnyhuang.net/share/sampledocname2.jpeg)
 - [HbCollaborateWikiandCode · OpenMindClub/Share Wiki](https://github.com/OpenMindClub/Share/wiki/HbCollaborateWikiandCode) 所举案例：

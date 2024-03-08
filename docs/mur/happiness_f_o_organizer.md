@@ -49,7 +49,7 @@ description: <p>越来越感觉 #输出实验室 的玩法，对我这样的情�
 
 <br>
 
-这也让我想起[精益创业方法论](https://leanstack.com/new-rules)里的两句提醒：
+这也让我想起[精益创业方法论](https://leanstack.com/)里的两句提醒：
 
 > * The best way to find your next big idea is by systematically testing lots of ideas.
 > * Speed of learning is the new unfair advantage.

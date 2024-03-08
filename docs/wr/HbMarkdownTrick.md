@@ -60,7 +60,7 @@ MarkDown 编辑器有很多，推荐选择带目录栏、支持加载本地文�
 
 如果你的表格会持续更新，更建议你直接给出在线表格链接，这样你不必每次都更新 MarkDown 的表格，大伙儿也都能实时看到最新版。
 
-如果你的表格是发布在支持 HTML 的页面，更优雅的方式是直接 embed ：https://github.com/sunnyhuang42/CollaborationGuide4Shaper/tree/master/CONTENT/HbWorkingEfficiently.md#embed-something 。
+如果你的表格是发布在支持 HTML 的页面，更优雅的方式是直接 embed ：https://github.com/sunnylife42/docs/blob/v1/CONTENT/HbWorkingEfficiently.md#embed-something 。
 
 ### 优雅又省心地插入图片
 
@@ -260,7 +260,7 @@ MarkDown 格式的文章如何发布到只支持 HTML 样式的平台，比如�
 
 如果你想在正文中引入别处内容、获取该内容的实时更新，并展示得更丰富些，可以用 embed 的方式。
 
-详见 https://github.com/sunnyhuang42/CollaborationGuide4Shaper/blob/master/CONTENT/HbWorkingEfficiently.md#embed-something 。
+详见 https://github.com/sunnylife42/docs/blob/v1/CONTENT/HbWorkingEfficiently.md#embed-something 。
 
 ### 其它
 

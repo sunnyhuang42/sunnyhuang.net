@@ -9,10 +9,6 @@
       "pattern": "https://www.linkedin.com"
     },
     {
-      "reason": "Scanning zoomquiet.top results in socket timeout",
-      "pattern": "https://.*.zoomquiet.top"
-    },
-    {
       "reason": "Scanning igetget.com results in socket timeout",
       "pattern": "https://m.igetget.com"
     },
@@ -38,136 +34,11 @@
     },
     {
       "reason": "Website no longer exists",
-      "pattern": "http://www.xiangxueshe.com/",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Private repo",
-      "pattern": "https://github.com/AILearners/con.openmindclub.com",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Web page no longer exists",
-      "pattern": "https://triz-journal.com/ariz-move/",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Web page no longer exists",
-      "pattern": "https://www.youtube.com/audiolibrary/music",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Private repo",
-      "pattern": "https://github.com/AIWriter/Writer005",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Invalid URL",
-      "pattern": "https://www.smartresize.com/zh-cn",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Website no longer exists",
-      "pattern": "http://lofter.com/",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Website no longer exists",
       "pattern": "http://hicape.com",
       "TODO": "Need to update or remove"
     },
     {
-      "reason": "Web page no longer exists",
-      "pattern": "http://note.openmindclub.com/science/YZP-name.html",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "File no longer exists",
-      "pattern": "https://teaching.yale-nus.edu.sg/wp-content/uploads/sites/25/2016/02/Making-Things-Hard-on-Yourself-but-in-a-Good-Way-2011.pdf",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Web page no longer exists",
-      "pattern": "https://www.hackcollege.com/blog/2011/11/23/infographic-get-more-out-of-google.html",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Web page no longer exists",
-      "pattern": "https://www.psych.ucsb.edu/people/faculty/mayer",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "File no longer exists",
-      "pattern": "http://hilt.harvard.edu/files/hilt/files/mayerslides.pdf",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Website no longer exists",
-      "pattern": "http://heipingguo.org",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Website no longer exists",
-      "pattern": "http://joinwee.com/",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Website no longer exists",
-      "pattern": "http://swordi.com/",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Website no longer exists",
-      "pattern": "http://www.xiangxueshe.com/",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "小站不存在",
-      "pattern": "http://site.douban.com/136359/room/1964168/",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Web page no longer exists",
-      "pattern": "https://www.yangzhiping.com/psy/YangToWriter003.html",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Web page no longer exists",
-      "pattern": "https://www.yangzhiping.com/column/deliberate-practice.html",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Web page no longer exists",
-      "pattern": "http://www.yangzhiping.com/psy/cogwriter005.html",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Web page no longer exists",
-      "pattern": "http://www.yangzhiping.com/psy/Stanine.html",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Website no longer exists",
-      "pattern": "https://.*.luojilab.com",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Website no longer exists",
-      "pattern": "http://utopiadocs.com",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Website no longer exists",
-      "pattern": "https://solidifyingnebulousideas.com/",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "Website no longer exists",
-      "pattern": "https://www.huodongxing.com/",
-      "TODO": "Need to update or remove"
-    },
-    {
-      "reason": "CloudFlare CDN",
+      "reason": "CDN",
       "pattern": "https://cdn.sunnyhuang.net/"
     }
   ],

@@ -20,7 +20,7 @@ description: <p>上月大妈（<a href="http://zoomquiet.io/#" target="_blank" r
 
 嗯，下次张罗活动，我也要用上这个「四两拨千斤」的小技巧。
 
-PS. 可商用 BGM 可从 YouTube 音频库(https://www.youtube.com/audiolibrary/music)  里选，这上千首音乐的使用方法详见 [使用音频库中的音乐 - YouTube帮助](https://support.google.com/youtube/answer/3376882?hl=zh-Hans&visit_id=1-636273341955154976-1470066544&rd=1) 。
+PS. 可商用 BGM 可从 YouTube 音频库(https://www.youtube.com/audiolibrary)  里选，这上千首音乐的使用方法详见 [使用音频库中的音乐 - YouTube帮助](https://support.google.com/youtube/answer/3376882?hl=zh-Hans&visit_id=1-636273341955154976-1470066544&rd=1) 。
 
 ## 从源头避免编程初级错误
 

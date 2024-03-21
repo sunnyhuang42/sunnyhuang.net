@@ -53,7 +53,7 @@ PS. 那会儿想到用 STC 算子来辅助决策，源自当时面试官也是�
 ### 2. 更多材料
 
 
-1. ARIZ 在不断迭代，《创新算法》书中，列的是 ARIZ-71，也就是作者阿奇舒勒老爷爷 1971 年迭代的版本。最被广泛使用的版本，是作者离世前的版本， ARIZ-85c 。每个版本的迭代，感兴趣可参考 https://triz-journal.com/ariz-move/  。
+1. ARIZ 在不断迭代，《创新算法》书中，列的是 ARIZ-71，也就是作者阿奇舒勒老爷爷 1971 年迭代的版本。最被广泛使用的版本，是作者离世前的版本， ARIZ-85c。
 
 2. 下图是85c 的概要，截图来源见 [solving_the_problem_of_ariz_using_ariz.pdf](https://cdn.sunnyhuang.net/clipping/solving_the_problem_of_ariz_using_ariz.pdf)  
 

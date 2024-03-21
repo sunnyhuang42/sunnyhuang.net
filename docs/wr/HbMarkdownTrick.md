@@ -56,7 +56,7 @@ MarkDown 编辑器有很多，推荐选择带目录栏、支持加载本地文�
 
 ### 快速创建表格
 
-表格建议直接在 Google sheet / Numbers  等表格工具中先建好，再用 [Markdown Tables generator - TablesGenerator.com](http://www.tablesgenerator.com/markdown_tables) 一键转化为 MarkDown 格式 ，而非自己手动创建。
+表格建议直接在 Google sheet / Numbers  等表格工具中先建好，再用 [Markdown Table Generator · Table to Markdown](https://tabletomarkdown.com/generate-markdown-table/) 一键转化为 MarkDown 格式 ，而非自己手动创建。
 
 如果你的表格会持续更新，更建议你直接给出在线表格链接，这样你不必每次都更新 MarkDown 的表格，大伙儿也都能实时看到最新版。
 

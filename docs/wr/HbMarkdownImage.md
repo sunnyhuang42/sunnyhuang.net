@@ -28,7 +28,7 @@ description: <p>一人百人、五年十年，都能优雅又省心？</p><p>嗯
 
 总算找到满意图片，可实在太大，为了图文浏览体验必须压缩。问题来了——压缩后，本地保留哪个版本？高清压缩都保留，占空间；只保留一个，留哪个？留大的，那下回再用又得压缩一遍；留小的，那高清场合又得再找……
 
-那看情况吧，先缩了再说。无奈烦恼也不少：得调试好多次才能找到合适参数；调试过程，难免保存导出，判断是否清晰合用，不行又得删掉重来。若是网页处理工具（比如美图秀秀），上传下载也挺烦。[TinyPng](https://tinypng.com/)、[SmartResize](https://www.smartresize.com/zh-cn) 是快捷，但没法限定输出大小，比如每张 100k 以下……
+那看情况吧，先缩了再说。无奈烦恼也不少：得调试好多次才能找到合适参数；调试过程，难免保存导出，判断是否清晰合用，不行又得删掉重来。若是网页处理工具（比如美图秀秀），上传下载也挺烦。[TinyPng](https://tinypng.com/) 是快捷，但没法限定输出大小，比如每张 100k 以下……
 
 越高产，新烦恼来得越快：是一篇图文一个文件夹，里头装 MarkDown 文档和所用图片；还是所有图片一个文件夹，文档一个文件夹？到底怎么管理更省心，五年十年不添堵？
 
@@ -60,12 +60,12 @@ description: <p>一人百人、五年十年，都能优雅又省心？</p><p>嗯
 
 举个例子：
 
-本来宽 910 的图片：https://ishanshan.zoomquiet.top/clipping/scientific_method.png
+本来宽 910 的图片：https://cdn.sunnyhuang.net/clipping/scientific_method.png
 
 ![scientific_method.png](https://cdn.sunnyhuang.net/clipping/scientific_method.png)
 
 
-我希望最宽 400 ，于是在地址上加上限制宽度的参数 `?imageView2/2/w/400` ，图片地址变为 https://ishanshan.zoomquiet.top/clipping/scientific_method.png?imageView2/2/w/400 即可：
+我希望最宽 400 ，于是在地址上加上限制宽度的参数 `?imageView2/2/w/400` ，图片地址变为 https://cdn.sunnyhuang.net/clipping/scientific_method.png?imageView2/2/w/400 即可：
 
 ![](https://cdn.sunnyhuang.net/clipping/scientific_method.png?x-oss-process=image/resize,w_400)
 
@@ -116,9 +116,9 @@ description: <p>一人百人、五年十年，都能优雅又省心？</p><p>嗯
 
 若想未来管理省心，需要尽量把配图放同一文件夹。不仅减少存储时不必要的决策、取用时查找的麻烦，还利于应对万一。
 
-比如对于个人博客的图片，我一般都放本地 share 文件夹，同步时选 `share/` 前缀，比如 `https://ishanshan.zoomquiet.top/share/cardsample1.png` 那些收集来的有价值的图片，则放 clipping 文件夹，选 `clipping/` 前缀，比如 `https://ishanshan.zoomquiet.top/clipping/scientific_method.png` 。
+比如对于个人博客的图片，我一般都放本地 share 文件夹，同步时选 `share/` 前缀，比如 `https://cdn.sunnyhuang.net/share/cardsample1.png` 那些收集来的有价值的图片，则放 clipping 文件夹，选 `clipping/` 前缀，比如 `https://cdn.sunnyhuang.net/clipping/scientific_method.png` 。
 
-如此，万一原图床地址失效，便可直接把这俩路径下的图片立马上传新图床，再批量替换对应文档里的图片主域名。比如把 `ishanshan.zoomquiet.top` 替换成新域名即可。
+如此，万一原图床地址失效，便可直接把这俩路径下的图片立马上传新图床，再批量替换对应文档里的图片主域名。比如把 `cdn.sunnyhuang.net` 替换成新域名即可。
 
 团队使用同理。再借本地同步盘，同步对应文件夹就好。这样一来，新人初来乍到，也能平滑接入，使用原有片源、贡献新片源。
 

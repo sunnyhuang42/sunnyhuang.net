@@ -6,7 +6,7 @@ description:
 ---
 
 
-[@黄姗-Sunny](https://github.com/sunnyhuang42)，坐标深圳。走在创业路上，希望成为理性又温暖的创业者，协助更多想实现自我价值和个人增值并兼顾工作家庭的伙伴，保持有思路有行动，灵活创造内心想要的生活。喜欢探索分享优雅有效、能跨越大时间周期的工具方法，正在实验如何奔向[「健康蓬勃 温暖从容」的幸福生活（flourishing life）](/about/idealife)。
+[@黄姗-Sunny](https://github.com/sunnyhuang42)，坐标深圳。走在创业路上，希望成为理性又温暖的创业者，为 30 岁左右的伙伴提供系统化、个性化的持续支持，一起实现个人发展与婚育家庭相互促进，灵活兼顾「爱与成就」。喜欢探索分享优雅有效、能跨越大时间周期的工具方法，正在实验如何奔向[「健康蓬勃 温暖从容」的幸福生活（flourishing life）](/about/idealife)。
 
 
 本科学园林设计，毕业至今八年一直在互联网领域，做过教研、运营、学习与发展教练、产品。虽然这些看似不同职务，但在我眼里都是相通的——**传播 meme（模因）影响人，帮助人更易发生行为改变**。
@@ -16,9 +16,11 @@ description:
 
 
 如果你想直观地了解我，这几期播客是个很好的入口：<br>
-- [闪闪 | 用理性和热忱，实验如何奔向蓬勃人生 -  小宇宙](https://www.xiaoyuzhoufm.com/episode/61585ce0ae1d32c4f86c18c5?s=eyJ1IjogIjYwZTI4NWQ4ZTBmNWU3MjNiYjlmNDVlNiJ9)
-- [七夕特辑 | 网恋三个月，见面就同居，春光闪闪的心动瞬间 - 小宇宙](https://www.xiaoyuzhoufm.com/episode/62ebd5d4f5799d134563be9f?s=eyJ1IjogIjYwZTI4NWQ4ZTBmNWU3MjNiYjlmNDVlNiJ9)
 - [离职8个月陷入迷茫，该不该回去打工？ - 厅见自由 | 小宇宙](https://www.xiaoyuzhoufm.com/episode/6422a20c8aca9099d785bd4b)
+- [七夕特辑 | 网恋三个月，见面就同居，春光闪闪的心动瞬间 - 小宇宙](https://www.xiaoyuzhoufm.com/episode/62ebd5d4f5799d134563be9f?s=eyJ1IjogIjYwZTI4NWQ4ZTBmNWU3MjNiYjlmNDVlNiJ9)
+- [闪闪 | 用理性和热忱，实验如何奔向蓬勃人生 -  小宇宙](https://www.xiaoyuzhoufm.com/episode/61585ce0ae1d32c4f86c18c5?s=eyJ1IjogIjYwZTI4NWQ4ZTBmNWU3MjNiYjlmNDVlNiJ9)
+
+
 
 ## 葬礼想象 :id=funeral
 
@@ -33,7 +35,7 @@ description:
 
 希望听到师友、用户说： <br>
 她满怀好奇，勇敢探索 <br>
-她用理性和热忱，助百万想实现自我价值和个人增值并兼顾工作家庭的伙伴，有思路有行动，灵活创造内心想要的生活<br>
+她用理性和热忱，为百万 30 岁的伙伴，提供系统化、个性化的持续支持，一起灵活兼顾「爱与成就」<br>
 更令人欣喜的是，即使她已离世，这些技术和温暖，依然持续传承
 
 
@@ -42,13 +44,6 @@ description:
 详见[发展规划](https://sunnylife.feishu.cn/wiki/Wbiww9MQvi3l3nket5YcqneFnge) 。
 
 
-
-
-
-## 能提供的帮助：
-
-1. 交流关于在充满不确定的情况下，保持有思路有行动，灵活创造理想生活的经验教训、工具方法
-2. 交流下文「About My Mentors」模块所提行事风格、心智模式、习惯偏好的探索实践、资源推荐
 
 
 
@@ -132,6 +127,7 @@ description:
 
 ## CHANGELOG
 
+- 240322 根据产品服务的最新探索进展，更新个人简介
 - 240202 更新个人简介
 - 231220 更新葬礼想象、人生规划链接
 - 230428 更新葬礼想象

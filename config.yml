@@ -18,10 +18,10 @@ copyright: Copyright © 2015-2024 黄姗
 # 首页（推荐内容）
 highlights:
   - '/family/lifep_roadmap'
-  - '/cmty/keypoint_flourish'
-  - '/family/letter-have-children'
+  - /family/letter-create-family-1
   - '/cmty/tips_career_choice'
   - '/selfedu/RevFacialGrowth'
+  - /cmty/runninglean3eres
 
 # 广告位
 ad:
@@ -41,7 +41,7 @@ sponsor:
 
 # 导航栏
 navbar:
-  - text: 一起创造想要的生活<sup style="color:orange;"></sup>
+  - text: 灵活兼顾「爱与成就」<sup style="color:orange;"></sup>
     link: https://sunnylife42.com/
   - text: 关于
     items:
@@ -49,6 +49,8 @@ navbar:
         link: /about
       - text: 个人小传
         link: /about/lifestory2203
+      - text: 年度小结
+        link: /selfedu/rev-2023
       - text: 发展规划
         link: https://sunnylife.feishu.cn/wiki/Wbiww9MQvi3l3nket5YcqneFnge
       - text: 约我时间

@@ -70,7 +70,7 @@ description:
 
     ![unknownunknown-matrix-2.jpg](https://cdn.sunnyhuang.net/share/unknownunknown-matrix-2.jpg)
 
-    （The Unknown Unknown Matrix，图片摘自 [Why We’re Always On The Cusp Of Artificial General Intellegence – Solidifying Nebulous Ideas](https://solidifyingnebulousideas.com/2017/07/04/why-were-always-on-the-cusp-of-artificial-general-intellegence/)）
+    （The Unknown Unknown Matrix，图片摘自 Why We’re Always On The Cusp Of Artificial General Intellegence – Solidifying Nebulous Ideas）
 
     「得到」未来内容越来越多，这个矛盾也会愈发严峻，毕竟初阶学习者众。
 
@@ -78,7 +78,7 @@ description:
 
     ![three cognitive processes_required_for_meaningful_learning.png](https://cdn.sunnyhuang.net/share/three%20cognitive%20processes_required_for_meaningful_learning.png?x-oss-process=image/resize,w_500)
 
-    （这套理论来自 [Educational psychology 领域](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:educational_psychology) [h-index 以 136 位列第一](https://scholar.google.com/citations?user=o5doXYoAAAAJ&hl=zh-CN)的 [Richard E Mayer](https://www.psych.ucsb.edu/people/faculty/mayer) 教授，理论概要及所截内容前后依据，可见其幻灯 [Research-Based Principles for Multimedia Learning - HILT2014](https://hilt.harvard.edu/wp-content/uploads/2018/08/HILT_SpeakerSeries_Mayerslides.pdf)）
+    （这套理论来自 [Educational psychology 领域](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:educational_psychology) [h-index 以 136 位列第一](https://scholar.google.com/citations?user=o5doXYoAAAAJ&hl=zh-CN)的 [Richard E Mayer](https://psych.ucsb.edu/people/faculty/richard-mayer) 教授，理论概要及所截内容前后依据，可见其幻灯 [Research-Based Principles for Multimedia Learning - HILT2014](https://hilt.harvard.edu/wp-content/uploads/2018/08/HILT_SpeakerSeries_Mayerslides.pdf)）
 
     此外，**不仅让以上变化发生，还令用户切身感受到变化，才易保有用户注意力**。
 
@@ -217,7 +217,7 @@ description:
 
 * [得到大学第 0 期招生简章](https://mp.weixin.qq.com/s/MjCfahYBh0i4ntbKpDloGg)
 * 上线这个项目背后的思考：
-    * [项目上线前的的周例会（9月4日）团队创始人介绍「得到大学」启动构想](https://pic1cdn.luojilab.com/html/poster/picYwMjRB3RjwTwjL50XYY7.html?tfrom=text_nav)   
+    * [项目上线前的的周例会（9月4日）团队创始人介绍「得到大学」启动构想](https://pic1cdn.luojilab.com/html/poster/picYwMjRB3RjwTwjL50XYY7.html)   
     * 项目上线后，罗振宇介绍这个项目特点：
         * [第576期 | 终身学习，学什么？](https://m.igetget.com/share/course/article/article_id/82109)
         * [第577期 | 回到“本来面目”](https://m.igetget.com/share/course/article/article_id/82122)

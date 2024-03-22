@@ -184,14 +184,13 @@ description: <p>作品和作品的差别，源于卡片。</p><p>人和人的差
 
 - [MWeb](https://www.mweb.im/)：我最常用的 MarkDown 编辑器，刚发布 3.x 版本。Mac 付费软件，从得到的心流体验来看个人觉得很值；费用也不高，100+ CNY，当少到外头聚次餐就好。[Typora — a markdown editor, markdown reader.](https://typora.io/) 也不错，Mac/Win 均支持，免费，带目录栏、支持加载本地文件夹、可自行设定 CSS 渲染样式。
 - [GitHub](https://github.com/)：我最常用的文档托管平台。它可供性极强，且内置很多专家级的内隐模式，如果使用得当，能极大降低个人创作复杂度。如果你之前没接触过，别被不明觉厉的操作吓退，可看我梳理的这份 [给文字工作者的 GitHub 上手攻略](/wr/HbGitHubPre)。实在难以学会也别勉强，可用下文云端同步的替代方案，甚至只保存在本地。
-- [LOFTER](http://lofter.com/)：网易旗下的轻博客平台。 [http://mur42.lofter.com/](http://mur42.lofter.com/) 这个示例使用的主题模板是「悦」。
 - [Markdown Here](https://markdown-here.com/) ：chrome 上的插件。能把 MarkDown 未渲染的内容粘贴到网页输入框后，一键渲染成定制的 MarkDown 样式。
 - [WorkFlowy](https://workflowy.com/) ：我用了快 5 年的卡片层级工具。真爱一生推，玩转指引见 [《卡片助力输入输出，工具我选 WorkFlowy 》](/selfedu/HbOutputWorkFlowy)。
 
 这套习惯灵感来源参见：
 
 - 知识创造层级：[构建优雅的知识创造系统](https://mp.weixin.qq.com/s/j6fqcvzER6gv1JnPBqnYkA)
-- 快写慢改：[快速写作模式谈 - 阳志平的网志](https://www.yangzhiping.com/psy/writers-model.html)、[致新同学 —— 认知写作学周岁小记 - 阳志平的网志](https://www.yangzhiping.com/psy/YangToWriter003.html)
+- 快写慢改：[快速写作模式谈 - 阳志平的网志](https://www.yangzhiping.com/psy/writers-model.html)
 - 一个人的微博：[一个人的微博 - 阳志平的网志](https://www.yangzhiping.com/psy/quiet.html)
 - 品味生活：[品味（2）：“品味”生活的10种策略 - 阳志平](https://www.psychspace.com/psych/viewnews-7718.html)
 - 「if…then…」&WOOP：[WOOP — Character Lab](https://www.characterlab.org/woop/)

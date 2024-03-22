@@ -141,5 +141,5 @@ description: <p>周末翻见财新主编王烁的老婆推，140 字讲家庭日
 - 210507 早 修改一些小细节，以便阅读 10mins
 - 171129 早 补充各类细节，发布至 blog 0.5h
 - 171128 晚 慢改 3h
-- 171128 早 快写初稿发布于 [[5w] 分享你发现的 ch5 优秀资源／实践 · Issue #174 · AIWriter/Writer005](https://github.com/AIWriter/Writer005/issues/174#issuecomment-347141930) 0.5h
+- 171128 早 快写初稿 0.5h
 

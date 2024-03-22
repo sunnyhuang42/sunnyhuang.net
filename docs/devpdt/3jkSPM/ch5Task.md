@@ -150,7 +150,7 @@ description:
         
 ![three cognitive processes_required_for_meaningful_learning.png](https://cdn.sunnyhuang.net/share/three%20cognitive%20processes_required_for_meaningful_learning.png?x-oss-process=image/resize,w_500)
     
-（这套理论来自 [Educational psychology 领域](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:educational_psychology) [h-index 以 136 位列第一](https://scholar.google.com/citations?user=o5doXYoAAAAJ&hl=zh-CN)的 [Richard E Mayer](https://www.psych.ucsb.edu/people/faculty/mayer) 教授，理论概要及所截内容前后依据，可见其幻灯 [Research-Based Principles for Multimedia Learning - HILT2014](http://hilt.harvard.edu/files/hilt/files/mayerslides.pdf)）
+（这套理论来自 [Educational psychology 领域](https://scholar.google.com/citations?view_op=search_authors&hl=zh-CN&mauthors=label:educational_psychology) [h-index 以 136 位列第一](https://scholar.google.com/citations?user=o5doXYoAAAAJ&hl=zh-CN)的 [Richard E Mayer](https://psych.ucsb.edu/people/faculty/richard-mayer) 教授，理论概要及所截内容前后依据，可见其幻灯 [Research-Based Principles for Multimedia Learning - HILT2014](https://hilt.harvard.edu/wp-content/uploads/2018/08/HILT_SpeakerSeries_Mayerslides.pdf)）
 
 而人类大脑有两个特点：
 

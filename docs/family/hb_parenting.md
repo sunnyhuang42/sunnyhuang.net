@@ -13,7 +13,6 @@ description:
 
 
 - 让你的中文名延续中华 meme ：女诗经，男楚辞，文论语，武周易。
-  - [如何科学取名？](http://note.openmindclub.com/science/YZP-name.html)
   - [用一个科学小工具，给宝宝取名](http://mp.weixin.qq.com/s/z3kX4CHjpFJy6fqFnCpQGg)
 
 ## 心智上

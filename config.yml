@@ -47,10 +47,10 @@ navbar:
     items:
       - text: 个人简介
         link: /about
-      - text: 个人小传
-        link: /about/lifestory2203
       - text: 年度小结
         link: /selfedu/rev-2023
+      - text: 个人小传
+        link: /about/lifestory2203
       - text: 发展规划
         link: https://sunnylife.feishu.cn/wiki/Wbiww9MQvi3l3nket5YcqneFnge
       - text: 约我时间
@@ -120,6 +120,8 @@ sidebar:
         link: '/family/lifep_QAishanshan'
       - text: 深入交流两周，俩人就火速升温想往前迈一步，这是正常的吗？
         link: https://sunnylife42.com/docs/logdev/love-achievement-growing-together
+      - text: 跟王烁「老婆推」学记趣和爱 · 杂记
+        link: '/wr/TipsFascinatingLife'
       - text: 关爱家人行动清单
         link: '/family/TipsCare4Parents'
       - text: 投资决策框架：如何评估一项资产是否值得长期持有？

@@ -40,6 +40,14 @@
     {
       "reason": "CDN",
       "pattern": "https://cdn.sunnyhuang.net/"
+    },
+    {
+      "reason": "",
+      "pattern": "https://pic1cdn.luojilab.com/"
+    },
+    {
+      "reason": "",
+      "pattern": "https://twitter.com/"
     }
   ],
   "replacementPatterns": [

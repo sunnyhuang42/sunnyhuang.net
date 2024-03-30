@@ -193,7 +193,7 @@ description: <p>作品和作品的差别，源于卡片。</p><p>人和人的差
 - 快写慢改：[快速写作模式谈 - 阳志平的网志](https://www.yangzhiping.com/psy/writers-model.html)
 - 一个人的微博：[一个人的微博 - 阳志平的网志](https://www.yangzhiping.com/psy/quiet.html)
 - 品味生活：[品味（2）：“品味”生活的10种策略 - 阳志平](https://www.psychspace.com/psych/viewnews-7718.html)
-- 「if…then…」&WOOP：[WOOP — Character Lab](https://www.characterlab.org/woop/)
+- 「if…then…」&WOOP：[WOOP — Character Lab](https://woopmylife.org/zh-hans/home)
 
 知其然又知其所以然，你将领会这套习惯为何优雅有效，如何持久高效。
 

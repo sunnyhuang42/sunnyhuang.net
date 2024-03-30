@@ -48,6 +48,10 @@
     {
       "reason": "",
       "pattern": "https://twitter.com/"
+    },
+    {
+      "reason": "",
+      "pattern": "https://www.huodongxing.com/"
     }
   ],
   "replacementPatterns": [

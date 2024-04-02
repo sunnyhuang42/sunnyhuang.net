@@ -37,7 +37,7 @@ hide:
 
 这个过程类似下面这张图：在推进目标计划、不断突破重难点的同时，把探索创造过程的启发收获，复盘沉淀为日常流程、融入日常模式，进而越发强健敏捷、坚韧灵活，有实力从容应对新挑战、创造新突破，形成良性循环往前走。
 
-![view2301-16](https://cdn.sunnyhuang.net/share/view2301-18.png)
+![P0OzQw](https://cdn.sunnyhuang.net/share/P0OzQw.jpg/wsl ':size=700')
 
 具体到每月来说，安排如下：
 * w1：全局分析本月最值得突破的重点、策略规划

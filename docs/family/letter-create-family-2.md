@@ -77,8 +77,7 @@ description: 流行的，不一定是适合自己的。重要的是找到与你�
 
 经过一段时间的深入探索，我对那些人生关键问题的答案越来越清晰。比如这是我至今仍持续更新的人生愿景和价值观[^4]：
 
-![i1uDb6](https://cdn.sunnyhuang.net/share/i1uDb6.png/webp ':size=300')
-
+![1iJvKM](https://cdn.sunnyhuang.net/share/1iJvKM.png/webp ':size=300')
 
 这个探索过程收获颇丰，不仅增进了我的自我认知，还让我意识到我的长期伴侣需要具备以下几个关键特质：
 
@@ -231,7 +230,7 @@ description: 流行的，不一定是适合自己的。重要的是找到与你�
 
 [^3]: 何为创造型快乐？创造型快乐源自于个人的创造性活动，如写作、编程、设计、解决问题等。这种快乐来自于创造过程本身，以及最终创造出某物或实现某种成就的满足感。创造型快乐往往需要较高的参与度、专注力和技能。消费型快乐则源自于购买和消费商品服务带来的感官娱乐，如购物、刷信息流、旅游、品尝美食等。消费型快乐通常容易获得，但可能是短暂的。更多区别和举例可参考 [创造快乐 - 生而有幸 - 知乎书店](https://www.zhihu.com/pub/reader/19550816/chapter/873650259174227968)
 
-[^0]: 这套产品服务见 https://sunnylife42.com
+[^0]: 这套产品服务见：人生战略管理帮手 https://sunnylife42.com
 
 [^1]: 伴侣大五人格尽责性对关系的影响研究详见：[The long reach of one's spouse: spouses' personality influences occupational success - PubMed](https://pubmed.ncbi.nlm.nih.gov/25326507/) 。中文版概要可见哈佛商业评论的这篇文章：[就算为了事业，你也要找个靠谱的另一半](https://mp.weixin.qq.com/s/XSTYI-HLBn51qP4qzdRx_Q)
 

@@ -177,7 +177,7 @@ description: <p>如何提升找到人生伴侣的效率？受网友启发，我�
 ## footnotes
 
 [^1]: 这些决策机制，属于组织里 governance 方面的设计。到临近相关阶段了，我再去研究最佳实践，尤其自组织领域的实践框架，来梳理解法提案：D
-[^2]: 共同体感觉（social interest），这个概念源自阿德勒心理学，是指把他人看作伙伴并能从中感到“自己有位置”，且认为自己在为伙伴做贡献的状态。要建立共同体感觉，关键是把对自己的执著（self interest）变成对他人的关心（social interest）。更多可参考 [Gemeinschaftsgefühl: Community Feeling/Social Feeling/Social Interest | AdlerPedia](https://www.adlerpedia.org/concepts/15)  
+[^2]: 共同体感觉（Community Feeling），这个概念源自阿德勒心理学，是指把他人看作伙伴并能从中感到“自己有位置”，且认为自己在为伙伴做贡献的状态。要建立共同体感觉，关键是把对自己的执著（self interest）变成对他人的关心（social interest）。更多可参考 [Gemeinschaftsgefühl: Community Feeling/Social Feeling/Social Interest | AdlerPedia](https://www.adlerpedia.org/concepts/15)  
 
 
 ## CHANGELOG

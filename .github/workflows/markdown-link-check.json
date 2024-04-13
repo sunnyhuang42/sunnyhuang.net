@@ -52,6 +52,10 @@
     {
       "reason": "",
       "pattern": "https://www.huodongxing.com/"
+    },
+    {
+      "reason": "406",
+      "pattern": "https://zh.opensuse.org/"
     }
   ],
   "replacementPatterns": [

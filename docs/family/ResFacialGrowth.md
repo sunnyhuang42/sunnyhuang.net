@@ -11,9 +11,9 @@ description:
 
 ## 如果你方便阅读英文材料：
 
-1. 推荐直接看这篇：[Proper Tongue Posture Guide 2021 – Mewingpedia](https://mewingpedia.com/proper-tongue-posture-guide/)
+1. 推荐直接看这篇：[What is Proper Mewing Tongue Posture? – Mewing](https://www.mewing.app/blog/proper-mewing-tongue-posture)
 2. 想了解更多，可以看这些：
-    * [Mewingpedia – Mewing Guide and Techniques](https://mewingpedia.com/)
+    * [Mewing – Mewing Guide and Techniques](https://www.mewing.app/blog)
     * [Orthotropics - YouTube](https://www.youtube.com/channel/UC6eh59CVGAMTjxo6q9gCMZA)(需梯子)
 
 ## 如果你想要中文材料：

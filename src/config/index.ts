@@ -84,6 +84,7 @@ const {
 } = config as Config;
 
 export const isClient = typeof window !== 'undefined';
+export const isProduction = process.env.NODE_ENV === 'production';
 
 const { flatSidebar, openKeyMap } = getFlatSidebar(sidebar);
 

@@ -3,8 +3,11 @@ import type Viewer from 'viewerjs';
 import { useEffect } from 'react';
 import { useRouter } from 'next/router';
 import { ThemeProvider } from 'next-themes';
-import PlausibleProvider from 'next-plausible';
+
+import Script from 'next/script';
+import { GoogleTagManager } from '@next/third-parties/google';
 import 'viewerjs/dist/viewer.css';
+import { isProduction } from '@/config';
 import { DrawerProvider, PageProvider } from '@/context';
 import { Layout } from '@/components';
 import '@/styles/index.scss';
@@ -54,11 +57,7 @@ function App({ Component, pageProps }: AppProps) {
   }, [events]);
 
   return (
-    <PlausibleProvider
-      selfHosted
-      domain="sunnyhuang.net"
-      customDomain="https://analytics.cyc.app"
-    >
+    <>
       <ThemeProvider attribute="class">
         <DrawerProvider>
           <PageProvider>
@@ -68,7 +67,19 @@ function App({ Component, pageProps }: AppProps) {
           </PageProvider>
         </DrawerProvider>
       </ThemeProvider>
-    </PlausibleProvider>
+      {isProduction && (
+        <>
+          <GoogleTagManager gtmId="G-C0FKTHR0H5" />
+          <Script id="clarity">
+            {`(function(c,l,a,r,i,t,y){
+          c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+          t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+          y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+          })(window, document, "clarity", "script", "m4yn1e7rb9");`}
+          </Script>
+        </>
+      )}
+    </>
   );
 }
 

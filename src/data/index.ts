@@ -1,6 +1,7 @@
 import { parse } from 'node-html-parser';
 import type { Post as PostGenerated } from 'contentlayer/generated';
 import { allPosts as allPostsGenerated } from 'contentlayer/generated';
+import { isProduction } from '@/config'
 
 export type Post = Omit<PostGenerated, '_id' | '_raw' | 'type' | 'body'> & {
   minutes: number;
@@ -11,7 +12,6 @@ export type Post = Omit<PostGenerated, '_id' | '_raw' | 'type' | 'body'> & {
 
 const moreSplit = '<!-- more -->';
 const getTime = (date?: string) => new Date(date || 0).getTime();
-const isProduction = process.env.NODE_ENV === 'production';
 
 export const allPosts: Post[] = allPostsGenerated
   .filter((post) => !(post.hide && isProduction))

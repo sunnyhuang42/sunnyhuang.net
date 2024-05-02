@@ -70,7 +70,7 @@ function App({ Component, pageProps }: AppProps) {
       {isProduction && (
         <>
           <GoogleTagManager gtmId="G-C0FKTHR0H5" />
-          <Script id="clarity">
+          <Script id="ms-clarity">
             {`(function(c,l,a,r,i,t,y){
           c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
           t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;

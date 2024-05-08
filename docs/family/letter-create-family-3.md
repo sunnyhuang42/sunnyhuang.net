@@ -116,7 +116,7 @@ description:
 
 然后，找出自己拿不准的也就是高风险的地方，迅速获取更多有效信息，测试迭代完善初稿。
 
-![](https://cdn.sunnyhuang.net/share/2LFTFX.png)
+![](https://cdn.sunnyhuang.net/share/2LFTFX.png/webp ':size=400')
 
 
 比如当时我产出初稿后，担心自己思考粗浅遗漏重大风险，便陆续调研了婚姻破裂、恋爱分手常见原因，美满的长期关系有哪些规律，以及如何建立并经营一段温暖信任的长期关系等信息。然后结合价值观等个人情况排出风险处理优先级，逐步迭代形成了自己的路线图：[探寻人生伴侣的路线图 - 黄姗](https://sunnyhuang.net/family/lifep_roadmap)

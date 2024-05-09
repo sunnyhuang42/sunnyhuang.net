@@ -286,7 +286,7 @@ description: 婚姻本质是两人合作经营一个家庭，合作面对人生�
 2024.5.8
 
 
-[^1]: 关于创业金字塔的介绍见 [找长期伴侣，如何降低试错成本？两大关键方法概览 · 家书 002](/family/letter-create-family-1#t4) 和 [如何解决人生难题？有没有通用办法？ – 闪闪人生](https://sunnylife42.com/docs/basic/general-solution)
+[^1]: 关于“创业金字塔”的介绍和这种降低试错成本的方法在更多领域的应用，见 [找长期伴侣，如何降低试错成本？两大关键方法概览 · 家书 002](/family/letter-create-family-1#t4) 和 [如何解决人生难题？有没有通用办法？ – 闪闪人生](https://sunnylife42.com/docs/basic/general-solution)
 [^2]: 《相识十五问》完整版见 [招亲帖：这位男同学，如果你也想找个偏好创造型快乐的靠谱伴侣… - 黄姗](/family/lifep_Ad#q_knowu)
 
 ## changelog

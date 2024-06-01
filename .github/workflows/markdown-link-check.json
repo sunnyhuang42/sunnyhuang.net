@@ -56,6 +56,10 @@
     {
       "reason": "406",
       "pattern": "https://zh.opensuse.org/"
+    },
+    {
+      "reason": "timeout",
+      "pattern": "https://report.iresearch.cn/"
     }
   ],
   "replacementPatterns": [

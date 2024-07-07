@@ -43,14 +43,6 @@
     },
     {
       "reason": "",
-      "pattern": "https://pic1cdn.luojilab.com/"
-    },
-    {
-      "reason": "",
-      "pattern": "https://twitter.com/"
-    },
-    {
-      "reason": "",
       "pattern": "https://www.huodongxing.com/"
     },
     {
@@ -60,6 +52,18 @@
     {
       "reason": "timeout",
       "pattern": "https://report.iresearch.cn/"
+    },
+    {
+      "reason": "",
+      "pattern": "https://pic1cdn.luojilab.com/"
+    },
+    {
+      "reason": "",
+      "pattern": "https://twitter.com/"
+    },
+    {
+      "reason": "",
+      "pattern": "https://s1.ax1x.com/"
     }
   ],
   "replacementPatterns": [

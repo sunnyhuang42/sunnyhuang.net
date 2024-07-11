@@ -2,7 +2,7 @@ name: Check Link (Scheduled)
 
 on:
   schedule:
-    - cron: "0 1 * * *"
+    - cron: "0 2 * * 0"
 
 jobs:
   check-markdown-link:

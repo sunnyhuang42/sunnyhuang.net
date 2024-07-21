@@ -2,11 +2,11 @@
 title: 活动主持人如何快速进入状态？如何从源头避免编程初级错误？· 170311 见 @ZoomQuiet 小记
 date: 2017-04-12
 updated: 
-description: <p>上月大妈（<a href="http://zoomquiet.io/#" target="_blank" rel="noopener">@ZoomQuiet</a>） 来京，Python 班同学答疑撸串，我又见识了一些专家级姿势，并有些许改变，愉快记之：P</p>
+description: <p>上月大妈（<a href="https://zoomquiet.io/zoomquiet.html" target="_blank" rel="noopener">@ZoomQuiet</a>） 来京，Python 班同学答疑撸串，我又见识了一些专家级姿势，并有些许改变，愉快记之：P</p>
 ---
 
 
-上月大妈（[@ZoomQuiet](http://zoomquiet.io/#)） 来京，Python 班同学答疑撸串，我又见识了一些专家级姿势，并有些许改变，愉快记之：P
+上月大妈（[@ZoomQuiet](https://zoomquiet.io/zoomquiet.html)） 来京，Python 班同学答疑撸串，我又见识了一些专家级姿势，并有些许改变，愉快记之：P
 
 <!-- more -->
 

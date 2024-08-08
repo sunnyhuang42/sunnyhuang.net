@@ -54,7 +54,7 @@ SQL: [SQL Tutorial-w3schools.com](https://www.w3schools.com/sql/default.asp)
 如何高效翻论文，这两份材料对我帮助颇大：
 
 1. [《会读才会写》](https://book.douban.com/subject/26655043/)，主要关注论文常见组块，了解应该关注那些组块。
-2. [《研究生完全求生手册》](https://book.douban.com/subject/27108502/)，了解应该如何主题阅读某个领域的论文、提出新见解。若不方便看，可翻作者[彭明辉教授给他研究生的这份 PDF](http://cardstatic.openmindclub.com/share/hblabppsc_m%20h.%20perng.pdf) 。
+2. [《研究生完全求生手册》](https://book.douban.com/subject/27108502/)，了解应该如何主题阅读某个领域的论文、提出新见解。若不方便看，可翻作者[彭明辉教授给他研究生的这份 PDF](https://garden-lu-oss.oss-cn-beijing.aliyuncs.com/docs/%E5%8F%B0%E6%B9%BE%E6%B8%85%E5%8D%8E%E5%BD%AD%E6%98%8E%E8%BE%89%E6%95%99%E6%8E%88%E7%9A%84%E7%A0%94%E7%A9%B6%E7%94%9F%E6%89%8B%E5%86%8C%28%E7%AE%80%E4%BD%93%E5%AE%8C%E5%85%A8%E7%89%88%29.pdf) 。
 
 ## CHANGELOG
 

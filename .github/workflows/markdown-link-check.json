@@ -43,6 +43,18 @@
     },
     {
       "reason": "",
+      "pattern": "https://www.huodongxing.com/"
+    },
+    {
+      "reason": "406",
+      "pattern": "https://zh.opensuse.org/"
+    },
+    {
+      "reason": "timeout",
+      "pattern": "https://report.iresearch.cn/"
+    },
+    {
+      "reason": "",
       "pattern": "https://pic1cdn.luojilab.com/"
     },
     {
@@ -51,11 +63,7 @@
     },
     {
       "reason": "",
-      "pattern": "https://www.huodongxing.com/"
-    },
-    {
-      "reason": "406",
-      "pattern": "https://zh.opensuse.org/"
+      "pattern": "https://s1.ax1x.com/"
     }
   ],
   "replacementPatterns": [

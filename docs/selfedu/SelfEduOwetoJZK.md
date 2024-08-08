@@ -173,7 +173,7 @@ description: <blockquote class="blockquote-center">因为习惯，所以不觉�
 
 总之很感谢极富 geek 气息的珣哥，让我大学一开始就养成良好的协作习惯，尤其使用 Gmail 与 Google Groups ，这为之后在各组织中远程协作打下了基础，也为我现在回顾梳理这段时光，留下了丰富的数字痕迹。
 
-只可惜即便珣哥极力安利，当时我也没把 MarkDown 和 wiki 放在心上。2015 年 9 月在[开智学堂](http://weibo.com/p/1006065372551330/home?from=page_100606&mod=TAB&is_all=1#place)和 [@ZoomQuiet  大妈](http://zoomquiet.io/)协作后，才知道这是团队知识管理利器:(
+只可惜即便珣哥极力安利，当时我也没把 MarkDown 和 wiki 放在心上。2015 年 9 月在[开智学堂](http://weibo.com/p/1006065372551330/home?from=page_100606&mod=TAB&is_all=1#place)和 [@ZoomQuiet  大妈](https://zoomquiet.io/zoomquiet.html)协作后，才知道这是团队知识管理利器:(
 
 
 

@@ -68,7 +68,7 @@ description: <p>这个月接老妈来京诊疗，趁机完善了积攒已久的�
 
 这回老妈来京做术后康复，即使两年多的慢性疼痛，教练依然 5 分钟不到就令她疏解大半。我一下来了兴趣——必须得了解一下这套方法，要不老妈回家酸痛咋办。
 
-顺着教练给的信息，我发现原来关键在 [Trigger Point Therapy](https://www.myofascialtherapy.org/myofascial-therapy/index.html)（触发点疗法）。这是一套基于循证医学的肌筋膜按压方案，精准解决身体疼痛，已在欧美物理治疗行业盛行近二十年。
+顺着教练给的信息，我发现原来关键在 Trigger Point Therapy（触发点疗法）。这是一套基于循证医学的肌筋膜按压方案，精准解决身体疼痛，已在欧美物理治疗行业盛行近二十年。
 
 而且容易上手：有[《触发点疗法》](https://item.jd.com/12398783.html?jd_pop=6d620357-0cb5-4db5-9525-dd1f04e596b0&abt=3)这本科普书，加上 iOS 上的傻瓜 App 「[Muscle Trigger Points](https://itunes.apple.com/us/app/muscle-trigger-points/id348867501?mt=8)」，令我没系统学功能解剖，也能快速定位触发点（trigger point），自行解除大部分酸痛。
 

@@ -257,7 +257,7 @@ description:
 
 <br> 
 
-—— [读书十二问 - 阳志平](https://blog.openmindclub.com/2020/01/03/YangZhiPing-ReadingQuestion/) Q2：如何提高生成知识体系的效率？
+—— [读书十二问 - 阳志平](https://mp.weixin.qq.com/s/8UzTMZgLa_z1GJ0fHbhxWQ) Q2：如何提高生成知识体系的效率？
 
 </details>
 

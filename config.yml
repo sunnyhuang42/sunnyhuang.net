@@ -98,6 +98,8 @@ sidebar:
   - text: 经营小家实践手记
     collapsed: true
     items:
+      - text: 养育第一年我们踩过的坑，也许能帮你避免30次崩溃
+        link: '/family/rev-1st-year-improve' 
       - text: 家中长辈住院怎么安排更稳妥？术前术后处理指南
         link: '/family/hb-hospitalization' 
       - text: 30 岁找伴侣、建家庭，如何降低试错成本？《精益创业实战》给我的三大启发和惊喜

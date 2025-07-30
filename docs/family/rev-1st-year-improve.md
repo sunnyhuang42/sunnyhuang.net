@@ -82,7 +82,6 @@ description: 愿你我都能陪宝宝睡得更安稳，吃得更自在，也能�
 
 此外，在前两个月还会试试使用那种传统包裹式睡袋（Arms Down），可以包裹住双手尽量固定的那种，而不只是我们之前买的那种“双手向上式” Swaddle Up 睡袋，看看哪种更有助于她安睡。
 
-![HmvhQj](https://cdn.sunnyhuang.net/share/HmvhQj.jpg/webp ':size=300')
 
 现在回想，如果当时能坚持使用睡袋，可能很多小睡短和夜醒的问题都能避免。为了一时省事，反而让宝宝和我们都睡得不好，真是得不偿失。
 
@@ -174,7 +173,7 @@ description: 愿你我都能陪宝宝睡得更安稳，吃得更自在，也能�
 
 那不同月龄适合的固体食物是怎样的？可以参考这个网站：[First Foods for Babies Starting Solids - Solid Starts](https://solidstarts.com/foods/?page=1 )。网页版可以免费查询不同食材在不同月龄适合的固体形态和做法，还能看到不同月龄自主进食对应食物的视频，App 版要收费。
 
-![x2W2CJ](https://cdn.sunnyhuang.net/share/x2W2CJ.jpg/webp ':size=700')
+
 
 ## 四、记录分析和调研
 
